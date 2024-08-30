@@ -1224,9 +1224,11 @@ section,
   position: relative;
   border: 1px solid #3c3a3a;
   border-radius: 10px;
-  padding: 20px 20px 60px 20px;
+  padding: 20px 20px 0px 20px;
   background-color: #1f1c1c;
-  max-height: 400px;
+  height: 300px;
+  max-height: 100%;
+  z-index: 1;
 }
 
 .recommendation .testimonial-item .testimonial-text {
@@ -1241,10 +1243,11 @@ section,
 }
 
 .recommendation .testimonial-item .profile {
-  position: absolute;
-  bottom: 10px;
-  right: 30px;
+  position: relative;
+  bottom: 60px;
+  right: 10px;
   text-align: right;
+  z-index: 0;
 }
 
 .recommendation .testimonial-item .testimonial-img {
@@ -1287,6 +1290,8 @@ section,
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
+  position: relative;
+  z-index: 5;
 }
 
 .recommendation .testimonial-item .rc-read-more-btn:hover {
@@ -1306,6 +1311,7 @@ section,
   z-index: 1000;
   opacity: 0;
   transition: opacity 0.3s ease; /* Fade transition */
+  overflow-y: auto;
 }
 
 .recommendation .rc-popup.show {
@@ -1319,6 +1325,7 @@ section,
   background: #000000;
   padding: 20px;
   border-radius: 8px;
+  height: 80%;
 }
 
 .recommendation .popup-close-btn {
@@ -1414,5 +1421,11 @@ section,
 @media (max-width: 640px) {
   .recommendation .rc-popup-content {
     padding: 5px;
+  }
+}
+
+@media (max-width: 1200px) and (min-width: 992px) {
+  .recommendation .testimonial-item {
+    height: 350px;
   }
 }
