@@ -177,7 +177,7 @@
                     <h5>${rec.date}</h5>
                     <p>
                       <i class="bi bi-quote quote-icon-left"></i>
-                      <span class="testimonial-text">${rec.recommendation}</span>
+                      <span class="testimonial-text">${rec.recommendation.replace(/\n/g, '<br />')}</span>
                       <i class="bi bi-quote quote-icon-right"></i>
                     </p>
                   </div>
