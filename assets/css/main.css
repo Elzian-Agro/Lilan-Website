@@ -977,6 +977,7 @@ section,
   opacity: 0; /* Start as invisible */
   transition: opacity 0.3s ease, visibility 0.3s ease;
   visibility: hidden; /* Hide by default */
+  overflow-y: auto;
 }
 
 .popup.show {
@@ -992,6 +993,7 @@ section,
 
 .popup .slides {
   position: relative;
+  padding: 5px 30px 5px 30px;
 }
 
 .popup .slide {
@@ -1105,6 +1107,7 @@ section,
   .popup .slide {
     flex-direction: column;
     text-align: center;
+    gap: 10px;
     padding: 0px;
   }
 
@@ -1409,7 +1412,7 @@ section,
 }
 
 @media (max-width: 640px) {
- .recommendation .rc-popup-content {
-  padding: 5px;
-}
+  .recommendation .rc-popup-content {
+    padding: 5px;
+  }
 }
