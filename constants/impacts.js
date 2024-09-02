@@ -149,14 +149,38 @@ const impacts = [
       "Lilan Dayananda, the dynamic Managing Director and CEO of Elzian Agro, was honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards held at the Shangri-La Hotel in Colombo.",
     slides: [
       {
+        date: "August 16, 2024",
+        source_name: "Lanka News Network",
+        source_link: "https://english.lankanewsnetwork.com/",
+        title: "Lilan Dayananda Named Social Entrepreneur of the Year at New Generation Asia Awards",
+        image: "assets/img/impact/new-generation-asia/lanka-news-network.png",
+        description:
+          "Lilan Dayananda, the dynamic Managing Director and CEO of Elzian Agro, was honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards held at the Shangri-La Hotel in Colombo. This event celebrated over 40 young leaders for their exceptional achievements across various sectors, including leadership, entrepreneurship, technology, media, and more.",
+        link: "https://english.lankanewsnetwork.com/?p=1230",
+        backup_image: "assets/img/impact/new-generation-asia/backup/lanka-news-network.png",
+      },
+      {
+        date: "August 12, 2024",
+        source_name: "Business News",
+        source_link: "https://www.lankabusinessnews.com/",
+        title: "Lilan Dayananda honored as Social Entrepreneur of the Year at New Generation Asia Awards",
+        image: "assets/img/impact/new-generation-asia/business-news.png",
+        description:
+          "Lilan Dayananda, the Managing Director and Chief Executive Officer of Elzian Agro, was celebrated as the Social Entrepreneur of the Year at the prestigious Fifth New Generation Asia Awards held at the Shangi-La Hotel in Colombo.",
+        link: "https://www.lankabusinessnews.com/lilan-dayananda-honored-as-social-entrepreneur-of-the-year-at-new-generation-asia-awards/",
+        backup_image: "assets/img/impact/new-generation-asia/backup/business-news.png",
+      },
+      {
         date: "",
-        source_name: "",
-        source_link: "",
-        title: "",
-        image: "assets/img/impact/",
-        description: "",
-        link: "",
-        backup_image: "assets/img/impact/",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/feed/?nis=true",
+        title:
+          "Honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards",
+        image: "assets/img/impact/new-generation-asia/linkedin.png",
+        description:
+          "I am delighted to announce that I have been honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards, at the Shangri-La Hotel in Colombo.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-startup-economy-activity-7216735742062944256-aduN/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/new-generation-asia/backup/linkedin.png",
       },
     ],
   },
