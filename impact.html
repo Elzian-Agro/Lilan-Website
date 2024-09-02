@@ -119,8 +119,12 @@
     <footer id="footer" class="footer dark-background">
       <div class="container">
         <div class="social-links d-flex justify-content-center">
-          <a href="https://www.linkedin.com/in/lilanofficial/" target="_blank"><i class="bi bi-linkedin"></i></a>
-          <a href="https://www.instagram.com/lilanofficial/" target="_blank"><i class="bi bi-instagram"></i></a>
+          <a href="https://www.linkedin.com/in/lilanofficial/" target="_blank"
+            ><i class="bi bi-linkedin"></i
+          ></a>
+          <a href="https://www.instagram.com/lilanofficial/" target="_blank"
+            ><i class="bi bi-instagram"></i
+          ></a>
         </div>
         <div class="container">
           <div class="copyright">
@@ -164,62 +168,74 @@
       const impactList = document.getElementById("impact-list");
 
       impacts.forEach((impact, index) => {
-        // Using 'let' so we can modify recHTML
         let recHTML = `
-      <div class="col-lg-4 col-md-6 impact-item isotope-item ${impact.filter}">
-        <div class="impact-content h-100">
-          <img
-            src="${impact.image}"
-            class="img-fluid"
-            alt="${impact.title}"
-            data-popup="popup-${index + 1}" />
-        </div>
-        <div class="impact-info">
-          <h4>${impact.title}</h4>
-          <p>${impact.description}</p>
-        </div>
-      </div>
+          <div class="col-lg-4 col-md-6 impact-item isotope-item ${impact.filter}">
+            <div class="impact-content h-100">
+              <img
+                src="${impact.image}"
+                class="img-fluid"
+                alt="${impact.title}"
+                data-popup="popup-${index + 1}" />
+            </div>
+            <div class="impact-info">
+              <h4>${impact.title}</h4>
+              <p>${impact.description}</p>
+            </div>
+          </div>
 
-      <div id="popup-${index + 1}" class="popup">
-        <div class="popup-content">
-          <span class="close-btn">&times;</span>
-          <span class="prev-arrow">&#10094;</span>
-          <span class="next-arrow">&#10095;</span>
-          <div class="slides">
-    `;
+          <div id="popup-${index + 1}" class="popup">
+            <div class="popup-content">
+              <span class="close-btn">&times;</span>
+              <span class="prev-arrow">&#10094;</span>
+              <span class="next-arrow">&#10095;</span>
+              <div class="slides">
+        `;
 
         // Loop through the slides and append to recHTML
         impact.slides.forEach((slide) => {
+          // Automatically generate a quote from the slide text
+          let quote = slide.description;
+
+          // Limit to 200 characters without cutting words in half
+          if (quote.length > 250) {
+            // Trim to the nearest space before 200 characters
+            quote = quote.substring(0, 250);
+            const lastSpaceIndex = quote.lastIndexOf(" ");
+
+            // Ensure we cut off at the last full word
+            quote = quote.substring(0, lastSpaceIndex) + "...";
+          }
+
           recHTML += `
-        <div class="slide">
-          <div><img src="${slide.image}" class="img-fluid" alt="${slide.title}" /></div>
-          <div class="text-content">
-            <h4>${slide.title}</h4>
-            <p class="source">
-              ${
-                slide.source_name &&
-                `<span><a href="${slide.source_link}" target="_blank">${slide.source_name}</a></span>`
-              }
-              ${slide.date && `<span>${slide.date}</span>`}
-            </P>
-            <p>${slide.description}</p>
-            <div class="buttons">
-              <a target="_blank" href="${slide.link}">Read more</a>
-              <a target="_blank" href="${slide.backup_image}">
-                <i class="bi bi-download"></i>
-              </a>
+            <div class="slide">
+              <div><img src="${slide.image}" class="img-fluid" alt="${slide.title}" /></div>
+              <div class="text-content">
+                <h4>${slide.title}</h4>
+                <p class="source">
+                  ${
+                    slide.source_name &&
+                    `<span><a href="${slide.source_link}" target="_blank">${slide.source_name}</a></span>`
+                  }
+                  ${slide.date && `<span>${slide.date}</span>`}
+                </P>
+                <p>${quote}</p>
+                <div class="buttons">
+                  <a target="_blank" href="${slide.link}">Read more</a>
+                  <a target="_blank" href="${slide.backup_image}">
+                    <i class="bi bi-download"></i>
+                  </a>
+                </div>
+              </div>
             </div>
-          </div>
-        </div>
-      `;
+          `;
         });
 
         // Close the HTML tags
         recHTML += `
-          </div> <!-- .slides -->
-        </div> <!-- .popup-content -->
-      </div> <!-- #popup-${index + 1} -->
-    `;
+              </div> <!-- .slides -->
+            </div> <!-- .popup-content -->
+          </div> <!-- #popup-${index + 1} -->
+        `;
 
         // Append the constructed HTML to the impact list
         impactList.insertAdjacentHTML("beforeend", recHTML);
