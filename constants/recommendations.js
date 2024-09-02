@@ -42,7 +42,7 @@ const recommendations = [
   {
     date: "May 17, 2024",
     name: "Mohan Bhagwandas",
-    position: "Change Management",
+    position: "Lead Programs and International Relations",
     relationship: "Mohan worked with Lilan on the same team",
     image: "assets/img/recommendation/Mohan Bhagwandas.png",
     linkedin: "https://www.linkedin.com/in/mohan-bhagwandas-earthbanc-67333a/",
@@ -62,7 +62,7 @@ const recommendations = [
   {
     date: "April 9, 2024",
     name: "Herbert Bangura",
-    position: "Regional Speaker",
+    position: "Board Member of IREX",
     relationship: "Herbert worked with Lilan but on different teams",
     image: "assets/img/recommendation/Herbert Bangura.png",
     linkedin: "https://www.linkedin.com/in/herbert-bangura-76b12420/",
@@ -72,7 +72,7 @@ const recommendations = [
   {
     date: "March 29, 2024",
     name: "Kim-Hang Ho",
-    position: "Data Analyst",
+    position: "Data Analytics and Project Management",
     relationship: "Kim-Hang worked with Lilan on the same team",
     image: "assets/img/recommendation/Kim-Hang Ho.png",
     linkedin: "https://www.linkedin.com/in/kimhangho/",
@@ -97,7 +97,7 @@ const recommendations = [
     image: "assets/img/recommendation/Kilino Stojkov.png",
     linkedin: "https://www.linkedin.com/in/kilino-stojkov-42975a125/",
     recommendation:
-      "I had the pleasure of meeting Lilan during my time at the Youth4Climate: Powering Action flagship event in the high-level Week of the 77th Session of the United Nations General Assembly in New York City, United States of America (USA). During our interactions, I had the opportunity to witness the remarkable innovations spearheaded by Lilan's company in the realm of sustainable mechanization within agriculture through precision agriculture and technology.",
+      "I had the pleasure of meeting Lilan during my time at the Youth4Climate: Powering Action flagship event in the high-level Week of the 77th Session of the United Nations General Assembly in New York City, United States of America (USA).\n\n During our interactions, I had the opportunity to witness the remarkable innovations spearheaded by Lilan's company in the realm of sustainable mechanization within agriculture through precision agriculture and technology.",
   },
   {
     date: "November 24, 2023",
@@ -107,12 +107,12 @@ const recommendations = [
     image: "assets/img/recommendation/Moe Soliman.png",
     linkedin: "https://www.linkedin.com/in/moesolim/",
     recommendation:
-      "I had the good fortune to connect with the visionary founder Lilan. Throughout our interactions, I was thoroughly impressed by Lilan's innovative thinking and entrepreneurial mindset. His depth of knowledge and passion for leveraging technology to drive positive change in agriculture left a strong impression on me. Lilan's leadership abilities and creative solutions demonstrated that he is an influential force in the agtech industry. I remain inspired by his talent for identifying problems in food systems and developing game-changing solutions. It was truly motivating to interact with someone so committed to advancing agricultural technology.",
+      "I had the good fortune to connect with the visionary founder Lilan. Throughout our interactions, I was thoroughly impressed by Lilan's innovative thinking and entrepreneurial mindset. His depth of knowledge and passion for leveraging technology to drive positive change in agriculture left a strong impression on me. \n\n Lilan's leadership abilities and creative solutions demonstrated that he is an influential force in the agtech industry. I remain inspired by his talent for identifying problems in food systems and developing game-changing solutions. It was truly motivating to interact with someone so committed to advancing agricultural technology.",
   },
   {
     date: "November 24, 2023",
     name: "Khalid Roumieh",
-    position: "Entrepreneur",
+    position: "CEO & Co-Founder of Tech.Tracer",
     relationship: "Khalid worked with Lilan on the same team",
     image: "assets/img/recommendation/Khalid Roumieh.png",
     linkedin: "https://www.linkedin.com/in/khalidroumieh/",
@@ -122,7 +122,7 @@ const recommendations = [
   {
     date: "September 30, 2023",
     name: "Prima Yangzi Mishra",
-    position: "Research Intern",
+    position: "Research Intern (Cell Biology R&D)",
     relationship: "Prima worked with Lilan on the same team",
     image: "assets/img/recommendation/Prima Yangzi Mishra.png",
     linkedin: "https://www.linkedin.com/in/primayangzimishra/",
@@ -147,7 +147,7 @@ const recommendations = [
     image: "assets/img/recommendation/Akame Nnoko Remi Jeol.png",
     linkedin: "https://www.linkedin.com/in/akame-nnoko-remi-jeol-b284a4184/",
     recommendation:
-      "I met Lilan at the COY17 in Egypt. He is a youyh enthisiast with multi-skills. He is passionate about climate action and he is into intense research in the agro sector. He commits to innovation and entrepreneurship. He possesses excellent communication and analytical skills. He is well travelled to present papers and participate in high panel discussion in international conferences across the globe. He is an indefatigable young man with the passion to institution change",
+      "I met Lilan at the COY17 in Egypt. He is a youyh enthisiast with multi-skills. He is passionate about climate action and he is into intense research in the agro sector. He commits to innovation and entrepreneurship. He possesses excellent communication and analytical skills. He is well travelled to present papers and participate in high panel discussion in international conferences across the globe. He is an indefatigable young man with the passion to institution change.",
   },
   {
     date: "July 9, 2023",
@@ -192,12 +192,12 @@ const recommendations = [
   {
     date: "May 2, 2023",
     name: "Sayuri Kariyawasam",
-    position: "Medical Doctor(MBBS)",
+    position: "Medical Doctor (MBBS)",
     relationship: "Sayuri worked with Lilan but on different teams",
     image: "assets/img/recommendation/Sayuri Kariyawasam.png",
     linkedin: "https://www.linkedin.com/in/sayuri-kariyawasam-515488248/",
     recommendation:
-      "I had the opportunity to interact with Lilan during the Innovation Lab and was impressed by his professionalism, expertise, and work ethic. \n\n Lilan is an exceptional UNLEASH Talent who excels in his field of work (SDG2, SDG13 & SDG15). He has a strong knowledge base and a keen eye for detail. His ability to analyze complex biodiversity and agricultural problems and develop effective solutions is remarkable. As a fellow Global Talent, Lilan is a pleasure to work with. He is proactive and always willing to take on additional responsibilities, demonstrating a positive attitude and a willingness to help others. \n\n During the UNLEASH Innovation Lab, I saw that he worked collaboratively with other Global Talents and Mentors from various SDG Teams and fostered a supportive effort toward UNLEASH mission. He is a natural leader who can motivate and inspire others.",
+      "I had the opportunity to interact with Lilan during the Innovation Lab and was impressed by his professionalism, expertise, and work ethic. \n\n Lilan is an exceptional UNLEASH Talent who excels in his field of work (SDG2, SDG13 & SDG15). He has a strong knowledge base and a keen eye for detail. His ability to analyze complex biodiversity and agricultural problems and develop effective solutions is remarkable.\n\n As a fellow Global Talent, Lilan is a pleasure to work with. He is proactive and always willing to take on additional responsibilities, demonstrating a positive attitude and a willingness to help others. \n\n During the UNLEASH Innovation Lab, I saw that he worked collaboratively with other Global Talents and Mentors from various SDG Teams and fostered a supportive effort toward UNLEASH mission. He is a natural leader who can motivate and inspire others.",
   },
   {
     date: "May 1, 2023",
@@ -212,7 +212,7 @@ const recommendations = [
   {
     date: "March 16, 2023",
     name: "Pankajan Satkunam",
-    position: "Technical Lead of Elzian Agro",
+    position: "Technical Lead at Elzian Agro",
     relationship: "Pankajan worked with Lilan on the same team",
     image: "assets/img/recommendation/Pankajan Satkunam.png",
     linkedin: "https://www.linkedin.com/in/pankajan05/",
@@ -304,7 +304,7 @@ const recommendations = [
     position: "Senior Lecturer at the University of Kelaniya",
     relationship: "Nisansala was Lilan’s teacher",
     image: "assets/img/recommendation/Nisansala wijekoon.png",
-    linkedin: "",
+    linkedin: "https://www.linkedin.com/in/nisansala-wijekoon-2bb93776/",
     recommendation:
       "Lilan who personally known for around eight years beginning from his entry as an undergraduate to follow the Bachelor of Business Management (Special) Degree in Accountancy programme conducted by the Department of Accountancy of University of Kelaniya, in Sri Lanka. In my academic engagements with Lilan as a lecturer at the Department of Accountancy, I have identified him to be confident, committed, methodical individual who can work comfortably and cooperatively with others. He has shown a keen interest and a great enthusiasm in his work and necessary skills and motivation to studies. Lilan was a highly dedicated, hardworking and organized student who worked steadfastly to meet all the deadlines for timely completion of his degree. His level of communication and working ability in English language is considered as another additional advantage. Lilan has my professional endorsement and I strongly recommend him.",
   },
@@ -411,7 +411,7 @@ const recommendations = [
   {
     date: "July 28, 2021",
     name: "Ruchira Dasanayake",
-    position: "Senior Associate, Media Planning & Buying",
+    position: "Senior Associate, Media Planning & Buying - Frontier Markets",
     relationship: "Ruchira reported directly to Lilan",
     image: "assets/img/recommendation/Ruchira Dasanayake.png",
     linkedin: "https://www.linkedin.com/in/ruchira-dasanayake-/",
@@ -441,7 +441,7 @@ const recommendations = [
   {
     date: "June 13, 2021",
     name: "Navini Perera",
-    position: "Senior Lecturer - Grade II",
+    position: "Senior Lecturer at the University of Kelaniya",
     relationship: "Navini was Lilan’s teacher",
     image: "assets/img/recommendation/Navini Perera.png",
     linkedin: "https://www.linkedin.com/in/navini-perera-31188a96/",
@@ -480,7 +480,7 @@ const recommendations = [
   {
     date: "May 27, 2021",
     name: "Umesha Dabare",
-    position: "Assistant Lecturer",
+    position: "Assistant Lecturer at SLIIT",
     relationship: "Umesha worked with Lilan but on different teams",
     image: "assets/img/recommendation/Umesha Dabare.png",
     linkedin: "https://www.linkedin.com/in/umesha-dabare/",
@@ -560,7 +560,7 @@ const recommendations = [
   {
     date: "April 2, 2021",
     name: "Tharindu Priyankara",
-    position: "Chief Technology Officer of Elzian Agro",
+    position: "Chief Technology Officer at Elzian Agro",
     relationship: "Tharindu reported directly to Lilan",
     image: "assets/img/recommendation/Tharindu Priyankara.png",
     linkedin: "https://www.linkedin.com/in/tharindu-priyankara-0b4486152/",
@@ -585,7 +585,7 @@ const recommendations = [
     image: "assets/img/recommendation/Nayomi Wijesinghe.png",
     linkedin: "https://www.linkedin.com/in/nayomi-wijesinghe-5b0364a/",
     recommendation:
-      "Lilan is a final year undergraduate of the Department of Accountancy, University of Kelaniya. He was one of my students of his first and second years of the degree programme. He is also an active member of the Accountancy Students' Association- Department of Accountancy (ASAK) by bearing the private sector coordinator's post. I am impressed by his leadership skills, commitment, teamworking, and IT-related skills, which he displayed in extracurricular activities organised by the ASAK. He is excelled with entrepreneurial skills and currently working as the chairman of Elzian (Pvt) Ltd. Lilan would be a valuable asset to any of his future employers.",
+      "Lilan is a final year undergraduate of the Department of Accountancy, University of Kelaniya. He was one of my students of his first and second years of the degree programme.\n\n He is also an active member of the Accountancy Students' Association- Department of Accountancy (ASAK) by bearing the private sector coordinator's post. I am impressed by his leadership skills, commitment, teamworking, and IT-related skills, which he displayed in extracurricular activities organised by the ASAK. He is excelled with entrepreneurial skills and currently working as the chairman of Elzian (Pvt) Ltd. Lilan would be a valuable asset to any of his future employers.",
   },
   {
     date: "February 2, 2021",
@@ -595,7 +595,7 @@ const recommendations = [
     image: "assets/img/recommendation/Nayomi Danushka Wimalaweera.png",
     linkedin: "https://www.linkedin.com/in/nayomiwimalaweera/",
     recommendation:
-      "I first met Lilan while working on extracurricular activities at the University of Kelaniya. He is a unique person, his passion and ability transcend any cross-cultural barriers and his knowledge of graphic designing, documentary and video editing is awesome. Lilan is one of the most dedicated people I’ve worked with and is willing to put that extra help whenever you need it. His expertise as a videographer and a documentarian is considerable, and it helped our team come up with more efficient solutions on different projects. I highly recommend him and his services to anyone who requires them or maybe in need, you won’t be disappointed.",
+      "I first met Lilan while working on extracurricular activities at the University of Kelaniya. He is a unique person, his passion and ability transcend any cross-cultural barriers and his knowledge of graphic designing, documentary and video editing is awesome.\n\n Lilan is one of the most dedicated people I’ve worked with and is willing to put that extra help whenever you need it. His expertise as a videographer and a documentarian is considerable, and it helped our team come up with more efficient solutions on different projects. I highly recommend him and his services to anyone who requires them or maybe in need, you won’t be disappointed.",
   },
   {
     date: "January 27, 2021",
@@ -620,7 +620,7 @@ const recommendations = [
   {
     date: "January 17, 2021",
     name: "Janith Bhanuka",
-    position: "Automation Engineer",
+    position: "Co-founder & Automation Engineer at Innova Holdings",
     relationship: "Janith reported directly to Lilan",
     image: "assets/img/recommendation/Janith Bhanuka.png",
     linkedin: "https://www.linkedin.com/in/janith-bhanuka-05336a152/",
@@ -630,7 +630,7 @@ const recommendations = [
   {
     date: "January 16, 2021",
     name: "Sachini Nimansha",
-    position: "Chief Agricultural Researcher",
+    position: "Co-founder & Chief Agricultural Researcher at Elzian Agro",
     relationship: "Sachini was Lilan’s mentor",
     image: "assets/img/recommendation/Sachini Nimansha.png",
     linkedin: "https://www.linkedin.com/in/sachini-nimansha-23a461b2/",
@@ -669,7 +669,7 @@ const recommendations = [
   {
     date: "October 10, 2020",
     name: "Chamod Rathnayake",
-    position: "Packaged App Development Senior Analyst",
+    position: "Senior Software Engineer - RPA",
     relationship: "Chamod worked with Lilan but on different teams",
     image: "assets/img/recommendation/Chamod Rathnayake.png",
     linkedin: "https://www.linkedin.com/in/chamibc/",
@@ -699,7 +699,7 @@ const recommendations = [
   {
     date: "May 9, 2020",
     name: "Malith Jayasinghe",
-    position: "Director of Lesova Holdings Pvt Ltd",
+    position: "Director at Lesova Holdings Pvt Ltd",
     relationship: "Malith worked with Lilan but on different teams",
     image: "assets/img/recommendation/Malith Jayasinghe.png",
     linkedin: "https://www.linkedin.com/in/malithrukshanjayasinghe/",
@@ -739,7 +739,7 @@ const recommendations = [
   {
     date: "August 9, 2019",
     name: "Jagoda Arachchi",
-    position: "Freelance Writer/ Translator",
+    position: "Freelance Writer / Translator",
     relationship: "Rajitha worked with Lilan but on different teams",
     image: "assets/img/recommendation/Jagoda Arachchi.png",
     linkedin: "https://www.linkedin.com/in/rajitha-jagoda-arachchi/",
@@ -749,7 +749,7 @@ const recommendations = [
   {
     date: "June 22, 2019",
     name: "Subhanie Tennekoon",
-    position: "Lecturer (Temporary)",
+    position: "Lecturer (Probationary)",
     relationship: "Subhanie was Lilan’s mentor",
     image: "assets/img/recommendation/avatar.png",
     linkedin: "https://www.linkedin.com/in/subhanie-tennekoon/",
@@ -779,7 +779,7 @@ const recommendations = [
   {
     date: "June 18, 2019",
     name: "Shaheer Bari",
-    position: "Director of Azba (Pvt) Ltd",
+    position: "Director at Azba (Pvt) Ltd",
     relationship: "Shaheer worked with Lilan on the same team",
     image: "assets/img/recommendation/Shaheer Bari.png",
     linkedin: "https://www.linkedin.com/in/shaheer-bari-7a912785/",
