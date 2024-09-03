@@ -328,4 +328,140 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-recognition",
+    title: "SLASSCOM National Ingenuity Awards",
+    image: "assets/img/impact/slasscom/linkedin.jpg",
+    description: "",
+    slides: [
+      {
+        date: "",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "SLASSCOM National Ingenuity Awards 2023",
+        image: "assets/img/impact/slasscom/elzian-agro.jpg",
+        description:
+          "We are thrilled to share the incredible success of ELZIAN AGRO at the esteemed SLASSCOM National Ingenuity Awards 2023. It was an enchanting evening filled with boundless inspiration, groundbreaking innovation, and well-deserved recognition of exceptional achievements within the tech industry. ELZIAN AGRO has emerged as one of the top Technology Disrupters in various categories. Our unwavering dedication to innovation and relentless pursuit of excellence has been unequivocally acknowledged with highly esteemed accolades:",
+        link: "https://www.linkedin.com/posts/elzianagro_innovation-technology-success-activity-7078303289900990465-8d2O/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/slasscom/backup/elzian-agro.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "National Winner of Best Innovative Project in Agritech at the SLASSCOM National Ingenuity Awards 2024 ",
+        image: "assets/img/impact/slasscom/linkedin.jpg",
+        description:
+          "I am thrilled and proud to announce that ELZIAN AGRO emerged as the National Winner of Best Innovative Project in Agritech at the SLASSCOM National Ingenuity Awards 2024 🌟.",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-team-activity-7215416791735394304-ScWa/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/slasscom/backup/linkedin.png",
+      },
+      {
+        date: "July 6, 2023",
+        source_name: "Ceylon Business Reporter",
+        source_link: "https://cbr.lk/",
+        title: "ELZIAN AGRO Shines Bright at SLASSCOM National Ingenuity Awards 2023",
+        image: "assets/img/impact/slasscom/ceylon-business-reporter.jpg",
+        description:
+          "ELZIAN AGRO, recognized as one of the top Technology Disruptors, garnered high praise and esteemed accolades in various categories, solidifying their position as a leading force in the industry. The company’s commitment to innovation and relentless pursuit of excellence was wholeheartedly acknowledged, with the team being honored in multiple domains.",
+        link: "https://cbr.lk/technology/elzian-agro-shines-bright-at-slasscom-national-ingenuity-awards-2023/",
+        backup_image: "assets/img/impact/slasscom/backup/ceylon-business-reporter.png",
+      },
+      {
+        date: "",
+        source_name: "SLASSCOM",
+        source_link: "https://www.linkedin.com/company/slasscom/posts/",
+        title: "The National Winners of the prestigious SLASSCOM National Ingenuity Awards!",
+        image: "assets/img/impact/slasscom/slasscom.jpg",
+        description:
+          "These brilliant minds have redefined innovation and set new benchmarks in the tech industry. Join us in celebrating their remarkable achievements! ",
+        link: "https://www.linkedin.com/posts/slasscom_slasscomingenuityawards-snia-winners-activity-7080412198577049600-F0ct/?utm_source=share&utm_medium=member_android",
+        backup_image: "assets/img/impact/slasscom/backup/slasscom.png",
+      },
+      {
+        date: "July 6, 2023",
+        source_name: "Ceylon Tribune",
+        source_link: "https://ceylontribune.com/",
+        title: "ELZIAN AGRO is Igniting a Technological Revolution in Agriculture",
+        image: "assets/img/impact/slasscom/ceylontribune.png",
+        description:
+          "ELZIAN AGRO soared to new heights, claiming the prestigious title of National Winner in the category of Best Disruptive Product Innovation. Their transformative product has revolutionized traditional agricultural practices, leaving an indelible mark on the industry. By pushing boundaries and introducing cutting-edge technologies, ELZIAN AGRO has redefined the possibilities within farming. Their groundbreaking solutions have elevated efficiency, productivity, and sustainability to unprecedented levels.",
+        link: "https://ceylontribune.com/?p=233",
+        backup_image: "assets/img/impact/slasscom/backup/ceylontribune.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "ELZIAN AGRO has been honored with multiple awards for our innovation, technology, and overall success.",
+        image: "assets/img/impact/slasscom/linkedin_2.jpg",
+        description:
+          "I am thrilled and proud to announce that ELZIAN AGRO has been honored with multiple awards for our innovation, technology, and overall success. This achievement would not have been possible without the invaluable support and contributions of all stakeholders and affiliates of ELZIAN AGRO.",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-team-activity-7078312302239760384-uvzq/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/slasscom/backup/linkedin_2.png",
+      },
+      {
+        date: "June, 29, 2023",
+        source_name: "Ada Derana",
+        source_link: "http://bizenglish.adaderana.lk/",
+        title: "ELZIAN AGRO Achieves Remarkable Success at SLASSCOM National Ingenuity Awards 2023",
+        image: "assets/img/impact/slasscom/ada-derana.png",
+        description:
+          "LZIAN AGRO, a true visionary in the agricultural technology sector, has reached unprecedented heights with their exceptional performance at the highly esteemed SLASSCOM National Ingenuity Awards 2023. The company's relentless pursuit of innovation and commitment to sustainability has garnered them resounding praise and numerous accolades across multiple categories, solidifying their position as leaders in the industry.",
+        link: "http://bizenglish.adaderana.lk/elzian-agro-achieves-remarkable-success-at-slasscom-national-ingenuity-awards-2023/",
+        backup_image: "assets/img/impact/slasscom/backup/ada-derana.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    title: "Founder Institute’s Fastest Growing Companies",
+    image: "assets/img/impact/founder-institute/founder-institute.png",
+    description: "",
+    slides: [
+      {
+        date: "",
+        source_name: "Founder Institute",
+        source_link: "https://www.linkedin.com/school/the-founder-institute/posts/",
+        title: "Discover Asia and Australia's fastest-growing startups in our latest FI50 Report!",
+        image: "assets/img/impact/founder-institute/founder-institute.png",
+        description:
+          "We're highlighting top startups from Asia and Australia in our global portfolio, showcasing their significant growth over the past year.",
+        link: "https://www.linkedin.com/posts/the-founder-institute_meet-our-top-10-startups-from-asia-and-australia-activity-7135713420305195008--lUS/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/founder-institute/backup/founder-institute.png",
+      },
+      {
+        date: "",
+        source_name: "Founder Institute",
+        source_link: "https://fi.co/50",
+        title: "ELZIAN AGRO",
+        image: "assets/img/impact/founder-institute/founder-institute-profile.png",
+        description:
+          "Elzian Agro provides smart agronomy solution to farmers that reduces their crop wastage. In 2023 it was honored with multiple national and global awards, including Expo City Dubai.",
+        link: "https://fi.co/50/elzian-agro",
+        backup_image: "assets/img/impact/founder-institute/backup/founder-institute-profile.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    title: "American Field Services (AFS) Award Finalist 2024",
+    image: "assets/img/impact/american-field-services/afs-award-finalists.png",
+    description: "",
+    slides: [
+      {
+        date: "August 17, 2024",
+        source_name: "AFS Youth Assembly",
+        source_link: "https://www.youthassembly.org/",
+        title: "Announcing the Finalists for the AFS Award for Young Global Citizens",
+        image: "assets/img/impact/american-field-services/afs-award-finalists.png",
+        description:
+          "The AFS Award for Young Global Citizens recognizes young people for their commitment to improving the global community and whose actions contribute to a more just, peaceful, and tolerant world. The winner will receive a $10,000 prize. The Award will be given to a Youth Assembly delegate who:",
+        link: "https://www.youthassembly.org/2024/08/17/afs-award-finalists-2024/",
+        backup_image: "assets/img/impact/american-field-services/backup/afs-award-finalists.png",
+      },
+    ],
+  },
 ];
