@@ -143,7 +143,7 @@ const impacts = [
   {
     filter: "filter-recognition",
     title: "New Generation Asia: Social Entrepreneur of the Year",
-    image: "assets/img/impact/new-generation-asia/lanka-news-network.png",
+    image: "assets/img/impact/new-generation-asia/linkedin.png",
     description: "",
     slides: [
       {
