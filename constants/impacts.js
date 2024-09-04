@@ -313,7 +313,8 @@ const impacts = [
         description:
           "Lilan Dayananda is an international award-winning young social tech entrepreneur. For years, his social initiative Elzian Agro has offered customised monitoring information and automation solutions through trending digital technologies to optimise customers’ harvest and productively utilise their resources, improving food security and climate action. ",
         link: "https://meaningful.business/team/lilan-dayananda/",
-        backup_image: "assets/img/impact/recognition/meaningful-business/backup/meaningful-business-profile.png",
+        backup_image:
+          "assets/img/impact/recognition/meaningful-business/backup/meaningful-business-profile.png",
       },
       {
         date: "",
@@ -324,7 +325,8 @@ const impacts = [
         description:
           "The 2023 MB100 are an outstanding group of leaders combining profit and purpose. Curated by an expert panel of 29 judges, the winners were chosen from over 800 applications, representing 93 countries, and were scored across five key areas: Durability, Impact, Innovation, Leadership and Scope.",
         link: "https://meaningful.business/mb100-2023/",
-        backup_image: "assets/img/impact/recognition/meaningful-business/backup/meaningful-business-mb100.png",
+        backup_image:
+          "assets/img/impact/recognition/meaningful-business/backup/meaningful-business-mb100.png",
       },
     ],
   },
@@ -461,6 +463,104 @@ const impacts = [
           "The AFS Award for Young Global Citizens recognizes young people for their commitment to improving the global community and whose actions contribute to a more just, peaceful, and tolerant world. The winner will receive a $10,000 prize. The Award will be given to a Youth Assembly delegate who:",
         link: "https://www.youthassembly.org/2024/08/17/afs-award-finalists-2024/",
         backup_image: "assets/img/impact/recognition/american-field-services/backup/afs-award-finalists.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "The Council for Inclusive Capitalism Member & Steward",
+    image: "assets/img/impact/membership/council-inclusive-capitalism.png",
+    description: "",
+    slides: [
+      {
+        date: "",
+        source_name: "Council for Inclusive Capitalism",
+        source_link: "https://www.linkedin.com/company/council-for-inclusive-capitalism/posts/",
+        title: "Welcoming Visionary Leaders",
+        image: "assets/img/impact/membership/council-inclusive-capitalism.png",
+        description:
+          "Today we welcome 7 more forward-thinking business leaders to the Council. We are encouraged by their dedication to conducting business in ways that lead to a more inclusive and sustainable economy. Join us in welcoming.",
+        link: "https://www.linkedin.com/posts/council-for-inclusive-capitalism_today-we-welcome-7-more-forward-thinking-activity-6946215103197310976-W6Vk/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/council-inclusive-capitalism.png",
+      },
+      {
+        date: "",
+        source_name: "Inclusive Capitalism",
+        source_link: "https://www.inclusivecapitalism.com/",
+        title: "Lilan Dayananda | ELZIAN AGRO | CEO",
+        image: "assets/img/impact/membership/inclusive-capitalism.png",
+        description:
+          "Lilan Dayananda is a social tech entrepreneur and a co-founder and the CEO of ELZIAN AGRO. He is a Commonwealth Youth Awardee for Excellence in Development Works in 2022 which was presented by The Commonwealth and nominated for Queen’s Commonwealth Trust Youth Award 2022. He is a special degree holder in Business Management from the University of Kelaniya and a Certified Organic Agribusiness Practitioner. He is a successful graduate of Silicon Valley based Founder Institute’s accelerator program. For years, his initiative organization has come up with award-winning innovative solutions that can apply to Precision Agriculture. His aim through his startup ELZIAN AGRO is to provide effective sustainable solutions to end hunger in all its forms.",
+        link: "https://www.inclusivecapitalism.com/member/lilan-dayananda/",
+        backup_image: "assets/img/impact/membership/backup/inclusive-capitalism.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "Resolution Project Guide & Mentor Team",
+    image: "assets/img/impact/membership/resolution-project.png",
+    description: "",
+    slides: [
+      {
+        date: "",
+        source_name: "Resolution Project",
+        source_link: "https://resolutionproject.org/",
+        title: "Lilan Dayananda",
+        image: "assets/img/impact/membership/resolution-project.png",
+        description:
+          "Lilan Dayananda is an international award-winning youth social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South by the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
+        link: "https://resolutionproject.org/team/lilan-dayananda/",
+        backup_image: "assets/img/impact/membership/backup/resolution-project.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "Island Innovation Ambassador",
+    image: "assets/img/impact/membership/island-innovation.png",
+    description: "",
+    slides: [
+      {
+        date: "",
+        source_name: "Island Innovation",
+        source_link: "https://islandinnovation.co/",
+        title: "Lilan Dayananda",
+        image: "assets/img/impact/membership/island-innovation.png",
+        description:
+          "Lilan is from Sri Lanka. He is a detail-oriented and efficient Tech Entrepreneur with extensive experience in Commerce & Business Management. Certified Organic Agribusiness Practitioner and an exporter. Degree holder in Bachelor of Business Management (Special) Degree in Accountancy. Founder of a few University Clubs and Associations. Professional Video Editor and Graphic Designer. Lilan’s start-ups offer real-time smart agronomy solutions through information technology, the internet of things (IoT), automation, machine learning, artificial intelligence, drone technologies, mobile applications, and web applications. Former Media Planner at Mindshare & GroupM. Former Finance & Accounting Data Analyst at Accenture.",
+        link: "https://islandinnovation.co/ambassadors/lilan-dayananda/",
+        backup_image: "assets/img/impact/membership/backup/island-innovation.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "Meaningful Business Member",
+    image: "assets/img/impact/membership/meaningful-business-profile.png",
+    description: "",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meaningful Business Member",
+        image: "assets/img/impact/membership/meaningful-business-linkedin.png",
+        description:
+          "Pleased to have joined @Meaningful Business as a member, alongside other leaders tackling the world's most pressing issues. It is a curated network designed to connect peers globally, strengthen social businesses and amplify positive impact, all in support of the @United Nations Global Goals.",
+        link: "https://www.linkedin.com/posts/lilanofficial_business-network-leaders-activity-7056419759705239552-rjGW/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/meaningful-business-linkedin.png",
+      },
+      {
+        date: "",
+        source_name: "Meaningful Business",
+        source_link: "https://meaningful.business/",
+        title: "Lilan Dayananda",
+        image: "assets/img/impact/membership/meaningful-business-profile.png",
+        description:
+          "Lilan Dayananda is an international award-winning young social tech entrepreneur. For years, his social initiative Elzian Agro has offered customised monitoring information and automation solutions through trending digital technologies to optimise customers’ harvest and productively utilise their resources, improving food security and climate action. ",
+        link: "https://meaningful.business/team/lilan-dayananda/",
+        backup_image: "assets/img/impact/membership/backup/meaningful-business-profile.png",
       },
     ],
   },
