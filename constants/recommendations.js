@@ -1,5 +1,15 @@
 const recommendations = [
   {
+    date: "September 2, 2024",
+    name: "Renata Prôa",
+    position: "Data Scientist",
+    relationship: "Renata worked with Lilan on the same team",
+    image: "assets/img/recommendation/Renata Prôa.png",
+    linkedin: "https://www.linkedin.com/in/renata-pr%C3%B4a-6b7902130/",
+    recommendation:
+      "Lilan is one of the most fantastic human beings I have ever met! He is incredibly passionate about his work and very dedicated. He is very good at connecting people and opportunities. A great colleague and a great friend! Very honored to have met him!",
+  },
+  {
     date: "August 20, 2024",
     name: "Levon Budaghyan",
     position: "Prompt Engineer",
