@@ -564,4 +564,141 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-membership",
+    title: "The World Business Dialogue Ambassador",
+    image: "assets/img/impact/membership/world-business-dialogue.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Ambassador Certificate",
+        image: "assets/img/impact/membership/ambassador-certificate.png",
+        description:
+          "The “Organisations forum Wirtschaftskongress” (OfW) was founded in 1984 to build a bridge between academic theory and business practice. Since then, an annually changing team of Cologne students has organized an international business conference as its main product here in Cologne. The intention was to connect entrepreneurs, scientists, and ambitious students through an intensive, intergenerational exchange.",
+        link: "https://www.linkedin.com/posts/lilanofficial_team-teamwork-work-activity-6950877215412617216-7bYL/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/ambassador-certificate.png",
+      },
+
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "23rd World Business Dialogue",
+        image: "assets/img/impact/membership/world-business-dialogue.png",
+        description:
+          "The “Organisations forum Wirtschaftskongress” (OfW) was founded in 1984 to build a bridge between academic theory and business practice. Since then, an annually changing team of Cologne students has organized an international business conference as its main product here in Cologne. The intention was to connect entrepreneurs, scientists, and ambitious students through an intensive, intergenerational exchange.",
+        link: "https://www.linkedin.com/posts/lilanofficial_experience-conference-wbd-activity-6918251338711666688-uHwi/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/world-business-dialogue.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "Max Thabiso Edkins Climate Ambassador",
+    image: "assets/img/impact/membership/climate-ambassador-prrogram-certificate.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "MAX THABISO EDKINS Climate Ambassador Prrogram Certificate",
+        image: "assets/img/impact/membership/climate-ambassador-prrogram-certificate.png",
+        description:
+          "I have successfully completed the 2022 Max Thabiso Edkins Climate Ambassador Program from The World Bank , GYCN - Global Youth Climate Network and Connect4Climate",
+        link: "https://www.linkedin.com/posts/lilanofficial_i-have-successfully-completed-the-2022-max-activity-6995218144957005824-jNDI/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/climate-ambassador-prrogram-certificate.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "UNESCO Inclusive Policy Lab",
+    image: "assets/img/impact/membership/UNESCO-public-profile.png",
+    slides: [
+      {
+        date: "",
+        source_name: "UNESCO Inclusive Policy Lab",
+        source_link: "https://en.unesco.org/inclusivepolicylab/",
+        title: "UNESCO Inclusive Policy Lab - Public profile",
+        image: "assets/img/impact/membership/UNESCO-public-profile.png",
+        description:
+          "Lilan Dayananda is a social tech entrepreneur and co-founder and CEO of ELZIAN AGRO. He is a Commonwealth Youth Awardee for excellence in development works in 2022 and was nominated for Queen’s Commonwealth Trust Youth Award 2022. Lilan is among the top 10 Social Entrepreneurs of the Global South Development Expo. He is a successful graduate of the Silicon Valley based Founder Institute’s accelerator program. For years, his initiative organization has come up with award-winning innovative solutions that can apply to Precision Agriculture.",
+        link: "https://en.unesco.org/inclusivepolicylab/user/8900",
+        backup_image: "assets/img/impact/membership/backup/UNESCO-public-profile.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "Youth Power Member",
+    image: "assets/img/impact/membership/youth-power-member.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Youth Power",
+        source_link: "https://www.youthpower.org/",
+        title: "Youth Power Profile",
+        image: "assets/img/impact/membership/youth-power-member.png",
+        description: "",
+        link: "https://www.youthpower.org/members-list?search_api_fulltext=lilan&field_users_type=5739&sort_by=created&sort_order=DESC",
+        backup_image: "assets/img/impact/membership/backup/youth-power-member.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "Naturalists",
+    image: "assets/img/impact/membership/naturalists-profile.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Naturalists",
+        source_link: "https://wenaturalists.com/",
+        title: "Naturalists Profile",
+        image: "assets/img/impact/membership/naturalists-profile.png",
+        description:
+          "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
+        link: "https://wenaturalists.com/profile/lilandayananda",
+        backup_image: "assets/img/impact/membership/backup/naturalists-profile.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "Sustainability Leader at  ESG Connect by Greenly",
+    image: "assets/img/impact/membership/ESG-connect-greenly.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Joined ESG Connect by Greenly",
+        image: "assets/img/impact/membership/ESG-connect-greenly.png",
+        description:
+          "I’m happy to announce that I have joined ESG Connect by Greenly - a global community of sustainability leaders united in their mission to shape a greener future. The number of Chief Sustainability Officers, Chief Impact Officers, and Sustainability Managers at corporations is skyrocketing 🚀.",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-community-network-activity-7067572302372110336-qNqf/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/ESG-connect-greenly.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "The Asian Network",
+    image: "assets/img/impact/membership/the-asian-network.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Ravindra Ngo 赖文卓 ",
+        source_link: "https://www.linkedin.com/in/ravindra-ngo/",
+        title: "The Asian Network - Online Conference",
+        image: "assets/img/impact/membership/the-asian-network.png",
+        description:
+          "The Asian Network is excited to host a high level online conference supported by ERIA: Economic Research Institute for ASEAN and East Asia & ADB Southeast Asia Development Solutions (SEADS) ",
+        link: "https://www.linkedin.com/posts/ravindra-ngo_harmony-asia-geopolitics-activity-7105384184889659393-QiJE/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/the-asian-network.png",
+      },
+    ],
+  },
 ];
