@@ -898,20 +898,26 @@ section,
   margin: 0 auto 20px auto;
   list-style: none;
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .impact .impact-filters li {
   cursor: pointer;
   display: inline-block;
   font-size: 16px;
-  margin: 5px 5px;
+  margin: 5px;
   line-height: 1;
-  margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
   background-color: var(--accent-color);
-  padding: 5px 0px 5px 0px;
+  padding: 5px 0px;
   border-radius: 2px;
-  width: 500px;
+  width: calc(50% - 10px); /* Two items per row */
+}
+
+.impact .impact-filters li:first-child {
+  width: 100%; /* First item takes full width */
 }
 
 .impact .impact-filters li:hover,
@@ -922,10 +928,11 @@ section,
 @media (max-width: 575px) {
   .impact .impact-filters li {
     font-size: 14px;
-    margin: 5px 5px;
-    width: 100%;
+    margin: 5px;
+    width: 100%; 
   }
 }
+
 
 .impact .impact-content {
   overflow: hidden;
