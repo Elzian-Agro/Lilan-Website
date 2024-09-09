@@ -701,4 +701,171 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-membership",
+    title: "FXB International Climate Facilitator & Advocate",
+    image: "assets/img/impact/membership/fxb-climate-advocates.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "FXB International Climate Advocates Program",
+        image: "assets/img/impact/membership/climate-advocates-program.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7068052986857472000-FN2t/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/climate-advocates-program.png",
+      },
+      {
+        date: "",
+        source_name: "FXB Climate Advocates",
+        source_link: "https://www.fxbclimateadvocates.org/",
+        title: "LifeForce Earth Restoration Project",
+        image: "assets/img/impact/membership/fxb-climate-advocates.png",
+        description:
+          "The agricultural sector in Sri Lanka, which incorporates both organic and conventional farming, confronts the problem of determining essential soil components accurately. Notably, organic cultivators, who harness natural techniques like compost and crop rotation, find it challenging due to a lack of specific soil composition details. This deficiency compromises the efficient use of resources, particularly in fertilizer application, and inhibits the valuation of their produce's environmental benefits, referred to as Primary Ecosystem Services (PES) [1].",
+        link: "https://www.fxbclimateadvocates.org/copy-of-malika-gizzat-1",
+        backup_image: "assets/img/impact/membership/backup/fxb-climate-advocates.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "WSA Youth Ambassador",
+    image: "assets/img/impact/membership/wsa.png",
+    slides: [
+      {
+        date: "",
+        source_name: "WSA",
+        source_link: "https://www.linkedin.com/company/world-summit-awards/posts/",
+        title: "World Summit on the Information Security",
+        image: "assets/img/impact/membership/wsa.png",
+        description:
+          'Hear from WSA Youth Ambassadors at the World Summit on the Information Society Forum in the "Youth Engagement Around WSIS Action Lines" session. 🌐',
+        link: "https://www.linkedin.com/posts/world-summit-awards_wsis-technology-networks-activity-7201107444255637505-ndlZ/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/wsa.png",
+      },
+      {
+        date: "",
+        source_name: "WSA",
+        source_link: "https://www.linkedin.com/company/world-summit-awards/posts/",
+        title: "nnouncing 127 New WSA Youth Ambassadors: Leaders in Innovation and Social Impact",
+        image: "assets/img/impact/membership/wsa-celebrate.png",
+        description:
+          "Celebrate with us as we announce the appointment of 127 dynamic leaders as WSA Youth Ambassadors! These ambassadors, carefully chosen from a pool of 727 global applications, represent 73 countries and boast diverse expertise in hashtag#entrepreneurship, hashtag#socialimpact, hashtag#sustainability, and hashtag#digital hashtag#innovation. More than just symbols of their nations, they actively contribute to fostering positive change within their communities. In doing so, they exemplify WSA's vision for a society that is both hashtag#inclusive and hashtag#sustainable.",
+        link: "https://www.linkedin.com/posts/world-summit-awards_wsa-youth-ambassadors-activity-7145775372054298624-lRS1?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/wsa-celebrate.png",
+      },
+      {
+        date: "",
+        source_name: "WSA",
+        source_link: "https://wsa-global.org/",
+        title: "Get to know our newest youth ambassadors",
+        image: "assets/img/impact/membership/newest-youth-ambassadors.png",
+        description:
+          "This year WSA held the first ever open call for WSA Youth Ambassadors. The call was open from July until August, and during the short application time WSA received 727 high-quality applications from all over the world. The selection process was long and thorough, and after 2 preselection rounds, 127 new WSA Youth Ambassadors were appointed.",
+        link: "https://wsa-global.org/2023/11/07/get-to-know-our-newest-youth-ambassadors/",
+        backup_image: "assets/img/impact/membership/backup/newest-youth-ambassadors.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Be Chosen as a WSA Youth Ambassador for Sri Lanka",
+        image: "assets/img/impact/membership/wsa-linkedin.png",
+        description:
+          "I am absolutely thrilled to share that I have been chosen as a WSA Youth Ambassador in Sri Lanka. For those unfamiliar, WSA which stands for the World Summit Awards, represents a distinctive awards system with a profound purpose: the selection and promotion of local digital innovations aimed at enhancing society. What sets WSA apart is its unique blend of ongoing international events, a rich array of activities, and an extensive network that encompasses startups, social entrepreneurs, mentors, distinguished jurors, influential speakers, experts, government leaders, esteemed academia, and members of civil society. WSA essentially serves as a global platform that showcases cutting-edge examples of how information and communication technologies can have a profoundly positive impact on society as a whole.",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-wsayouthambassador-youth-activity-7128778758567710720-JnY9/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/wsa-linkedin.png",
+      },
+      {
+        date: "",
+        source_name: "WSA",
+        source_link: "https://wsa-global.org/",
+        title: "WSA Profile",
+        image: "assets/img/impact/membership/wsa-lilan-profile.png",
+        description:
+          "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
+        link: "https://wsa-global.org/person/lilan-dayananda/",
+        backup_image: "assets/img/impact/membership/backup/wsa-lilan-profile.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "MIT SOLVE",
+    image: "assets/img/impact/membership/mit-solve.png",
+    slides: [
+      {
+        date: "",
+        source_name: "MIT SOLVE",
+        source_link: "https://solve.mit.edu/",
+        title: "Mit Solve Publications",
+        image: "assets/img/impact/membership/mit-solve.png",
+        description:
+          "We utilize limited resources (water, fertilizer, labour, land) at an optimum level through climate-smart, data-driven precision agriculture solutions.",
+        link: "https://solve.mit.edu/users/-102339",
+        backup_image: "assets/img/impact/membership/backup/mit-solve.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "United People Global (UPG)",
+    image: "assets/img/impact/membership/united-people-global-x.png",
+    slides: [
+      {
+        date: "",
+        source_name: "United People Global",
+        source_link: "https://www.youtube.com/@UnitedPeopleGlobal",
+        title: "United Voices",
+        image: "assets/img/impact/membership/united-people-global.png",
+        description: "What's Going On? UPG Champion Invite...",
+        link: "https://www.youtube.com/watch?v=WjIME9s70Xk",
+        backup_image: "assets/img/impact/membership/backup/united-people-global.png",
+      },
+      {
+        date: "",
+        source_name: "United People Global",
+        source_link: "https://x.com/unitedpeople36",
+        title: "Celebrating UPG Sustainability Mini-Training",
+        image: "assets/img/impact/membership/united-people-global-x.png",
+        description:
+          "Celebrating another #UPGSustainability Mini-Training for citizens! See images from Colombo in a session led by #UPGSustainability Leader Lilan Dayananda!",
+        link: "https://twitter.com/unitedpeople36/status/1725461332852416866",
+        backup_image: "assets/img/impact/membership/backup/united-people-global-x.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "United People Global (UPG) Sustainability Leaders",
+    image: "assets/img/impact/membership/fox4kc.png",
+    slides: [
+      {
+        date: "Jan 31, 2024",
+        source_name: "FOX4",
+        source_link: "https://fox4kc.com/",
+        title:
+          "Six UPG Sustainability Leaders from South Asia compete for votes to reach Hurricane Island, USA",
+        image: "assets/img/impact/membership/fox4kc.png",
+        description:
+          "Six UPG Sustainability Leaders from across South Asia compete for your vote to win a place on the Journey To Hurricane Island (USA). Voters will win prizes!",
+        link: "https://fox4kc.com/business/press-releases/ein-presswire/683778177/six-upg-sustainability-leaders-from-south-asia-compete-for-votes-to-reach-hurricane-island-usa/",
+        backup_image: "assets/img/impact/membership/backup/fox4kc.png",
+      },
+      {
+        date: "January 31, 2024",
+        source_name: "Einpresswire",
+        source_link: "https://www.einpresswire.com/",
+        title:
+          "Six UPG Sustainability Leaders from South Asia compete for votes to reach Hurricane Island, USA",
+        image: "assets/img/impact/membership/einpresswire.png",
+        description:
+          "Six UPG Sustainability Leaders from across South Asia compete for your vote to win a place on the Journey To Hurricane Island (USA). Voters will win prizes!",
+        link: "https://www.einpresswire.com/article/683778177/six-upg-sustainability-leaders-from-south-asia-compete-for-votes-to-reach-hurricane-island-usa",
+        backup_image: "assets/img/impact/membership/backup/einpresswire.png",
+      },
+    ],
+  },
 ];
