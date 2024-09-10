@@ -1129,6 +1129,78 @@ section,
 }
 
 /*--------------------------------------------------------------
+# Blog Section
+--------------------------------------------------------------*/
+.blog .blog-content {
+  overflow: hidden;
+}
+
+.blog .blog-content img {
+  transition: 0.3s;
+}
+
+.blog .blog-info {
+  margin-top: 10px;
+}
+
+.blog .blog-info h4 {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 18px;
+  font-weight: 400;
+  display: inline-block;
+}
+
+.blog .blog-info p {
+  font-size: 15px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: justify;
+}
+
+.blog .blog-content:hover img {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+/*--------------------------------------------------------------
+# Podcast Section
+--------------------------------------------------------------*/
+.podcast .podcast-content {
+  overflow: hidden;
+}
+
+.podcast .podcast-content img {
+  transition: 0.3s;
+}
+
+.podcast .podcast-info {
+  margin-top: 10px;
+}
+
+.podcast .podcast-info h4 {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 18px;
+  font-weight: 400;
+  display: inline-block;
+}
+
+.podcast .podcast-info p {
+  font-size: 15px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: justify;
+}
+
+.podcast .podcast-content:hover img {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+/*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
 .contact .info-item {
