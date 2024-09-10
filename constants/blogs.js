@@ -1,7 +1,17 @@
 const blogs = [
   {
-    title: "Forbes 30 under 30: Social Impact List",
-    image: "assets/img/impact/recognition/forbes/ada-derana.png",
-    url: "https://agro.elzian.com/podcast/podcast-main.html",
+    title: "Can Digital Agriculture Save Money to Farmers?",
+    image: "assets/img/blog/digitization-prevents.png",
+    url: "https://agro.elzian.com/blog/blog-page-8.html",
+  },
+  {
+    title: "How Smarter The Technology Will Feed The Plant",
+    image: "assets/img/blog/smarter-technology.png",
+    url: "https://agro.elzian.com/blog/blog-page-2.html",
+  },
+  {
+    title: "Smart Agriculture On Smartphones",
+    image: "assets/img/blog/smart-agriculture.png",
+    url: "https://agro.elzian.com/blog/blog-page.html",
   },
 ];
