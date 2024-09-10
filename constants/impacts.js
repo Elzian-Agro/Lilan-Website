@@ -868,4 +868,350 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-membership",
+    title: "Blue Planet Alliance Ambassador",
+    image: "assets/img/impact/membership/blue-planet-alliance-official.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Blue Planet Alliance",
+        source_link: "https://www.linkedin.com/company/blue-planet-alliance/posts/",
+        title: "Lilan Dayananda - Global Ambassador & Young Entrepreneur",
+        image: "assets/img/impact/membership/blue-planet-alliance.png",
+        description:
+          "Lilan Dayananda is a BPA Global Ambassador — and young entrepreneur — from Sri Lanka. His startup uses technologies like IoT devices and AI to help small farmers in his country optimize harvests and better navigate climate change.",
+        link: "https://www.linkedin.com/posts/blue-planet-alliance_lilan-dayananda-is-a-bpa-global-ambassador-activity-7222216060400250887-JAJO/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/blue-planet-alliance.png",
+      },
+      {
+        date: "",
+        source_name: "Blue Planet Alliance",
+        source_link: "https://blueplanetalliance.org/",
+        title: "Blue Planet ALLIANCE Global Ambassador Program ",
+        image: "assets/img/impact/membership/blue-planet-alliance-official.png",
+        description:
+          "The Blue Planet Global Ambassador Program was launched during the 2022 Our Oceans Conference in Palau to honor and empower young people from the ages of 16 to 30 to help spread our mission globally. Through the program, Blue Planet Alliance is building a network of youth advocates dedicated to engaging in global activism to make their communities — and the world as a whole — a better place. Specifically, our Ambassadors are helping us in our mission to lead every island nation — and countries across the globe — transition away from dirty energy and to 100% renewable energy by 2045.",
+        link: "https://blueplanetalliance.org/globalambassadorprogram",
+        backup_image: "assets/img/impact/membership/backup/blue-planet-alliance-official.png",
+      },
+      {
+        date: "",
+        source_name: "Blue Planet Alliance",
+        source_link: "https://blueplanetalliance.org/",
+        title: "Using AI to Help Farmers Grow Their Businesses",
+        image: "assets/img/impact/membership/blue-planet-alliance-article.png",
+        description:
+          "Blue Planet Alliance Global Ambassador Lilan Dayananda from Sri Lanka was honored with the distinction of being selected for the Forbes 30 Under 30: Social Impact List. In its ninth year, the Asia list continues the global expansion of the Forbes 30 Under 30 franchise, which started over a decade ago.",
+        link: "https://blueplanetalliance.org/news/using-ai-to-help-farmers-grow-their-businesses",
+        backup_image: "assets/img/impact/membership/backup/blue-planet-alliance-article.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "Global Peace Ambassador",
+    image: "assets/img/impact/membership/global-peace-chain.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Global Peace Chain",
+        source_link: "https://www.globalpeacechain.org/",
+        title: "Karunarathnalage Lilan Udayanga Dayananda",
+        image: "assets/img/impact/membership/global-peace-chain.png",
+        description:
+          "I am a final year undergraduate (student) of the University of Kelaniya following the Bachelor of Business Management (Special) Degree in Accountancy. I am working on my internship as an intern at Accenture in the Finance and Accounting department while pursuing my academic education at my university. I am a detail-oriented, efficient, and organized undergraduate with extensive experience in extracurricular activities related to career development and volunteering.",
+        link: "https://www.globalpeacechain.org/team_members/karunarathnalage-lilan-udayanga-dayananda/",
+        backup_image: "assets/img/impact/membership/backup/global-peace-chain.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "My Body Is My Body (MBIMB)",
+    image: "assets/img/impact/membership/mbimb.png",
+    slides: [
+      {
+        date: "",
+        source_name: "My Body Is My Body (MBIMB)",
+        source_link: "https://mbimb.org/",
+        title: "MBIMB Profile",
+        image: "assets/img/impact/membership/mbimb.png",
+        description: "",
+        link: "https://mbimb.org/members/lilan_dayananda/",
+        backup_image: "assets/img/impact/membership/backup/mbimb.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "Theirworld Global Youth Ambassador",
+    image: "assets/img/impact/membership/theirworld.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Sertifier",
+        source_link: "https://sertifier.com/",
+        title: "GYA Membership - June 2023 - 2025",
+        image: "assets/img/impact/membership/theirworld.png",
+        description: "This badge recognises membership of Theirworld's Global Youth Ambassador programme. ",
+        link: "https://verified.sertifier.com/en/verify/48505403543188/",
+        backup_image: "assets/img/impact/membership/backup/theirworld.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "The International Association of Horticultural Producers (AIPH) Youth Jury Member",
+    image: "assets/img/impact/membership/youth-jury-introduce.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the AIPH Youth Award Deliberations",
+        image: "assets/img/impact/membership/AIPH-youth-award.png",
+        description:
+          "As a Youth Jury Member, I had the privilege of actively participating in the AIPH Youth Award deliberations during the 2024 edition of the esteemed AIPH World Green City Awards. Collaborating closely with esteemed colleagues Laura Barron , Hanieh Moghani , Colin Fernandes , Andressa Reis , Blaise Binama, Ph.D , Justin Ho Guo Shun , Bruna Pacheco de Campos , Dominique Bird , Bonney Emmanuel Baffoe , Ferdinand Combary , Leena Joshi , Muntasyir Al Wafi , Raluca MIHAI , Vathanak Soeun , Widson Ambaisi , our shared goal was to identify the entry that possessed the greatest potential to inspire and meet the evolving needs of the youth, fostering a future characterized by security and wellness.",
+        link: "https://www.linkedin.com/posts/lilanofficial_aiph-green-award-activity-7196898811905007617-ZFme/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/AIPH-youth-award.png",
+      },
+      {
+        date: "",
+        source_name: "AIPH",
+        source_link: "https://aiph.org/",
+        title:
+          "AIPH and GYBN proudly announce list of Youth Jury members for the AIPH World Green City Awards 2024",
+        image: "assets/img/impact/membership/youth-jury-wgca.png",
+        description:
+          "In partnership with the Global Youth Biodiversity Network (GYBN), AIPH is proud to unveil the 15 members of the Youth Jury who will select the shortlist and winner of the first AIPH Youth Award from the 21 Finalists in the AIPH World Green City Awards 2024.",
+        link: "https://aiph.org/latest-news/youth-jury-wgca-2024/",
+        backup_image: "assets/img/impact/membership/backup/youth-jury-wgca.png",
+      },
+      {
+        date: "",
+        source_name: "AIPH",
+        source_link: "https://aiph.org/",
+        title: "Youth Jury 2024",
+        image: "assets/img/impact/membership/youth-jury.png",
+        description:
+          "The Youth Jury, who will decide the AIPH Youth Award in the 2024 edition of the AIPH World Green City Awards, boasts 15 dynamic members from around the world, all with a passion for urban greening.",
+        link: "https://aiph.org/green-city/green-city-awards/youth-jury/",
+        backup_image: "assets/img/impact/membership/backup/youth-jury.png",
+      },
+      {
+        date: "",
+        source_name: "AIPH Green City",
+        source_link: "https://www.linkedin.com/showcase/aiph-green-city/posts/",
+        title: "Introducing the AIPH Youth Jury",
+        image: "assets/img/impact/membership/youth-jury-introduce.png",
+        description:
+          "Meet the final five members of the Youth Jury, Muntasyir Al Wafi, Raluca MIHAI, Laura Barron, Karunarathnalage Lilan Dayananda, and Bruna Pacheco de Campos.",
+        link: "https://www.linkedin.com/posts/aiph-green-city_aiphworldgreencityawards-wgca2024-youthaward-activity-7164242060449939456-ifMo?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/youth-jury-introduce.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "Global Thinkers Forum & Global Thinkers Mentors",
+    image: "assets/img/impact/membership/global-thinker-smentors.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Global Thinkers",
+        source_link: "https://globalthinkersmentors.org/",
+        title: "Lilan Udayanga Dayananda",
+        image: "assets/img/impact/membership/global-thinker-smentors.png",
+        description:
+          "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the UN.",
+        link: "https://globalthinkersmentors.org/lilan-udayanga-dayananda",
+        backup_image: "assets/img/impact/membership/backup/global-thinker-smentors.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "Clinton Global Initiative",
+    image: "assets/img/impact/membership/clinton-global-initiative.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Selected for the inaugural class of the Clinton Global Initiative (CGI) Fellowship!",
+        image: "assets/img/impact/membership/clinton-global-initiative.png",
+        description:
+          "As part of the Clinton Foundation's commitment to nurturing the next generation of leaders, the CGI Fellowship supports emerging social entrepreneurs, helping us enhance our leadership skills, connect with peers, and refine our ideas into actionable solutions.",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-startup-social-activity-7216447969246527488-lydr/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/clinton-global-initiative.png",
+      },
+      {
+        date: "Aug 20, 2024",
+        source_name: "Sunday Times",
+        source_link: "https://sundaytimes.lk/online/",
+        title:
+          "Sri Lankan Youth Entrepreneur Lilan Dayananda Selected for Prestigious Clinton Global Initiative Fellowship",
+        image: "assets/img/impact/membership/clinto-global-sunday-times.png",
+        description:
+          "Lilan Dayananda, a prominent youth entrepreneur from Sri Lanka, has been named among the 25 emerging leaders and entrepreneurs selected for the inaugural cohort of the Clinton Global Initiative (CGI) Fellowship. This prestigious fellowship will provide Fellows with access to vital resources and expert guidance as they each develop their own Commitments to Action new, specific, and measurable projects aimed at addressing some of the world’s most critical challenges.",
+        link: "https://sundaytimes.lk/online/business/Sri-Lankan-Youth-Entrepreneur-Lilan-Dayananda-Selected-for-Prestigious-Clinton-Global-Initiative-Fellowship/10-1146618",
+        backup_image: "assets/img/impact/membership/backup/clinto-global-sunday-times.png",
+      },
+      {
+        date: "May 29, 2024",
+        source_name: "Clinton Foundation",
+        source_link: "https://www.clintonfoundation.org/",
+        title: "2024 Class of Clinton Global Initiative Fellows Announced",
+        image: "assets/img/impact/membership/clinton-foundation.png",
+        description:
+          "25 leaders from across Africa, Asia, Europe, and the Americas commit to take action on climate change, health equity, women and girls’ equality, and more...",
+        link: "https://www.clintonfoundation.org/press-and-news/clinton-global-initiative-fellowship/2024-class-of-clinton-global-initiative-fellows-announced/",
+        backup_image: "assets/img/impact/membership/backup/clinton-foundation.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "Campaigner for World’s Youth for Climate Justice (WYCJ)",
+    image: "assets/img/impact/membership/wy4cj.asia.png",
+    slides: [
+      {
+        date: "",
+        source_name: "wy4cj.asia",
+        source_link:
+          "https://www.instagram.com/p/C4-8btnoRYk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        title: "Lilan Dayananda",
+        image: "assets/img/impact/membership/wy4cj.asia.png",
+        description:
+          "Lilan Dayananda, an international award-winning young social tech entrepreneur, has garnered recognition for his impactful work in social entrepreneurship. He stands out as one of the top ten Social Entrepreneurs of the Global-South, acknowledged by prestigious organizations like the United Nations Youth Envoy’s Office and UNDP Youth Co: Lab. Lilan’s commitment to excellence is evident through his accolades, such as being the only Sri Lankan Commonwealth Youth Awardee for his outstanding development efforts and his nomination for the Queen’s Commonwealth Trust Youth Award. His innovative solutions in food security, climate action, and sustainability have earned him a place among the top 100 meaningful business founders recognized by Ernst & Young (EY), Hogan Lovells Global Law Firms.",
+        link: "https://www.instagram.com/p/C4-8btnoRYk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        backup_image: "assets/img/impact/membership/backup/wy4cj.asia.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "Generation Democracy Member",
+    image: "assets/img/impact/membership/generation-democracy.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Generation Democracy",
+        source_link: "https://www.linkedin.com/company/generationdemocracy/posts/",
+        title: "Lilan Dayananda: A Young Visionary Revolutionizing Agriculture",
+        image: "assets/img/impact/membership/generation-democracy.png",
+        description:
+          "Lilan Dayananda is a trailblazing social entrepreneur from Sri Lanka who is at the forefront of tackling global food security through innovative agricultural solutions. As the co-founder and CEO of ELZIAN AGRO, he is leading the charge in climate-smart, data-driven precision agriculture. ",
+        link: "https://www.linkedin.com/posts/generationdemocracy_gendem-globalsummit-climateaction-activity-7230547634376110080-KZaU/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/generation-democracy.png",
+      },
+      {
+        date: "",
+        source_name: "gendem.iri",
+        source_link: "https://www.instagram.com/gendem.iri/",
+        title: "Generation Democracy Success Story: Lilan Dayananda Empowers Through Innovation",
+        source_name: "gendem.iri",
+        image: "assets/img/impact/membership/gendem.iri.png",
+        description:
+          "Lilan Dayananda, a social tech entrepreneur from Sri Lanka and a member of the @iriglobal Generation Democracy Network, is making waves in the agricultural sector. As the co-founder and CEO of Elzian Agro, Lilan is harnessing the power of technology to empower small farmers and combat climate change.",
+        link: "https://www.instagram.com/p/C7vwGZnKNVm/",
+        source_name: "gendem.iri",
+        backup_image: "assets/img/impact/membership/backup/gendem.iri.png",
+      },
+      {
+        date: "",
+        source_name: "Generation Democracy",
+        source_link: "https://x.com/IRIGenDem",
+        title: "Generation Democracy Success Story: Lilan Dayananda Empowers Through Innovation",
+        image: "assets/img/impact/membership/generation-democracy-instagram.png",
+        description:
+          "Lilan Dayananda, a social tech entrepreneur from Sri Lanka and a member of @IRIglobal Generation Democracy Network, is making waves in the agricultural sector. As the co-founder and CEO of Elzian Agro, Lilan is harnessing the power of technology to empower small farmers and combat climate change.",
+        link: "https://x.com/IRIGenDem/status/1797538632934285513",
+        backup_image: "assets/img/impact/membership/backup/generation-democracy-instagram.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "Climate Reality Project Member",
+    image: "assets/img/impact/membership/climate-reality-linkedin.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honor of participating in The Climate Reality Project Leadership Corps training",
+        image: "assets/img/impact/membership/climate-reality-linkedin.png",
+        description:
+          "Today, I had the honor of participating in The Climate Reality Project Leadership Corps training at the Rome Convention Center La Nuvola, Italy. It was a valuable opportunity to train with former U.S. Vice President Al Gore and to join a community of dedicated changemakers committed to advancing equitable climate solutions.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-un-activity-7213148927116685312-0JZ4/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/climate-reality-linkedin.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "One Young World Leader Board",
+    image: "assets/img/impact/membership/OYW-manchester-summit.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Be Ranked number 1 at the One Young World Manchester Summit 2022",
+        image: "assets/img/impact/membership/OYW-manchester-summit.png",
+        description:
+          "It was a pleasure to be ranked number 1 at OYW Manchester Summit 2022! Thank you to One Young World for allowing me to be a part of this extraordinary, global gathering of young leaders at Manchester Central last week. It has been such a privilege to be in the presence of some of the greatest leaders of our time. Being surrounded by like-minded, optimistic and values-driven individuals from every corner of the world has been one of the most inspiring moments of my life. I am grateful for having crossed paths with all the other delegates and the opportunity to hear their stories of overcoming adversity, as well as their dreams of a better future.",
+        link: "https://www.linkedin.com/posts/lilanofficial_it-was-a-pleasure-to-be-ranked-number-1-at-activity-6976216251329126400-Wryt/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/OYW-manchester-summit.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "Moonshot Young Leader",
+    image: "assets/img/impact/membership/moonshot-young-leader.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Proud to Be a Moonshot Young Leader",
+        image: "assets/img/impact/membership/moonshot-young-leader.png",
+        description: "It is such a pleasure to be a Moonshot Young Leader.",
+        link: "https://www.linkedin.com/posts/lilanofficial_startup-entrepreneurship-business-activity-7214291806371426306-pPuE/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/moonshot-young-leader.png",
+      },
+      {
+        date: "",
+        source_name: "Moonshot Platform",
+        source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
+        title: "Introducing some of the Young Leaders",
+        image: "assets/img/impact/membership/moonshot-platform.png",
+        description:
+          "Introducing you to some of the Young Leaders joining us at this year's Moonshot Young Leaders Camp...",
+        link: "https://www.linkedin.com/posts/moonshot-platform_youngleaders-socialimpact-sdgs-activity-7213889108237049858-ejvR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/membership/backup/moonshot-platform.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    title: "WYSE International: Global Change Maker",
+    image: "assets/img/impact/membership/WYSE-international.png",
+    slides: [
+      {
+        date: "",
+        source_name: "WYSE International",
+        source_link: "https://www.wyse-ngo.org/",
+        title: "Karunarathnalage Lilan Udayanga Dayananda, Sri Lanka",
+        image: "assets/img/impact/membership/WYSE-international.png",
+        description:
+          "Lilan Dayananda is an international award-winning young social tech entrepreneur who is among the latest top ten Social Entrepreneurs of the Global South according to the United Nations. Lilan was recognized among the top meaningful business founders in 2023 by Ernst & Young (EY), Hogan Lovells Global Law Firms, and Babson College. For years, his social initiatives have come up with innovative solutions that can apply to climate action and biodiversity restoration. One of his social ventures (founded by him) has the world’s first scientifically validated methodology to quantify the human contribution to Primary Ecosystem Services.",
+        link: "https://www.wyse-ngo.org/wyse-global-change-makers-sdg-13/2024/7/18/karunarathnalage-lilan-udayanga-dayananda-sri-lanka",
+        backup_image: "assets/img/impact/membership/backup/WYSE-international.png",
+      },
+    ],
+  },
 ];
