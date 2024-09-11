@@ -1882,4 +1882,228 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-innovation-social",
+    title: "Lilan's initiative (ELZIAN AGRO) Named Finalist in World Bank Youth Innovation Challenge",
+    image: "assets/img/impact/innovation-social/profit-magazine.png-bank-youth-innovation.png",
+    slides: [
+      {
+        date: "May 24, 2024",
+        source_name: "Profit Magazine",
+        source_link: "https://profitmagazine.lk/",
+        title: "Elzian Agro Named Finalist in World Bank Youth Innovation Challenge",
+        image: "assets/img/impact/innovation-social/profit-magazine.png-bank-youth-innovation.png",
+        description:
+          "Elzian Agro, a precision agriculture company based in Sri Lanka, was selected as a finalist in the World Bank Youth Innovation Challenge under the category of water solutions for a new climate reality. Elzian Agro was selected among the top 40 finalists in the World Bank Youth Innovation Challenge. Their excellent innovation was chosen from over 1,600 registrations from 95 countries and more than 300 outstanding applications from 63 countries.",
+        link: "https://profitmagazine.lk/elzian-agro-named-finalist-in-world-bank-youth-innovation-challenge/",
+        backup_image:
+          "assets/img/impact/innovation-social/backup/profit-magazine.png-bank-youth-innovation.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Science Startup Founder at the Falling Walls Science Summit",
+    image: "assets/img/impact/innovation-social/science-startup-founder.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Science Startup Founder at the Falling Walls Science Summit",
+        image: "assets/img/impact/innovation-social/science-startup-founder.png",
+        description:
+          "I am happy to be recognised as a finalist in the Science Startups category of the hashtag#GlobalCall24 Falling Walls Foundation. This recognition brings me a step closer to the Science Breakthroughs of the Year, to be celebrated at the hashtag#FallingWalls hashtag#ScienceSummit24 from 7-9 November. Stay tuned for further updates.",
+        link: "https://www.linkedin.com/posts/lilanofficial_globalcall24-fallingwalls-sciencesummit24-activity-7207426507940536320-vuzw?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/science-startup-founder.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title:
+      "Addressing the Ye! Community Learn and Connect Session organized by the International Trade Centre",
+    image: "assets/img/impact/innovation-social/address-ye-community.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Addressing the Ye! Community",
+        image: "assets/img/impact/innovation-social/address-ye-community.png",
+        description:
+          "It was a pleasure to contribute as a speaker for the recent Ye! Community Learn and Connect Session. These sessions, conducted every three months on the last Wednesday, are affiliated with the International Trade Centre and the Ye! Community.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-entrepreneurship-startups-activity-7211735366033137665-y7eh?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/address-ye-community.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Participating in the International Conference on Control, Decision and Information Technologies",
+    image: "assets/img/impact/innovation-social/international-conference.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Participating in the International Conference on Control, Decision and Information Technologies",
+        image: "assets/img/impact/innovation-social/international-conference.png",
+        description:
+          "It was a pleasure to participate in the international conference on Control, Decision and Information Technologies (CoDIT 2024) Valetta, Malta. Its purpose is to be a forum for technical exchange amongst scientists having interests in Control, Automation, Robotics, Optimization, Decision, Cybernetics, Computer Science and Information Technologies. This conference will provide a remarkable opportunity for the academic and industrial communities to address new challenges, share solutions and discuss future research directions. The technical program will include plenary lectures, regular technical sessions, and special sessions.",
+        link: "https://www.linkedin.com/posts/lilanofficial_technology-automation-science-activity-7213911719327252480-tiD9?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/international-conference.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Signing business agreements with Koperattivi Malta",
+    image: "assets/img/impact/innovation-social/meet-malta.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting with Koperattivi Malta",
+        image: "assets/img/impact/innovation-social/meet-malta.png",
+        description:
+          "I had the pleasure of meeting with Koperattivi Malta to discuss the economic potential of cooperatives in facilitating a sustainable transition to regenerative and precision agriculture for food security. I would like to express my appreciation to the Koperattivi Malta Team for their professional engagement and proactive interaction during our initial meeting.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7214649124418203648-XIK-?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/meet-malta.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Startup in EU : Malta Affiliate Meeting for EU Market Analysis",
+    image: "assets/img/impact/innovation-social/meet-startup-eu.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Great Meeting with Moe Soliman, Our EU Affiliate Director in Malta",
+        image: "assets/img/impact/innovation-social/meet-startup-eu.png",
+        description:
+          "Had the pleasure of meeting with our Startup in EU 🇪🇺 Affiliate Director Moe Soliman based in Malta. We're currently engaged in comprehensive initiatives aimed at expanding innovative startups from the Global South into the European market. Our efforts encompass EU market analysis, incorporation strategy, regulatory compliance, partnership and networking, risk assessment, business planning, execution and oversight, as well as reporting and analysis. We're excited to open up new opportunities in Germany, France, the Netherlands, Malta, Spain, and other European countries.",
+        link: "https://www.linkedin.com/posts/lilanofficial_albania-andorra-austria-activity-7217271638893940737-OAVv?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/meet-startup-eu.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Acknowledgement from Founders Lair",
+    image: "assets/img/impact/innovation-social/startup-highlight.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Founders Lair",
+        source_link: "https://www.linkedin.com/company/founderslair/posts/",
+        title: "Startup Highlight",
+        image: "assets/img/impact/innovation-social/startup-highlight.png",
+        description:
+          "ELZIAN AGRO employs hashtag#AI, ML, hashtag#IoT, and automation to address challenges in agriculture such as adapting to hashtag#climate change, identifying quality organic fertilizers, soil quality assessment, and optimizing limited resources like water and labor. They conducted market research involving over 60,000 farmers to tailor their hashtag#solutions effectively.",
+        link: "https://www.linkedin.com/posts/founderslair_startuphighlight-agritech-srilanka-activity-7223905886388281344-Qf-e?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/startup-highlight.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Visiting the Industrial Area of Vítkovice",
+    image: "assets/img/impact/innovation-social/vítkovice.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Explored the industrial area of Vítkovice",
+        image: "assets/img/impact/innovation-social/vítkovice.png",
+        description:
+          "During my recent visit to the Czech Republic, I explored the industrial area of Vítkovice. Once neglected and abandoned, industrial zones like Vítkovice have become significant parts of Europe’s cultural heritage. Many of these areas have undergone remarkable transformations, evolving from zones of darkness and disuse into vibrant attractions where visitors of all ages can learn about this chapter of history.",
+        link: "https://www.linkedin.com/posts/lilanofficial_robot-science-technology-activity-7228576032373493760-HGKg/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/vítkovice.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title:
+      "The Climate Entrepreneurship Program at New York University and NYU School of Professional Studies",
+    image: "assets/img/impact/innovation-social/climate-entrepreneurship.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Participated in the Climate Entrepreneurship Program at New York University and NYU School of Professional Studies! ",
+        image: "assets/img/impact/innovation-social/climate-entrepreneurship.png",
+        description:
+          "Thrilled to have participated in the Climate Entrepreneurship Program at New York University and NYU School of Professional Studies! I explored unique value propositions, innovative business models, and the principles of the lean startup methodology. Unlike traditional approaches, lean startups focus on searching for the right business model, constantly testing, revising, and gathering customer feedback to rapidly iterate and refine products. This approach significantly reduces the risk of launching products that don't meet market needs, ensuring that we build solutions that truly resonate with our customers.",
+        link: "https://www.linkedin.com/posts/lilanofficial_business-climate-entrepreneurship-activity-7229988870195490816-abBZ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/climate-entrepreneurship.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Joining Entrepreneurial Discussions at the NYU Entrepreneurial Institute",
+    image: "assets/img/impact/innovation-social/silicon-alley.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Explored Silicon Alley and Engaged in an Interactive Founder Discussion",
+        image: "assets/img/impact/innovation-social/silicon-alley.png",
+        description:
+          "Explored Silicon Alley and engaged in an interactive founder discussion at the NYU Entrepreneurial Institute and NYU Leslie eLab, both at New York University. Silicon Alley, centered around Manhattan's Flatiron district, is a vibrant hub for high-tech companies. Grateful for the insightful contributions by Matt Parker, Jonas Günther, Jag Gill and Keith Mauppa.",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-startup-startups-activity-7231263302939463681-M7tj?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/silicon-alley.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Participating in the Future of AI Session",
+    image: "assets/img/impact/innovation-social/future-ai.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Exploring the Future of AI in Agriculture: Insights from Dr. Anand Verma's Session in New York",
+        image: "assets/img/impact/innovation-social/future-ai.png",
+        description:
+          "The session conducted by Anand Verma (Dr.) on the future of AI at Convene Center, Brookfield Place in New York, was insightful. Future generative AI in agriculture will enable businesses to optimize crop yields by analyzing vast datasets on soil, weather, and plant health, leading to more precise farming practices. It will also drive innovation in sustainable farming by generating new strategies for resource management, reducing waste, and enhancing food security. Additionally, generative AI will help businesses expand into new markets by creating customized, data-driven agricultural solutions tailored to different regions and climates.",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-elzian-elzianagro-activity-7231639967314194432-9ZRG?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/future-ai.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title:
+      "Participating in the workshop on the Hacking Solutions through Innovation, Networking, and Theory of Change",
+    image: "assets/img/impact/innovation-social/hacking-solution-workshop.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Interactive Workshop on Hacking Solutions at AFS Youth Assembly: Innovation, Networking, and Theory of Change",
+        image: "assets/img/impact/innovation-social/hacking-solution-workshop.png",
+        description:
+          "The workshop on the Hacking Solutions through Innovation, Networking, and Theory of Change by Lukas Findeisen and Larissa Cevallos at the AFS Youth Assembly in New York, USA was interactive. This workshop was designed to foster networking, innovation, and interactive learning among delegates. Participants engaged in collaborative problem-solving activities, and innovative thinking exercises, and gain insights into the Theory of Change model, empowering them to create impactful solutions to real-world challenges.",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-networking-theory-activity-7232004227005304832-uUZQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/hacking-solution-workshop.png",
+      },
+    ],
+  },
 ];
