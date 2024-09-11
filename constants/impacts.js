@@ -1214,4 +1214,262 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-innovation-social",
+    title: "Founder & Managing Director of Elzian Agro Incorporation",
+    image: "assets/img/impact/innovation-social/elzian-agro-page.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Precision Agriculture",
+        image: "assets/img/impact/innovation-social/precision-agriculture-linkedin.png",
+        description:
+          "Precision agriculture companies are at the forefront of revolutionizing the way we produce food. They use cutting-edge technology, such as drones, sensors, and artificial intelligence, to gather data that can help farmers make informed decisions about their crops. However, despite their advanced technology, precision agriculture companies should not be afraid to get their hands dirty, or, more accurately, their office suits.",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-data-activity-7051952614443270144-NItR/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/precision-agriculture-linkedin.png",
+      },
+      {
+        date: "",
+        source_name: "Elzian Agro",
+        source_link: "https://agro.elzian.com/index.html",
+        title: "About Elzian Agro",
+        image: "assets/img/impact/innovation-social/elzian-agro-page.png",
+        description:
+          "ELZIAN AGRO provides smart agronomy solutions to support mass cultivation farmers to monitor and automate their farmland. We offer customized monitoring information and automation solutions through trending digital technologies to optimize our customers' harvest and productively utilize their resources. According to United Nations Sustainable Reports, farmers negatively impact due to extreme weather changes and limited resources.",
+        link: "https://agro.elzian.com/about",
+        backup_image: "assets/img/impact/innovation-social/backup/elzian-agro-page.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title:
+      "Involve in Earth Observation Visualizations and Sustainable Lunar Activities at the International Atomic Energy Agency",
+    image: "assets/img/impact/innovation-social/exploring-cooperative-remediation.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Cooperative Remediation and Sustainable Lunar Activities at UNOOSA Conference",
+        image: "assets/img/impact/innovation-social/exploring-cooperative-remediation.png",
+        description:
+          "Yesterday was productive as I explored the process and principles for cooperative remediation of massive derelicts. Today, I'm eager to dive into more information on Earth Observation Visualizations, a side event organized by the United States. Additionally, I look forward to reflecting on the United Nations Office for Outer Space Affairs (UNOOSA) Conference on Sustainable Lunar Activities, Priorities, and Capacity Building. This joint side event is co-organized by the Secure World Foundation (SWF) and the Lunar Policy Platform (LPP), with support from the Republic of Korea.",
+        link: "https://www.linkedin.com/posts/lilanofficial_space-peace-food-activity-7211298002626351104-21-A/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/exploring-cooperative-remediation.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Guest Speaker for Business Segment of Vidulakara TV",
+    image: "assets/img/impact/innovation-social/vidulakara-uok.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Guest Speaker for Business Segment of Vidulakara TV",
+        image: "assets/img/impact/innovation-social/vidulakara-uok.png",
+        description:
+          "I am grateful to the Office of the Vice-Chancellor, Senior Professor Nilanthi de Silva (Vice Chancellor of the University of Kelaniya Sri Lanka), and the Communication and Media Unit for the invitation to participate in the Business Segment of Vidulakara TV. My sincere thanks also to Senior Lecturer Saman Rajapaksha (Director of the Media Unit), for his involvement. A special appreciation goes to Banuka Karunarathna from TV Derana for leading the session with such engaging interaction.",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-business-insights-activity-7228383979157041152-xc_g/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/vidulakara-uok.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Resolution Project Guide & Mentor",
+    image: "assets/img/impact/innovation-social/resolution-project.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Resolution Project",
+        source_link: "https://resolutionproject.org/",
+        title: "Lilan Dayananda",
+        image: "assets/img/impact/innovation-social/resolution-project.png",
+        description:
+          "Lilan Dayananda is an international award-winning youth social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South by the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
+        link: "https://resolutionproject.org/team/lilan-dayananda/",
+        backup_image: "assets/img/impact/innovation-social/backup/resolution-project.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Co-Founder & Managing Director of Earth Restoration Incorporation",
+    image: "assets/img/impact/innovation-social/earth-restoration-incorporation.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Earth Restoration",
+        source_link: "https://restore.earth/",
+        title: "Earth Restoration Incorporation",
+        image: "assets/img/impact/innovation-social/earth-restoration-incorporation.png",
+        description:
+          "EarthRestoration is a company that designs Adaptive Resilient Ecosystem Areas (AREAs) that are useful for humans and the planet. JOIN US!",
+        link: "https://restore.earth/",
+        backup_image: "assets/img/impact/innovation-social/backup/earth-restoration-incorporation.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Dubai Expo Live Innovation Program",
+    image: "assets/img/impact/innovation-social/dubai-expo-live.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Expo City Dubai",
+        source_link: "https://www.expocitydubai.com/en/",
+        title: "ELZIAN AGRO",
+        image: "assets/img/impact/innovation-social/dubai-expo-live.png",
+        description:
+          "Established in 2021, ELZIAN AGRO aims to improve the lives of communities through a data-driven digitalized agricultural system, harnessing technologies such IoT, AI, ML, GIS and Blockchain, to provide effective, sustainable solutions to end hunger in all its forms. Their validated (patent-pending) IoT-enabled monitoring devices allow farmers to monitor soil and liquid composition in real-time, predict issues before they happen and make informed decisions to optimize crop yields, while quantifying farmers’ contribution to the primary ecosystem services. ELZIAN AGRO have reached 100,000+ farmers with their awareness campaign.",
+        link: "https://www.expocitydubai.com/en/global-innovators/elzian-agro/",
+        backup_image: "assets/img/impact/innovation-social/backup/dubai-expo-live.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title:
+      "Daily FT: Elzian Agro becomes one of top finalists in Expo City Dubai ExpoLive Innovation Program",
+    image: "assets/img/impact/innovation-social/expoLive-innovation-program-daily-ft.png",
+    slides: [
+      {
+        date: "July 14, 2023",
+        source_name: "Daily FT",
+        source_link: "https://www.ft.lk/",
+        title: "Elzian Agro becomes one of top finalists in Expo City Dubai ExpoLive Innovation Program",
+        image: "assets/img/impact/innovation-social/expoLive-innovation-program-daily-ft.png",
+        description:
+          "Elzian Agro, a leading agricultural solutions company, was recognised as one of the top finalists in the prestigious Expo City Dubai ExpoLive Innovation Program...",
+        link: "https://www.ft.lk/sectors/Elzian-Agro-becomes-one-of-top-finalists-in-Expo-City-Dubai-ExpoLive-Innovation-Program/20-750577",
+        backup_image: "assets/img/impact/innovation-social/backup/expoLive-innovation-program-daily-ft.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Recognition from EXPO CITY DUBAI for the Impact and Reach through Elzian Agro",
+    image: "assets/img/impact/innovation-social/expo-city-dubai-recognition.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Expo City Dubai",
+        source_link: "https://www.expocitydubai.com/en/",
+        title: "ELZIAN AGRO",
+        image: "assets/img/impact/innovation-social/expo-city-dubai-recognition.png",
+        description:
+          "Established in 2021, ELZIAN AGRO aims to improve the lives of communities through a data-driven digitalized agricultural system, harnessing technologies such IoT, AI, ML, GIS and Blockchain, to provide effective, sustainable solutions to end hunger in all its forms. Their validated (patent-pending) IoT-enabled monitoring devices allow farmers to monitor soil and liquid composition in real-time, predict issues before they happen and make informed decisions to optimize crop yields, while quantifying farmers’ contribution to the primary ecosystem services. ELZIAN AGRO have reached 100,000+ farmers with their awareness campaign.",
+        link: "https://www.expocitydubai.com/en/global-innovators/elzian-agro",
+        backup_image: "assets/img/impact/innovation-social/backup/expo-city-dubai-recognition.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title:
+      "Lanka Business News: Elzian Agro is Championing Innovation and Impact in Precision Agriculture Technology",
+    image: "assets/img/impact/innovation-social/championing-innovation.png",
+    slides: [
+      {
+        date: "June 30, 2023",
+        source_name: "Lanka Business News",
+        source_link: "https://www.lankabusinessnews.com/",
+        title: "ELZIAN AGRO is Championing Innovation and impact in Precision Agriculture Technology",
+        image: "assets/img/impact/innovation-social/championing-innovation.png",
+        description:
+          "ELZIAN AGRO, a trailblazer in the field agricultural technology, emerged as a shining star at the prestigious SLASSCOM National Ingenuity Awards 2023. The event, which celebrated groundbreaking innovation and exceptional achievements in the tech industry...",
+        link: "https://www.lankabusinessnews.com/elzian-agro-is-championing-innovation-and-impact-in-precision-agriculture-technology/",
+        backup_image: "assets/img/impact/innovation-social/backup/championing-innovation.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Expo Live Innovation",
+    image: "assets/img/impact/innovation-social/expo-live-innovation-programme.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "ELZIAN AGRO Named Top Finalist in Expo City Dubai's Expo Live Innovation Programme",
+        image: "assets/img/impact/innovation-social/expo-live-innovation-programme.png",
+        description:
+          "We are thrilled and deeply privileged to announce that ELZIAN AGRO has emerged as one of the top finalists in the highly competitive Expo City Dubai hashtag#ExpoLive Innovation Programme held in Dubai. This remarkable achievement comes after a rigorous selection process that involved over thousands of applicants from 123 countries.",
+        link: "https://www.linkedin.com/posts/elzianagro_expolive-terra-expocitydubai-activity-7065784154159775744-rBK-/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/expo-live-innovation-programme.png",
+      },
+      {
+        date: "",
+        source_name: "",
+        source_link: "",
+        title: "Expo Live Present",
+        image: "assets/img/impact/innovation-social/expo-live-present.png",
+        description: "",
+        link: "https://drive.google.com/file/d/1FoF2CpQJB0w6DsxZPMyMKeko160hbtHv/view",
+        backup_image: "https://drive.google.com/file/d/1FoF2CpQJB0w6DsxZPMyMKeko160hbtHv/view",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Ceylon Tribune",
+    image: "assets/img/impact/innovation-social/ceylon-tribune-expo-live.png",
+    slides: [
+      {
+        date: "July 9, 2023",
+        source_name: "Ceylon Tribune",
+        source_link: "https://ceylontribune.com/",
+        title: "ELZIAN AGRO, A Rising Star in Dubai’s Expo Live Innovation Program",
+        image: "assets/img/impact/innovation-social/ceylon-tribune-expo-live.png",
+        description:
+          "ELZIAN AGRO, a prominent player in the agricultural solutions sector, has achieved an extraordinary feat by securing a coveted spot as one of the top finalists in the highly competitive Expo City Dubai ExpoLive Innovation Programme. The announcement, made on June 28th, 2023, is a testament to ELZIAN AGRO’s unwavering commitment to driving innovation and sustainability in the industry.",
+        link: "http://ceylontribune.com/?p=243",
+        backup_image: "assets/img/impact/innovation-social/backup/ceylon-tribune-expo-live.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Lanka News Network",
+    image: "assets/img/impact/innovation-social/lanka-news-network-elzian-agro.png",
+    slides: [
+      {
+        date: "July 9, 2023",
+        source_name: "Lanka News Network",
+        source_link: "https://english.lankanewsnetwork.com/",
+        title: "ELZIAN AGRO, A Rising Star in Dubai’s Expo Live Innovation Program",
+        image: "assets/img/impact/innovation-social/lanka-news-network-elzian-agro.png",
+        description:
+          "ELZIAN AGRO, a prominent player in the agricultural solutions sector, has achieved an extraordinary feat by securing a coveted spot as one of the top finalists in the highly competitive Expo City Dubai ExpoLive Innovation Programme. The announcement, made on June 28th, 2023, is a testament to ELZIAN AGRO’s unwavering commitment to driving innovation and sustainability in the industry.",
+        link: "https://english.lankanewsnetwork.com/?p=160",
+        backup_image: "assets/img/impact/innovation-social/backup/lanka-news-network-elzian-agro.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Biz Report",
+    image: "assets/img/impact/innovation-social/biz-report-expo-live.png",
+    slides: [
+      {
+        date: "July 4, 2023",
+        source_name: "Biz Report",
+        source_link: "https://english.bizreport.lk/",
+        title: "ELZIAN AGRO’s Extraordinary Achievement in Expo City Dubai’s Innovation Programme",
+        image: "assets/img/impact/innovation-social/biz-report-expo-live.png",
+        description:
+          "ELZIAN AGRO, the trailblazing agricultural solutions company, has emerged as one of the top finalists in the fiercely competitive Expo City Dubai ExpoLive Innovation Programme. The announcement, made on the 28th of June 2023, has catapulted ELZIAN AGRO to new heights, solidifying their position as an innovator committed to a sustainable and transformative future.",
+        link: "https://english.bizreport.lk/elzian-agros-extraordinary-achievement-in-expo-city-dubais-innovation-programme/",
+        backup_image: "assets/img/impact/innovation-social/backup/biz-report-expo-live.png",
+      },
+    ],
+  },
 ];
