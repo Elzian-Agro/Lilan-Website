@@ -2106,4 +2106,95 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-innovation-social",
+    title: "Elzian Agro Named Finalist in Falling Walls Science Startups Category",
+    image: "assets/img/impact/innovation-social/ceylon-tribune-ai-agro.png",
+    slides: [
+      {
+        date: "August 16, 2024",
+        source_name: "Ceylon Tribune",
+        source_link: "https://ceylontribune.com/",
+        title: "Elzian Agro Named Finalist in Falling Walls Science Startups Category",
+        image: "assets/img/impact/innovation-social/ceylon-tribune-ai-agro.png",
+        description:
+          "Elzian Agro has been recognized as a finalist in the Science Startups category by the prestigious Falling Walls Foundation. The Falling Walls Science Summit, an esteemed international forum for scientific breakthroughs, celebrates the fall of the Berlin Wall and fosters dialogue between science and society.",
+        link: "https://ceylontribune.com/?p=1134",
+        backup_image: "assets/img/impact/innovation-social/backup/ceylon-tribune-ai-agro.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Lilan to Expand Elzian Agro Operations to EU Through Malta",
+    image: "assets/img/impact/innovation-social/biz-report-malta.png",
+    slides: [
+      {
+        date: "August 21, 2024",
+        source_name: "Biz Report",
+        source_link: "https://english.bizreport.lk/",
+        title: "Elzian Agro to Expand Operations to EU Through Malta",
+        image: "assets/img/impact/innovation-social/biz-report-malta.png",
+        description:
+          "Lilan Dayananda, Managing Director and Chief Executive Officer of Elzian Agro, has unveiled the company’s ambitious plan to expand its operations into the European Union via Malta. In a productive meeting with Startup in EU partners and Koperattivi Malta, discussions centered on the economic potential of cooperatives in facilitating a sustainable transition to regenerative and precision agriculture for enhanced food security.",
+        link: "https://english.bizreport.lk/elzian-agro-to-expand-operations-to-eu-through-malta/",
+        backup_image: "assets/img/impact/innovation-social/backup/biz-report-malta.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title:
+      "Exploring Business Opportunities for Expanding into International Markets in the Context of Europe and the UAE",
+    image: "assets/img/impact/innovation-social/explora-business.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Explore Opportunities for Expanding into International Markets",
+        image: "assets/img/impact/innovation-social/explora-business.png",
+        description:
+          "Amidst a busy schedule, it was a pleasure to explore opportunities for expanding into international markets, specifically targeting Europe and the UAE, alongside Eddie Marsden-Jones in Colombo, Sri Lanka. Eddie is a seasoned technology leader with decades of C-suite experience, having held key roles as CIO for Europe’s largest tour operator group and a leading airline group in the Middle East. His impressive career also includes founding three successful businesses, including EddIT Consulting, and serving on the boards of SMEs in the HR services sector. Eddie’s entrepreneurial spirit and business development expertise are truly inspiring. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_technology-tech-europe-activity-7234941427019870209-x-Tf/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/explora-business.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Pitching at Convene Brookfield Place during the AFS Youth Assembly",
+    image: "assets/img/impact/innovation-social/social-enterprise.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Pitching Social Enterprise for Global Impact at AFS Youth Assembly in New York",
+        image: "assets/img/impact/innovation-social/social-enterprise.png",
+        description:
+          "I had the pleasure of pitching my social enterprise (ELZIAN AGRO), at Convene Brookfield Place during the AFS Youth Assembly in New York. The AFS Award for Young Global Citizens recognizes young people for their commitment to improving the global community and whose actions contribute to a more just, peaceful, and tolerant world.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-entrepreneurship-activity-7235538161362157568-vAZJ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/social-enterprise.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Participating in the workshop on “Winning Sales Pitch Tactics”",
+    image: "assets/img/impact/innovation-social/winning-sales-pitch-tactics.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Attended a Session on “Winning Sales Pitch Tactics”",
+        image: "assets/img/impact/innovation-social/winning-sales-pitch-tactics.png",
+        description:
+          "I recently had the opportunity to attend a session led by Anuradha Ekanayake, CEO of Suwanda, on “Winning Sales Pitch Tactics,” organized by New Generation Sri Lanka at Swastha by Link Natural, Colombo.",
+        link: "https://www.linkedin.com/posts/lilanofficial_sales-marketing-session-activity-7237851087506960384-xtid?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/winning-sales-pitch-tactics.png",
+      },
+    ],
+  },
 ];
