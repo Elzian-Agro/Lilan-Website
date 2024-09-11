@@ -1414,7 +1414,7 @@ const impacts = [
         image: "assets/img/impact/innovation-social/expo-live-present.png",
         description: "",
         link: "https://drive.google.com/file/d/1FoF2CpQJB0w6DsxZPMyMKeko160hbtHv/view",
-        backup_image: "https://drive.google.com/file/d/1FoF2CpQJB0w6DsxZPMyMKeko160hbtHv/view",
+        backup_image: "assets/img/impact/innovation-social/backup/expo-live-present.png",
       },
     ],
   },
@@ -1469,6 +1469,416 @@ const impacts = [
           "ELZIAN AGRO, the trailblazing agricultural solutions company, has emerged as one of the top finalists in the fiercely competitive Expo City Dubai ExpoLive Innovation Programme. The announcement, made on the 28th of June 2023, has catapulted ELZIAN AGRO to new heights, solidifying their position as an innovator committed to a sustainable and transformative future.",
         link: "https://english.bizreport.lk/elzian-agros-extraordinary-achievement-in-expo-city-dubais-innovation-programme/",
         backup_image: "assets/img/impact/innovation-social/backup/biz-report-expo-live.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "News Asia",
+    image: "assets/img/impact/innovation-social/news-asia-expo-live.png",
+    slides: [
+      {
+        date: "July 5, 2023",
+        source_name: "News Asia",
+        source_link: "https://newsasia.lk/",
+        title: "ELZIAN AGRO Honored as Top Selected Finalist in Dubai’s Expo Live Innovation Programme",
+        image: "assets/img/impact/innovation-social/news-asia-expo-live.png",
+        description:
+          "ELZIAN AGRO, a leading agricultural solutions company, has achieved a remarkable feat by emerging as one of the top finalists in the highly competitive Expo City Dubai ExpoLive Innovation Programme in June 2023. This prestigious recognition comes after an intensive selection process that saw thousands of applicants from 123 countries vying for the honor.",
+        link: "https://newsasia.lk/elzian-agro-honored-as-top-selected-finalist-in-dubais-expo-live-innovation-programme/",
+        backup_image: "assets/img/impact/innovation-social/backup/news-asia-expo-live.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Lanka News Network",
+    image: "assets/img/impact/innovation-social/lanka-news-network-technology.png",
+    slides: [
+      {
+        date: "July 6,2023",
+        source_name: "Lanka News Network",
+        source_link: "https://english.lankanewsnetwork.com/",
+        title: "ELZIAN AGRO is Igniting a Technological Revolution in Agriculture",
+        image: "assets/img/impact/innovation-social/lanka-news-network-technology.png",
+        description:
+          "ELZIAN AGRO soared to new heights, claiming the prestigious title of National Winner in the category of Best Disruptive Product Innovation. Their transformative product has revolutionized traditional agricultural practices, leaving an indelible mark on the industry. By pushing boundaries and introducing cutting-edge technologies, ELZIAN AGRO has redefined the possibilities within farming. Their groundbreaking solutions have elevated efficiency, productivity, and sustainability to unprecedented levels.",
+        link: "http://english.lankanewsnetwork.com/?p=147",
+        backup_image: "assets/img/impact/innovation-social/backup/lanka-news-network-technology.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Business Café",
+    image: "assets/img/impact/innovation-social/business-cafe-agri-solution.png",
+    slides: [
+      {
+        date: "June 29, 2023",
+        source_name: "Business Café",
+        source_link: "https://businesscafe.lk/",
+        title: "ELZIAN AGRO Secures Innovation Grant in Expo Live Innovation Programme",
+        image: "assets/img/impact/innovation-social/business-cafe-agri-solution.png",
+        description:
+          "Businesscafe - ELZIAN AGRO, a leading agricultural solutions company, has made waves in the industry by emerging as one of the top finalists in the fiercely competitive Expo City Dubai ExpoLive Innovation Programme in June 2023.",
+        link: "https://businesscafe.lk/business-news/food-beverage/item/12854-elzian-agro-secures-innovation-grant-in-expo-live-innovation-programme",
+        backup_image: "assets/img/impact/innovation-social/backup/business-cafe-agri-solution.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "News First Media",
+    image: "assets/img/impact/innovation-social/news-first-media-bio-currency.png",
+    slides: [
+      {
+        date: "",
+        source_name: "News First Media",
+        source_link: "https://www.youtube.com/@newsfirst.english",
+        title: "Introducing Bio Currency to the world",
+        image: "assets/img/impact/innovation-social/news-first-media-bio-currency.png",
+        description: "",
+        link: "https://www.youtube.com/watch?v=E1NJ7B2fbpQ&ab_channel=NewsfirstEnglish",
+        backup_image: "assets/img/impact/innovation-social/backup/news-first-media-bio-currency.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "European Council for Nuclear Research (CERN)",
+    image: "assets/img/impact/innovation-social/CERN-laboratory.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "CERN Laboratory",
+        image: "assets/img/impact/innovation-social/CERN-laboratory.png",
+        description:
+          "Founded in 1954, the CERN laboratory sits astride the Franco-Swiss border near Geneva. It was one of Europe's first joint ventures. At CERN, the European Organization for Nuclear Research, physicists and engineers are probing the fundamental structure of the universe. They use the world's largest and most complex scientific instruments to study the basic constituents of matter the fundamental particles. The particles are made to collide together at close to the speed of light. The process gives the physicists clues about how the particles interact, and provides insights into the fundamental laws of nature.",
+        link: "https://www.linkedin.com/posts/lilanofficial_cern-nuclear-nuclearenergy-activity-7123375218328289280-dw55?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/CERN-laboratory.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Stanford Seed Spark Mentorship",
+    image: "assets/img/impact/innovation-social/great-journey-elzian-agro.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "Grateful for the Journey with Stanford Seed",
+        image: "assets/img/impact/innovation-social/great-journey-elzian-agro.png",
+        description:
+          "Grateful for the incredible journey of growth and learning through the Stanford Seed. 🚀 We had the privilege of meeting our Stanford Seed Spark mentor, Mr. PN Subramanian, who has been an invaluable guide on this entrepreneurial adventure. 🌟",
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:7127087911107268608/",
+        backup_image: "assets/img/impact/innovation-social/backup/great-journey-elzian-agro.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Fuelling the Digital Economy through the INFOTEL ICT Exhibition",
+    image: "assets/img/impact/innovation-social/INFOTEL-exhibition.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "INFOTEL 2023 ICT Exhibition",
+        image: "assets/img/impact/innovation-social/INFOTEL-exhibition.png",
+        description:
+          "INFOTEL 2023 ICT Exhibition, organised by the Federation of Information Technology Industry Sri Lanka (FITIS), themed ‘Fuelling the Digital Economy, will focus on key areas of the digital economy to support the economy through intelligent and modern technology. The exhibition will also cover digital government, smart education, smart health solutions, cyber security, agritech, artificial intelligence (AI), smart cities, green energy, and others.",
+        link: "https://www.linkedin.com/posts/lilanofficial_informationtechnology-informationsecurity-activity-7127235218385637376-lJtI/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/INFOTEL-exhibition.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Global Entrepreneurship Week",
+    image: "assets/img/impact/innovation-social/spiralation.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Spiralation",
+        source_link: "https://www.linkedin.com/company/spiralation/posts/",
+        title: "Celebrating Entrepreneurs Worldwide",
+        image: "assets/img/impact/innovation-social/spiralation.png",
+        description:
+          "Embrace the chaos, celebrate the victories, and dance to the rhythm of your own entrepreneurial journey. Here's to the Mavericks making waves!",
+        link: "https://www.linkedin.com/posts/spiralation_gew2023-gewsrilanka-entrepreneurship-activity-7130809037218086912-iJCi/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/spiralation.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Global HEY Climate Fund Finalist",
+    image: "assets/img/impact/innovation-social/global-hey-instagram.png",
+    slides: [
+      {
+        date: "",
+        source_name: "The HEY Campaign",
+        source_link: "https://www.instagram.com/wearehey/?e=09b4fc84-9ad2-409c-9066-24fe727070ec&g=5",
+        title: "Meet our Global HEY Climate Fund Finalist Lilan Dayananda of Sri Lanka.",
+        image: "assets/img/impact/innovation-social/global-hey-instagram.png",
+        description:
+          "His project Earth Restoration LifeForce is the world's first Bio-Currency. As the leading technology partner for the International Analog Forestry Network, this group has analyzed decades (40 years) of data and built a correlation for our methodology to quantify the human contribution for Oxygen production and clean water cycling to the atmosphere with the help from international and local scientists and experts in Forestry, Analog forestry, Agroforestry, and regenerative farming.",
+        link: "https://www.instagram.com/p/ClpA9wNyxXi/?utm_source=ig_web_copy_link",
+        backup_image: "assets/img/impact/innovation-social/backup/global-hey-instagram.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Co-Founder of Founder Institute’s Fastest Growing Companies of 2023",
+    image: "assets/img/impact/innovation-social/founder-institute-growing-startup.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Founder Institute",
+        source_link: "https://www.linkedin.com/school/the-founder-institute/posts/",
+        title: "Discover Asia and Australia's fastest-growing startups in our latest FI50 Report!",
+        image: "assets/img/impact/innovation-social/founder-institute-growing-startup.png",
+        description:
+          "We're highlighting top startups from Asia and Australia in our global portfolio, showcasing their significant growth over the past year...",
+        link: "https://www.linkedin.com/posts/the-founder-institute_meet-our-top-10-startups-from-asia-and-australia-activity-7135713420305195008--lUS?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/founder-institute-growing-startup.png",
+      },
+      {
+        date: "",
+        source_name: "Founder Institute",
+        source_link: "https://fi.co/",
+        title: "ELZIAN AGRO",
+        image: "assets/img/impact/innovation-social/fi-elzian-agro.png",
+        description:
+          "Elzian Agro provides smart agronomy solution to farmers that reduces their crop wastage. In 2023 it was honored with multiple national and global awards, including Expo City Dubai.",
+        link: "https://fi.co/50/elzian-agro",
+        backup_image: "assets/img/impact/innovation-social/backup/fi-elzian-agro.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "International Renewable Energy Agency (IRENA) NewGen Startup Accelerator for Sustainable Future",
+    image: "assets/img/impact/innovation-social/conclusion-linkedin.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The conclusion of COP28 UAE",
+        image: "assets/img/impact/innovation-social/conclusion-linkedin.png",
+        description:
+          "The conclusion of COP28 UAE in the UAE stands as a timely reminder of the formidable climate challenges ahead, ones that have already touched us all. Amidst this awareness, however, lie significant victories that merit recognition.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-cop28-activity-7142878878489821184-MPbl?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/conclusion-linkedin.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "UNLEASH Innovation Lab 2022 in India",
+    image: "assets/img/impact/innovation-social/UNLEASH-certificate.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "UNLEASH Innovation Lab 2022 in India",
+        image: "assets/img/impact/innovation-social/UNLEASH-certificate.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-activity-7025044954561318912-zlpO?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/UNLEASH-certificate.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "UNLEASH Plus Accelerator 2023 in Rwanda",
+    image: "assets/img/impact/innovation-social/UNLEASH-rwanda.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "UNLEASH Plus Accelerator 2023 in Rwanda",
+        image: "assets/img/impact/innovation-social/UNLEASH-rwanda.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdgs-unleash-startup-activity-7143356516790616064-P9h9?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/UNLEASH-rwanda.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Supporting the World Bank to layout Social Entrepreneurial Programs",
+    image: "assets/img/impact/innovation-social/meet-parmesh-snah.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Productive Discussion with Parmesh Shah on Sri Lankan Agricultural Challenges and Solutions",
+        image: "assets/img/impact/innovation-social/meet-parmesh-snah.png",
+        description:
+          "I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions in the context of Sri Lankan agriculture. I would like to extend my appreciation to Sunil Madan, MPA for arranging the meeting.",
+        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/meet-parmesh-snah.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title:
+      "TechRound has recognized ELZIAN AGRO (founded by Lilan) as one of the top 10 Sri Lankan startups that are worth keeping an eye on",
+    image: "assets/img/impact/innovation-social/ten-startup.png",
+    slides: [
+      {
+        date: "March 20, 2024",
+        source_name: "Tech Round",
+        source_link: "https://techround.co.uk/",
+        title: "10 Startups In Sri Lanka To Watch",
+        image: "assets/img/impact/innovation-social/ten-startup.png",
+        description:
+          "Sri Lanka, known for its incredible culture, amazing nature and kind people is also home to hundreds of startups. Here, we take a closer look at ten startups in Sri Lanka that are worth keeping an eye on.",
+        link: "https://techround.co.uk/startups/10-startups-in-sri-lanka-to-watch/",
+        backup_image: "assets/img/impact/innovation-social/backup/ten-startup.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Ye! Youth Ecopreneur Programme",
+    image: "assets/img/impact/innovation-social/youth-ecopreneur-programme.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Participant Feature #YECO 2024",
+        image: "assets/img/impact/innovation-social/youth-ecopreneur-programme.png",
+        description:
+          "Elzian Agro offers IoT monitoring systems and automation for efficient agricultural operations, supporting smallholder farmers with sustainable solutions.",
+        link: "https://www.linkedin.com/posts/ye-community_greeninnovation-youthecopreneurs-generationrestoration-activity-7229095428045090817-CjMe?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/youth-ecopreneur-programme.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Proud to have been selected for #YECO 2024",
+        image: "assets/img/impact/innovation-social/YECO-selected.png",
+        description:
+          "Excited to share that I've been chosen for the Ye! Youth Ecopreneur Programme 2024 powered by the Ye! Community / International Trade Centre and G20 Global Land Initiative.",
+        link: "https://www.linkedin.com/posts/lilanofficial_yeco-yeco24-yeyouthecopreneur-activity-7188950771411890177-IIA9?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/YECO-selected.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Stanford Seed Programs",
+    image: "assets/img/impact/innovation-social/seed-transformation-program.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Seed Transformation Program",
+        image: "assets/img/impact/innovation-social/seed-transformation-program.png",
+        description:
+          "The Seed Transformation Program caters specifically to established enterprises, offering a robust curriculum led by esteemed faculty from Stanford University Graduate School of Business and experienced advisors.",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-startup-business-activity-7192213003562328064-_9YK?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/seed-transformation-program.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Ye! Youth Ecopreneur Program",
+    image: "assets/img/impact/innovation-social/ye-community-participants.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Ye! Community",
+        source_link: "https://social.yecommunity.com/",
+        title: "Ye! Youth Ecopreneur Programme Participants",
+        image: "assets/img/impact/innovation-social/ye-community-participants.png",
+        description: "",
+        link: "https://social.yecommunity.com/page/faqs-1631efab-82fb-4014-8041-a196073bb453?lang=es",
+        backup_image: "assets/img/impact/innovation-social/backup/ye-community-participants.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Lilan's social venture (Elzian Agro) as the finals of Food Tech Congress Challengers 2024",
+    image: "assets/img/impact/innovation-social/food-challengers.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "We are the finalists of Food Tech Challengers 2024",
+        image: "assets/img/impact/innovation-social/food-challengers.png",
+        description:
+          "Big news! We're rocketing to the finals of Food Tech Challengers 2024! 🚀 Mark your calendars for May 28-29, 2024 (Warsaw, Poland) and come support us at the event as we will pitch on stage!",
+        link: "https://www.linkedin.com/posts/elzianagro_ftc2024-food-agriculture-activity-7194706426177466368-idki?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/food-challengers.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title: "Addressing the Global Leadership Summit 2024",
+    image: "assets/img/impact/innovation-social/global-leadership-summit.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Addressing the Global Leadership Summit 2024",
+        image: "assets/img/impact/innovation-social/global-leadership-summit.png",
+        description:
+          "It is such a pleasure to address the Global Leadership Summit representing ELZIAN AGRO, which is taking place this coming week in partnership with - ForbesBLK, United Nations Association of the United States of America, UNDP , Youth4Climate, World Health Organization Partnership for Maternal and Child Health, Ye! Community - International Trade Centre, Partnership for the Goals - Goal17 Mentoring, Theirworld Global Youth Ambassadors, UNITE 2030, and Bolycthier .",
+        link: "https://www.linkedin.com/posts/lilanofficial_socialimpact-sdgs-youth-activity-7194714123773906944-hjFp?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/global-leadership-summit.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    title:
+      'Addressing the World Summit on the Information Society (WSIS) Forum High-Level Event, WSA session, titled "Youth Engagement Around WSIS Action Lines”',
+    image: "assets/img/impact/innovation-social/addressing-world-summit.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          'Addressing the World Summit on the Information Society (WSIS) Forum High-Level Event, WSA session, titled "Youth Engagement Around WSIS Action Lines”',
+        image: "assets/img/impact/innovation-social/addressing-world-summit.png",
+        description:
+          "It is a pleasure to contribute to the WSA session at the World Summit on the Information Society (WSIS Process) Forum High-Level Event in Geneva, Switzerland, co-hosted by the International...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-wsis-itu-activity-7200804008263917570-oDjz?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/addressing-world-summit.png",
+      },
+      {
+        date: "",
+        source_name: "WSIS+20 Forum High-Level Event 2024",
+        source_link: "https://www.itu.int/net4/wsis/forum/2024/",
+        title: "Youth Engagement Around WSIS Action Lines",
+        image: "assets/img/impact/innovation-social/wsis-forum.png",
+        description:
+          'The WSIS Action Lines, outline steps to leverage information and communication technologies (ICTs) for sustainable development. The WSA  session titled "Youth Engagement Around WSIS Action Lines" focuses on the critical role young people play in advancing the Tunis agenda, specifically around action line C7.',
+        link: "https://www.itu.int/net4/wsis/forum/2024/Agenda/Session/185",
+        backup_image: "assets/img/impact/innovation-social/backup/wsis-forum.png",
       },
     ],
   },
