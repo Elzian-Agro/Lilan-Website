@@ -579,6 +579,12 @@ PHP Email Form Messages
   font-weight: 700;
 }
 
+@media screen and (max-width: 500px) {
+  .page-title .heading h1 {
+    font-size: 25px;
+  }
+}
+
 .page-title nav {
   background-color: color-mix(in srgb, var(--default-color), transparent 90%);
   padding: 20px 0;
@@ -949,7 +955,6 @@ section,
     height: 310px;
   }
 }
-
 
 .impact .impact-image {
   width: 100%;
@@ -1399,7 +1404,6 @@ section,
   z-index: 1000;
   opacity: 0;
   transition: opacity 0.3s ease; /* Fade transition */
-  overflow-y: auto;
 }
 
 .recommendation .rc-popup.show {
@@ -1414,6 +1418,7 @@ section,
   padding: 20px;
   border-radius: 8px;
   height: 80%;
+  overflow-y: auto;
 }
 
 .recommendation .popup-close-btn {
