@@ -1854,7 +1854,7 @@ const impacts = [
   {
     filter: "filter-innovation-social",
     title:
-      'Addressing the World Summit on the Information Society (WSIS) Forum High-Level Event, WSA session, titled "Youth Engagement Around WSIS Action Lines”',
+      'Addressing the WSIS Forum High-Level Event, WSA session, titled "Youth Engagement Around WSIS Action Lines”',
     image: "assets/img/impact/innovation-social/addressing-world-summit.png",
     slides: [
       {

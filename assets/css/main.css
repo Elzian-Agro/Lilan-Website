@@ -929,12 +929,31 @@ section,
   .impact .impact-filters li {
     font-size: 14px;
     margin: 5px;
-    width: 100%; 
+    width: 100%;
+  }
+}
+
+.impact .impact-content {
+  height: 280px;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .impact .impact-content {
+    height: 100%;
+  }
+}
+
+@media (min-width: 1400px) {
+  .impact .impact-content {
+    height: 310px;
   }
 }
 
 
-.impact .impact-content {
+.impact .impact-image {
+  width: 100%;
+  height: auto;
   overflow: hidden;
 }
 
@@ -942,27 +961,17 @@ section,
   transition: 0.3s;
 }
 
-.impact .impact-info {
-  margin-top: 10px;
-}
-
-.impact .impact-info h4 {
+.impact .impact-content h4 {
   color: var(--accent-color);
   text-decoration: none;
   transition: 0.3s;
   font-size: 18px;
   font-weight: 400;
   display: inline-block;
+  padding-top: 10px;
 }
 
-.impact .impact-info p {
-  font-size: 15px;
-  font-weight: 600;
-  color: rgba(255, 255, 255, 0.8);
-  text-align: justify;
-}
-
-.impact .impact-content:hover img {
+.impact .impact-content img:hover {
   transform: scale(1.1);
   cursor: pointer;
 }
