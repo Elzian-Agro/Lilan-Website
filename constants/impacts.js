@@ -2197,4 +2197,91 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-food-agriculture",
+    title: "Addressing the FAO Global Conference on Sustainable Livestock Transformation",
+    image: "assets/img/impact/food-agriculture-forestry/empowering-youth-voices.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Youth Perspectives in Action: Insights from the FAO Global Conference on Sustainable Livestock Transformation",
+        image: "assets/img/impact/food-agriculture-forestry/youth-perspectives.png",
+        description:
+          "It was such a pleasure to contribute to this, representing youth perspectives. The release of the Proceedings from the FAO Global Conference on Sustainable Livestock Transformation! 🌿🐄🐓🐖🐃🐪🐑🐐🦆🐫🦙🐣🐝🌾🌿 This in-depth document provides a thorough overview of the conference, highlights from the global youth dialogue, and showcases inspiring success stories in sustainable livestock practices. It's a must-read for anyone committed to advancing sustainable livestock management.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-youth-activity-7226435931652734976-K7cT/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/youth-perspectives.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Empowering Youth Voices: Advocating for Sustainable Livestock Transformation at FAO Headquarters",
+        image: "assets/img/impact/food-agriculture-forestry/empowering-youth-voices.png",
+        description:
+          "I am deeply honored to have received an invitation to participate in the inaugural Global Youth Dialogue on Sustainable Livestock Transformation. This momentous event took place in parallel with the FAO Global Conference on Sustainable Livestock Transformation at the illustrious FAO headquarters of the United Nations in Rome, Italy. I am privileged to have been given the platform to advocate for the voices of youth and to share innovative ideas on this critical topic.",
+        link: "https://www.linkedin.com/posts/lilanofficial_i-am-deeply-honored-to-have-received-an-invitation-activity-7113953023562846208-i0i4/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/empowering-youth-voices.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title: "Addressing the FAO Global Conference on Sustainable Agricultural Mechanization (GAMC)",
+    image: "assets/img/impact/food-agriculture-forestry/championing-innovation.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Championing Innovation: Participation in the Inaugural Global Conference on Sustainable Agricultural Mechanization",
+        image: "assets/img/impact/food-agriculture-forestry/championing-innovation.png",
+        description:
+          "I am deeply honored to have received an invitation to participate in the first-ever Global Conference on Sustainable Agricultural Mechanization (GAMC), with the theme “Efficiency, Inclusiveness and Resilience” at the FAO headquarters of the United Nations in Rome, Italy.",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-agriculture-mechanization-activity-7114649865845964800-shBn?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/championing-innovation.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title: "Food and Agriculture Organization (FAO) Committee on World Food Security",
+    image: "assets/img/impact/food-agriculture-forestry/fao-cb3426t.png",
+    slides: [
+      {
+        date: "February 2021",
+        source_name: "COMMITTEE ON WORLD FOOD SECURITY",
+        source_link: "",
+        title: "Food and Agriculture Organization (FAO) Committee on World Food Security",
+        image: "assets/img/impact/food-agriculture-forestry/fao-cb3426t.png",
+        description: "",
+        link: "https://www.fao.org/3/cb3426t/cb3426t.pdf",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/fao-cb3426t.pdf  ",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title:
+      "The Healthy and Environment-friendly Youth (HEY) Global Parliament - Minister of Agriculture and Food Security",
+    image: "assets/img/impact/food-agriculture-forestry/leading-climate-action.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Leading Climate Action: Lilan Dayananda Appointed Minister of Agriculture and Food Security at Global HEY Parliament",
+        image: "assets/img/impact/food-agriculture-forestry/leading-climate-action.png",
+        description:
+          "The Healthy and Environment-friendly Youth (HEY) Global Parliament - Minister of Agriculture and Food Security – Lilan Dayananda.",
+        link: "https://www.linkedin.com/posts/lilanofficial_development-food-agriculture-activity-6972726955674673152-xskB?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/leading-climate-action.png",
+      },
+    ],
+  },
 ];
