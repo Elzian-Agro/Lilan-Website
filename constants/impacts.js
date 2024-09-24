@@ -2284,4 +2284,536 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-food-agriculture",
+    title: "The Sustainable Agriculture & Agricultural Technology Summit Panelist",
+    image: "assets/img/impact/food-agriculture-forestry/logytalks-linkedin.png",
+    slides: [
+      {
+        date: "September 1, 2022",
+        source_name: "Logy Talks",
+        source_link: "https://www.logytalks.com/",
+        title: "Sustainable Agriculture & Agricultural Technology Summit ",
+        image: "assets/img/impact/food-agriculture-forestry/logytalks.png",
+        description:
+          "As a part of our monthly summits, join us this upcoming September 1st for the Sustainable Agriculture and Agricultural Technology Summit to address the challenges, future directions, latest updates, insights, perspectives, and the best practices for sustainable agriculture! The Sustainable Agriculture and Agricultural Technology Summit will gather key industry players around the world to discuss current issues and emerging opportunities through the lens of science and technology.",
+        link: "https://www.logytalks.com/summit/the-sustainable-agriculture-and-agricultural-technology-summit",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/logytalks.png",
+      },
+      {
+        date: "",
+        source_name: "Logy Talks",
+        source_link: "https://www.linkedin.com/company/logytalks/posts/",
+        title: "Welcome our guest speaker Lilan Dayananda Co-founder & CEO @ ELZIANAGRO",
+        image: "assets/img/impact/food-agriculture-forestry/logytalks-linkedin.png",
+        description:
+          "We are glad to welcome our guest speaker Lilan Dayananda Co-founder & CEO @ELZIANAGRO, and Commonwealth Youth Awardee for Excellence in Development Work 2022, at our upcoming summit “The Sustainable Agriculture and Agricultural Technology Summit”, his session’s topic will be about the “Impact of Analog Forestry and Precision Agriculture for Sustainable Agriculture”.",
+        link: "https://www.linkedin.com/posts/logytalks_logytalks-summit-webinar-activity-6965351571513581569-22ic/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/logytalks-linkedin.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title:
+      "The Global Youth Dialogue on Sustainable Livestock Transformation and the Global Conference on Sustainable Agricultural Mechanization",
+    image: "assets/img/impact/food-agriculture-forestry/global-youth-dialogue.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "The Global Youth Dialogue on Sustainable Livestock Transformation and the Global Conference on Sustainable Agricultural Mechanization were insightful at the FAO headquarters in Rome (Italy).",
+        image: "assets/img/impact/food-agriculture-forestry/global-youth-dialogue.png",
+        description: "Looking forward to the World Food Forum...",
+        link: "https://www.linkedin.com/posts/lilanofficial_the-global-youth-dialogue-on-sustainable-activity-7115979716955668480-_3MU?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/global-youth-dialogue.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title:
+      "Lilan's initiative (ELZIAN AGRO) on Food & Agriculture Organization (FAO) Digital Village Initiative Knowledge Exchange Platform",
+    image: "assets/img/impact/food-agriculture-forestry/fao-agro-mate.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Food and Agriculture Organization of the United Nations",
+        source_link: "https://alphaportal.in/beta/fao/index.php",
+        title: "ELZIAN-AGRO-MATE FARMLAND AUTOMATION SYSTEM",
+        image: "assets/img/impact/food-agriculture-forestry/fao-agro-mate.png",
+        description:
+          "Elzian-Agro-Mate is an automation system with many sensors consisting of a combination of hardware and software that serves as a supervisor in charge of irrigation and other associated operations of agriculture, it is an automated irrigation system that continually measures the moisture level in the soil. The Automated irrigation system may use to irrigate farmland with different irrigation needs. While the system is primarily intended for agricultural irrigation, it may use for automated plant watering, fertilizer, and pesticide spraying automation.",
+        link: "https://alphaportal.in/beta/fao/digital_solutions_details.php?id=19",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/fao-agro-mate.png",
+      },
+      {
+        date: "",
+        source_name: "Food and Agriculture Organization of the United Nations",
+        source_link: "https://alphaportal.in/beta/fao/index.php",
+        title: "ELZIAN-AGRO-EARTH RESTORATION LIFEFORCE SYSTEM",
+        image: "assets/img/impact/food-agriculture-forestry/lifeforce-system.png",
+        description:
+          "Energized by the photosynthesis process, contracted - primary ecosystem services (C-PES ) lays the foundations of recording and regulating living wealth generation of ‘tree-farming’ in the context of re-establishing traditional agrarian systems (agroecological systems). Our LifeForce project is capable of demonstrating to the observer our alternate vision for placing new value into existing agro-economies, both digital and fiat-backed (blockchain-secured). Unlocking PES values is done by growing 40+ pan-tropical tree species, whose biomass accretion curves are verified by our Photosynthetic Biomass verification application (PBV app).",
+        link: "https://alphaportal.in/beta/fao/digital_solutions_details.php?id=20",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/lifeforce-system.png",
+      },
+      {
+        date: "",
+        source_name: "Food and Agriculture Organization of the United Nations",
+        source_link: "https://alphaportal.in/beta/fao/index.php",
+        title: "AGRO EYE FARMLAND MONITORING SYSTEM",
+        image: "assets/img/impact/food-agriculture-forestry/monitoring-system.png",
+        description:
+          "Elzian-Agro-Eye system is a high-precision outdoor environmental weather and soil monitoring system that is mainly used for industrial and agricultural meteorological environment monitoring. Its support structure is composed of a high-strength pole and three beams through expansion screws, which can effectively resist strong winds. Various weather sensors are installed on the beam, which can accurately measure the current environment’s temperature and humidity, wind speed, wind direction, rainfall, solar radiation, illumination, atmospheric pressure, rainfall, soil moisture/NPK level, soil conductivity.",
+        link: "https://alphaportal.in/beta/fao/digital_solutions_details.php?id=18",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/monitoring-system.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title: "Supporting World Bank Group to initiate Precision Agriculture Projects",
+    image: "assets/img/impact/food-agriculture-forestry/discussion-with-parmesh.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Productive Discussion on Sri Lankan Agriculture with Parmesh Shah",
+        image: "assets/img/impact/food-agriculture-forestry/discussion-with-parmesh.png",
+        description:
+          "I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions in the context of Sri Lankan agriculture. I would like to extend my appreciation to Sunil Madan, MPA for arranging the meeting.",
+        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/discussion-with-parmesh.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title: "Addressing the Commonwealth and the year of the Youth Project",
+    image: "assets/img/impact/food-agriculture-forestry/kick-off-partnership.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Joseph A.",
+        source_link: "https://www.linkedin.com/in/joseph-a-662016285/",
+        title: "Officially kick off our partnership with The Commonwealth and the year of the youth project",
+        image: "assets/img/impact/food-agriculture-forestry/kick-off-partnership.png",
+        description:
+          "We’ve worked for months to put together a world class line up designed to inspire, equip, and unleash young people to participate in the world’s most important industries. ",
+        link: "https://www.linkedin.com/posts/joseph-a-662016285_agriculture-sustainability-digitalagriculture-activity-7176184384708849664-MEUd?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/kick-off-partnership.png",
+      },
+      {
+        date: "",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "Nurturing Agricultures for a Sustainable Future",
+        image: "assets/img/impact/food-agriculture-forestry/nurturing-agricultures.png",
+        description:
+          "Our Managing Director Lilan Dayananda will deliver a speech today at the interactive Agrivine webinar on unleashing youth potential in Agriculture.",
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:7176551534116106241",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/nurturing-agricultures.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title:
+      "Facilitating an event regarding climate-smart, data-driven precision agriculture for IDB at the Food Harvest Expo",
+    image: "assets/img/impact/food-agriculture-forestry/agriculture-intersects.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "The reality check on Sri Lankan agriculture intersects with the myriad outcomes of international trade.",
+        image: "assets/img/impact/food-agriculture-forestry/agriculture-intersects.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-food-tech-activity-7180118115521904640-E1Aq?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/agriculture-intersects.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title:
+      "TechRound has recognized ELZIAN AGRO (founded by Lilan) as one of the top 10 Sri Lankan startups that are worth keeping an eye on",
+    image: "assets/img/impact/food-agriculture-forestry/techround-startup.png",
+    slides: [
+      {
+        date: "March 20, 2024",
+        source_name: "Tech Round",
+        source_link: "https://techround.co.uk/",
+        title: "10 Startups In Sri Lanka To Watch",
+        image: "assets/img/impact/food-agriculture-forestry/techround-startup.png",
+        description:
+          "Sri Lanka, known for its incredible culture, amazing nature and kind people is also home to hundreds of startups. Here, we take a closer look at ten startups in Sri Lanka that are worth keeping an eye on.",
+        link: "https://techround.co.uk/startups/10-startups-in-sri-lanka-to-watch/",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/techround-startup.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title: "Addressing the Pitch2Fork event by the U.S. Soybean Export Council (USSEC)",
+    image: "assets/img/impact/food-agriculture-forestry/Pitch2Fork.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Attend the Pitch2Fork Event in Dubai",
+        image: "assets/img/impact/food-agriculture-forestry/Pitch2Fork.png",
+        description:
+          "It was a pleasure to attend the recent Pitch2Fork event in Dubai, UAE, where I had the opportunity to meet distinguished individuals such as Henry Gordon-Smith, CEO of Agritecture; Khalid Roumieh, CEO of Tech.Tracer ; and Roberto Vitón, Managing Director of Valoral Advisors.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-protein-activity-7194743457200947200-pgd1?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/Pitch2Fork.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Pitch2Fork event in Dubai",
+        image: "assets/img/impact/food-agriculture-forestry/Pitch2Fork-dubai.png",
+        description:
+          "The Pitch2Fork event in Dubai culminated in resounding success, featuring distinguished speakers who shared invaluable insights.",
+        link: "https://www.linkedin.com/posts/lilanofficial_pitch2fork-food-agriculture-activity-7193273074526359553-VvV2?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/Pitch2Fork-dubai.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title:
+      "Fostering Food and Agriculture Innovation with AHK Sri Lanka, Part of the German Chamber Network Supported by BMWK",
+    image: "assets/img/impact/food-agriculture-forestry/meet-marie.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Meeting with Marie Antonia von Schönburg, Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka",
+        image: "assets/img/impact/food-agriculture-forestry/meet-marie.png",
+        description:
+          "It was a pleasure to have had the opportunity to meet Marie Antonia von Schönburg, Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka...",
+        link: "https://www.linkedin.com/posts/lilanofficial_delegation-germany-srilanka-activity-7194530994920562689-Y1xs?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/meet-marie.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Anuga Partners Forum: Driving Global Collaboration and Innovation for a Sustainable and Fair Food System",
+        image: "assets/img/impact/food-agriculture-forestry/food-growing.png",
+        description:
+          "In a time when the world of nutrition is becoming increasingly global, and the importance of sustainability and healthy food is growing, it is crucial that we connect with one another to collectively find solutions. The latest Anuga Partners Forum hosted by Koelnmesse GmbH focused on the Anuga Food Tech India.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7194982140239888384-Yr2U?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/food-growing.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title: "Lilan's social venture (Elzian Agro) as the finals of Food Tech Congress Challengers 2024",
+    image: "assets/img/impact/food-agriculture-forestry/food-challengers.JPEG",
+    slides: [
+      {
+        date: "",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "We are the Finalissts of Foood Tech Challengers 2024",
+        image: "assets/img/impact/food-agriculture-forestry/food-challengers.JPEG",
+        description:
+          "Big news! We're rocketing to the finals of Food Tech Challengers 2024! 🚀 Mark your calendars for May 28-29, 2024 (Warsaw, Poland) and come support us at the event as we will pitch on stage!",
+        link: "https://www.linkedin.com/posts/elzianagro_ftc2024-food-agriculture-activity-7194706426177466368-idki?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/food-challengers.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title:
+      "Anuga Partners Forum: Strengthening Elzian Agro's Partnership with EDB, Focused on Anuga Food Tech India",
+    image: "assets/img/impact/food-agriculture-forestry/anuga-partners-forum.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Anuga Partners Forum",
+        image: "assets/img/impact/food-agriculture-forestry/anuga-partners-forum.png",
+        description:
+          "During the latest Anuga Partners Forum, hosted by Koelnmesse GmbH and focused on Anuga Food Tech India, I had the pleasure of meeting Dr. Kingsley Bernard, Chairman and Chief Executive Officer of the Export Development Board (EDB). I took the opportunity to express my appreciation for his continuous support towards ELZIAN AGRO.",
+        link: "https://www.linkedin.com/posts/lilanofficial_export-food-agriculture-activity-7197981542634176512-djp_?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/anuga-partners-forum.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title: "Lilan's initiative (ELZIAN AGRO) Named Finalist in World Bank Youth Innovation Challenge",
+    image: "assets/img/impact/food-agriculture-forestry/innovation-challenge.png",
+    slides: [
+      {
+        date: "May 24, 2024",
+        source_name: "Profit Magazine",
+        source_link: "https://profitmagazine.lk/",
+        title: "Elzian Agro Named Finalist in World Bank Youth Innovation Challenge",
+        image: "assets/img/impact/food-agriculture-forestry/innovation-challenge.png",
+        description:
+          "Elzian Agro, a precision agriculture company based in Sri Lanka, was selected as a finalist in the World Bank Youth Innovation Challenge under the category of water solutions for a new climate reality. Elzian Agro was selected among the top 40 finalists in the World Bank Youth Innovation Challenge. Their excellent innovation was chosen from over 1,600 registrations from 95 countries and more than 300 outstanding applications from 63 countries.",
+        link: "https://profitmagazine.lk/elzian-agro-named-finalist-in-world-bank-youth-innovation-challenge/",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/innovation-challenge.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title: "Contributing to the food security through the Centre for Diplomatic Advancement",
+    image: "assets/img/impact/food-agriculture-forestry/precision-agro.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Bridging Technology and Diplomacy: Precision Agriculture and Inclusive Collaboration for Global Food Security",
+        image: "assets/img/impact/food-agriculture-forestry/precision-agro.png",
+        description:
+          "Food insecurity, affecting millions globally, is not just about a lack of food but also encompasses issues of access, knowledge, and support. Precision agriculture, which utilizes advanced technologies like climate-smart farming, data-driven techniques, and sustainable practices, can revolutionize food production by making it more efficient and resilient. However, technological solutions alone are insufficient.",
+        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-democracy-food-activity-7200943955910250496-IYGS?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/precision-agro.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title: "Synergizing with the Founder Institute Food Ecosystem Entrepreneurs",
+    image: "assets/img/impact/food-agriculture-forestry/food-ecosystems-accelerator.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Founder Institute Food Ecosystems Accelerator",
+        image: "assets/img/impact/food-agriculture-forestry/food-ecosystems-accelerator.png",
+        description:
+          "The Founder Institute Food Ecosystems Accelerator provided an incredible opportunity to network with like-minded entrepreneurs on a global scale. As proud graduates of Founder Institute, we continuously leverage our synergies and optimize our growth through strategic affiliations. It’s always a pleasure to meet with Khalid Roumieh in person whenever we're in Dubai to discuss the progress of our ventures.",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-networking-startup-activity-7207865987461763073-HPw1?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/food-ecosystems-accelerator.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title: "Signing agreements with Koperattivi Malta for Maltan Food Security",
+    image: "assets/img/impact/food-agriculture-forestry/meet-malta.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting with Koperattivi Malta",
+        image: "assets/img/impact/food-agriculture-forestry/meet-malta.png",
+        description:
+          " I had the pleasure of meeting with Koperattivi Malta to discuss the economic potential of cooperatives in facilitating a sustainable transition to regenerative and precision agriculture for food security. I would like to express my appreciation to the Koperattivi Malta Team for their professional engagement and proactive interaction during our initial meeting.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7214649124418203648-XIK-?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/meet-malta.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title:
+      "Visiting & Demonstrating about Precision Agriculture at the National Museum of Agriculture in Ostrava, Czech Republic",
+    image: "assets/img/impact/food-agriculture-forestry/national-museum.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visit the National Museum of Agriculture in Ostrava, Czech Republic",
+        image: "assets/img/impact/food-agriculture-forestry/national-museum.png",
+        description:
+          "It was a nice experience to visit the National Museum of Agriculture in Ostrava, Czech Republic. It offers expositions focused on food and agriculture machines. The third area of focus is Ostrava in the wider view of the region of northern Moravia and Bohemian Silesia. I also explained what we innovate at ELZIAN AGRO.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7220437738787856384-JTJQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/national-museum.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title: "Impact with AI Session with Brandon Andrews",
+    image: "assets/img/impact/food-agriculture-forestry/elzian-agro-ai.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Brandon Andrews",
+        source_link: "https://www.linkedin.com/in/mrbrandonandrews/",
+        title: "How ELZIAN AGRO uses AI Uses to Support Farmers",
+        image: "assets/img/impact/food-agriculture-forestry/elzian-agro-ai.png",
+        description:
+          "Lilan Dayananda shares how ELZIAN AGRO uses AI uses to support farmers in the latest episode of Impact with AI. ",
+        link: "https://www.linkedin.com/posts/mrbrandonandrews_entrepreneurs-sustainabledevelopment-artificialintelligence-activity-7222249134651555840-Ap_l?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/elzian-agro-ai.png",
+      },
+      {
+        date: "",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title:
+          'Lilan Dayananda on "Impact with AI": Exploring AI\'s Potential and Implications for Agriculture',
+        image: "assets/img/impact/food-agriculture-forestry/impact-with-ai.png",
+        description:
+          'Our Managing Director Lilan Dayananda, appeared on "Impact with AI" and discussed the potential and current implications of AI for agriculture.',
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:7221080232315772929",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/impact-with-ai.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Podcast Session with Brandon Andrews",
+        image: "assets/img/impact/food-agriculture-forestry/podcast-with-andrews.png",
+        description:
+          "My podcast session with Brandon Andrews is coming soon. Brandon is an entrepreneur, entertainment consultant, and policy expert. He meets thousands of entrepreneurs each year casting for ABC's Shark Tank ABC. He is cofounder and Chief Product Officer of Gauge - a mobile market research platform. Named a Global Innovation Fellow by the U.S. Department of State, ",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-sdg2-activity-7221077763934371840-EjXY?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/podcast-with-andrews.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title:
+      "Participate in the FOODTECH high-level meeting at the United Nations Industrial Development Organization (UNIDO)",
+    image: "assets/img/impact/food-agriculture-forestry/FOODTECH.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Participate in the FOODTECH high-level meeting at the United Nations Industrial Development Organization",
+        image: "assets/img/impact/food-agriculture-forestry/FOODTECH.png",
+        description:
+          "It was a pleasant experience to participate in the FOODTECH high-level meeting at the United Nations Industrial Development Organization (UNIDO) in Vienna, Austria.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-tech-activity-7221954034960678912-L8hr/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/FOODTECH.png",
+      },
+    ],
+  },
+
+  {
+    filter: "filter-food-agriculture",
+    title:
+      "Observing and participating in the process of the Youth Statement on Sustainable Livestock Transformation",
+    image: "assets/img/impact/food-agriculture-forestry/youth-statement.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Observing and participating in the process of the Youth Statement on Sustainable Livestock Transformation",
+        image: "assets/img/impact/food-agriculture-forestry/youth-statement.png",
+        description:
+          "Observing and participating in the process of the Youth Statement on Sustainable Livestock Transformation at FAO in Rome, Italy. The sustainable transformation of livestock systems is imperative for achieving global food security, environmental sustainability, and economic stability. Youth involvement is not just beneficial but essential in this transition. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-youth-activity-7225268028211388416-6RqQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/youth-statement.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title: "Exploring Agricultural Innovation at National Museum of Agriculture in Ostrava",
+    image: "assets/img/impact/food-agriculture-forestry/profitmagazine-museum.png",
+    slides: [
+      {
+        date: "Aug 17, 2024",
+        source_name: "Profit Magazine",
+        source_link: "https://profitmagazine.lk/",
+        title:
+          "Lilan Dayananda Explores Agricultural Innovation at National Museum of Agriculture in Ostrava",
+        image: "assets/img/impact/food-agriculture-forestry/profitmagazine-museum.png",
+        description:
+          "Lilan Dayananda, the Managing Director and CEO of Elzian Agro, visited the National Museum of Agriculture in Ostrava, Czech Republic during the Moonshot Young Leaders Camp. Lilan was one of the youth social entrepreneurs who were selected for the Leadership Camp. This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges.",
+        link: "https://profitmagazine.lk/lilan-dayananda-explores-agricultural-innovation-at-national-museum-of-agriculture-in-ostrava/",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/profitmagazine-museum.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    title: "Exploring Future in Space Agriculture at COPUOS Session",
+    image: "assets/img/impact/food-agriculture-forestry/lankatalks-agro.png",
+    slides: [
+      {
+        date: "Aug 16, 2024",
+        source_name: "Lanka Talks",
+        source_link: "https://lankatalks.com/",
+        title: "Elzian Agro Explores Future in Space Agriculture at COPUOS Session",
+        image: "assets/img/impact/food-agriculture-forestry/lankatalks-agro.png",
+        description:
+          "Lilan Dayananda, Managing Director and Chief Executive Officer of Elzian Agro, outlined the company’s ambitious vision to enter the Space Agriculture Sector during the 67th Session of the Committee on the Peaceful Uses of Outer Space (COPUOS) in Vienna, Austria. The session, held in 2024, continues to address space-related legal issues, promote sustainable space exploration, and enhance global collaboration in space science and technology. COPUOS plays a crucial role in developing international space law and fostering dialogue among nations on space governance.",
+        link: "https://lankatalks.com/post/elzian-agro-explores-future-in-space-agriculture-at-copuos-session",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/lankatalks-agro.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
+    title: "International Renewable Energy Agency (IRENA) The #NewGen Accelerator",
+    image: "assets/img/impact/renewable-energy/rising-stars-award.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Riccardo Toxiri",
+        source_link: "https://www.linkedin.com/in/riccardotoxiri/",
+        title: "IRENA NewGen Rising Stars Award Semi-finals: A Journey of Innovation",
+        image: "assets/img/impact/renewable-energy/rising-stars-award.png",
+        description:
+          "A massive shoutout to the incredible 20 youth-led start-ups from the first cohort of the IRENA NewGen Renewable Energy Accelerator Programme that participated, showcasing innovation, creativity and professionalism at their finest.",
+        link: "https://www.linkedin.com/posts/riccardotoxiri_newgen-newgen-activity-7130527609192390656-gTSb?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/renewable-energy/backup/rising-stars-award.png",
+      },
+      {
+        date: "",
+        source_name: "International Renewable Energy Agency (IRENA)",
+        source_link: "https://www.linkedin.com/company/irena/posts/",
+        title:
+          "IRENA Launches Inaugural NewGen Renewable Energy Accelerator in Partnership with Enel Foundation and Social Alpha",
+        image: "assets/img/impact/renewable-energy/IRENA.png",
+        description:
+          "The NewGen Accelerator hosts 22 clean-tech and renewable energy start-ups from various corners of the World, marking the beginning of its first cohort. ",
+        link: "https://www.linkedin.com/posts/irena_newgen-newgen-newgen-activity-7107685006101090304-bUYl?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/renewable-energy/backup/IRENA.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
+    title:
+      "International Renewable Energy Agency (IRENA) NewGen Startup Accelerator Rising Star for Sustainable Future",
+    image: "assets/img/impact/renewable-energy/COP28-UAE.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The conclusion of COP28 UAE",
+        image: "assets/img/impact/renewable-energy/COP28-UAE.png",
+        description:
+          "The conclusion of COP28 UAE in the UAE stands as a timely reminder of the formidable climate challenges ahead, ones that have already touched us all. Amidst this awareness, however, lie significant victories that merit recognition.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-cop28-activity-7142878878489821184-MPbl/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/renewable-energy/backup/COP28-UAE.png",
+      },
+    ],
+  },
 ];
