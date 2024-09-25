@@ -2816,4 +2816,716 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-climate-environmental",
+    title: "The Asia Pacific Youth Environment Forum (APYEF) Participation",
+    image: "assets/img/impact/climate-environmental/asia-pacific.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Asia Pacific Youth Environment Forum (APYEF)",
+        image: "assets/img/impact/climate-environmental/asia-pacific.png",
+        description:
+          "The Asia Pacific Youth Environment Forum (APYEF), a significant prelude to the Fifth Forum of Ministers and Environment Authorities of Asia Pacific, transpired from the 1st to the 2nd of October 2023. This event was meticulously orchestrated with a primary objective: to furnish a dedicated platform for self-organized training and capacity enhancement for the youth cohort partaking in the upcoming Sixth Session of the United Nations Environment Assembly (UNEA-6) and the Forum itself.",
+        link: "https://www.linkedin.com/posts/lilanofficial_the-asia-pacific-youth-environment-forum-activity-7115413756741898241-3Mz8?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/asia-pacific.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "World's Youth for Climate Justice (WYCJ) Capacity Building Sessions",
+    image: "assets/img/impact/climate-environmental/capacity-building.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Capacity Building Program for Asian Climate Leaders, Hosted by University of Colombo, in Collaboration with WYCJ",
+        image: "assets/img/impact/climate-environmental/capacity-building.png",
+        description:
+          "It was an insightful Capacity Building Program for the Asian Front, organized by the esteemed World's Youth for Climate Justice (WYCJ), hosted at the University of Colombo along with the initial meeting with the Vice Chancellor of University of Colombo, Snr. Prof. H.D. Karunaratne .",
+        link: "https://www.linkedin.com/posts/lilanofficial_climateaction-wycj-wy4cj-activity-7114333674644393984-S3iA?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/capacity-building.png",
+      },
+      {
+        date: "September 24, 2023",
+        source_name: "University of Colombo",
+        source_link: "https://cmb.ac.lk/",
+        title:
+          "Empowering Youth Advocates Across Asia for Climate Justice: WYCJ's Inaugural Workshop in Colombo",
+        image: "assets/img/impact/climate-environmental/uoc.png",
+        description:
+          "The first capacity-building workshop of the Asian Front of the World’s Youth for Climate Justice (WYCJ), organised in collaboration with the Centre for Environmental Law and Policy (CELP) at the Faculty of Law, and the Centre for Climate Justice-Bangladesh (CCJ-B), took place in Colombo, Sri Lanka from 21st to 24th September. The programme was conducted under the guidance of Professor Kokila Konasinghe, Advisor for the WYCJ-Asian Front and Head of the Department of Department of Public and International Law of the Faculty of Law.",
+        link: "https://cmb.ac.lk/wycjs-inaugural-workshop-in-colombo",
+        backup_image: "assets/img/impact/climate-environmental/backup/uoc.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "#ACT4SDGs",
+    image: "assets/img/impact/climate-environmental/act4sdgs.png",
+    slides: [
+      {
+        date: "",
+        source_name: "ACT4SDGs",
+        source_link: "https://act4sdgs.org/",
+        title: "Elzian Agro's Earth Restoration LifeForce Project",
+        image: "assets/img/impact/climate-environmental/act4sdgs.png",
+        description:
+          "Energized by photosynthesis, Our LifeForce project’s contracted - primary ecosystem services (C-PES ) lays the foundations of recording and regulating living wealth generation of ‘tree-farming’ in the context of re-establishing traditional agrarian systems.",
+        link: "https://act4sdgs.org/profile/lilan_dayananda",
+        backup_image: "assets/img/impact/climate-environmental/backup/act4sdgs.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Loss & Damage Coalition",
+    image: "assets/img/impact/climate-environmental/demand-global.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Youth Demand Global Partnership to Address Loss and Damage: Key Priorities from Bonn Climate Conference 2023",
+        image: "assets/img/impact/climate-environmental/demand-global.png",
+        description:
+          "Youth are still emphasizing key priorities that characterize a successful bonnclimateconference 2023. We will continue to emphasize our demands until they are met.",
+        link: "https://www.linkedin.com/posts/lilanofficial_bonnclimateconference-climatechange-climateaction-activity-7074424975255891968-L-lg?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/demand-global.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Youth Empowerment in Climate Action Platform (YECAP) AGYLE Training Program (YATP)",
+    image: "assets/img/impact/climate-environmental/UN-commission.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Youth Representative at the 79th UN Commission on Climate Change: A Privilege Through YECAP's AGYLE Training Programme",
+        image: "assets/img/impact/climate-environmental/UN-commission.png",
+        description:
+          "I had the incredible privilege of serving as the youth representative (observer) at the 79th session of the United Nations Commission...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainabledevelopment-leaders-climatechange-activity-7066125306532659200-4FR7?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/UN-commission.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "17th United Nations climate change conference of youth (COY17) ",
+    image: "assets/img/impact/climate-environmental/un-climate.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "17th United Nations Climate Change Conference",
+        image: "assets/img/impact/climate-environmental/un-climate.png",
+        description:
+          "I was invited to attend the 17th United Nations climate change conference of youth (COY 17) which was held in Sharm el Sheikh Egypt. I attended the conference as a delegate of Sri Lanka, COY-17 was organized by the official youth and children constituency of the United Nations framework convention on climate change (UNFCCC).",
+        link: "https://www.linkedin.com/posts/lilanofficial_i-was-invited-to-attend-the-17th-united-nations-activity-6999411427182604288-kma_?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/un-climate.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Youth4Climate: Powering Action",
+    image: "assets/img/impact/climate-environmental/Youth4Climate.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Milestone Week for ELZIAN AGRO at Youth4Climate: Powering Action in New York City",
+        image: "assets/img/impact/climate-environmental/Youth4Climate.png",
+        description:
+          "Last week was a special week for ELZIAN AGRO. I spent that week at Youth4Climate: Powering Action flagship event, in New York City, USA.",
+        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-water-data-activity-6982327030235217920-Z6VL?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Youth4Climate.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title:
+      "Moderator: The Global Youth Network Summit on Climate Change & Women and Children’s Mental Health",
+    image: "assets/img/impact/climate-environmental/women-child-mental-health.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Women's and Children's Mental Health in the Climate Crisis",
+        image: "assets/img/impact/climate-environmental/women-child-mental-health.png",
+        description:
+          "Without a doubt, women and children are increasing at high risk within the climate crisis. This session would see the draft research of the HEY Campaign being established, whilst taking critique of its findings, addressing the link between mental health and the climate crisis, the realities of women’s and children’s mental health, and what can be done/is being done to strengthen or improve mental health stigma and institutions across the countries in the study with a critique of other countries not within the study.",
+        link: "https://www.linkedin.com/posts/lilanofficial_without-a-doubt-women-and-children-are-increasing-activity-6980918930714374144-6OWM?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/women-child-mental-health.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "COP27 Simulation Model by Engineers for Sustainable Egypt",
+    image: "assets/img/impact/climate-environmental/climate-summit.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Simulation Model of the Climate Summit 2022",
+        image: "assets/img/impact/climate-environmental/climate-summit.png",
+        description:
+          "I have been accepted for COP27 Simulation Model by Engineers for Sustainable Egypt and reserved my seat on the round discussion table of the cop27 simulation model as a delegate of Sri Lanka, which will be held on the 10th of September - 18th of September 2022. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_i-have-been-accepted-for-cop27-simulation-activity-6974188338454958081-ITQV?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/climate-summit.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "COP28 Simulation Model by Engineers for Sustainable Egypt",
+    image: "assets/img/impact/climate-environmental/simulation-model.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Accepted as Sri Lanka's Delegate for the COP28 Simulation Model by Engineers for Sustainable Egypt",
+        image: "assets/img/impact/climate-environmental/simulation-model.png",
+        description:
+          "I have been accepted for the COP28 Simulation Model by Engineers for Sustainable Egypt and reserved my seat on the round discussion table of the COP28 simulation model as a delegate of Sri Lanka...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainableabrdevelopmentabrambassadors-cop28uae-activity-7119743855939252224-6RwZ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/simulation-model.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title:
+      "Climate Change and SDGs Programme of the United Nations Institute for Training and Research (UNITAR)",
+    image: "assets/img/impact/climate-environmental/SDGs Programme.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Acknowledging UNITAR's Climate Change and SDGs Programme at the United Nations Office, Geneva",
+        image: "assets/img/impact/climate-environmental/SDGs Programme.png",
+        description:
+          'The United Nations Office at Geneva in Switzerland, is one of the four major offices of the United Nations where numerous different UN agencies have a joint presence. I appreciate the United Nations Institute for Training and Research (UNITAR) for implementing the "Climate Change and SDGs Programme".',
+        link: "https://www.linkedin.com/posts/lilanofficial_climatechange-climateaction-cop28-activity-7124763925014843392-vXdo?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/SDGs Programme.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "VERGE 23",
+    image: "assets/img/impact/climate-environmental/VERGE.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Remarkable Experience at VERGE 23 in San Jose, California",
+        image: "assets/img/impact/climate-environmental/VERGE.png",
+        description:
+          "I had a remarkable experience at VERGE 23 in San Jose, California. VERGE 23 was the foremost climate tech event, dedicated to accelerating solutions for the most pressing challenges of our time. It served as the focal point for leaders in the climate community, including representatives from businesses, government entities, solution providers, and startups.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climatechange-climateaction-sdgs-activity-7128453228249153537-Waew?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/VERGE.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "The National Youth Climate Action Forum",
+    image: "assets/img/impact/climate-environmental/Climate Action Forum.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The National Youth Climate Action Forum",
+        image: "assets/img/impact/climate-environmental/Climate Action Forum.png",
+        description:
+          "The National Youth Climate Action Forum, a collaborative initiative orchestrated by the National Youth Services Council and the Presidential Secretariat - Climate Change Office, stands as a pivotal platform for young changemakers. Designed to facilitate collective efforts, the forum serves as a dynamic arena where passionate individuals converge to confront the pressing issue of climate change.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climatechange-climateaction-cop28-activity-7128473323629412353-vq8B?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Climate Action Forum.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "FXB International Climate Advocacy for COP28",
+    image: "assets/img/impact/climate-environmental/FXB Climate Advocates.png",
+    slides: [
+      {
+        date: "",
+        source_name: "FXB Climate Advocates",
+        source_link: "https://www.instagram.com/fxbclimateadvocates/?g=5",
+        title: "FXB Climate Advocates",
+        image: "assets/img/impact/climate-environmental/FXB Climate Advocates.png",
+        description:
+          "FXB Climate Advocates will present at COP 28 on climate finance, climate education, sustainable agriculture, and more!",
+        link: "https://www.instagram.com/p/C0KKFE-L8nq/?utm_source=ig_web_copy_link",
+        backup_image: "assets/img/impact/climate-environmental/backup/FXB Climate Advocates.png",
+      },
+      {
+        date: "",
+        source_name: "FXB Climate Advocates",
+        source_link: "https://www.fxbclimateadvocates.org/",
+        title: "FXB Climate Advocates Alumni at COP28",
+        image: "assets/img/impact/climate-environmental/fxb-climate-advocates.png",
+        description:
+          "There will be 25 FXB Climate Advocates alumni attending COP 28 in Dubai. In addition to their role as members of the FXB Climate Advocates network, they will represent diverse organizations such as YOUNGO (the official children and youth constituency of the United Nations Framework Convention on Climate Change (UNFCCC), Youth in Action for Climate Change, and Re-Earth Initiative, among others. Our Advocates will present on climate finance, climate education, indigenous rights, and sustainable agriculture, among others.",
+        link: "https://www.fxbclimateadvocates.org/cop28",
+        backup_image: "assets/img/impact/climate-environmental/backup/fxb-climate-advocates.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Addressing at COP28 for the Private Sector Powering Sustainability",
+    image: "assets/img/impact/climate-environmental/COP28 UAE.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The conclusion of COP28 UAE",
+        image: "assets/img/impact/climate-environmental/COP28 UAE.png",
+        description:
+          "The conclusion of COP28 UAE in the UAE stands as a timely reminder of the formidable climate challenges ahead, ones that have already touched us all. Amidst this awareness, however, lie significant victories that merit recognition.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-cop28-activity-7142878878489821184-MPbl?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/COP28 UAE.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Mentoring FXB Climate Advocates",
+    image: "assets/img/impact/climate-environmental/Certificate of Recognition.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Certificate of Recognition",
+        image: "assets/img/impact/climate-environmental/Certificate of Recognition.png",
+        description: "FXB International Climate Advocates Program",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7068052986857472000-FN2t?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Certificate of Recognition.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Conference of Youth (COY17) and Conference of Parties (COP27)",
+    image: "assets/img/impact/climate-environmental/Climate Change Conference.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Attend the 17th United Nations Climate Change Conference",
+        image: "assets/img/impact/climate-environmental/Climate Change Conference.png",
+        description:
+          "I was invited to attend the 17th United Nations climate change conference of youth (COY 17) which was held in Sharm el Sheikh Egypt. I attended the conference as a delegate of Sri Lanka, COY-17 was organized by the official youth and children constituency of the United Nations framework convention on climate change (UNFCCC).",
+        link: "https://www.linkedin.com/posts/lilanofficial_i-was-invited-to-attend-the-17th-united-nations-activity-6999411427182604288-kma_?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Climate Change Conference.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title:
+      "Supporting the World Bank Group to interconnect their projects with Climate Action and Environmental Restoration",
+    image: "assets/img/impact/climate-environmental/Meeting with Parmesh Shah.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Memorable Meeting with Parmesh Shah",
+        image: "assets/img/impact/climate-environmental/Meeting with Parmesh Shah.png",
+        description:
+          "I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions in the context of Sri Lankan agriculture. I would like to extend my appreciation to Sunil Madan, MPA for arranging the meeting.",
+        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Meeting with Parmesh Shah.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Campaigning for World’s Youth for Climate Justice (WYCJ)",
+    image: "assets/img/impact/climate-environmental/instagram-lilan.png",
+    slides: [
+      {
+        date: "",
+        source_name: "World's Youth for Climate Justice Asian Front",
+        source_link: "https://www.instagram.com/wy4cj.asia/?g=5",
+        title: "Lilan Dayananda",
+        image: "assets/img/impact/climate-environmental/instagram-lilan.png",
+        description:
+          "Lilan Dayananda, an international award-winning young social tech entrepreneur, has garnered recognition for his impactful work in social entrepreneurship. He stands out as one of the top ten Social Entrepreneurs of the Global-South, acknowledged by prestigious organizations like the United Nations Youth Envoy’s Office and UNDP Youth Co: Lab. Lilan’s commitment to excellence is evident through his accolades, such as being the only Sri Lankan Commonwealth Youth Awardee for his outstanding development efforts and his nomination for the Queen’s Commonwealth Trust Youth Award. His innovative solutions in food security, climate action, and sustainability have earned him a place among the top 100 meaningful business founders recognized by Ernst & Young (EY), Hogan Lovells Global Law Firms.",
+        link: "https://www.instagram.com/p/C4-8btnoRYk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        backup_image: "assets/img/impact/climate-environmental/backup/instagram-lilan.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Addressing the CODE RED Climate Climate Summit",
+    image: "assets/img/impact/climate-environmental/CODE RED Climate Climate Summit.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The CODE RED Climate Climate Summit",
+        image: "assets/img/impact/climate-environmental/CODE RED Climate Climate Summit.png",
+        description:
+          "Participating in the CODE RED Climate Summit was an enlightening experience, especially considering Sri Lanka's current pivotal position amidst escalating climate change challenges. Over the course of three days, the summit meticulously examined the dual facets of climate risks and opportunities. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-sdgs-sdg13-activity-7194316486197350400-sXoT?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/CODE RED Climate Climate Summit.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title:
+      "Collaborating for Climate Action at AHK Sri Lanka, Supported by the German Chamber Network and BMWK",
+    image: "assets/img/impact/climate-environmental/Meeting with Marie.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting with Marie Antonia von Schönburg",
+        image: "assets/img/impact/climate-environmental/Meeting with Marie.png",
+        description:
+          "It was a pleasure to have had the opportunity to meet Marie Antonia von Schönburg, Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka, during the recent gathering hosted by Koelnmesse.",
+        link: "https://www.linkedin.com/posts/lilanofficial_delegation-germany-srilanka-activity-7194530994920562689-Y1xs?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Meeting with Marie.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting for Global Nutrition Solutions at the Anuga Partners Forum, Hosted by Koelnmesse GmbH",
+        image: "assets/img/impact/climate-environmental/Global Nutrition Solutions.png",
+        description:
+          "In a time when the world of nutrition is becoming increasingly global, and the importance of sustainability and healthy food is growing, it is crucial that we connect with one another to collectively find solutions. The latest Anuga Partners Forum hosted by Koelnmesse GmbH focused on the Anuga Food Tech India.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7194982140239888384-Yr2U?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Global Nutrition Solutions.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Experiencing the Technology Inclusion at Berlin Botanical Garden Night",
+    image: "assets/img/impact/climate-environmental/Botanical Night.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "An Enchanting Evening at the Botanical Night in Berlin",
+        image: "assets/img/impact/climate-environmental/Botanical Night.png",
+        description:
+          "Once a year the Botanical Garden Berlin hosts the Botanical Night and it was nice to experience the manifold plants and flowers. On the occasion of the Botanical Night, the paths of the Botanical Garden in Berlin-Dahlen are illuminated and guide visitors to many attractions. The garden grounds are divided into eight themed areas that form the enchanted land of Botania.",
+        link: "https://www.linkedin.com/posts/lilanofficial_botanical-night-garden-activity-7223302333558841344-UtVc?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Botanical Night.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Participate in the Beyond the Realm of Light: Exploring the Deep Ocean of Sri Lanka",
+    image: "assets/img/impact/climate-environmental/Exploring the Mysteries.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring the Mysteries of the Deep Ocean: Insights from Dr. Asha de Vos",
+        image: "assets/img/impact/climate-environmental/Exploring the Mysteries.png",
+        description:
+          "Life below 200 meters deep is as fascinating as life within the light-filled zones of the oceans. Despite the busy schedule, I had the opportunity to participate in the session “Beyond the Realm of Light: Exploring the Deep Ocean of Sri Lanka,” conducted by Dr. Asha de Vos. The session was insightful, providing a unique opportunity to delve into the mysterious depths of the ocean and witness groundbreaking discoveries firsthand.",
+        link: "https://www.linkedin.com/posts/lilanofficial_blueeconomy-blue-ocean-activity-7206708873393582081-oDc5?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Exploring the Mysteries.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title:
+      "Participate in the Just Transition Efforts to End Fossil Fuel Propaganda with Legambiente & Climate Reality Project",
+    image: "assets/img/impact/climate-environmental/Sustainable Future.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Advocating for a Sustainable Future at The Climate Reality Project in Rom",
+        image: "assets/img/impact/climate-environmental/Sustainable Future.png",
+        description:
+          " As a Climate Reality Leader, I advocate for a sustainable future. It's time to end our dependence on fossil fuels and halt the funding that supports this outdated and harmful industry. By transitioning to renewable energy sources, we not only combat climate change but also create a healthier, more resilient planet for future generations. It was a pleasure to participate in The Climate Reality Project in Rome, Italy; along with Legambiente.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climateaction-climatechange-climate-activity-7213478910821380097-xY7x?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Sustainable Future.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Participate in the Climate Reality Leadership Program",
+    image: "assets/img/impact/climate-environmental/Climate Reality Training.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Remarkable Experience at Climate Reality Training with Former Vice President Al Gore",
+        image: "assets/img/impact/climate-environmental/Climate Reality Training.png",
+        description:
+          'Attending the Climate Reality training has been a remarkable experience, echoing the sentiment that "all roads lead to Rome." This event has provided an invaluable opportunity to engage with passionate climate activists and experts, featuring enlightening presentations from distinguished speakers, including former Vice President Al Gore.',
+        link: "https://www.linkedin.com/posts/lilanofficial_climateaction-climatechange-climate-activity-7213897437797580801-RDRF?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Climate Reality Training.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Participate in the Climate Fresk event for Climate Reality Leaders",
+    image: "assets/img/impact/climate-environmental/Climate Fresk Event.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the Climate Fresk Event for Climate Reality Leaders in Rome",
+        image: "assets/img/impact/climate-environmental/Climate Fresk Event.png",
+        description:
+          "I had the opportunity to join the Climate Fresk event for Climate Reality Leaders at Hilton Rome Eur La Lama in Rome, Italy. To effectively take action and develop solutions, it's crucial to first grasp the problem. Climate Fresk serves as a potent tool for delivering high-quality climate education. It's accessible to everyone and can be rapidly scaled within any organization or community.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7214633190991310848-CHWs/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Climate Fresk Event.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Advocate for the Climate Cafe Movement",
+    image: "assets/img/impact/climate-environmental/Climate Cafe.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "🌍 Join the Climate Cafe® Movement! ☕️",
+        image: "assets/img/impact/climate-environmental/Climate Cafe.png",
+        description:
+          "Looking for an inclusive space to talk and act on climate change? A Climate Café® is the perfect place! Since 2015, this community-led initiative has been bringing people together from rural Scotland to communities around the world.",
+        link: "https://www.linkedin.com/posts/lilanofficial_join-the-climate-cafe-movement-looking-activity-7217645270849703937-wKMG?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Climate Cafe.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title:
+      "The Climate Entrepreneurship Program at New York University and NYU School of Professional Studies",
+    image: "assets/img/impact/climate-environmental/Climate Entrepreneurship Program.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participate in the Climate Entrepreneurship Program at the New York University",
+        image: "assets/img/impact/climate-environmental/Climate Entrepreneurship Program.png",
+        description:
+          "I recently had the opportunity to participate in the Climate Entrepreneurship Program at the New York University ; NYU School of Professional Studies through the AFS Youth Assembly Climate Entrepreneurship Academy. Along with 40 participants from across the globe, I learned how to engage in the global startup and climate community to contribute to sustainable solutions.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climate-activity-7232660195103940609-jxoQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Climate Entrepreneurship Program.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Engaging in Climate Entrepreneurship Sessions with Jim Aloise at New York University",
+        image: "assets/img/impact/climate-environmental/Climate Entrepreneurship Sessions.png",
+        description:
+          "It was an opportunity to participate in the sessions led by Jim Aloise during the Climate Entrepreneurship Program at New York University and the NYU School of Professional Studies. Climate entrepreneurship is a process where entrepreneurs use business ventures to address climate change and environmental challenges. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_business-climate-entrepreneurship-activity-7231114716415193088-yEyv?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Climate Entrepreneurship Sessions.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participated in the Climate Entrepreneurship Program",
+        image: "assets/img/impact/climate-environmental/climate-entrepreneurship-program.png",
+        description:
+          "Thrilled to have participated in the Climate Entrepreneurship Program at New York University and NYU School of Professional Studies! ",
+        link: "https://www.linkedin.com/posts/lilanofficial_business-climate-entrepreneurship-activity-7229988870195490816-abBZ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/climate-entrepreneurship-program.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title:
+      'Participating in the "Education for Climate Action: Learning to Act for People and Planet" workshop',
+    image: "assets/img/impact/climate-environmental/Climate Action Workshop.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Valuable Insights from the Education for Climate Action Workshop at the AFS Youth Assembly in New York",
+        image: "assets/img/impact/climate-environmental/Climate Action Workshop.png",
+        description:
+          "I gained valuable insights from the Education for Climate Action: Learning to Act for People and Planet workshop at the AFS Youth Assembly at Convene Center, Brookfield Place in New York. Priyadarshani Joshi, PhD, Senior Research Officer for the GEM Report UNESCO at UNESCO, and Andrés Peñaloza Lanza, Global Education Programs Coordinator at AFS Intercultural Programs conducted the workshop.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-learning-activity-7230846842769485824-uVJG?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Climate Action Workshop.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Joining the Climate Reality Leadership Training",
+    image: "assets/img/impact/climate-environmental/Climate Reality.png",
+    slides: [
+      {
+        date: "August 17, 2024",
+        source_name: "Eyeview",
+        source_link: "https://eyeviewsl.com/",
+        title: "Elzian Agro’s CEO Lilan Dayananda Joins for Climate Reality Leadership Training in Rome",
+        image: "assets/img/impact/climate-environmental/Climate Reality.png",
+        description:
+          "Lilan Dayananda, Managing Director and Chief Executive Officer of Elzian Agro, recently participated in the Climate Reality Leadership Training held at the Rome Convention Center La Nuvola in Italy. The event, which included former U.S. Vice President Al Gore, brought together climate leaders for three days of intensive learning, sharing, and strategizing.",
+        link: "https://eyeviewsl.com/elzian-agros-ceo-lilan-dayananda-joins-for-climate-reality-leadership-training-in-rome/",
+        backup_image: "assets/img/impact/climate-environmental/backup/Climate Reality.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Involvement with the Technology Executive Committee (TEC) of the UN Climate Change (UNFCCC)",
+    image: "assets/img/impact/climate-environmental/Technology Executive Committee.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Leading Key Activity Groups on the UNFCCC Technology Executive Committee as YOUNGO Representative",
+        image: "assets/img/impact/climate-environmental/Technology Executive Committee.png",
+        description:
+          "As a member of the Technology Executive Committee (TEC) of the UN Climate Change (UNFCCC) representing YOUNGO, I have the privilege of leading two crucial activity groups...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7234268132922507264-KKmO?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Technology Executive Committee.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Completing the Climate Entrepreneurship Track at the New York University",
+    image: "assets/img/impact/climate-environmental/Climate Entrepreneurship Track.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Completion of the Climate Entrepreneurship Track at New York University through the AFS Youth Assembly Academy",
+        image: "assets/img/impact/climate-environmental/Climate Entrepreneurship Track.png",
+        description:
+          "I recently had the opportunity to complete the Climate Entrepreneurship Track at the New York University...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7237972508140806145-R5GN?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Climate Entrepreneurship Track.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    title: "Inviting Collaborations & Affiliations",
+    image: "assets/img/impact/climate-environmental/NYC Community.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting with the NYC Community: Let's Meet to Discuss Precision Agriculture and Climate Action",
+        image: "assets/img/impact/climate-environmental/NYC Community.png",
+        description:
+          "Exciting news! I’ll be in New York from August 12th to 22nd and would like to connect with the NYC community. If you're passionate about precision agriculture and climate action in the Global South, let’s meet up. Send me a message so we can schedule a convenient time.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7224350106311876608-TPl-?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/NYC Community.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Thrilled to Connect in NYC: Let's Discuss Precision Agriculture and Climate Action in September",
+        image: "assets/img/impact/climate-environmental/Connect in NYC.png",
+        description:
+          "Exciting News! I’m thrilled to announce that I’ll be in New York, USA, during the third and fourth weeks of September! I’m eager to connect with fellow New Yorkers and others visiting NYC this month, especially those passionate about precision agriculture and climate action in both the Global South and Global North.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7238235886688030721-qLmD?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Connect in NYC.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Excited to Connect in Foz do Iguaçu, Brazil: Let's Discuss Precision Agriculture and Climate Action in October",
+        image: "assets/img/impact/climate-environmental/Foz do Iguaçu.png",
+        description:
+          "Exciting News! I’m thrilled to share that I’ll be in Foz do Iguaçu, Brazil, during the first week of October. I'm eager to connect with the local Brazilian communities passionate about precision agriculture and climate action, especially in the Global South and South America.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7234189432709373952-v3nK?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Foz do Iguaçu.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting in Helsinki and Vilnius: Let's Discuss Precision Agriculture and Climate Action in September",
+        image: "assets/img/impact/climate-environmental/Helsinki and Vilnius.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7232802314900684800-hULd?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Helsinki and Vilnius.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting in Bangkok: Let's Discuss Precision Agriculture and Climate Action in September",
+        image: "assets/img/impact/climate-environmental/Connecting in Bangkok.png",
+        description:
+          "Exciting news! I’ll be in Bangkok in the third week of September and would like to connect with the Thai community. If you're passionate about precision agriculture and climate action in the Global South, let’s meet up. Send me a message so we can schedule a convenient time.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7224861421937770496-wK3A?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/Connecting in Bangkok.png",
+      },
+    ],
+  },
 ];
