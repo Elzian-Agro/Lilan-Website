@@ -3528,4 +3528,543 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-public-policy",
+    title: "Addressing the Caux Forum",
+    image: "assets/img/impact/public-policy/Caux Forum.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflections from the Caux Forum 2023: Inspiring Conversations in the Heart of the Swiss Alps",
+        image: "assets/img/impact/public-policy/Caux Forum.png",
+        description:
+          "I had the pleasure of participating in the Caux Forum 2023, which was held at the Caux Palace, nestled in the mountains 1000 meters above sea level. With its breathtaking view of Lake Geneva and the Alps, it provided a unique and inspiring setting.",
+        link: "https://www.linkedin.com/posts/lilanofficial_cauxforum-switzerland-iofc-activity-7104370335071801345-4N9U?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Caux Forum.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Inspiring Stories Global Fellowship of Global Politics Affairs",
+    image: "assets/img/impact/public-policy/Best Capstone Project.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "The Best Capstone Project during the Inspiring Stories Global Fellowship of the Global Politics Affairs.",
+        image: "assets/img/impact/public-policy/Best Capstone Project.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-youthempowerment-leadership-activity-7129060381716606976-YTnD?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Best Capstone Project.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Videography support for the ‘Healing the Wounds of the Past' event organizing team",
+    image: "assets/img/impact/public-policy/Caux Forum videos.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Initiatives of Change International",
+        source_link: "https://www.youtube.com/@initiativesofchange",
+        title: "2023 Caux Forum Video Series",
+        image: "assets/img/impact/public-policy/Caux Forum videos.png",
+        description:
+          "This series of videos are being produced for 2023 Caux Forum by Nabin Pokhrel (Nepal), Lilan Dayananda and Amila Dilshan (Sri Lanka) who are volunteering in support of the 'Healing the Wounds of the Past' event organising team.",
+        link: "https://www.youtube.com/watch?v=DRGvTwflvvc",
+        backup_image: "assets/img/impact/public-policy/backup/Caux Forum videos.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title:
+      "Collaborating the Walpola Rahula Institute (WRI) with the Initiatives of Change International (IofC)",
+    image: "assets/img/impact/public-policy/Transformative Gathering.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Fostering Unity in Diversity: A Transformative Gathering at the Walpola Rahula Institute",
+        image: "assets/img/impact/public-policy/Transformative Gathering.png",
+        description:
+          "“It is easy to go with the trends and tides but it is difficult to go against the tides”. It was a pleasure to have orchestrated a meetup of diverse changemakers at the Walpola Rahula Institute (WRI). The institute, committed to transcending conventional religious teachings, endeavours to foster societal healing. Our gathering represented a rich tapestry of geographical origins, cultures, religions, income classes, ages, races, and genders; a true reflection of our shared humanity.",
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-trust-iofc-activity-7142531191932354561-opO5?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Transformative Gathering.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Contributing to the Dialogue between Cultures at the “House of Religions” in Bern, Switzerland",
+    image: "assets/img/impact/public-policy/Unity in Diversity.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Unity in Diversity: Exploring the House of Religions in Bern, Switzerland",
+        image: "assets/img/impact/public-policy/Unity in Diversity.png",
+        description:
+          "This is not a regular Chess Board; this is the entrance to the “House of Religions” in Bern, Switzerland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-peacebuilding-trust-activity-7146588827229335553-Qj4i?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Unity in Diversity.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Global Peace Ambassadorship",
+    image: "assets/img/impact/public-policy/Global Peace Chain.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Global Peace Chain",
+        source_link: "https://www.globalpeacechain.org/",
+        title: "Karunarathnalage Lilan Udayanga Dayananda",
+        image: "assets/img/impact/public-policy/Global Peace Chain.png",
+        description:
+          "I am a final year undergraduate (student) of the University of Kelaniya following the Bachelor of Business Management (Special) Degree in Accountancy. I am working on my internship as an intern at Accenture in the Finance and Accounting department while pursuing my academic education at my university.",
+        link: "https://www.globalpeacechain.org/team_members/karunarathnalage-lilan-udayanga-dayananda/",
+        backup_image: "assets/img/impact/public-policy/backup/Global Peace Chain.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Addressing at the The United Nations Office at Geneva, Switzerland",
+    image: "assets/img/impact/public-policy/Bridging the Gap.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Bridging the Gap: How Inner Development Goals (IDGs) Empower the Achievement of Sustainable Development Goals (SDGs)",
+        image: "assets/img/impact/public-policy/Bridging the Gap.png",
+        description:
+          "Many people are familiar with the concept of ‘Sustainable Development Goals’ (SDGs), yet a lesser-known fact is that achieving SDGs necessitates the adoption of the ‘Inner Development Goals’ (IDGs) framework.",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdgs-un-youth-activity-7148971507283603457-Wx6G?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Bridging the Gap.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title:
+      "Volunteering for the Caux Forum of Initiatives of Change International (IofC) under the 'Healing the Wounds of the Past' category",
+    image: "assets/img/impact/public-policy/Video Series.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Initiatives of Change International",
+        source_link: "https://www.youtube.com/@initiativesofchange",
+        title: "2023 Caux Forum Video Series",
+        image: "assets/img/impact/public-policy/Video Series.png",
+        description:
+          "This series of videos are being produced for 2023 Caux Forum by Nabin Pokhrel (Nepal), Lilan Dayananda and Amila Dilshan (Sri Lanka) who are volunteering in support of the 'Healing the Wounds of the Past' event organising team.",
+        link: "https://youtu.be/DRGvTwflvvc?si=3KczLl-Fqo6Toq2K",
+        backup_image: "assets/img/impact/public-policy/backup/Video Series.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Visiting the Ministry of Foreign Affairs, Kingdom of Thailand",
+    image: "assets/img/impact/public-policy/Visit the Ministry of Foreign Affairs.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting the Ministry of Foreign Affairs, Kingdom of Thailand",
+        image: "assets/img/impact/public-policy/Visit the Ministry of Foreign Affairs.png",
+        description:
+          "It is such a great pleasure to visit the Ministry of Foreign Affairs, Kingdom of Thailand for the 3rd time within the last 12 months...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-wellness-diversity-activity-7066624979664076800-KkEO?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Visit the Ministry of Foreign Affairs.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Distribution of books with an in-depth and authentic exploration of Theravada Buddhism",
+    image: "assets/img/impact/public-policy/Theravada Buddhism.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Exclusive Insights into Theravada Buddhism: A Unique Book Now Available at the Walpola Rahula Institute Library",
+        image: "assets/img/impact/public-policy/Theravada Buddhism.png",
+        description:
+          "This unique book, available exclusively in Thailand, provided me with great insights while I was there. The book offers an in-depth and authentic exploration of Theravada Buddhism. A week ago, a copy was handed over to the Library of the Walpola Rahula Institute (WRI). You are welcome to visit the WRI library to read it.",
+        link: "https://www.linkedin.com/posts/lilanofficial_buddhism-peace-meditation-activity-7208792523471749120-s5YU?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Theravada Buddhism.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Contributing to the Centre for Diplomatic Advancement",
+    image: "assets/img/impact/public-policy/Precision Agriculture.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Addressing Food Insecurity Through Precision Agriculture and Inclusive Diplomacy: A Collaborative Path to Global Food Resilience",
+        image: "assets/img/impact/public-policy/Precision Agriculture.png",
+        description:
+          "Food insecurity, affecting millions globally, is not just about a lack of food but also encompasses issues of access, knowledge, and...",
+        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-democracy-food-activity-7200943955910250496-IYGS?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Precision Agriculture.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Visiting the Monument of the Republic in Austria",
+    image: "assets/img/impact/public-policy/Republic in Austria.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "visiting the Monument of the Republic in Austria",
+        image: "assets/img/impact/public-policy/Republic in Austria.png",
+        description:
+          'Enjoyed visiting the Monument of the Republic in Austria, which commemorates the establishment of the Republic on November 12, 1918. This iconic monument, crafted by talented sculptors, features three busts of historically significant Social Democrats on pedestals, backed by three granite blocks with the inscription "The memory of the establishment of the Republic on 12 November 1918," emphasizing the founding of the republic.',
+        link: "https://www.linkedin.com/posts/lilanofficial_austria-vienna-history-activity-7213788756368142337-T020?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Republic in Austria.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Maltese Parliament Visit",
+    image: "assets/img/impact/public-policy/Visiting the Maltese Parliament.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting the Maltese Parliament",
+        image: "assets/img/impact/public-policy/Visiting the Maltese Parliament.png",
+        description:
+          "Visiting the Maltese Parliament was an enriching experience that provided valuable insights into the legislative processes and governance of Malta. Engaging with policymakers and observing the inner workings of this esteemed institution underscored the importance of democratic principles and transparent governance. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_malta-diplomacy-history-activity-7213966001128787970-uNHd?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Visiting the Maltese Parliament.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Austrian Parliament Visit",
+    image: "assets/img/impact/public-policy/Austrian Parliament.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting the Austrian Parliament",
+        image: "assets/img/impact/public-policy/Austrian Parliament.png",
+        description:
+          "The Austrian Parliament Building in Vienna is the meeting place of the two houses of the Austrian Parliament. The building is located on the Ringstraße in the first district, Innere Stadt, near Hofburg Palace and the Palace of Justice.",
+        link: "https://www.linkedin.com/posts/lilanofficial_global-diplomacy-democracy-activity-7215070912256040962-g_sc?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Austrian Parliament.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Moonshot Session on a Train Journey",
+    image: "assets/img/impact/public-policy/Moonshot Session.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in a Seminar Conducted by the Moonshot Platform",
+        image: "assets/img/impact/public-policy/Moonshot Session.png",
+        description:
+          "I had an incredible experience participating in a seminar conducted by the Moonshot platform on a train journey from Prague to Ostrava. This unique event was supported by České dráhy, a.s. , City of Ostrava - official and the Ministerstvo dopravy ČR.",
+        link: "https://www.linkedin.com/posts/lilanofficial_team-energy-moonshot-activity-7219811126367203329-rBIR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Moonshot Session.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Observe Czech Philharmonic",
+    image: "assets/img/impact/public-policy/Celebrating Heritage.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating Heritage: The Impact of the Czech Philharmonic Orchestra Since 1896",
+        image: "assets/img/impact/public-policy/Celebrating Heritage.png",
+        description:
+          "Since its very first concert on January 4, 1896 the orchestra has been led by and comprised of outstanding artists, all of whom have contributed to building the Czech Philharmonic's excellent reputation at home and around the world. The orchestra's activities have also significantly for better or for worse tended to manifest the artistic, cultural, and political context reflective of the times.",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-symphony-culture-activity-7220316728822521856-5t4f?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Celebrating Heritage.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Meditation for the Bohemian Gravity, the CORE of Creativity, and the Creativity Tree",
+    image: "assets/img/impact/public-policy/Creativity and Presence.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Exploring Creativity and Presence: Insights from Yemi A.D.'s Meditation Session at the Moonshot Platform",
+        image: "assets/img/impact/public-policy/Creativity and Presence.png",
+        description:
+          "I had the opportunity to take part in a meditation session conducted by phenomenal Yemi A.D. at the Moonshot Platform. During the session, we delved into Bohemian Gravity, the CORE of Creativity, and the Creativity Tree.",
+        link: "https://www.linkedin.com/posts/lilanofficial_creativity-energy-moonshot-activity-7221374273293103104-C0Ot?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Creativity and Presence.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Networking at the Berlin Poetry Festival (Poesiefestival)",
+    image: "assets/img/impact/public-policy/Global Voices.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating Global Voices: My Experience at the Poesiefestival Berlin",
+        image: "assets/img/impact/public-policy/Global Voices.png",
+        description:
+          "It was a pleasant experience to be involved Poesiefestival in Berlin, Germany. Every summer, Berlin is transformed into a stronghold of poetry for a week. Over 150 poets and artists from all over the world come to the Berlin Poetry Festival (Poesiefestival Berlin) and present current trends in contemporary poetry.",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-art-festival-activity-7221824489246838784-VDMy?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Global Voices.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Addressing the Global Diplomatic Forum",
+    image: "assets/img/impact/public-policy/Global Diplomacy.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Engaging in Global Diplomacy: Insights from the Forum in Charleroi, Belgium",
+        image: "assets/img/impact/public-policy/Global Diplomacy.png",
+        description:
+          "Currently attending the Global Diplomatic Forum in Charleroi, Belgium. As defined by the National Geographic Society, diplomacy is the art and science of maintaining peaceful relationships between nations, groups, or individuals. It encompasses discussions on critical issues such as conflict, trade, the environment, technology, and security.",
+        link: "https://www.linkedin.com/posts/lilanofficial_globaldiplomaticforum-diplomacy-internationalrelations-activity-7222536656581537793-yyZI?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Global Diplomacy.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Performing at the Stage on Mars Studio Exploring Human Perspectives",
+    image: "assets/img/impact/public-policy/Human Perspectives.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Unveiling Human Perspectives: The Transformative Experience at Stage on Mars",
+        image: "assets/img/impact/public-policy/Human Perspectives.png",
+        description:
+          "Stage on Mars is a unique studio dedicated to exploring human perspectives. Here, individuals transform their questions into theatrical performances, uncovering insights that are often hidden when viewed in isolation.",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7223271914230755328-2BqN?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Human Perspectives.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Participating the Diplomatic Forum of the Centre for Diplomatic Advancement",
+    image: "assets/img/impact/public-policy/Youth Diplomatic Forum.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the Youth Diplomatic Forum in Belgium",
+        image: "assets/img/impact/public-policy/Youth Diplomatic Forum.png",
+        description:
+          "Participating in the Youth Diplomatic Forum in Belgium was an eye-opening experience that deepened my understanding of global diplomacy and the role of youth in shaping international relations. Engaging with young leaders from diverse cultural and political backgrounds, I learned the importance of dialogue and collaboration in addressing complex global challenges.",
+        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-diplomatic-un-activity-7233077437088088065-o4SW?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Youth Diplomatic Forum.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the Global Diplomatic Forum in Belgium",
+        image: "assets/img/impact/public-policy/Global Diplomatic Forum.png",
+        description:
+          "It was a pleasure to participate in the Global Diplomatic Forum in Belgium. Diplomacy, as a crucial tool for fostering global harmony, plays an indispensable role in creating a better world. It involves the art of negotiation, dialogue, and collaboration among nations to address complex global challenges such as climate change, poverty, conflict, and human rights violations.",
+        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-diplomatic-un-activity-7224839062661033984-r8tP?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Global Diplomatic Forum.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in a Diplomatic Forum",
+        image: "assets/img/impact/public-policy/Diplomatic Forum.png",
+        description:
+          "I had the opportunity to participate in a Diplomatic Forum at the Van Der Valk Hotel Charleroi, BMW Group Louyet in Belgium...",
+        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-forum-youth-activity-7223282424183406593-Csjz?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Diplomatic Forum.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Meditation and Mindfulness for Self-reliance for Inner Peace at Das Buddhistische Haus",
+    image: "assets/img/impact/public-policy/Century of Peace.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating a Century of Peace: The 100th Anniversary of Das Buddhistische Haus in Berlin",
+        image: "assets/img/impact/public-policy/Century of Peace.png",
+        description:
+          "The 100th anniversary of Das Buddhistische Haus in Berlin is happening tomorrow. My recent visit to Berlin, Germany, was such a pleasant experience, especially spending five full days in intense yet smooth meditation. Das Buddhistische Haus is the very first Buddhist temple in Berlin.",
+        link: "https://www.linkedin.com/posts/lilanofficial_meditation-mindfulness-awareness-activity-7225076439585284097-Q5R5?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Century of Peace.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Exploring Musical Culture in Czechia",
+    image: "assets/img/impact/public-policy/Rich Musical Heritage.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Exploring the Rich Musical Heritage of the Czech Republic: A Journey Through Genres and Traditions",
+        image: "assets/img/impact/public-policy/Rich Musical Heritage.png",
+        description:
+          "The Czech Republic is a fantastic place to experience all genres of music. The country's musical heritage is deeply rooted in classical music, with a rich tradition of high-culture opera and symphony. Czech producers have drawn inspiration from traditional music, jazz, and blues.",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-symphony-culture-activity-7236167772332826624-W0zj?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Rich Musical Heritage.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Visiting the American Field Service (AFS) Headquarters",
+    image: "assets/img/impact/public-policy/Embracing Global Citizenship.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Embracing Global Citizenship: My Visit to the AFS Headquarters in New York",
+        image: "assets/img/impact/public-policy/Embracing Global Citizenship.png",
+        description:
+          "It was a pleasure to visit the American Field Service (AFS) Headquarters in New York, USA. AFS started as a volunteer ambulance corps in 1915, and its story is one of transformation from a wartime humanitarian aid organization to a pioneering international entity with a bold mission: to build a more peaceful world through cultural understanding.",
+        link: "https://www.linkedin.com/posts/lilanofficial_afs-youth-culture-activity-7229765163724201984-739L?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Embracing Global Citizenship.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Completing the Global Competence Certificate (GCC)",
+    image: "assets/img/impact/public-policy/Global Up Program.JPEG",
+    slides: [
+      {
+        date: "",
+        source_name: "Global Competence Certificate",
+        source_link: "https://www.linkedin.com/company/global-competence-certificate/posts/",
+        title: "Successful Completion of the Global Up Program",
+        image: "assets/img/impact/public-policy/Global Up Program.JPEG",
+        description:
+          "Congratulations on a successful completion of the Global Up program, Lilan Dayananda 🎉",
+        link: "https://www.linkedin.com/posts/global-competence-certificate_globalup-globalcompetence-interculturallearning-activity-7238304952408764417-9krx?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Global Up Program.png",
+      },
+      {
+        date: "",
+        source_name: "Global Competence Certificate",
+        source_link: "https://www.linkedin.com/company/global-competence-certificate/posts/",
+        title:
+          "Celebrating Cultural Awareness: Highlights from the Youth Assembly in NYC with Lilan Dayananda",
+        image: "assets/img/impact/public-policy/Cultural Awareness.png",
+        description:
+          "Our team is honored to receive such an endorsement from an incredible participant. It’s rare we get to meet our learners in person and Lilan Dayananda inspired all of us during our time together in at the Youth Assembly in NYC and certainly made this cohort particularly memorable and impactful.",
+        link: "https://www.linkedin.com/posts/global-competence-certificate_globalup-globalcompetence-interculturallearning-activity-7237419356102565890--tsz?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Cultural Awareness.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Achieving Global Competence: My Journey Through the Global Competence Certificate (GCC) Program",
+        image: "assets/img/impact/public-policy/Global Competence.png",
+        description:
+          "I successfully completed the Global Competence Certificate (GCC), a blended learning program that develops tangible global skills essential for living, working, and making a real social impact worldwide.",
+        link: "https://www.linkedin.com/posts/lilanofficial_globalup-globalcompetence-interculturallearning-activity-7235404585396224001-arZY?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Global Competence.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Participating in the AFS Youth Assembly",
+    image: "assets/img/impact/public-policy/Global Solutions.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Engaging in Global Solutions: Insights from the AFS Youth Assembly in New York City",
+        image: "assets/img/impact/public-policy/Global Solutions.png",
+        description:
+          "I recently had the pleasure of attending the AFS Youth Assembly in New York City, where the agenda focused on key global challenges, including...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-global-food-activity-7237442749816274946-H087?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Global Solutions.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    title: "Participating in the Clinton Global Initiative Annual Meeting",
+    image: "assets/img/impact/public-policy/Clinton Global Initiative.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Joining the Clinton Global Initiative: Excited to Contribute Solutions at the Annual Meeting",
+        image: "assets/img/impact/public-policy/Clinton Global Initiative.png",
+        description:
+          'I’m excited to join the Clinton Global Initiative at their Annual Meeting this September! Solutions will be in focus, and I’m proud to contribute to "What’s Working" in making the world a better place.',
+        link: "https://www.linkedin.com/posts/lilanofficial_cgi2024-cgi2024-cgi-activity-7237643257625632769-fuBf?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Clinton Global Initiative.png",
+      },
+    ],
+  },
 ];
