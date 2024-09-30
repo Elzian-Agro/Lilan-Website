@@ -5593,4 +5593,170 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-aerospace-outer-space",
+    title:
+      "Addressing the United Nations COPUOS and Represent the SGAC in support of the United Nations Programme on Space Applications ",
+    image: "assets/img/impact/aerospace-outer-space/COPUOS 2024.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the 67th Session of COPUOS 2024 in Vienna",
+        image: "assets/img/impact/aerospace-outer-space/COPUOS 2024.png",
+        description:
+          "It was a pleasure and an exceptional experience to participate in the 67th session of the Committee on the Peaceful Uses of Outer Space (COPUOS2024) in Vienna, Austria.",
+        link: "https://www.linkedin.com/posts/lilanofficial_copuos2024-space-peace-activity-7235307636991123460-7P31?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/COPUOS 2024.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Representing SGAC at the UN COPUOS: Embracing Diversity for the Future of Space Exploration",
+        image: "assets/img/impact/aerospace-outer-space/UN COPUOS.png",
+        description:
+          "🌍🚀 As a SGAC youth delegate at the United Nations Committee on the Peaceful Uses of Outer Space (COPUOS) of the United Nations Office for Outer Space Affairs (UNOOSA) in Vienna, Austria...",
+        link: "https://www.linkedin.com/posts/lilanofficial_diversityinspace-copuos-internationalcooperation-activity-7213459055548190720-sgpQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/UN COPUOS.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Attending COPUOS: Looking Forward to the 'Outer Space in the Pact for the Future' Event",
+        image: "assets/img/impact/aerospace-outer-space/Attending COPUOS.png",
+        description:
+          'Getting ready for another fresh day at the Committee on the Peaceful Uses of Outer Space (COPUOS) in Vienna, Austria. I am looking forward to the "Outer Space in the Pact for the Future," a joint...',
+        link: "https://www.linkedin.com/posts/lilanofficial_space-peace-food-activity-7211639412558823427-MeUn?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/Attending COPUOS.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Engaging with Changemakers at the United Nations Committee on the Peaceful Uses of Outer Space in Vienna",
+        image: "assets/img/impact/aerospace-outer-space/United Nations Committee.png",
+        description:
+          "It was a pleasure to interact with this diverse group of changemakers at the United Nations Committee on the Peaceful Uses of Outer Space, United Nations Office in Vienna, Austria.",
+        link: "https://www.linkedin.com/posts/lilanofficial_space-peace-un-activity-7211572903316738048-2l0D?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/United Nations Committee.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Advancing Space Protection: UN COPUOS and Global Efforts for Peaceful Exploration",
+        image: "assets/img/impact/aerospace-outer-space/Space Protection.png",
+        description:
+          "An optimistic group is actively contributing to the protection of outer space through their involvement with the United Nations Committee on the Peaceful Uses of Outer Space (UN COPUOS)...",
+        link: "https://www.linkedin.com/posts/lilanofficial_space-peace-un-activity-7209838535007248384-V0Lc?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/Space Protection.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Key Discussions on Day 2 of the Committee on the Peaceful Uses of Outer Space (COPUOS)",
+        image: "assets/img/impact/aerospace-outer-space/Key Discussions.png",
+        description:
+          "On the second discussion day of the Committee on the Peaceful Uses of Outer Space, the following key topics were addressed...",
+        link: "https://www.linkedin.com/posts/lilanofficial_space-peace-food-activity-7209515095066836992-gOg8?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/Key Discussions.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Space Situational Awareness and Inter-Regional Policy Dialogue in Vienna",
+        image: "assets/img/impact/aerospace-outer-space/Space Situational Awareness.png",
+        description:
+          "Yesterday was an eventful day with Space Situational Awareness Activities and Global Coordination, a side event organized by the United States, and a perspective from the French space industry regarding the Sustainability of Space Activities, organized by France. It was a pleasure to meet Nobu Okada in person.",
+        link: "https://www.linkedin.com/posts/lilanofficial_space-peace-food-activity-7210163187394957312-bS2f?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/Space Situational Awareness.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Participating as SGAC Delegate at the United Nations Committee on the Peaceful Uses of Outer Space (COPUOS)",
+        image: "assets/img/impact/aerospace-outer-space/SGAC Delegate.png",
+        description:
+          "It was such a pleasure to participate in the United Nations Committee on the Peaceful Uses of Outer Space (COPUOS) in Vienna, Austria, as the Space Generation Advisory Council (SGAC) Delegate...",
+        link: "https://www.linkedin.com/posts/lilanofficial_space-peace-food-activity-7209344901216419840-ZM6f?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/SGAC Delegate.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Promoting Peaceful Use of Outer Space: The Role of COPUOS and UNOOSA",
+        image: "assets/img/impact/aerospace-outer-space/Outer Space.png",
+        description:
+          "The United Nations Committee on the Peaceful Uses of Outer Space (COPUOS) is a United Nations committee focused on promoting international cooperation in the peaceful use of outer space and addressing legal issues related to space exploration.",
+        link: "https://www.linkedin.com/posts/lilanofficial_space-peace-food-activity-7212019237140201472-ePpV?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/Outer Space.png",
+      },
+      {
+        date: "August 23, 2024",
+        source_name: "News Asia",
+        source_link: "https://newsasia.lk/",
+        title: "Elzian Agro Explores Future in Space Agriculture at COPUOS Session",
+        image: "assets/img/impact/aerospace-outer-space/Space Agriculture at COPUOS.JPEG",
+        description:
+          "Lilan Dayananda, Managing Director and Chief Executive Officer of Elzian Agro, outlined the company’s ambitious vision to enter the Space Agriculture Sector during the 67th Session of the Committee on the Peaceful Uses of Outer Space (COPUOS) in Vienna, Austria.",
+        link: "https://newsasia.lk/elzian-agro-explores-future-in-space-agriculture-at-copuos-session/",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/Space Agriculture at COPUOS.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-aerospace-outer-space",
+    title: "Participate in the Stage on Mars ",
+    image: "assets/img/impact/aerospace-outer-space/Journey to Mars.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Stage On Mars",
+        source_link: "https://www.linkedin.com/company/stageonmars/posts/",
+        title: "Lilan Dayananda on Mars! 🙏🚀",
+        image: "assets/img/impact/aerospace-outer-space/Lilan Dayananda on Mars.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/stageonmars_mars-stage-director-activity-7219597866028146692-79pI?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/Lilan Dayananda on Mars.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "An Unforgettable Journey to Mars with Stage On Mars",
+        image: "assets/img/impact/aerospace-outer-space/Journey to Mars.png",
+        description:
+          'I took a trip to Mars with Stage On Mars. There are no words that exist to fully encapsulate my experience; all I can say is, "The next time I’m in Prague, I know where to go!"',
+        link: "https://www.linkedin.com/posts/lilanofficial_mars-stage-director-activity-7219527072128323587-qDEQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/Journey to Mars.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-aerospace-outer-space",
+    title: 'MELTINGPOT session on the topic "Why Should Artists Fly to Space?"',
+    image: "assets/img/impact/aerospace-outer-space/Exploring New Frontiers.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring New Frontiers: Why Artists Should Fly to Space",
+        image: "assets/img/impact/aerospace-outer-space/Exploring New Frontiers.png",
+        description:
+          'I had the opportunity to participate in an insightful plenary session on the topic "Why Should Artists Fly to Space?" at the MELTINGPOT by Colours of Ostrava, conducted by the Moonshot Platform...',
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7224021339634876416-TRXB?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/Exploring New Frontiers.png",
+      },
+    ],
+  },
 ];
