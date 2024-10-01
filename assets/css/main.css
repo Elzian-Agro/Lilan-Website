@@ -225,6 +225,7 @@ PHP Email Form Messages
     transition: 0.3s;
   }
 
+  /* Existing main menu underline styles */
   .navmenu > ul > li > a:before {
     content: "";
     position: absolute;
@@ -237,6 +238,20 @@ PHP Email Form Messages
     transition: all 0.3s ease-in-out 0s;
   }
 
+  /* Submenu underline styles */
+  .navmenu ul > li ul li a:before {
+    content: "";
+    position: absolute;
+    height: 2px;
+    bottom: -6px;
+    left: 0;
+    background-color: var(--nav-hover-color);
+    visibility: hidden;
+    width: 0px;
+    transition: all 0.3s ease-in-out 0s;
+  }
+
+  /* Hover and active states for both main and submenu links */
   .navmenu a:hover:before,
   .navmenu li:hover > a:before,
   .navmenu .active:before {
@@ -244,66 +259,17 @@ PHP Email Form Messages
     width: 25px;
   }
 
+  /* Hover and active state color for both main and submenu links */
   .navmenu li:hover > a,
   .navmenu .active,
   .navmenu .active:focus {
     color: var(--nav-hover-color);
   }
 
-  .navmenu .dropdown ul {
-    margin: 0;
-    padding: 10px 0;
-    background: var(--nav-dropdown-background-color);
-    display: block;
-    position: absolute;
-    visibility: hidden;
-    left: 14px;
-    top: 130%;
-    opacity: 0;
-    transition: 0.3s;
-    border-radius: 4px;
-    z-index: 99;
-    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
-  }
-
-  .navmenu .dropdown ul li {
-    min-width: 200px;
-  }
-
-  .navmenu .dropdown ul a {
-    padding: 10px 20px;
-    font-size: 15px;
-    text-transform: none;
-    color: var(--nav-dropdown-color);
-  }
-
-  .navmenu .dropdown ul a i {
-    font-size: 12px;
-  }
-
-  .navmenu .dropdown ul a:hover,
-  .navmenu .dropdown ul .active:hover,
-  .navmenu .dropdown ul li:hover > a {
-    color: var(--nav-dropdown-hover-color);
-  }
-
-  .navmenu .dropdown:hover > ul {
-    opacity: 1;
-    top: 100%;
-    visibility: visible;
-  }
-
-  .navmenu .dropdown .dropdown ul {
-    top: 0;
-    left: -90%;
-    visibility: hidden;
-  }
-
-  .navmenu .dropdown .dropdown:hover > ul {
-    opacity: 1;
-    top: 0;
-    left: -100%;
-    visibility: visible;
+  /* Ensure submenu is not hidden behind main menu or other elements */
+  .navmenu ul#submenu {
+    position: relative;
+    z-index: 1;
   }
 }
 
@@ -323,7 +289,7 @@ PHP Email Form Messages
     z-index: 9997;
   }
 
-  .navmenu ul {
+  .navmenu #mainmenu {
     display: none;
     list-style: none;
     position: absolute;
@@ -387,25 +353,6 @@ PHP Email Form Messages
     transform: rotate(180deg);
   }
 
-  .navmenu .dropdown ul {
-    position: static;
-    display: none;
-    z-index: 99;
-    padding: 10px 0;
-    margin: 10px 20px;
-    background-color: var(--nav-dropdown-background-color);
-    transition: all 0.5s ease-in-out;
-  }
-
-  .navmenu .dropdown ul ul {
-    background-color: rgba(33, 37, 41, 0.1);
-  }
-
-  .navmenu .dropdown > .dropdown-active {
-    display: block;
-    background-color: rgba(33, 37, 41, 0.03);
-  }
-
   .mobile-nav-active {
     overflow: hidden;
   }
@@ -428,8 +375,23 @@ PHP Email Form Messages
     transition: 0.3s;
   }
 
-  .mobile-nav-active .navmenu > ul {
+  .mobile-nav-active .navmenu > #mainmenu {
     display: block;
+  }
+
+  .mobile-nav-active .navmenu #mainmenu li #submenu {
+    display: flex; /* Align the submenu items horizontally */
+    list-style: none; /* Remove bullet points */
+    padding: 0 0 0 20px;
+    margin: 0;
+  }
+
+  .mobile-nav-active .navmenu #mainmenu li #slash {
+    padding: 10px 2px;
+  }
+
+  .mobile-nav-active .navmenu #mainmenu li #submenu li a {
+    padding: 10px 2px;
   }
 }
 
