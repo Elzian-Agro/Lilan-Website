@@ -225,6 +225,7 @@ PHP Email Form Messages
     transition: 0.3s;
   }
 
+  /* Existing main menu underline styles */
   .navmenu > ul > li > a:before {
     content: "";
     position: absolute;
@@ -237,6 +238,20 @@ PHP Email Form Messages
     transition: all 0.3s ease-in-out 0s;
   }
 
+  /* Submenu underline styles */
+  .navmenu ul > li ul li a:before {
+    content: "";
+    position: absolute;
+    height: 2px;
+    bottom: -6px;
+    left: 0;
+    background-color: var(--nav-hover-color);
+    visibility: hidden;
+    width: 0px;
+    transition: all 0.3s ease-in-out 0s;
+  }
+
+  /* Hover and active states for both main and submenu links */
   .navmenu a:hover:before,
   .navmenu li:hover > a:before,
   .navmenu .active:before {
@@ -244,66 +259,17 @@ PHP Email Form Messages
     width: 25px;
   }
 
+  /* Hover and active state color for both main and submenu links */
   .navmenu li:hover > a,
   .navmenu .active,
   .navmenu .active:focus {
     color: var(--nav-hover-color);
   }
 
-  .navmenu .dropdown ul {
-    margin: 0;
-    padding: 10px 0;
-    background: var(--nav-dropdown-background-color);
-    display: block;
-    position: absolute;
-    visibility: hidden;
-    left: 14px;
-    top: 130%;
-    opacity: 0;
-    transition: 0.3s;
-    border-radius: 4px;
-    z-index: 99;
-    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
-  }
-
-  .navmenu .dropdown ul li {
-    min-width: 200px;
-  }
-
-  .navmenu .dropdown ul a {
-    padding: 10px 20px;
-    font-size: 15px;
-    text-transform: none;
-    color: var(--nav-dropdown-color);
-  }
-
-  .navmenu .dropdown ul a i {
-    font-size: 12px;
-  }
-
-  .navmenu .dropdown ul a:hover,
-  .navmenu .dropdown ul .active:hover,
-  .navmenu .dropdown ul li:hover > a {
-    color: var(--nav-dropdown-hover-color);
-  }
-
-  .navmenu .dropdown:hover > ul {
-    opacity: 1;
-    top: 100%;
-    visibility: visible;
-  }
-
-  .navmenu .dropdown .dropdown ul {
-    top: 0;
-    left: -90%;
-    visibility: hidden;
-  }
-
-  .navmenu .dropdown .dropdown:hover > ul {
-    opacity: 1;
-    top: 0;
-    left: -100%;
-    visibility: visible;
+  /* Ensure submenu is not hidden behind main menu or other elements */
+  .navmenu ul#submenu {
+    position: relative;
+    z-index: 1;
   }
 }
 
@@ -323,7 +289,7 @@ PHP Email Form Messages
     z-index: 9997;
   }
 
-  .navmenu ul {
+  .navmenu #mainmenu {
     display: none;
     list-style: none;
     position: absolute;
@@ -387,25 +353,6 @@ PHP Email Form Messages
     transform: rotate(180deg);
   }
 
-  .navmenu .dropdown ul {
-    position: static;
-    display: none;
-    z-index: 99;
-    padding: 10px 0;
-    margin: 10px 20px;
-    background-color: var(--nav-dropdown-background-color);
-    transition: all 0.5s ease-in-out;
-  }
-
-  .navmenu .dropdown ul ul {
-    background-color: rgba(33, 37, 41, 0.1);
-  }
-
-  .navmenu .dropdown > .dropdown-active {
-    display: block;
-    background-color: rgba(33, 37, 41, 0.03);
-  }
-
   .mobile-nav-active {
     overflow: hidden;
   }
@@ -428,8 +375,23 @@ PHP Email Form Messages
     transition: 0.3s;
   }
 
-  .mobile-nav-active .navmenu > ul {
+  .mobile-nav-active .navmenu > #mainmenu {
     display: block;
+  }
+
+  .mobile-nav-active .navmenu #mainmenu li #submenu {
+    display: flex; /* Align the submenu items horizontally */
+    list-style: none; /* Remove bullet points */
+    padding: 0 0 0 20px;
+    margin: 0;
+  }
+
+  .mobile-nav-active .navmenu #mainmenu li #slash {
+    padding: 10px 2px;
+  }
+
+  .mobile-nav-active .navmenu #mainmenu li #submenu li a {
+    padding: 10px 2px;
   }
 }
 
@@ -577,6 +539,12 @@ PHP Email Form Messages
 .page-title .heading h1 {
   font-size: 38px;
   font-weight: 700;
+}
+
+@media screen and (max-width: 500px) {
+  .page-title .heading h1 {
+    font-size: 25px;
+  }
 }
 
 .page-title nav {
@@ -898,20 +866,26 @@ section,
   margin: 0 auto 20px auto;
   list-style: none;
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .impact .impact-filters li {
   cursor: pointer;
   display: inline-block;
   font-size: 16px;
-  margin: 5px 5px;
+  margin: 5px;
   line-height: 1;
-  margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
   background-color: var(--accent-color);
-  padding: 5px 0px 5px 0px;
+  padding: 5px 0px;
   border-radius: 2px;
-  width: 500px;
+  width: calc(50% - 10px); /* Two items per row */
+}
+
+.impact .impact-filters li:first-child {
+  width: 100%; /* First item takes full width */
 }
 
 .impact .impact-filters li:hover,
@@ -922,12 +896,31 @@ section,
 @media (max-width: 575px) {
   .impact .impact-filters li {
     font-size: 14px;
-    margin: 5px 5px;
+    margin: 5px;
     width: 100%;
   }
 }
 
 .impact .impact-content {
+  height: 280px;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .impact .impact-content {
+    height: 100%;
+  }
+}
+
+@media (min-width: 1400px) {
+  .impact .impact-content {
+    height: 310px;
+  }
+}
+
+.impact .impact-image {
+  width: 100%;
+  height: auto;
   overflow: hidden;
 }
 
@@ -935,27 +928,17 @@ section,
   transition: 0.3s;
 }
 
-.impact .impact-info {
-  margin-top: 10px;
-}
-
-.impact .impact-info h4 {
+.impact .impact-content h4 {
   color: var(--accent-color);
   text-decoration: none;
   transition: 0.3s;
   font-size: 18px;
   font-weight: 400;
   display: inline-block;
+  padding-top: 10px;
 }
 
-.impact .impact-info p {
-  font-size: 15px;
-  font-weight: 600;
-  color: rgba(255, 255, 255, 0.8);
-  text-align: justify;
-}
-
-.impact .impact-content:hover img {
+.impact .impact-content img:hover {
   transform: scale(1.1);
   cursor: pointer;
 }
@@ -977,6 +960,7 @@ section,
   opacity: 0; /* Start as invisible */
   transition: opacity 0.3s ease, visibility 0.3s ease;
   visibility: hidden; /* Hide by default */
+  overflow-y: auto;
 }
 
 .popup.show {
@@ -992,6 +976,7 @@ section,
 
 .popup .slides {
   position: relative;
+  padding: 5px 30px 5px 30px;
 }
 
 .popup .slide {
@@ -1105,6 +1090,7 @@ section,
   .popup .slide {
     flex-direction: column;
     text-align: center;
+    gap: 10px;
     padding: 0px;
   }
 
@@ -1116,6 +1102,78 @@ section,
   .popup .slide .buttons {
     justify-content: center;
   }
+}
+
+/*--------------------------------------------------------------
+# Blog Section
+--------------------------------------------------------------*/
+.blog .blog-content {
+  overflow: hidden;
+}
+
+.blog .blog-content img {
+  transition: 0.3s;
+}
+
+.blog .blog-info {
+  margin-top: 10px;
+}
+
+.blog .blog-info h4 {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 18px;
+  font-weight: 400;
+  display: inline-block;
+}
+
+.blog .blog-info p {
+  font-size: 15px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: justify;
+}
+
+.blog .blog-content:hover img {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+/*--------------------------------------------------------------
+# Podcast Section
+--------------------------------------------------------------*/
+.podcast .podcast-content {
+  overflow: hidden;
+}
+
+.podcast .podcast-content img {
+  transition: 0.3s;
+}
+
+.podcast .podcast-info {
+  margin-top: 10px;
+}
+
+.podcast .podcast-info h4 {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 18px;
+  font-weight: 400;
+  display: inline-block;
+}
+
+.podcast .podcast-info p {
+  font-size: 15px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: justify;
+}
+
+.podcast .podcast-content:hover img {
+  transform: scale(1.1);
+  cursor: pointer;
 }
 
 /*--------------------------------------------------------------
@@ -1221,9 +1279,11 @@ section,
   position: relative;
   border: 1px solid #3c3a3a;
   border-radius: 10px;
-  padding: 20px 20px 60px 20px;
+  padding: 20px 20px 0px 20px;
   background-color: #1f1c1c;
-  max-height: 400px;
+  height: 300px;
+  max-height: 100%;
+  z-index: 1;
 }
 
 .recommendation .testimonial-item .testimonial-text {
@@ -1238,10 +1298,11 @@ section,
 }
 
 .recommendation .testimonial-item .profile {
-  position: absolute;
-  bottom: 10px;
-  right: 30px;
+  position: relative;
+  bottom: 60px;
+  right: 10px;
   text-align: right;
+  z-index: 0;
 }
 
 .recommendation .testimonial-item .testimonial-img {
@@ -1284,6 +1345,8 @@ section,
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
+  position: relative;
+  z-index: 5;
 }
 
 .recommendation .testimonial-item .rc-read-more-btn:hover {
@@ -1316,6 +1379,8 @@ section,
   background: #000000;
   padding: 20px;
   border-radius: 8px;
+  height: 80%;
+  overflow-y: auto;
 }
 
 .recommendation .popup-close-btn {
@@ -1409,7 +1474,13 @@ section,
 }
 
 @media (max-width: 640px) {
- .recommendation .rc-popup-content {
-  padding: 5px;
+  .recommendation .rc-popup-content {
+    padding: 5px;
+  }
 }
+
+@media (max-width: 1200px) and (min-width: 992px) {
+  .recommendation .testimonial-item {
+    height: 350px;
+  }
 }

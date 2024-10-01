@@ -34,12 +34,18 @@
       <div
         class="container-fluid container-xl position-relative d-flex align-items-center justify-content-end">
         <nav id="navmenu" class="navmenu">
-          <ul>
+          <ul id="mainmenu">
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
             <li><a href="impact.html" class="active">Impact</a></li>
             <li><a href="recommendation.html">Recommendation</a></li>
-            <li><a href="#">Blog</a></li>
+            <li>
+              <ul id="submenu">
+                <li><a href="podcast.html">Podcast</a></li>
+                <li id="slash">/</li>
+                <li><a href="blog.html">Blog</a></li>
+              </ul>
+            </li>
             <li><a href="contact.html">Contact</a></li>
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -56,9 +62,8 @@
               <div class="col-lg-8">
                 <h1>Impact</h1>
                 <p class="mb-0">
-                  Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas
-                  consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione
-                  sint. Sit quaerat ipsum dolorem.
+                  Add description about Impact. Add description about Impact. Add description about Impact.
+                  Add description about Impact. Add description about Impact. Add description about Impact.
                 </p>
               </div>
             </div>
@@ -85,22 +90,22 @@
             data-sort="original-order">
             <ul class="impact-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-recognition">Recognition</li>
-              <li data-filter=".filter-membership">Membership</li>
+              <li data-filter=".filter-recognition">Recognition & Accolades</li>
+              <li data-filter=".filter-membership">Membership, Volunteerism & Affiliations</li>
               <li data-filter=".filter-innovation-social">Innovation & Social Entrepreneurship</li>
-              <li data-filter=".filter-food-agriculture">Food & Agriculture</li>
-              <li data-filter=".filter-renewable-energy">Renewable Energy</li>
+              <li data-filter=".filter-food-agriculture">Food, Agriculture & Forestry</li>
+              <li data-filter=".filter-renewable-energy">Renewable Energy & Energy Conservation</li>
               <li data-filter=".filter-climate-environmental">Climate Action & Environmental Restoration</li>
-              <li data-filter=".filter-food-agriculture">
+              <li data-filter=".filter-public-policy">
                 Public Policy, Peace, Diplomacy & Inclusive Democracy
               </li>
-              <li data-filter=".filter-food-agriculture">Economic, Social, Youth Empowerment & Leadership</li>
-              <li data-filter=".filter-food-agriculture">
-                Women Empowerment & Initiative of Change International
+              <li data-filter=".filter-leadership-economic">Leadership, Economic & Social Empowerment</li>
+              <li data-filter=".filter-youth-women-empowerment">Youth & Women Empowerment</li>
+              <li data-filter=".filter-meeting-changemakers-vips">
+                Meeting Extraordinary Changemakers & VIPs
               </li>
-              <li data-filter=".filter-food-agriculture">Meeting Extraordinary Changemakers & VIPs</li>
-              <li data-filter=".filter-food-agriculture">Outer Space Protection</li>
-              <li data-filter=".filter-food-agriculture">Other Media Appearances</li>
+              <li data-filter=".filter-aerospace-outer-space">Aerospace & Outer Space Protection</li>
+              <li data-filter=".filter-other-media">Other Media Appearances</li>
             </ul>
             <!-- End Impact Filters -->
 
@@ -120,8 +125,12 @@
     <footer id="footer" class="footer dark-background">
       <div class="container">
         <div class="social-links d-flex justify-content-center">
-          <a href=""><i class="bi bi-linkedin"></i></a>
-          <a href=""><i class="bi bi-instagram"></i></a>
+          <a href="https://www.linkedin.com/in/lilanofficial/" target="_blank"
+            ><i class="bi bi-linkedin"></i
+          ></a>
+          <a href="https://www.instagram.com/lilanofficial/" target="_blank"
+            ><i class="bi bi-instagram"></i
+          ></a>
         </div>
         <div class="container">
           <div class="copyright">
@@ -165,62 +174,74 @@
       const impactList = document.getElementById("impact-list");
 
       impacts.forEach((impact, index) => {
-        // Using 'let' so we can modify recHTML
         let recHTML = `
-      <div class="col-lg-4 col-md-6 impact-item isotope-item ${impact.filter}">
-        <div class="impact-content h-100">
-          <img
-            src="${impact.image}"
-            class="img-fluid"
-            alt="${impact.title}"
-            data-popup="popup-${index + 1}" />
-        </div>
-        <div class="impact-info">
-          <h4>${impact.title}</h4>
-          <p>${impact.description}</p>
-        </div>
-      </div>
+          <div class="col-lg-4 col-md-6 isotope-item ${impact.filter}">
+            <div class="impact-content">
+              <div class="impact-image">
+                <img
+                  src="${impact.image}"
+                  class="img-fluid"
+                  alt="${impact.title}"
+                  data-popup="popup-${index + 1}" 
+                />
+              </div>
+              <h4>${impact.title}</h4>
+            </div>
+          </div>
 
-      <div id="popup-${index + 1}" class="popup">
-        <div class="popup-content">
-          <span class="close-btn">&times;</span>
-          <span class="prev-arrow">&#10094;</span>
-          <span class="next-arrow">&#10095;</span>
-          <div class="slides">
-    `;
+          <div id="popup-${index + 1}" class="popup">
+            <div class="popup-content">
+              <span class="close-btn">&times;</span>
+              <span class="prev-arrow">&#10094;</span>
+              <span class="next-arrow">&#10095;</span>
+              <div class="slides">
+        `;
 
         // Loop through the slides and append to recHTML
         impact.slides.forEach((slide) => {
+          // Automatically generate a quote from the slide text
+          let quote = slide.description;
+
+          // Limit to 200 characters without cutting words in half
+          if (quote.length > 250) {
+            // Trim to the nearest space before 200 characters
+            quote = quote.substring(0, 250);
+            const lastSpaceIndex = quote.lastIndexOf(" ");
+
+            // Ensure we cut off at the last full word
+            quote = quote.substring(0, lastSpaceIndex) + "...";
+          }
+
           recHTML += `
-        <div class="slide">
-          <div><img src="${slide.image}" class="img-fluid" alt="${slide.title}" /></div>
-          <div class="text-content">
-            <h4>${slide.title}</h4>
-            <p class="source">
-              ${
-                slide.source_name &&
-                `<span><a href="${slide.source_link}" target="_blank">${slide.source_name}</a></span>`
-              }
-              ${slide.date && `<span>${slide.date}</span>`}
-            </P>
-            <p>${slide.description}</p>
-            <div class="buttons">
-              <a target="_blank" href="${slide.link}">Read more</a>
-              <a target="_blank" href="${slide.backup_image}">
-                <i class="bi bi-download"></i>
-              </a>
+            <div class="slide">
+              <div><img src="${slide.image}" class="img-fluid" alt="${slide.title}" /></div>
+              <div class="text-content">
+                <h4>${slide.title}</h4>
+                <p class="source">
+                  ${
+                    slide.source_name &&
+                    `<span><a href="${slide.source_link}" target="_blank">${slide.source_name}</a></span>`
+                  }
+                  ${slide.date && `<span>${slide.date}</span>`}
+                </P>
+                <p>${quote}</p>
+                <div class="buttons">
+                  <a target="_blank" href="${slide.link}">Read more</a>
+                  <a target="_blank" href="${slide.backup_image}">
+                    <i class="bi bi-download"></i>
+                  </a>
+                </div>
+              </div>
             </div>
-          </div>
-        </div>
-      `;
+          `;
         });
 
         // Close the HTML tags
         recHTML += `
-          </div> <!-- .slides -->
-        </div> <!-- .popup-content -->
-      </div> <!-- #popup-${index + 1} -->
-    `;
+              </div> <!-- .slides -->
+            </div> <!-- .popup-content -->
+          </div> <!-- #popup-${index + 1} -->
+        `;
 
         // Append the constructed HTML to the impact list
         impactList.insertAdjacentHTML("beforeend", recHTML);
