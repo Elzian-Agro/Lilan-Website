@@ -1,5 +1,35 @@
 const recommendations = [
   {
+    date: "September 21, 2024",
+    name: "Charles Ojodale Igomu",
+    position: "Graduate Teaching Assistant",
+    relationship: "Charles Ojodale worked with Lilan on the same team",
+    image: "assets/img/recommendation/Charles Ojodale Igomu.png",
+    linkedin: "https://www.linkedin.com/in/charles-ojodale-igomu-2a8810162/",
+    recommendation:
+      "I had the pleasure of meeting Lilan at the AFS Youth Assembly 2024, where we participated together in the AFS Climate Entrepreneurship Academy. Lilan stood out as a dynamic entrepreneur, pitching a compelling and innovative business in the agriculture sector. His leadership and vision were evident from the way he presented, demonstrating not only his deep understanding of the industry's challenges but also his passion for sustainable solutions.\n\n What truly impressed me was Lilan’s ability to engage and connect with others. He led insightful conversations, encouraged collaboration, and shared valuable perspectives that enriched our discussions. His natural leadership and strong social skills allowed him to inspire and motivate those around him.\n\n I’m confident that Lilan's drive and entrepreneurial spirit will continue to lead him toward remarkable achievements in the future. I highly recommend him to anyone seeking a visionary leader in the agricultural innovation space and sustainable solutions in general.",
+  },
+  {
+    date: "September 17, 2024",
+    name: "Klaus Lambour",
+    position: "Founder of Mielenaria",
+    relationship: "Klaus worked with Lilan on the same team",
+    image: "assets/img/recommendation/Klaus Lambour.png",
+    linkedin: "https://www.linkedin.com/in/klaus-lambour-030771323/",
+    recommendation:
+      "Lilan Is an exceptional leader with an extraordinary vision on how to tackle emerging problems by implementing easy to use technologies and data analysis together with agriculture, making it more efficient and resilient in front of the climate crisis.",
+  },
+  {
+    date: "September 16, 2024",
+    name: "Alpamys Yechshanov",
+    position: "Graphic Design Artist",
+    relationship: "Alpamys worked with Lilan on the same team",
+    image: "assets/img/recommendation/Alpamys Yechshanov.png",
+    linkedin: "https://www.linkedin.com/in/alpamys-yechshanov-6ab20a271/",
+    recommendation:
+      "To Whom It May Concern,\n\n It is with great pleasure that I write this recommendation for Lilan Dayananda, whom I had the privilege of meeting during the 2024 AFS Youth Assembly and the Climate Entrepreneurship Program at NYU. During our time together, I had the opportunity to witness Lilan’s leadership, vision, and dedication firsthand, especially through his work on the Elzian Agro Project.\n\n At the AFS Youth Assembly, Lilan impressed me with his forward-thinking approach to solving pressing issues in agriculture. His project, Elzian Agro, offers innovative precision agriculture solutions by leveraging web and mobile applications, IoT monitoring, and automation systems. This project stands out by optimizing resource usage and delivering tangible results—helping farmers increase crop yields by over 7% while reducing unnecessary irrigation costs by 15%-60%. Lilan’s ability to integrate technology with sustainable agricultural practices demonstrates not only his technical expertise but also his commitment to creating lasting impact in the farming community.\n\n I had the honor of being present at Lilan’s final pitch for the 2024 AFS Award for Young Global Citizens. His deep understanding of the challenges facing agriculture and his commitment to solving them shone through. The scientifically validated investment platform he is developing, based on Primary Ecosystem Services (PES), is a testament to his innovative mindset. This platform will empower farmers financially while simultaneously addressing the need for climate-smart, data-driven solutions—a true example of leadership and social responsibility.\n\n Beyond his technical abilities, Lilan is an excellent communicator and a team player. He possesses strong social skills that allow him to build connections effortlessly and foster collaborative environments. His passion for helping others is evident, and he brings a positive energy to every project he engages with.\n\n I wholeheartedly recommend Lilan Dayananda for any position or opportunity he seeks. His blend of leadership, technical expertise, and social acumen makes him an invaluable asset to any team.\n\n Sincerely,\n Alpamys Yechshanov\n AstraZeneca Climate Entrepreneur, AFS Youth Assembly 2024",
+  },
+  {
     date: "September 2, 2024",
     name: "Renata Prôa",
     position: "Data Scientist",
