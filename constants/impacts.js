@@ -4756,136 +4756,417 @@ const impacts = [
       },
     ],
   },
+
   {
     filter: "filter-youth-women-empowerment",
-    title: "Resolution Project Guide/Mentor",
-    image: "assets/img/impact/youth-women-empowerment/resolution-project-profile.png",
+    id: "9.26",
+    title: "Addressing the students of Ibbagamuwa Central College",
+    image: "assets/img/impact/youth-women-empowerment/Youth Empowerment Talk.png",
     slides: [
       {
         date: "",
-        source_name: "Resolution Project",
-        source_link: "https://resolutionproject.org/",
-        title: "Lilan Dayananda",
-        image: "assets/img/impact/youth-women-empowerment/resolution-project-profile.png",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Returning to Inspire: A Youth Empowerment Talk at Ibbagamuwa Central College",
+        image: "assets/img/impact/youth-women-empowerment/Youth Empowerment Talk.png",
         description:
-          "Lilan Dayananda is an international award-winning youth social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South by the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
-        link: "https://resolutionproject.org/team/lilan-dayananda/",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/resolution-project-profile.png",
+          "After nine years, I had the privilege of returning to my alma mater, Ibbagamuwa Central College, to speak on youth empowerment. Invited by Sun Match Company, popularly known as “SOORYA,” ...",
+        link: "https://www.linkedin.com/posts/lilanofficial_school-youth-purpose-activity-7236748147635470338-qXIL?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Youth Empowerment Talk.png",
       },
     ],
   },
   {
     filter: "filter-youth-women-empowerment",
-    title: "Youth Empowerment in Climate Action Platform (YECAP) AGYLE Training Program (YATP)",
-    image: "assets/img/impact/youth-women-empowerment/Youth Voices.png",
+    id: "9.25",
+    title: "Women Inclusion at the United People Global (UPG) ",
+    image: "assets/img/impact/youth-women-empowerment/united-people-global.png",
+    slides: [
+      {
+        date: "",
+        source_name: "United People Global",
+        source_link: "https://www.youtube.com/@UnitedPeopleGlobal",
+        title: "United Voices",
+        image: "assets/img/impact/youth-women-empowerment/united-people-global.png",
+        description: "What's Going On? UPG Champion Invite...",
+        link: "https://www.youtube.com/watch?v=WjIME9s70Xk",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/united-people-global.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.23",
+    title: "Participating in Youth-Driven Innovation in Global Education Workshop",
+    image: "assets/img/impact/youth-women-empowerment/Empowering the Future.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering the Future: Youth-Driven Innovation in Global Education",
+        image: "assets/img/impact/youth-women-empowerment/Empowering the Future.png",
+        description:
+          "The workshop on the Youth-Driven Innovation in Global Education by Amanda Abrom (Director of the Global Schools Program, United Nations SDSN) and Nene Onyedi Ibezim (Project Officer, Global Schools, UN SDSN) at the AFS Youth Assembly in New York, USA was interactive.",
+        link: "https://www.linkedin.com/posts/lilanofficial_the-workshop-on-the-youth-driven-innovation-activity-7231913597650485248-p4Ok?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Empowering the Future.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.22",
+    title: "Moonshot Young Leaders Camp",
+    image: "assets/img/impact/youth-women-empowerment/Moonshot Young Leaders.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participation in the Moonshot Young Leaders Camp: A Journey of Empowerment and Inspiration",
+        image: "assets/img/impact/youth-women-empowerment/Moonshot Young Leaders.png",
+        description:
+          "I had the opportunity to participate in the Moonshot Young Leaders Camp at the Moonshot Platform. This exceptional program provided a series of inspirational, empowering, and mindful sessions...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7221391951764283392-MQks?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Moonshot Young Leaders.png",
+      },
+      {
+        date: "",
+        source_name: "Moonshot Platform",
+        source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
+        title: "Introducing some of the Young Leaders",
+        image: "assets/img/impact/youth-women-empowerment/moonshot-platform.png",
+        description:
+          "Introducing you to some of the Young Leaders joining us at this year's Moonshot Young Leaders Camp...",
+        link: "https://www.linkedin.com/posts/moonshot-platform_youngleaders-socialimpact-sdgs-activity-7213889108237049858-ejvR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/moonshot-platform.png",
+      },
+      {
+        date: "August 18, 2024",
+        source_name: "Biz Report",
+        source_link: "https://english.bizreport.lk/",
+        title: "Lilan Dayananda Selected for Moonshot Young Leaders Camp in Czechia",
+        image: "assets/img/impact/youth-women-empowerment/Moonshot Young Leaders Camp.png",
+        description:
+          "Lilan Dayananda, the dynamic Managing Director and CEO of Elzian Agro, has been selected to participate in the prestigious Moonshot Young Leaders Camp. This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges. During the program, Lilan also met the President Petr Pavel of the Czech Republic, the royal family of the House of Lobkowicz at Prague Castle, Senator Ondřej Šimetka and Martin Kupka, Minister of Transport of Czechia.",
+        link: "https://english.bizreport.lk/lilan-dayananda-selected-for-moonshot-young-leaders-camp-in-czechia/",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Moonshot Young Leaders Camp.png",
+      },
+      {
+        date: "August 17, 2024",
+        source_name: "Business Cafe",
+        source_link: "https://www.businesscafe.lk/",
+        title: "Lilan Dayananda Selected for Moonshot Young Leaders Camp in Czechia",
+        image: "assets/img/impact/youth-women-empowerment/Business Cafe Leaders.png",
+        description:
+          "This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges.",
+        link: "https://www.businesscafe.lk/business-news/food-beverage/item/16085-lilan-dayananda-selected-for-moonshot-young-leaders-camp-in-czechia",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Business Cafe Leaders.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.21",
+    title: "Youth Networking at Charleroi",
+    image: "assets/img/impact/youth-women-empowerment/Maximizing Time.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Maximizing Time: The Power of Networking and Multitasking for Success",
+        image: "assets/img/impact/youth-women-empowerment/Maximizing Time.png",
+        description:
+          "Time is our most valuable resource, and its proper utilization can be the key to success. Recently, I found myself at a time-consuming gathering near Charleroi Airport in Belgium. In such scenarios, I always prioritize two things: networking and multitasking.",
+        link: "https://www.linkedin.com/posts/lilanofficial_time-resource-youth-activity-7228828240641937408-y-y6?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Maximizing Time.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.20",
+    title: "New Generation Asian Youth WINSPIRATION 3.0",
+    image: "assets/img/impact/youth-women-empowerment/WINSPIRATION 3.0.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in WINSPIRATION 3.0",
+        image: "assets/img/impact/youth-women-empowerment/WINSPIRATION 3.0.png",
+        description:
+          "Participating in WINSPIRATION 3.0 was an enriching experience. This initiative was designed to empower Asian youth by providing a platform that extended beyond traditional volunteerism...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-youth-empowerment-activity-7216184409421414400-jLjq?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/WINSPIRATION 3.0.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.19",
+    title:
+      "Empower Youth through Ye! Community Learn and Connect Session organized by the International Trade Centre (ITC)",
+    image: "assets/img/impact/youth-women-empowerment/address-ye-community.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Addressing the Ye! Community",
+        image: "assets/img/impact/youth-women-empowerment/address-ye-community.png",
+        description:
+          "It was a pleasure to contribute as a speaker for the recent Ye! Community Learn and Connect Session. These sessions, conducted every three months on the last Wednesday, are affiliated with the International Trade Centre and the Ye! Community.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-entrepreneurship-startups-activity-7211735366033137665-y7eh?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/address-ye-community.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.18",
+    title:
+      'Addressing the WSIS Forum High-Level Event, WSA session, titled "Youth Engagement Around WSIS Action Lines”',
+    image: "assets/img/impact/youth-women-empowerment/WSIS Forum.png",
+    slides: [
+      {
+        date: "",
+        source_name: "WSA",
+        source_link: "https://www.linkedin.com/company/world-summit-awards/posts/",
+        title: "Empowering Youth at the WSIS Forum: Shaping the Future of ICT and Digital Entrepreneurship",
+        image: "assets/img/impact/youth-women-empowerment/WSIS Forum.png",
+        description:
+          'Hear from WSA Youth Ambassadors at the World Summit on the Information Society Forum in the "Youth Engagement Around WSIS Action Lines" session. 🌐',
+        link: "https://www.linkedin.com/posts/world-summit-awards_wsis-technology-networks-activity-7201107444255637505-ndlZ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/WSIS Forum.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Contribute to the WSA Session at the WSIS Forum High-Level Event in Geneva",
+        image: "assets/img/impact/youth-women-empowerment/WSA Session.png",
+        description:
+          "It is a pleasure to contribute to the WSA session at the World Summit on the Information Society (WSIS Process) Forum High-Level Event in Geneva, Switzerland, co-hosted by the International...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-wsis-itu-activity-7200804008263917570-oDjz?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/WSA Session.png",
+      },
+      {
+        date: "",
+        source_name: "WSIS+20 Forum High-Level Event 2024",
+        source_link: "https://www.itu.int/net4/wsis/forum/2024/",
+        title: "Youth Engagement Around WSIS Action Lines",
+        image: "assets/img/impact/youth-women-empowerment/WSIS Action Lines.png",
+        description:
+          'The WSIS Action Lines, outline steps to leverage information and communication technologies (ICTs) for sustainable development. The WSA  session titled "Youth Engagement Around WSIS Action Lines" focuses on the critical role young people play in advancing the Tunis agenda, specifically around action line C7.',
+        link: "https://www.itu.int/net4/wsis/forum/2024/Agenda/Session/185",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/WSIS Action Lines.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.17",
+    title:
+      "Addressing the Sparkle a Business Idea Knowledge Sharing Session of the Faculty of Management Studies, Rajarata University of Sri Lanka",
+    image: "assets/img/impact/youth-women-empowerment/Pivot.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "Why 'Pivot' is Essential for Entrepreneurs: Navigating Market Shifts and Economic Hardships",
+        image: "assets/img/impact/youth-women-empowerment/Pivot.png",
+        description:
+          'There\'s a reason the word "Pivot" is so strongly associated with entrepreneurs. Founders need to be able to see where market...',
+        link: "https://www.linkedin.com/posts/elzianagro_entrepreneurs-founders-change-activity-6953595609719136256-pA6x?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Pivot.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.16",
+    title: "Addressing the Inventors Club - Wayamba University of Sri Lanka",
+    image: "assets/img/impact/youth-women-empowerment/Inventors Club - Wayamba University.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Inventors Club - Wayamba University of Sri Lanka",
+        source_link: "https://web.facebook.com/InventorsClubWUSL",
+        title: "Our heartfelt gratitude for our speakers✍️",
+        image: "assets/img/impact/youth-women-empowerment/Inventors Club - Wayamba University.png",
+        description: "Thank you for your participation...",
+        link: "https://web.facebook.com/100076041701168/posts/136228258904110/",
+        backup_image:
+          "assets/img/impact/youth-women-empowerment/backup/Inventors Club - Wayamba University.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.15",
+    title: "Youth of New Generation - Winspiration 3.0",
+    image: "assets/img/impact/youth-women-empowerment/Commencement of Winspiration 3.0.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the Commencement of Winspiration 3.0",
+        image: "assets/img/impact/youth-women-empowerment/Commencement of Winspiration 3.0.png",
+        description:
+          "I had the pleasure of participating in the commencement of Winspiration 3.0, the flagship mentorship program led by Youth of New Generation Sri Lanka (NGSL). The inaugural session featured several key industry leaders, including Snr. Prof. H.D. Karunaratne, Vice Chancellor of the University of Colombo, as the Chief Guest.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-psychology-empowerment-activity-7197644799154274305-Zr1y?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Commencement of Winspiration 3.0.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.14",
+    title: "Addressing the Global Leadership Summit 2024",
+    image: "assets/img/impact/youth-women-empowerment/Global Leadership Summit.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Global Leadership Summit",
+        image: "assets/img/impact/youth-women-empowerment/Global Leadership Summit.png",
+        description:
+          "It is such a pleasure to address the Global Leadership Summit representing ELZIAN AGRO, which is taking place this coming week in partnership with - ForbesBLK, United Nations Association of the United States of America, UNDP , Youth4Climate, World Health Organization...",
+        link: "https://www.linkedin.com/posts/lilanofficial_socialimpact-sdgs-youth-activity-7194714123773906944-hjFp?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Global Leadership Summit.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Addressing the Global Leadership Summit",
+        image: "assets/img/impact/youth-women-empowerment/Addressing the Global Leadership Summit.png",
+        description:
+          "Looking forward to addressing the Global Leadership Summit. The Global Leadership Summit stands as a premier gathering of global changemakers, uniting young professionals, CEOs, experts, thought leaders, and innovators from various sectors...",
+        link: "https://www.linkedin.com/posts/lilanofficial_socialimpact-sdgs-youth-activity-7195256454302351360-mB9p?utm_source=share&utm_medium=member_desktop",
+        backup_image:
+          "assets/img/impact/youth-women-empowerment/backup/Addressing the Global Leadership Summit.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.13",
+    title: "Collaboration with the Improving Economies for Stronger Communities (IESC)",
+    image: "assets/img/impact/youth-women-empowerment/Meets with Christopher.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title:
+          "ELZIAN AGRO Meets with Christopher Addison of IESC to Discuss Climate-Smart Precision Agriculture Solutions",
+        image: "assets/img/impact/youth-women-empowerment/Meets with Christopher.png",
+        description:
+          "IESC - Improving Economies for Stronger Communities (formerly International Executive Service Corps) is a non-profit organization that has been operating for 60 years, focusing on implementing projects for USAID and USDA that promote private sector growth and create economic opportunities for communities in developing countries.",
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:7184059281929912321/",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Meets with Christopher.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.12",
+    title:
+      "Addressing the Commonwealth and the year of the Youth Project to empower youth inclusion in Sustainable Development Practices",
+    image: "assets/img/impact/youth-women-empowerment/Partnership with The Commonwealth.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Joseph A.",
+        source_link: "https://www.linkedin.com/in/joseph-a-662016285/",
+        title: "Launching Our Partnership with The Commonwealth: Empowering Youth for Future Industries",
+        image: "assets/img/impact/youth-women-empowerment/Partnership with The Commonwealth.png",
+        description:
+          "We officially kick off our partnership with The Commonwealth and the year of the youth project. ",
+        link: "https://www.linkedin.com/posts/joseph-a-662016285_agriculture-sustainability-digitalagriculture-activity-7176184384708849664-MEUd?utm_source=share&utm_medium=member_desktop",
+        backup_image:
+          "assets/img/impact/youth-women-empowerment/backup/Partnership with The Commonwealth.png",
+      },
+      {
+        date: "",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "Nurturing Agripreners for a Sustainable Future",
+        image: "assets/img/impact/youth-women-empowerment/nurturing-agricultures.png",
+        description:
+          "Our Managing Director Lilan Dayananda will deliver a speech today at the interactive Agrivine webinar on unleashing youth potential in Agriculture.",
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:7176551534116106241",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/nurturing-agricultures.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.11",
+    title: "United Nations Economic and Social Council (ECOSOC) Youth Forum",
+    image: "assets/img/impact/youth-women-empowerment/ECOSOC Youth Forum.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "Empowering Youth Voices in Climate Negotiations: My Transformative Journey with the YECAP AGYLE Training Program",
-        image: "assets/img/impact/youth-women-empowerment/Youth Voices.png",
+          "Invited to the 2024 ECOSOC Youth Forum: Advocating for Sustainable Solutions and Youth Empowerment",
+        image: "assets/img/impact/youth-women-empowerment/ECOSOC Youth Forum.png",
         description:
-          "My participation in the Youth Empowerment in Climate Action Platform (YECAP) AGYLE Training Program (YATP) has been an exceptional and transformative experience...",
-        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-leaders-technology-activity-7066428443525066752-uDQi?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Youth Voices.png",
+          "It is an honour to announce that I have been invited to attend the 2024 United Nations Economic and Social Council (ECOSOC) Youth Forum, scheduled to take place at the UN Headquarters in New York...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climateaction-agriculture-youth-activity-7183239588470030337-giql?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/ECOSOC Youth Forum.png",
       },
     ],
   },
   {
     filter: "filter-youth-women-empowerment",
-    title: "Global Youth Dialogue on Adaptation",
-    image: "assets/img/impact/youth-women-empowerment/Global Youth Mobilization.png",
+    id: "9.10",
+    title: "Supporting the World Bank Group to initiate projects for Rural Development and Youth Empowerment",
+    image: "assets/img/impact/youth-women-empowerment/Meeting with Parmesh.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Global Youth Mobilization for Climate Adaptation: Regional Forums Leading to COP28 Youth Dialogue",
-        image: "assets/img/impact/youth-women-empowerment/Global Youth Mobilization.png",
+        title: "Strategic Meeting with Parmesh Shah on Advancing Sri Lankan Agriculture",
+        image: "assets/img/impact/youth-women-empowerment/Meeting with Parmesh.png",
         description:
-          "Moving across six regions of the world, the forums will rally young people around the adaptation agenda ahead of the annual global Youth Dialogue on Adaptation, the landmark convening for the youth adaptation movement leading into COP28.",
-        link: "https://www.linkedin.com/posts/lilanofficial_moving-across-six-regions-of-the-world-the-activity-7052670484013842432-Gqd0?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Global Youth Mobilization.png",
+          "I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions in the context of Sri Lankan agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Meeting with Parmesh.png",
       },
     ],
   },
   {
     filter: "filter-youth-women-empowerment",
-    title: "Youth for Treaty on the Prohibition of Nuclear Weapons (TPNW)",
-    image: "assets/img/impact/youth-women-empowerment/Mobilizing Global Youth.png",
+    id: "9.9",
+    title: "Global Thinkers Forum & Global Thinkers Mentors",
+    image: "assets/img/impact/youth-women-empowerment/Global Thinkers Mentors Profile.png",
     slides: [
       {
         date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Mobilizing Global Youth for Nuclear Disarmament: The 2nd Annual Youth MSP for the Treaty on the Prohibition of Nuclear Weapons",
-        image: "assets/img/impact/youth-women-empowerment/Mobilizing Global Youth.png",
+        source_name: "Global Thinkers Mentors",
+        source_link: "https://globalthinkersmentors.org/",
+        title: "Lilan Udayanga Dayananda",
+        image: "assets/img/impact/youth-women-empowerment/Global Thinkers Mentors Profile.png",
         description:
-          "Youth for Treaty on the Prohibition of Nuclear Weapons (TPNW) are excited to present the 2nd annual Youth MSP for the Treaty...",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-for-treaty-on-the-prohibition-of-nuclear-activity-7051977271905038336-ODMw?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Mobilizing Global Youth.png",
+          "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the UN...",
+        link: "https://globalthinkersmentors.org/lilan-udayanga-dayananda",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Global Thinkers Mentors Profile.png",
       },
     ],
   },
   {
     filter: "filter-youth-women-empowerment",
-    title: "Youth Leader Camp",
-    image: "assets/img/impact/youth-women-empowerment/Youth Leader Camp 2023.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Embracing the Journey: Ready for Youth Leader Camp 2023",
-        image: "assets/img/impact/youth-women-empowerment/Youth Leader Camp 2023.png",
-        description: "I'm ready for the Youth Leader Camp 2023...",
-        link: "https://www.linkedin.com/posts/lilanofficial_leadership-leaders-activity-7049596258902028289-lhT4?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Youth Leader Camp 2023.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    title: "Local Conference of Youth (LCOY18)",
-    image: "assets/img/impact/youth-women-empowerment/Uniting for Climate Action.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Uniting for Climate Action: The Impact and Legacy of LCOY18 in Advancing Sri Lanka's Green Goals",
-        image: "assets/img/impact/youth-women-empowerment/Uniting for Climate Action.png",
-        description:
-          "The Local Conference of Youth (LCOY18) stands as a significant milestone in the pursuit of progress, aiming to unite, empower, and engage young individuals, climate...",
-        link: "https://www.linkedin.com/posts/lilanofficial_cop28-coy18-climate-activity-7123951670778052609-AkJB?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Uniting for Climate Action.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    title: "Official Member of the Adjudication Panel for the Commonwealth Youth Awards",
-    image: "assets/img/impact/youth-women-empowerment/Commonwealth Youth Awards 2023.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Certificate of appreciation for my adjudication of the Commonwealth Youth Awards 2023",
-        image: "assets/img/impact/youth-women-empowerment/Commonwealth Youth Awards 2023.png",
-        description: "",
-        link: "https://www.linkedin.com/posts/lilanofficial_certificate-of-appreciation-for-my-adjudication-activity-7028436934259593216-SMdr?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Commonwealth Youth Awards 2023.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
+    id: "9.8",
     title:
       "The International Association of Horticultural Producers (AIPH) Youth Jury Member to decide the AIPH World Green City Awards",
     image: "assets/img/impact/youth-women-empowerment/AIPH Youth Jury.png",
@@ -4940,576 +5221,352 @@ const impacts = [
   },
   {
     filter: "filter-youth-women-empowerment",
-    title: "Global Thinkers Forum & Global Thinkers Mentors",
-    image: "assets/img/impact/youth-women-empowerment/Global Thinkers Mentors Profile.png",
-    slides: [
-      {
-        date: "",
-        source_name: "Global Thinkers Mentors",
-        source_link: "https://globalthinkersmentors.org/",
-        title: "Lilan Udayanga Dayananda",
-        image: "assets/img/impact/youth-women-empowerment/Global Thinkers Mentors Profile.png",
-        description:
-          "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the UN...",
-        link: "https://globalthinkersmentors.org/lilan-udayanga-dayananda",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Global Thinkers Mentors Profile.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    title: "Supporting the World Bank Group to initiate projects for Rural Development and Youth Empowerment",
-    image: "assets/img/impact/youth-women-empowerment/Meeting with Parmesh.png",
+    id: "9.7",
+    title: "Official Member of the Adjudication Panel for the Commonwealth Youth Awards",
+    image: "assets/img/impact/youth-women-empowerment/Commonwealth Youth Awards 2023.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Strategic Meeting with Parmesh Shah on Advancing Sri Lankan Agriculture",
-        image: "assets/img/impact/youth-women-empowerment/Meeting with Parmesh.png",
-        description:
-          "I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions in the context of Sri Lankan agriculture...",
-        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Meeting with Parmesh.png",
+        title: "Certificate of appreciation for my adjudication of the Commonwealth Youth Awards 2023",
+        image: "assets/img/impact/youth-women-empowerment/Commonwealth Youth Awards 2023.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/lilanofficial_certificate-of-appreciation-for-my-adjudication-activity-7028436934259593216-SMdr?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Commonwealth Youth Awards 2023.png",
       },
     ],
   },
   {
     filter: "filter-youth-women-empowerment",
-    title: "United Nations Economic and Social Council (ECOSOC) Youth Forum",
-    image: "assets/img/impact/youth-women-empowerment/ECOSOC Youth Forum.png",
+    id: "9.6",
+    title: "Local Conference of Youth (LCOY18)",
+    image: "assets/img/impact/youth-women-empowerment/Uniting for Climate Action.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "Invited to the 2024 ECOSOC Youth Forum: Advocating for Sustainable Solutions and Youth Empowerment",
-        image: "assets/img/impact/youth-women-empowerment/ECOSOC Youth Forum.png",
+          "Uniting for Climate Action: The Impact and Legacy of LCOY18 in Advancing Sri Lanka's Green Goals",
+        image: "assets/img/impact/youth-women-empowerment/Uniting for Climate Action.png",
         description:
-          "It is an honour to announce that I have been invited to attend the 2024 United Nations Economic and Social Council (ECOSOC) Youth Forum, scheduled to take place at the UN Headquarters in New York...",
-        link: "https://www.linkedin.com/posts/lilanofficial_climateaction-agriculture-youth-activity-7183239588470030337-giql?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/ECOSOC Youth Forum.png",
+          "The Local Conference of Youth (LCOY18) stands as a significant milestone in the pursuit of progress, aiming to unite, empower, and engage young individuals, climate...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop28-coy18-climate-activity-7123951670778052609-AkJB?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Uniting for Climate Action.png",
       },
     ],
   },
   {
     filter: "filter-youth-women-empowerment",
-    title:
-      "Addressing the Commonwealth and the year of the Youth Project to empower youth inclusion in Sustainable Development Practices",
-    image: "assets/img/impact/youth-women-empowerment/Partnership with The Commonwealth.png",
+    id: "9.5",
+    title: "Youth Leader Camp",
+    image: "assets/img/impact/youth-women-empowerment/Youth Leader Camp 2023.png",
     slides: [
       {
         date: "",
-        source_name: "Joseph A.",
-        source_link: "https://www.linkedin.com/in/joseph-a-662016285/",
-        title: "Launching Our Partnership with The Commonwealth: Empowering Youth for Future Industries",
-        image: "assets/img/impact/youth-women-empowerment/Partnership with The Commonwealth.png",
-        description:
-          "We officially kick off our partnership with The Commonwealth and the year of the youth project. ",
-        link: "https://www.linkedin.com/posts/joseph-a-662016285_agriculture-sustainability-digitalagriculture-activity-7176184384708849664-MEUd?utm_source=share&utm_medium=member_desktop",
-        backup_image:
-          "assets/img/impact/youth-women-empowerment/backup/Partnership with The Commonwealth.png",
-      },
-      {
-        date: "",
-        source_name: "Elzian Agro",
-        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
-        title: "Nurturing Agripreners for a Sustainable Future",
-        image: "assets/img/impact/youth-women-empowerment/nurturing-agricultures.png",
-        description:
-          "Our Managing Director Lilan Dayananda will deliver a speech today at the interactive Agrivine webinar on unleashing youth potential in Agriculture.",
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:7176551534116106241",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/nurturing-agricultures.png",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Embracing the Journey: Ready for Youth Leader Camp 2023",
+        image: "assets/img/impact/youth-women-empowerment/Youth Leader Camp 2023.png",
+        description: "I'm ready for the Youth Leader Camp 2023...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-leaders-activity-7049596258902028289-lhT4?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Youth Leader Camp 2023.png",
       },
     ],
   },
   {
     filter: "filter-youth-women-empowerment",
-    title: "Collaboration with the Improving Economies for Stronger Communities (IESC)",
-    image: "assets/img/impact/youth-women-empowerment/Meets with Christopher.png",
+    id: "9.4",
+    title: "Youth for Treaty on the Prohibition of Nuclear Weapons (TPNW)",
+    image: "assets/img/impact/youth-women-empowerment/Mobilizing Global Youth.png",
     slides: [
       {
         date: "",
-        source_name: "Elzian Agro",
-        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "ELZIAN AGRO Meets with Christopher Addison of IESC to Discuss Climate-Smart Precision Agriculture Solutions",
-        image: "assets/img/impact/youth-women-empowerment/Meets with Christopher.png",
+          "Mobilizing Global Youth for Nuclear Disarmament: The 2nd Annual Youth MSP for the Treaty on the Prohibition of Nuclear Weapons",
+        image: "assets/img/impact/youth-women-empowerment/Mobilizing Global Youth.png",
         description:
-          "IESC - Improving Economies for Stronger Communities (formerly International Executive Service Corps) is a non-profit organization that has been operating for 60 years, focusing on implementing projects for USAID and USDA that promote private sector growth and create economic opportunities for communities in developing countries.",
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:7184059281929912321/",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Meets with Christopher.png",
+          "Youth for Treaty on the Prohibition of Nuclear Weapons (TPNW) are excited to present the 2nd annual Youth MSP for the Treaty...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-for-treaty-on-the-prohibition-of-nuclear-activity-7051977271905038336-ODMw?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Mobilizing Global Youth.png",
       },
     ],
   },
   {
     filter: "filter-youth-women-empowerment",
-    title: "Addressing the Global Leadership Summit 2024",
-    image: "assets/img/impact/youth-women-empowerment/Global Leadership Summit.png",
+    id: "9.3",
+    title: "Global Youth Dialogue on Adaptation",
+    image: "assets/img/impact/youth-women-empowerment/Global Youth Mobilization.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Global Leadership Summit",
-        image: "assets/img/impact/youth-women-empowerment/Global Leadership Summit.png",
+        title:
+          "Global Youth Mobilization for Climate Adaptation: Regional Forums Leading to COP28 Youth Dialogue",
+        image: "assets/img/impact/youth-women-empowerment/Global Youth Mobilization.png",
         description:
-          "It is such a pleasure to address the Global Leadership Summit representing ELZIAN AGRO, which is taking place this coming week in partnership with - ForbesBLK, United Nations Association of the United States of America, UNDP , Youth4Climate, World Health Organization...",
-        link: "https://www.linkedin.com/posts/lilanofficial_socialimpact-sdgs-youth-activity-7194714123773906944-hjFp?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Global Leadership Summit.png",
-      },
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Addressing the Global Leadership Summit",
-        image: "assets/img/impact/youth-women-empowerment/Addressing the Global Leadership Summit.png",
-        description:
-          "Looking forward to addressing the Global Leadership Summit. The Global Leadership Summit stands as a premier gathering of global changemakers, uniting young professionals, CEOs, experts, thought leaders, and innovators from various sectors...",
-        link: "https://www.linkedin.com/posts/lilanofficial_socialimpact-sdgs-youth-activity-7195256454302351360-mB9p?utm_source=share&utm_medium=member_desktop",
-        backup_image:
-          "assets/img/impact/youth-women-empowerment/backup/Addressing the Global Leadership Summit.png",
+          "Moving across six regions of the world, the forums will rally young people around the adaptation agenda ahead of the annual global Youth Dialogue on Adaptation, the landmark convening for the youth adaptation movement leading into COP28.",
+        link: "https://www.linkedin.com/posts/lilanofficial_moving-across-six-regions-of-the-world-the-activity-7052670484013842432-Gqd0?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Global Youth Mobilization.png",
       },
     ],
   },
   {
     filter: "filter-youth-women-empowerment",
-    title: "Youth of New Generation - Winspiration 3.0",
-    image: "assets/img/impact/youth-women-empowerment/Commencement of Winspiration 3.0.png",
+    id: "9.2",
+    title: "Youth Empowerment in Climate Action Platform (YECAP) AGYLE Training Program (YATP)",
+    image: "assets/img/impact/youth-women-empowerment/Youth Voices.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in the Commencement of Winspiration 3.0",
-        image: "assets/img/impact/youth-women-empowerment/Commencement of Winspiration 3.0.png",
+        title:
+          "Empowering Youth Voices in Climate Negotiations: My Transformative Journey with the YECAP AGYLE Training Program",
+        image: "assets/img/impact/youth-women-empowerment/Youth Voices.png",
         description:
-          "I had the pleasure of participating in the commencement of Winspiration 3.0, the flagship mentorship program led by Youth of New Generation Sri Lanka (NGSL). The inaugural session featured several key industry leaders, including Snr. Prof. H.D. Karunaratne, Vice Chancellor of the University of Colombo, as the Chief Guest.",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-psychology-empowerment-activity-7197644799154274305-Zr1y?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Commencement of Winspiration 3.0.png",
+          "My participation in the Youth Empowerment in Climate Action Platform (YECAP) AGYLE Training Program (YATP) has been an exceptional and transformative experience...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-leaders-technology-activity-7066428443525066752-uDQi?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/Youth Voices.png",
       },
     ],
   },
   {
     filter: "filter-youth-women-empowerment",
-    title: "Addressing the Inventors Club - Wayamba University of Sri Lanka",
-    image: "assets/img/impact/youth-women-empowerment/Inventors Club - Wayamba University.png",
+    id: "9.1",
+    title: "Resolution Project Guide/Mentor",
+    image: "assets/img/impact/youth-women-empowerment/resolution-project-profile.png",
     slides: [
       {
         date: "",
-        source_name: "Inventors Club - Wayamba University of Sri Lanka",
-        source_link: "https://web.facebook.com/InventorsClubWUSL",
-        title: "Our heartfelt gratitude for our speakers✍️",
-        image: "assets/img/impact/youth-women-empowerment/Inventors Club - Wayamba University.png",
-        description: "Thank you for your participation...",
-        link: "https://web.facebook.com/100076041701168/posts/136228258904110/",
-        backup_image:
-          "assets/img/impact/youth-women-empowerment/backup/Inventors Club - Wayamba University.png",
+        source_name: "Resolution Project",
+        source_link: "https://resolutionproject.org/",
+        title: "Lilan Dayananda",
+        image: "assets/img/impact/youth-women-empowerment/resolution-project-profile.png",
+        description:
+          "Lilan Dayananda is an international award-winning youth social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South by the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
+        link: "https://resolutionproject.org/team/lilan-dayananda/",
+        backup_image: "assets/img/impact/youth-women-empowerment/backup/resolution-project-profile.png",
       },
     ],
   },
+
   {
-    filter: "filter-youth-women-empowerment",
-    title:
-      "Addressing the Sparkle a Business Idea Knowledge Sharing Session of the Faculty of Management Studies, Rajarata University of Sri Lanka",
-    image: "assets/img/impact/youth-women-empowerment/Pivot.png",
-    slides: [
-      {
-        date: "",
-        source_name: "Elzian Agro",
-        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
-        title: "Why 'Pivot' is Essential for Entrepreneurs: Navigating Market Shifts and Economic Hardships",
-        image: "assets/img/impact/youth-women-empowerment/Pivot.png",
-        description:
-          'There\'s a reason the word "Pivot" is so strongly associated with entrepreneurs. Founders need to be able to see where market...',
-        link: "https://www.linkedin.com/posts/elzianagro_entrepreneurs-founders-change-activity-6953595609719136256-pA6x?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Pivot.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    title:
-      'Addressing the WSIS Forum High-Level Event, WSA session, titled "Youth Engagement Around WSIS Action Lines”',
-    image: "assets/img/impact/youth-women-empowerment/WSIS Forum.png",
-    slides: [
-      {
-        date: "",
-        source_name: "WSA",
-        source_link: "https://www.linkedin.com/company/world-summit-awards/posts/",
-        title: "Empowering Youth at the WSIS Forum: Shaping the Future of ICT and Digital Entrepreneurship",
-        image: "assets/img/impact/youth-women-empowerment/WSIS Forum.png",
-        description:
-          'Hear from WSA Youth Ambassadors at the World Summit on the Information Society Forum in the "Youth Engagement Around WSIS Action Lines" session. 🌐',
-        link: "https://www.linkedin.com/posts/world-summit-awards_wsis-technology-networks-activity-7201107444255637505-ndlZ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/WSIS Forum.png",
-      },
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Honored to Contribute to the WSA Session at the WSIS Forum High-Level Event in Geneva",
-        image: "assets/img/impact/youth-women-empowerment/WSA Session.png",
-        description:
-          "It is a pleasure to contribute to the WSA session at the World Summit on the Information Society (WSIS Process) Forum High-Level Event in Geneva, Switzerland, co-hosted by the International...",
-        link: "https://www.linkedin.com/posts/lilanofficial_wsa-wsis-itu-activity-7200804008263917570-oDjz?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/WSA Session.png",
-      },
-      {
-        date: "",
-        source_name: "WSIS+20 Forum High-Level Event 2024",
-        source_link: "https://www.itu.int/net4/wsis/forum/2024/",
-        title: "Youth Engagement Around WSIS Action Lines",
-        image: "assets/img/impact/youth-women-empowerment/WSIS Action Lines.png",
-        description:
-          'The WSIS Action Lines, outline steps to leverage information and communication technologies (ICTs) for sustainable development. The WSA  session titled "Youth Engagement Around WSIS Action Lines" focuses on the critical role young people play in advancing the Tunis agenda, specifically around action line C7.',
-        link: "https://www.itu.int/net4/wsis/forum/2024/Agenda/Session/185",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/WSIS Action Lines.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    title:
-      "Empower Youth through Ye! Community Learn and Connect Session organized by the International Trade Centre (ITC)",
-    image: "assets/img/impact/youth-women-empowerment/address-ye-community.png",
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.22",
+    title: "Meeting Dr. Sylvia Earle and Dr. Sally Ann Ranney",
+    image: "assets/img/impact/meeting-changemakers-vips/Sylvia Earle.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Addressing the Ye! Community",
-        image: "assets/img/impact/youth-women-empowerment/address-ye-community.png",
+        title: "Meeting Dr. Sylvia Earle and Dr. Sally Ann Ranney",
+        image: "assets/img/impact/meeting-changemakers-vips/Sylvia Earle.png",
         description:
-          "It was a pleasure to contribute as a speaker for the recent Ye! Community Learn and Connect Session. These sessions, conducted every three months on the last Wednesday, are affiliated with the International Trade Centre and the Ye! Community.",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-entrepreneurship-startups-activity-7211735366033137665-y7eh?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/address-ye-community.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    title: "New Generation Asian Youth WINSPIRATION 3.0",
-    image: "assets/img/impact/youth-women-empowerment/WINSPIRATION 3.0.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in WINSPIRATION 3.0",
-        image: "assets/img/impact/youth-women-empowerment/WINSPIRATION 3.0.png",
-        description:
-          "Participating in WINSPIRATION 3.0 was an enriching experience. This initiative was designed to empower Asian youth by providing a platform that extended beyond traditional volunteerism...",
-        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-youth-empowerment-activity-7216184409421414400-jLjq?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/WINSPIRATION 3.0.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    title: "Youth Networking at Charleroi",
-    image: "assets/img/impact/youth-women-empowerment/Maximizing Time.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Maximizing Time: The Power of Networking and Multitasking for Success",
-        image: "assets/img/impact/youth-women-empowerment/Maximizing Time.png",
-        description:
-          "Time is our most valuable resource, and its proper utilization can be the key to success. Recently, I found myself at a time-consuming gathering near Charleroi Airport in Belgium. In such scenarios, I always prioritize two things: networking and multitasking.",
-        link: "https://www.linkedin.com/posts/lilanofficial_time-resource-youth-activity-7228828240641937408-y-y6?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Maximizing Time.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    title: "Moonshot Young Leaders Camp",
-    image: "assets/img/impact/youth-women-empowerment/Moonshot Young Leaders.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participation in the Moonshot Young Leaders Camp: A Journey of Empowerment and Inspiration",
-        image: "assets/img/impact/youth-women-empowerment/Moonshot Young Leaders.png",
-        description:
-          "I had the opportunity to participate in the Moonshot Young Leaders Camp at the Moonshot Platform. This exceptional program provided a series of inspirational, empowering, and mindful sessions...",
-        link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7221391951764283392-MQks?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Moonshot Young Leaders.png",
-      },
-      {
-        date: "",
-        source_name: "Moonshot Platform",
-        source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
-        title: "Introducing some of the Young Leaders",
-        image: "assets/img/impact/youth-women-empowerment/moonshot-platform.png",
-        description:
-          "Introducing you to some of the Young Leaders joining us at this year's Moonshot Young Leaders Camp...",
-        link: "https://www.linkedin.com/posts/moonshot-platform_youngleaders-socialimpact-sdgs-activity-7213889108237049858-ejvR?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/moonshot-platform.png",
-      },
-      {
-        date: "August 18, 2024",
-        source_name: "Biz Report",
-        source_link: "https://english.bizreport.lk/",
-        title: "Lilan Dayananda Selected for Moonshot Young Leaders Camp in Czechia",
-        image: "assets/img/impact/youth-women-empowerment/Moonshot Young Leaders Camp.png",
-        description:
-          "Lilan Dayananda, the dynamic Managing Director and CEO of Elzian Agro, has been selected to participate in the prestigious Moonshot Young Leaders Camp. This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges. During the program, Lilan also met the President Petr Pavel of the Czech Republic, the royal family of the House of Lobkowicz at Prague Castle, Senator Ondřej Šimetka and Martin Kupka, Minister of Transport of Czechia.",
-        link: "https://english.bizreport.lk/lilan-dayananda-selected-for-moonshot-young-leaders-camp-in-czechia/",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Moonshot Young Leaders Camp.png",
-      },
-      {
-        date: "August 17, 2024",
-        source_name: "Business Cafe",
-        source_link: "https://www.businesscafe.lk/",
-        title: "Lilan Dayananda Selected for Moonshot Young Leaders Camp in Czechia",
-        image: "assets/img/impact/youth-women-empowerment/Business Cafe Leaders.png",
-        description:
-          "This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges.",
-        link: "https://www.businesscafe.lk/business-news/food-beverage/item/16085-lilan-dayananda-selected-for-moonshot-young-leaders-camp-in-czechia",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Business Cafe Leaders.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    title: "Participating in Youth-Driven Innovation in Global Education Workshop",
-    image: "assets/img/impact/youth-women-empowerment/Empowering the Future.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Empowering the Future: Youth-Driven Innovation in Global Education",
-        image: "assets/img/impact/youth-women-empowerment/Empowering the Future.png",
-        description:
-          "The workshop on the Youth-Driven Innovation in Global Education by Amanda Abrom (Director of the Global Schools Program, United Nations SDSN) and Nene Onyedi Ibezim (Project Officer, Global Schools, UN SDSN) at the AFS Youth Assembly in New York, USA was interactive.",
-        link: "https://www.linkedin.com/posts/lilanofficial_the-workshop-on-the-youth-driven-innovation-activity-7231913597650485248-p4Ok?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Empowering the Future.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    title: "Women Inclusion at the United People Global (UPG) ",
-    image: "assets/img/impact/youth-women-empowerment/united-people-global.png",
-    slides: [
-      {
-        date: "",
-        source_name: "United People Global",
-        source_link: "https://www.youtube.com/@UnitedPeopleGlobal",
-        title: "United Voices",
-        image: "assets/img/impact/youth-women-empowerment/united-people-global.png",
-        description: "What's Going On? UPG Champion Invite...",
-        link: "https://www.youtube.com/watch?v=WjIME9s70Xk",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/united-people-global.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    title: "Addressing the students of Ibbagamuwa Central College",
-    image: "assets/img/impact/youth-women-empowerment/Youth Empowerment Talk.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Returning to Inspire: A Youth Empowerment Talk at Ibbagamuwa Central College",
-        image: "assets/img/impact/youth-women-empowerment/Youth Empowerment Talk.png",
-        description:
-          "After nine years, I had the privilege of returning to my alma mater, Ibbagamuwa Central College, to speak on youth empowerment. Invited by Sun Match Company, popularly known as “SOORYA,” ...",
-        link: "https://www.linkedin.com/posts/lilanofficial_school-youth-purpose-activity-7236748147635470338-qXIL?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/youth-women-empowerment/backup/Youth Empowerment Talk.png",
+          "It was an absolute pleasure meeting Dr. Sylvia Earle at KINETIK’s Islands Shaping the Future: Spotlight Interview during the Science Summit at UNGA. Dr. Earle, an esteemed American marine biologist, oceanographer, explorer, author, and lecturer, has been a National Geographic Explorer at Large since 1998.",
+        link: "https://www.linkedin.com/posts/lilanofficial_unga-sciencesummit-missionblue-activity-7245283658813562880-qHf8?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Sylvia Earle.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting Karim Iliya",
-    image: "assets/img/impact/meeting-changemakers-vips/Karim Iliya.png",
+    id: "10.21",
+    title: "Meeting Hanno Pevkur (Minister of Defence of the Republic of Estonia)",
+    image: "assets/img/impact/meeting-changemakers-vips/Hanno Pevkur.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Karim Iliya",
-        image: "assets/img/impact/meeting-changemakers-vips/Karim Iliya.png",
+        title: "Meeting Hanno Pevkur (Minister of Defence of the Republic of Estonia)",
+        image: "assets/img/impact/meeting-changemakers-vips/Hanno Pevkur.png",
         description:
-          "It was a pleasure to meet the inspiring Karim Iliya during the Moonshot Platform Youth Leadership Camp. Karim Iliya is a Photographer, Filmmaker, Whale swimming guide, and upcoming Space Explorer based in Iceland and Hawaii. Karim is a co-founder of Kogia, and is also part of the dearMoon crew.",
-        link: "https://www.linkedin.com/posts/lilanofficial_change-movement-leadership-activity-7226379675936145408-AOWJ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Karim Iliya.png",
+          "The keynote remarks from Hanno Pevkur, Minister of Defence of the Republic of Estonia, added tremendous value to the second day of the Generation Democracy Global Summit. I had the opportunity to visit Transparency International and engage in a productive discussion with Ingrida Kalinauskienė, CEO of Transparency International Lithuania.",
+        link: "https://www.linkedin.com/posts/lilanofficial_globaldemocracy-youthleadership-civicengagement-activity-7242968354313887744-tDmO?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Hanno Pevkur.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting Yemi Akinyemi Dele (Yemi A.D.) ",
-    image: "assets/img/impact/meeting-changemakers-vips/Yemi Akinyemi Dele.png",
+    id: "10.20",
+    title: "Meeting Mohamed Keita, and Radvilė Morkūnaitė - Mikulėnienė",
+    image: "assets/img/impact/meeting-changemakers-vips/Mohamed Keita.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Yemi Akinyemi Dele (Yemi A.D.) ",
-        image: "assets/img/impact/meeting-changemakers-vips/Yemi Akinyemi Dele.png",
+        title: "Meeting Mohamed Keita, and Radvilė Morkūnaitė - Mikulėnienė",
+        image: "assets/img/impact/meeting-changemakers-vips/Mohamed Keita.png",
         description:
-          "It was a pleasure to meet inspiring Yemi A.D. during the Moonshot Platform Youth Leadership Camp. Yemi is a versatile and accomplished creator and social innovator with over two decades of experience. His expertise spans choreography, direction, and production, making him one of the most in-demand talents in the industry.",
-        link: "https://www.linkedin.com/posts/lilanofficial_change-movement-leadership-activity-7225247385088618496-obKv?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Yemi Akinyemi Dele.png",
+          "I had the opportunity of participating in the Impact on Civil Liberties and Human Rights session at the Generation Democracy Global Summit in Vilnius, Lithuania. This session explored the diverse impacts of authoritarian regimes and repression on civil liberties and human rights, providing a platform for discussing strategies to promote and protect these rights globally.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-global-security-activity-7242144787905048577-koKC?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Mohamed Keita.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting Dr./Prof./Senator Ondřej Šimetka",
-    image: "assets/img/impact/meeting-changemakers-vips/Ondřej Šimetka.png",
+    id: "10.19",
+    title: "Meeting Prof. Edward P. Joseph",
+    image: "assets/img/impact/meeting-changemakers-vips/Edward P. Joseph.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Dr./Prof./Senator Ondřej Šimetka",
-        image: "assets/img/impact/meeting-changemakers-vips/Ondřej Šimetka.png",
+        title: "Meeting Prof. Edward P. Joseph",
+        image: "assets/img/impact/meeting-changemakers-vips/Edward P. Joseph.png",
         description:
-          "It was a pleasure to meet Dr. Ondřej Šimetka during the Moonshot Program in Czechia. He is a gynecologist and obstetrician, head of the clinic at the University Hospital Ostrava, and an associate professor at the Faculty of Medicine, University of Ostrava.",
-        link: "https://www.linkedin.com/posts/lilanofficial_team-class-moonshot-activity-7221034505296343041-8ORQ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Ondřej Šimetka.png",
+          "It was a pleasure to meet Edward P. Joseph, Senior Fellow at The Johns Hopkins University ; Johns Hopkins School of Advanced International Studies (SAIS), during the Generation Democracy Global Summit in Vilnius, Lithuania. As a keynote speaker, he delivered an insightful speech on inclusive democracy.",
+        link: "https://www.linkedin.com/posts/lilanofficial_generationdemocracy-inclusivedemocracy-youthleadership-activity-7241470207192408064-qlgN?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Edward P. Joseph.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting Prof. Ivan Paul Grixti",
-    image: "assets/img/impact/meeting-changemakers-vips/Ivan Paul Grixti.png",
+    id: "10.18",
+    title: "Meeting Ron Lawler",
+    image: "assets/img/impact/meeting-changemakers-vips/Ron Lawler.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Prof. Ivan Paul Grixti",
-        image: "assets/img/impact/meeting-changemakers-vips/Ivan Paul Grixti.png",
+        title: "Meeting Ron Lawler",
+        image: "assets/img/impact/meeting-changemakers-vips/Ron Lawler.png",
         description:
-          "I had the pleasure of meeting Ivan Paul Grixti , Senior Lecturer at the University of Malta, during my recent visit. His humility and support were invaluable to my co-director and me during an informal meetup near the Parliament of Malta. He also guided us to the National Archives of Malta.",
-        link: "https://www.linkedin.com/posts/lilanofficial_networking-malta-business-activity-7214125445980545024-h_Y_?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Ivan Paul Grixti.png",
+          "It was such a pleasure to meet Ron Lawler (former Initiatives of Change International Council member) again. I first met him during a session conducted by Ravindra Ngo 赖文卓 at Caux.",
+        link: "https://www.linkedin.com/posts/lilanofficial_iofc-firstnations-autralia-activity-7142795187839287296-6Ead?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Ron Lawler.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting the royal family of the House of Lobkowicz at Prague Castle",
-    image: "assets/img/impact/meeting-changemakers-vips/royal family.png",
+    id: "10.17",
+    title: "Meeting Henk Rogers",
+    image: "assets/img/impact/meeting-changemakers-vips/Henk Rogers.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting the royal family of the House of Lobkowicz at Prague Castle",
-        image: "assets/img/impact/meeting-changemakers-vips/royal family.png",
+        title: "Meeting Henk Rogers",
+        image: "assets/img/impact/meeting-changemakers-vips/Henk Rogers.png",
         description:
-          "Absolutely thrilled to have visited the House of Lobkowicz in Prague, Czechia (Czech Republic), yesterday! Visiting the historical palace is one thing but receiving a tour from royalty is a different level altogether! ",
-        link: "https://www.linkedin.com/posts/lilanofficial_culturalheritage-history-artcollections-activity-7219204301791883264-fPrj?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/royal family.png",
+          "I am proud to be a Blue Planet Alliance Global Ambassador and it was such a pleasure to meet Henk Rogers at Convene Brookfield Place in New York.",
+        link: "https://www.linkedin.com/posts/lilanofficial_blue-planet-alliance-activity-7236417048505958400-vSF9?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Henk Rogers.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting the President of Czech Republic (Czechia)",
-    image: "assets/img/impact/meeting-changemakers-vips/Czech Republic.png",
+    id: "10.16",
+    title: "Meeting Francesca Gatt",
+    image: "assets/img/impact/meeting-changemakers-vips/Francesca Gatt.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting the President of Czech Republic (Czechia)",
-        image: "assets/img/impact/meeting-changemakers-vips/Czech Republic.png",
+        title: "Meeting Francesca Gatt",
+        image: "assets/img/impact/meeting-changemakers-vips/Francesca Gatt.png",
         description:
-          "It was an honor to meet His Excellency, President Petr Pavel of the Czech Republic, at the Imperial Hall. His keynote address was truly inspiring, offering valuable insights on becoming an inspirational leader.",
-        link: "https://www.linkedin.com/posts/lilanofficial_leadership-inspiration-czechrepublic-activity-7219534645523046400-D8Un?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Czech Republic.png",
+          "It was an honor to meet Francesca Gatt, Deputy Permanent Representative of Malta to the UN at the United Nations Headquarters in New York.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-elzian-activity-7235960562793242625-5Fz3?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Francesca Gatt.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting Radhikaraje Gaekward",
-    image: "assets/img/impact/meeting-changemakers-vips/Radhikaraje Gaekward.png",
+    id: "10.15",
+    title: "Meeting Eddie Marsden-Jones",
+    image: "assets/img/impact/meeting-changemakers-vips/Eddie Marsden-Jones.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Radhikaraje Gaekward",
-        image: "assets/img/impact/meeting-changemakers-vips/Radhikaraje Gaekward.png",
+        title: "Meeting Eddie Marsden-Jones",
+        image: "assets/img/impact/meeting-changemakers-vips/Eddie Marsden-Jones.png",
         description:
-          "It was such a pleasure meeting Radhikaraje Gaekwad during the Moonshot Program in the Czech Republic. She is an Aspen Global Leadership Network Fellow and an honorary doctorate recipient from the University of East London. ",
-        link: "https://www.linkedin.com/posts/lilanofficial_network-culture-diversity-activity-7220121935899156480-xmcR?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Radhikaraje Gaekward.png",
+          "Amidst a busy schedule, it was a pleasure to explore opportunities for expanding into international markets, specifically targeting Europe and the UAE, alongside Eddie Marsden-Jones in Colombo, Sri Lanka.",
+        link: "https://www.linkedin.com/posts/lilanofficial_technology-tech-europe-activity-7234941427019870209-x-Tf?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Eddie Marsden-Jones.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting Zlata Holušová",
-    image: "assets/img/impact/meeting-changemakers-vips/Zlata Holušová.png",
+    id: "10.14",
+    title: "Meeting Dr. Helmut Schuster",
+    image: "assets/img/impact/meeting-changemakers-vips/Helmut Schuster.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Zlata Holušová",
-        image: "assets/img/impact/meeting-changemakers-vips/Zlata Holušová.png",
+        title: "Meeting Dr. Helmut Schuster",
+        image: "assets/img/impact/meeting-changemakers-vips/Helmut Schuster.png",
         description:
-          "It was such a pleasure to meet Zlata Holušová, the Founder and Director of the Colours of Ostrava Musical Festival. And as much as she likes being part of this musical whirlwind, she likes to return to where there’s peace and quiet and life flows with a more subtle rhythm.",
-        link: "https://www.linkedin.com/posts/lilanofficial_music-colours-festival-activity-7221807267195625472-HFqi/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Zlata Holušová.png",
+          "It was a pleasure to meet Dr. Helmut Schuster at Convene Brookfield Place in Downtown New York. He is the co-author of A Career Carol, an irreverent take on graduation commencement speeches and the expectations of Generation Z. The book offers a wry and insightful perspective on how to successfully navigate a 30-to-40-year professional career. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_knowledge-literature-book-activity-7233597770207522817-Kbxi?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Helmut Schuster.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting Martin Kupka",
-    image: "assets/img/impact/meeting-changemakers-vips/Martin Kupka.png",
+    title: "Meeting Anand Verma",
+    id: "10.13",
+    image: "assets/img/impact/meeting-changemakers-vips/Anand Verma.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Martin Kupka",
-        image: "assets/img/impact/meeting-changemakers-vips/Martin Kupka.png",
+        title: "Meeting Anand Verma",
+        image: "assets/img/impact/meeting-changemakers-vips/Anand Verma.png",
         description:
-          "It was such a pleasure to meet Martin Kupka, Minister of Transport of the Czechia (Czech Republic). He is a Czech politician who has been a member of the Chamber of Deputies since 2017. He currently serves as Minister of Transport in the Cabinet of Petr Fiala and previously served as mayor of Líbeznice.",
-        link: "https://www.linkedin.com/posts/lilanofficial_mobility-traveling-state-activity-7222122360093429760-dq36?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Martin Kupka.png",
+          "The session conducted by Anand Verma (Dr.) on the future of AI at Convene Center, Brookfield Place in New York, was insightful. Future generative AI in agriculture will enable businesses to optimize crop yields by analyzing vast datasets on soil, weather, and plant health, leading to more precise farming practices.",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-elzian-elzianagro-activity-7231639967314194432-9ZRG?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Anand Verma.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting Brandon Hightower",
-    image: "assets/img/impact/meeting-changemakers-vips/Brandon Hightower.png",
+    id: "10.12",
+    title: "Meeting Daniel Obst",
+    image: "assets/img/impact/meeting-changemakers-vips/Daniel Obst.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Brandon Hightower",
-        image: "assets/img/impact/meeting-changemakers-vips/Brandon Hightower.png",
+        title: "Meeting Daniel Obst",
+        image: "assets/img/impact/meeting-changemakers-vips/Daniel Obst.png",
         description:
-          "It was a pleasure to meet Brandon Hightower, a multi-disciplinary artist, musician, and dynamic performer who ignites spiritual awakening through his live music. Originating from Florida, Brandon is a gifted vocalist renowned for his ability to craft engaging grooves and memorable melodies. ",
-        link: "https://www.linkedin.com/posts/lilanofficial_music-rock-brandonhightower-activity-7224056542134747136--nkV?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Brandon Hightower.png",
+          "It was an absolute pleasure to meet Daniel Obst, President and CEO of AFS Intercultural Programs. Daniel is a visionary leader and creative thinker, dedicated to driving a global movement to educate and empower global citizens.",
+        link: "https://www.linkedin.com/posts/lilanofficial_visionary-creative-thinker-activity-7230373476555972609-m9KQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Daniel Obst.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
+    id: "10.11",
     title: "Meeting Priyadarshani Joshi and SAndrés Peñaloza Lanza",
     image: "assets/img/impact/meeting-changemakers-vips/Priyadarshani Joshi and SAndrés Peñaloza.png",
     slides: [
@@ -5529,114 +5586,246 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting Daniel Obst",
-    image: "assets/img/impact/meeting-changemakers-vips/Daniel Obst.png",
+    id: "10.10",
+    title: "Meeting Brandon Hightower",
+    image: "assets/img/impact/meeting-changemakers-vips/Brandon Hightower.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Daniel Obst",
-        image: "assets/img/impact/meeting-changemakers-vips/Daniel Obst.png",
+        title: "Meeting Brandon Hightower",
+        image: "assets/img/impact/meeting-changemakers-vips/Brandon Hightower.png",
         description:
-          "It was an absolute pleasure to meet Daniel Obst, President and CEO of AFS Intercultural Programs. Daniel is a visionary leader and creative thinker, dedicated to driving a global movement to educate and empower global citizens.",
-        link: "https://www.linkedin.com/posts/lilanofficial_visionary-creative-thinker-activity-7230373476555972609-m9KQ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Daniel Obst.png",
+          "It was a pleasure to meet Brandon Hightower, a multi-disciplinary artist, musician, and dynamic performer who ignites spiritual awakening through his live music. Originating from Florida, Brandon is a gifted vocalist renowned for his ability to craft engaging grooves and memorable melodies. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-rock-brandonhightower-activity-7224056542134747136--nkV?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Brandon Hightower.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting Anand Verma",
-    image: "assets/img/impact/meeting-changemakers-vips/Anand Verma.png",
+    id: "10.9",
+    title: "Meeting Martin Kupka",
+    image: "assets/img/impact/meeting-changemakers-vips/Martin Kupka.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Anand Verma",
-        image: "assets/img/impact/meeting-changemakers-vips/Anand Verma.png",
+        title: "Meeting Martin Kupka",
+        image: "assets/img/impact/meeting-changemakers-vips/Martin Kupka.png",
         description:
-          "The session conducted by Anand Verma (Dr.) on the future of AI at Convene Center, Brookfield Place in New York, was insightful. Future generative AI in agriculture will enable businesses to optimize crop yields by analyzing vast datasets on soil, weather, and plant health, leading to more precise farming practices.",
-        link: "https://www.linkedin.com/posts/lilanofficial_ai-elzian-elzianagro-activity-7231639967314194432-9ZRG?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Anand Verma.png",
+          "It was such a pleasure to meet Martin Kupka, Minister of Transport of the Czechia (Czech Republic). He is a Czech politician who has been a member of the Chamber of Deputies since 2017. He currently serves as Minister of Transport in the Cabinet of Petr Fiala and previously served as mayor of Líbeznice.",
+        link: "https://www.linkedin.com/posts/lilanofficial_mobility-traveling-state-activity-7222122360093429760-dq36?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Martin Kupka.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting Dr. Helmut Schuster",
-    image: "assets/img/impact/meeting-changemakers-vips/Helmut Schuster.png",
+    id: "10.8",
+    title: "Meeting Zlata Holušová",
+    image: "assets/img/impact/meeting-changemakers-vips/Zlata Holušová.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Dr. Helmut Schuster",
-        image: "assets/img/impact/meeting-changemakers-vips/Helmut Schuster.png",
+        title: "Meeting Zlata Holušová",
+        image: "assets/img/impact/meeting-changemakers-vips/Zlata Holušová.png",
         description:
-          "It was a pleasure to meet Dr. Helmut Schuster at Convene Brookfield Place in Downtown New York. He is the co-author of A Career Carol, an irreverent take on graduation commencement speeches and the expectations of Generation Z. The book offers a wry and insightful perspective on how to successfully navigate a 30-to-40-year professional career. ",
-        link: "https://www.linkedin.com/posts/lilanofficial_knowledge-literature-book-activity-7233597770207522817-Kbxi?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Helmut Schuster.png",
+          "It was such a pleasure to meet Zlata Holušová, the Founder and Director of the Colours of Ostrava Musical Festival. And as much as she likes being part of this musical whirlwind, she likes to return to where there’s peace and quiet and life flows with a more subtle rhythm.",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-colours-festival-activity-7221807267195625472-HFqi/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Zlata Holušová.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting Eddie Marsden-Jones",
-    image: "assets/img/impact/meeting-changemakers-vips/Eddie Marsden-Jones.png",
+    id: "10.7",
+    title: "Meeting Radhikaraje Gaekward",
+    image: "assets/img/impact/meeting-changemakers-vips/Radhikaraje Gaekward.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Eddie Marsden-Jones",
-        image: "assets/img/impact/meeting-changemakers-vips/Eddie Marsden-Jones.png",
+        title: "Meeting Radhikaraje Gaekward",
+        image: "assets/img/impact/meeting-changemakers-vips/Radhikaraje Gaekward.png",
         description:
-          "Amidst a busy schedule, it was a pleasure to explore opportunities for expanding into international markets, specifically targeting Europe and the UAE, alongside Eddie Marsden-Jones in Colombo, Sri Lanka.",
-        link: "https://www.linkedin.com/posts/lilanofficial_technology-tech-europe-activity-7234941427019870209-x-Tf?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Eddie Marsden-Jones.png",
+          "It was such a pleasure meeting Radhikaraje Gaekwad during the Moonshot Program in the Czech Republic. She is an Aspen Global Leadership Network Fellow and an honorary doctorate recipient from the University of East London. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_network-culture-diversity-activity-7220121935899156480-xmcR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Radhikaraje Gaekward.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting Francesca Gatt",
-    image: "assets/img/impact/meeting-changemakers-vips/Francesca Gatt.png",
+    id: "10.6",
+    title: "Meeting the President of Czech Republic (Czechia)",
+    image: "assets/img/impact/meeting-changemakers-vips/Czech Republic.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Francesca Gatt",
-        image: "assets/img/impact/meeting-changemakers-vips/Francesca Gatt.png",
+        title: "Meeting the President of Czech Republic (Czechia)",
+        image: "assets/img/impact/meeting-changemakers-vips/Czech Republic.png",
         description:
-          "It was an honor to meet Francesca Gatt, Deputy Permanent Representative of Malta to the UN at the United Nations Headquarters in New York.",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-elzian-activity-7235960562793242625-5Fz3?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Francesca Gatt.png",
+          "It was an honor to meet His Excellency, President Petr Pavel of the Czech Republic, at the Imperial Hall. His keynote address was truly inspiring, offering valuable insights on becoming an inspirational leader.",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-inspiration-czechrepublic-activity-7219534645523046400-D8Un?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Czech Republic.png",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    title: "Meeting Henk Rogers",
-    image: "assets/img/impact/meeting-changemakers-vips/Henk Rogers.png",
+    id: "10.5",
+    title: "Meeting the royal family of the House of Lobkowicz at Prague Castle",
+    image: "assets/img/impact/meeting-changemakers-vips/royal family.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Henk Rogers",
-        image: "assets/img/impact/meeting-changemakers-vips/Henk Rogers.png",
+        title: "Meeting the royal family of the House of Lobkowicz at Prague Castle",
+        image: "assets/img/impact/meeting-changemakers-vips/royal family.png",
         description:
-          "I am proud to be a Blue Planet Alliance Global Ambassador and it was such a pleasure to meet Henk Rogers at Convene Brookfield Place in New York.",
-        link: "https://www.linkedin.com/posts/lilanofficial_blue-planet-alliance-activity-7236417048505958400-vSF9?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Henk Rogers.png",
+          "Absolutely thrilled to have visited the House of Lobkowicz in Prague, Czechia (Czech Republic), yesterday! Visiting the historical palace is one thing but receiving a tour from royalty is a different level altogether! ",
+        link: "https://www.linkedin.com/posts/lilanofficial_culturalheritage-history-artcollections-activity-7219204301791883264-fPrj?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/royal family.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.4",
+    title: "Meeting Prof. Ivan Paul Grixti",
+    image: "assets/img/impact/meeting-changemakers-vips/Ivan Paul Grixti.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Prof. Ivan Paul Grixti",
+        image: "assets/img/impact/meeting-changemakers-vips/Ivan Paul Grixti.png",
+        description:
+          "I had the pleasure of meeting Ivan Paul Grixti , Senior Lecturer at the University of Malta, during my recent visit. His humility and support were invaluable to my co-director and me during an informal meetup near the Parliament of Malta. He also guided us to the National Archives of Malta.",
+        link: "https://www.linkedin.com/posts/lilanofficial_networking-malta-business-activity-7214125445980545024-h_Y_?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Ivan Paul Grixti.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.3",
+    title: "Meeting Dr./Prof./Senator Ondřej Šimetka",
+    image: "assets/img/impact/meeting-changemakers-vips/Ondřej Šimetka.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Dr./Prof./Senator Ondřej Šimetka",
+        image: "assets/img/impact/meeting-changemakers-vips/Ondřej Šimetka.png",
+        description:
+          "It was a pleasure to meet Dr. Ondřej Šimetka during the Moonshot Program in Czechia. He is a gynecologist and obstetrician, head of the clinic at the University Hospital Ostrava, and an associate professor at the Faculty of Medicine, University of Ostrava.",
+        link: "https://www.linkedin.com/posts/lilanofficial_team-class-moonshot-activity-7221034505296343041-8ORQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Ondřej Šimetka.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.2",
+    title: "Meeting Yemi Akinyemi Dele (Yemi A.D.) ",
+    image: "assets/img/impact/meeting-changemakers-vips/Yemi Akinyemi Dele.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Yemi Akinyemi Dele (Yemi A.D.) ",
+        image: "assets/img/impact/meeting-changemakers-vips/Yemi Akinyemi Dele.png",
+        description:
+          "It was a pleasure to meet inspiring Yemi A.D. during the Moonshot Platform Youth Leadership Camp. Yemi is a versatile and accomplished creator and social innovator with over two decades of experience. His expertise spans choreography, direction, and production, making him one of the most in-demand talents in the industry.",
+        link: "https://www.linkedin.com/posts/lilanofficial_change-movement-leadership-activity-7225247385088618496-obKv?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Yemi Akinyemi Dele.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.1",
+    title: "Meeting Karim Iliya",
+    image: "assets/img/impact/meeting-changemakers-vips/Karim Iliya.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Karim Iliya",
+        image: "assets/img/impact/meeting-changemakers-vips/Karim Iliya.png",
+        description:
+          "It was a pleasure to meet the inspiring Karim Iliya during the Moonshot Platform Youth Leadership Camp. Karim Iliya is a Photographer, Filmmaker, Whale swimming guide, and upcoming Space Explorer based in Iceland and Hawaii. Karim is a co-founder of Kogia, and is also part of the dearMoon crew.",
+        link: "https://www.linkedin.com/posts/lilanofficial_change-movement-leadership-activity-7226379675936145408-AOWJ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Karim Iliya.png",
+      },
+    ],
+  },
+
+  {
+    filter: "filter-aerospace-outer-space",
+    id: "11.3",
+    title: 'MELTINGPOT session on the topic "Why Should Artists Fly to Space?"',
+    image: "assets/img/impact/aerospace-outer-space/Exploring New Frontiers.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring New Frontiers: Why Artists Should Fly to Space",
+        image: "assets/img/impact/aerospace-outer-space/Exploring New Frontiers.png",
+        description:
+          'I had the opportunity to participate in an insightful plenary session on the topic "Why Should Artists Fly to Space?" at the MELTINGPOT by Colours of Ostrava, conducted by the Moonshot Platform...',
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7224021339634876416-TRXB?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/Exploring New Frontiers.png",
       },
     ],
   },
   {
     filter: "filter-aerospace-outer-space",
+    id: "11.2",
+    title: "Participate in the Stage on Mars ",
+    image: "assets/img/impact/aerospace-outer-space/Journey to Mars.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Stage On Mars",
+        source_link: "https://www.linkedin.com/company/stageonmars/posts/",
+        title: "Lilan Dayananda on Mars! 🙏🚀",
+        image: "assets/img/impact/aerospace-outer-space/Lilan Dayananda on Mars.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/stageonmars_mars-stage-director-activity-7219597866028146692-79pI?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/Lilan Dayananda on Mars.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "An Unforgettable Journey to Mars with Stage On Mars",
+        image: "assets/img/impact/aerospace-outer-space/Journey to Mars.png",
+        description:
+          'I took a trip to Mars with Stage On Mars. There are no words that exist to fully encapsulate my experience; all I can say is, "The next time I’m in Prague, I know where to go!"',
+        link: "https://www.linkedin.com/posts/lilanofficial_mars-stage-director-activity-7219527072128323587-qDEQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/aerospace-outer-space/backup/Journey to Mars.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-aerospace-outer-space",
+    id: "11.1",
     title:
       "Addressing the United Nations COPUOS and Represent the SGAC in support of the United Nations Programme on Space Applications ",
     image: "assets/img/impact/aerospace-outer-space/COPUOS 2024.png",
@@ -5755,54 +5944,10 @@ const impacts = [
       },
     ],
   },
-  {
-    filter: "filter-aerospace-outer-space",
-    title: "Participate in the Stage on Mars ",
-    image: "assets/img/impact/aerospace-outer-space/Journey to Mars.png",
-    slides: [
-      {
-        date: "",
-        source_name: "Stage On Mars",
-        source_link: "https://www.linkedin.com/company/stageonmars/posts/",
-        title: "Lilan Dayananda on Mars! 🙏🚀",
-        image: "assets/img/impact/aerospace-outer-space/Lilan Dayananda on Mars.png",
-        description: "",
-        link: "https://www.linkedin.com/posts/stageonmars_mars-stage-director-activity-7219597866028146692-79pI?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/aerospace-outer-space/backup/Lilan Dayananda on Mars.png",
-      },
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "An Unforgettable Journey to Mars with Stage On Mars",
-        image: "assets/img/impact/aerospace-outer-space/Journey to Mars.png",
-        description:
-          'I took a trip to Mars with Stage On Mars. There are no words that exist to fully encapsulate my experience; all I can say is, "The next time I’m in Prague, I know where to go!"',
-        link: "https://www.linkedin.com/posts/lilanofficial_mars-stage-director-activity-7219527072128323587-qDEQ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/aerospace-outer-space/backup/Journey to Mars.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-aerospace-outer-space",
-    title: 'MELTINGPOT session on the topic "Why Should Artists Fly to Space?"',
-    image: "assets/img/impact/aerospace-outer-space/Exploring New Frontiers.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Exploring New Frontiers: Why Artists Should Fly to Space",
-        image: "assets/img/impact/aerospace-outer-space/Exploring New Frontiers.png",
-        description:
-          'I had the opportunity to participate in an insightful plenary session on the topic "Why Should Artists Fly to Space?" at the MELTINGPOT by Colours of Ostrava, conducted by the Moonshot Platform...',
-        link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7224021339634876416-TRXB?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/aerospace-outer-space/backup/Exploring New Frontiers.png",
-      },
-    ],
-  },
+
   {
     filter: "filter-other-media",
+    id: "12.43",
     title: "Biz Report",
     image: "assets/img/impact/other-media/biz-report-malta.png",
     slides: [
@@ -5821,6 +5966,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.42",
     title: "Sunday Times",
     image: "assets/img/impact/other-media/clinto-global-sunday-times.png",
     slides: [
@@ -5840,6 +5986,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.41",
     title: "Ceylon Tribune",
     image: "assets/img/impact/other-media/ceylon-tribune-ai-agro.png",
     slides: [
@@ -5858,6 +6005,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.40",
     title: "Lanka News Network",
     image: "assets/img/impact/other-media/lanka-news-network.png",
     slides: [
@@ -5876,6 +6024,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.39",
     title: "Eye View",
     image: "assets/img/impact/other-media/Climate Reality.png",
     slides: [
@@ -5894,6 +6043,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.38",
     title: "Biz Report",
     image: "assets/img/impact/other-media/Moonshot Young Leaders Camp.png",
     slides: [
@@ -5912,6 +6062,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.37",
     title: "Business Cafe",
     image: "assets/img/impact/other-media/Business Cafe Leaders.png",
     slides: [
@@ -5930,6 +6081,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.36",
     title: "Lanka Talks",
     image: "assets/img/impact/other-media/lankatalks-agro.png",
     slides: [
@@ -5948,6 +6100,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.35",
     title: "Lanka Business News",
     image: "assets/img/impact/other-media/business-news.png",
     slides: [
@@ -5966,6 +6119,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.34",
     title: "Profit Magazine",
     image: "assets/img/impact/other-media/profitmagazine-museum.png",
     slides: [
@@ -5985,6 +6139,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.33",
     title: "Our Economics",
     image: "assets/img/impact/other-media/Our Economics Forbes.png",
     slides: [
@@ -6014,6 +6169,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.32",
     title: "Daily Mirror",
     image: "assets/img/impact/other-media/Daily Mirror.png",
     slides: [
@@ -6032,6 +6188,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.31",
     title: "The Morning",
     image: "assets/img/impact/other-media/the-morning.png",
     slides: [
@@ -6050,6 +6207,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.30",
     title: "Ada Derana Business News",
     image: "assets/img/impact/other-media/ada-derana.png",
     slides: [
@@ -6068,6 +6226,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.29",
     title: "Sunday Times",
     image: "assets/img/impact/other-media/sunday-times.png",
     slides: [
@@ -6086,6 +6245,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.28",
     title: "Lanka Business News",
     image: "assets/img/impact/other-media/Lanka Business News forbes.png",
     slides: [
@@ -6104,6 +6264,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.27",
     title: "Ada Derana Business News",
     image: "assets/img/impact/other-media/bizenglish.adaderana.png",
     slides: [
@@ -6122,6 +6283,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.26",
     title: "Lanka News Network",
     image: "assets/img/impact/other-media/Lanka News Network.png",
     slides: [
@@ -6141,6 +6303,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.25",
     title: "Ceylon Tribune",
     image: "assets/img/impact/other-media/ceylontribune.png",
     slides: [
@@ -6160,6 +6323,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.24",
     title: "Lanka Puvath (National News Agency of Sri Lanka)",
     image: "assets/img/impact/other-media/lanka-puwath.png",
     slides: [
@@ -6178,6 +6342,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.23",
     title: "Biz Report",
     image: "assets/img/impact/other-media/Elzian Agro Tackles Climate Change.png",
     slides: [
@@ -6197,6 +6362,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.22",
     title: "Lanka Business News",
     image: "assets/img/impact/other-media/Lanka Business News TechRound.png",
     slides: [
@@ -6215,6 +6381,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.21",
     title: "Ceylon Tribune",
     image: "assets/img/impact/other-media/ceylon-tribune.png",
     slides: [
@@ -6233,6 +6400,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.20",
     title: "Sri Lanka Foundation",
     image: "assets/img/impact/other-media/Sri Lanka Foundation.png",
     slides: [
@@ -6252,6 +6420,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.19",
     title: "Clinton Global Initiative",
     image: "assets/img/impact/other-media/Clinton Global Initiative.png",
     slides: [
@@ -6281,6 +6450,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.18",
     title: "Eyeview Sri Lanka",
     image: "assets/img/impact/other-media/Eyeview Sri Lanka Linkedin.png",
     slides: [
@@ -6309,6 +6479,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.17",
     title: "Profit Magazine",
     image: "assets/img/impact/other-media/profit-magazine-bank-youth-innovation.png",
     slides: [
@@ -6327,6 +6498,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.16",
     title: "Global Politics Affairs",
     image: "assets/img/impact/other-media/Global Politics Affairs.png",
     slides: [
@@ -6345,6 +6517,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.15",
     title: "BusinessCafe",
     image: "assets/img/impact/other-media/business-cafe.png",
     slides: [
@@ -6363,6 +6536,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.14",
     title: "The Colombo Express",
     image: "assets/img/impact/other-media/The Colombo Express.png",
     slides: [
@@ -6381,6 +6555,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.13",
     title: "Inventors Club - Wayamba University of Sri Lanka",
     image: "assets/img/impact/other-media/Inventors Club - Wayamba University.png",
     slides: [
@@ -6398,6 +6573,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.12",
     title: "Silumina News Paper (Sinhala Language)",
     image: "assets/img/impact/other-media/Silumina News Paper.png",
     slides: [
@@ -6417,6 +6593,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.11",
     title: "News Asia",
     image: "assets/img/impact/other-media/news-asia.png",
     slides: [
@@ -6435,6 +6612,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.10",
     title: "Serendib News",
     image: "assets/img/impact/other-media/Serendib News.png",
     slides: [
@@ -6454,6 +6632,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.9",
     title: "Biznomics",
     image: "assets/img/impact/other-media/Biznomics.png",
     slides: [
@@ -6472,6 +6651,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.8",
     title: "The Council for Inclusive Capitalism",
     image: "assets/img/impact/other-media/Inclusive Capitalism.png",
     slides: [
@@ -6534,6 +6714,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.7",
     title: "Commonwealth News",
     image: "assets/img/impact/other-media/the-commonwealth.png",
     slides: [
@@ -6552,6 +6733,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.6",
     title: "Ceylon Business Reporter",
     image: "assets/img/impact/other-media/Ceylon Business Reporter.png",
     slides: [
@@ -6570,6 +6752,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.5",
     title: "Ceylon Tribune",
     image: "assets/img/impact/other-media/Technological Revolution.png",
     slides: [
@@ -6588,6 +6771,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.4",
     title: "Featuring on Colombo Gazette",
     image: "assets/img/impact/other-media/Commonwealth Youth Awards 2022.png",
     slides: [
@@ -6616,6 +6800,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.3",
     title: "Ada Derana Business News",
     image: "assets/img/impact/other-media/Ada Derana SLASSCOM.png",
     slides: [
@@ -6634,6 +6819,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.2",
     title:
       "Caribbean Broadcasting Corporation (CBC TV 8 - Mornin’ Barbados Program) - Exceptional Youth Segment",
     image: "assets/img/impact/other-media/Grateful Reflection.png",
@@ -6653,6 +6839,7 @@ const impacts = [
   },
   {
     filter: "filter-other-media",
+    id: "12.1",
     title: "Featuring on the Commonwealth Youth Magazine",
     image: "assets/img/impact/other-media/Yourcommon Wealth Elzian Agro.png",
     slides: [
