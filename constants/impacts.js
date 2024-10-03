@@ -3094,7 +3094,8 @@ const impacts = [
         title:
           "Connecting in Helsinki and Vilnius: Let's Discuss Precision Agriculture and Climate Action in September",
         image: "assets/img/impact/climate-environmental/Helsinki and Vilnius.png",
-        description: "Exciting news! I’ll be in Finland (Helsinki) and Lithuania (Vilnius) in the Second week of September and would like to connect with the Finnish and Lithuanian communities. If you're passionate about precision agriculture and climate action in the Global South and Europe, let’s meet up. Please send me a message so we can schedule a convenient time.",
+        description:
+          "Exciting news! I’ll be in Finland (Helsinki) and Lithuania (Vilnius) in the Second week of September and would like to connect with the Finnish and Lithuanian communities. If you're passionate about precision agriculture and climate action in the Global South and Europe, let’s meet up. Please send me a message so we can schedule a convenient time.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7232802314900684800-hULd?utm_source=share&utm_medium=member_desktop",
         backup_image: "assets/img/impact/climate-environmental/backup/Helsinki and Vilnius.png",
       },
@@ -3793,470 +3794,59 @@ const impacts = [
 
   {
     filter: "filter-public-policy",
-    title: "Addressing the Caux Forum",
-    image: "assets/img/impact/public-policy/Caux Forum.png",
+    id: "7.27",
+    title: "Participating in the Clinton Global Initiative Annual Meeting",
+    image: "assets/img/impact/public-policy/Clinton Global Initiative.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Reflections from the Caux Forum 2023: Inspiring Conversations in the Heart of the Swiss Alps",
-        image: "assets/img/impact/public-policy/Caux Forum.png",
+        title: "Joining the Clinton Global Initiative: Excited to Contribute Solutions at the Annual Meeting",
+        image: "assets/img/impact/public-policy/Clinton Global Initiative.png",
         description:
-          "I had the pleasure of participating in the Caux Forum 2023, which was held at the Caux Palace, nestled in the mountains 1000 meters above sea level. With its breathtaking view of Lake Geneva and the Alps, it provided a unique and inspiring setting.",
-        link: "https://www.linkedin.com/posts/lilanofficial_cauxforum-switzerland-iofc-activity-7104370335071801345-4N9U?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Caux Forum.png",
+          'I’m excited to join the Clinton Global Initiative at their Annual Meeting this September! Solutions will be in focus, and I’m proud to contribute to "What’s Working" in making the world a better place.',
+        link: "https://www.linkedin.com/posts/lilanofficial_cgi2024-cgi2024-cgi-activity-7237643257625632769-fuBf?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Clinton Global Initiative.png",
       },
     ],
   },
   {
     filter: "filter-public-policy",
-    title: "Inspiring Stories Global Fellowship of Global Politics Affairs",
-    image: "assets/img/impact/public-policy/Best Capstone Project.png",
+    id: "7.26",
+    title: "Participating in the AFS Youth Assembly",
+    image: "assets/img/impact/public-policy/Global Solutions.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "The Best Capstone Project during the Inspiring Stories Global Fellowship of the Global Politics Affairs.",
-        image: "assets/img/impact/public-policy/Best Capstone Project.png",
-        description: "",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-youthempowerment-leadership-activity-7129060381716606976-YTnD?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Best Capstone Project.png",
+        title: "Engaging in Global Solutions: Insights from the AFS Youth Assembly in New York City",
+        image: "assets/img/impact/public-policy/Global Solutions.png",
+        description:
+          "I recently had the pleasure of attending the AFS Youth Assembly in New York City, where the agenda focused on key global challenges, including...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-global-food-activity-7237442749816274946-H087?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Global Solutions.png",
       },
     ],
   },
   {
     filter: "filter-public-policy",
-    title: "Videography support for the ‘Healing the Wounds of the Past' event organizing team",
-    image: "assets/img/impact/public-policy/Caux Forum videos.png",
-    slides: [
-      {
-        date: "",
-        source_name: "Initiatives of Change International",
-        source_link: "https://www.youtube.com/@initiativesofchange",
-        title: "2023 Caux Forum Video Series",
-        image: "assets/img/impact/public-policy/Caux Forum videos.png",
-        description:
-          "This series of videos are being produced for 2023 Caux Forum by Nabin Pokhrel (Nepal), Lilan Dayananda and Amila Dilshan (Sri Lanka) who are volunteering in support of the 'Healing the Wounds of the Past' event organising team.",
-        link: "https://www.youtube.com/watch?v=DRGvTwflvvc",
-        backup_image: "assets/img/impact/public-policy/backup/Caux Forum videos.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title:
-      "Collaborating the Walpola Rahula Institute (WRI) with the Initiatives of Change International (IofC)",
-    image: "assets/img/impact/public-policy/Transformative Gathering.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Fostering Unity in Diversity: A Transformative Gathering at the Walpola Rahula Institute",
-        image: "assets/img/impact/public-policy/Transformative Gathering.png",
-        description:
-          "“It is easy to go with the trends and tides but it is difficult to go against the tides”. It was a pleasure to have orchestrated a meetup of diverse changemakers at the Walpola Rahula Institute (WRI). The institute, committed to transcending conventional religious teachings, endeavours to foster societal healing. Our gathering represented a rich tapestry of geographical origins, cultures, religions, income classes, ages, races, and genders; a true reflection of our shared humanity.",
-        link: "https://www.linkedin.com/posts/lilanofficial_peace-trust-iofc-activity-7142531191932354561-opO5?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Transformative Gathering.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Contributing to the Dialogue between Cultures at the “House of Religions” in Bern, Switzerland",
-    image: "assets/img/impact/public-policy/Unity in Diversity.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Unity in Diversity: Exploring the House of Religions in Bern, Switzerland",
-        image: "assets/img/impact/public-policy/Unity in Diversity.png",
-        description:
-          "This is not a regular Chess Board; this is the entrance to the “House of Religions” in Bern, Switzerland...",
-        link: "https://www.linkedin.com/posts/lilanofficial_peace-peacebuilding-trust-activity-7146588827229335553-Qj4i?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Unity in Diversity.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Global Peace Ambassadorship",
-    image: "assets/img/impact/public-policy/Global Peace Chain.png",
-    slides: [
-      {
-        date: "",
-        source_name: "Global Peace Chain",
-        source_link: "https://www.globalpeacechain.org/",
-        title: "Karunarathnalage Lilan Udayanga Dayananda",
-        image: "assets/img/impact/public-policy/Global Peace Chain.png",
-        description:
-          "I am a final year undergraduate (student) of the University of Kelaniya following the Bachelor of Business Management (Special) Degree in Accountancy. I am working on my internship as an intern at Accenture in the Finance and Accounting department while pursuing my academic education at my university.",
-        link: "https://www.globalpeacechain.org/team_members/karunarathnalage-lilan-udayanga-dayananda/",
-        backup_image: "assets/img/impact/public-policy/backup/Global Peace Chain.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Addressing at the The United Nations Office at Geneva, Switzerland",
-    image: "assets/img/impact/public-policy/Bridging the Gap.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Bridging the Gap: How Inner Development Goals (IDGs) Empower the Achievement of Sustainable Development Goals (SDGs)",
-        image: "assets/img/impact/public-policy/Bridging the Gap.png",
-        description:
-          "Many people are familiar with the concept of ‘Sustainable Development Goals’ (SDGs), yet a lesser-known fact is that achieving SDGs necessitates the adoption of the ‘Inner Development Goals’ (IDGs) framework.",
-        link: "https://www.linkedin.com/posts/lilanofficial_sdgs-un-youth-activity-7148971507283603457-Wx6G?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Bridging the Gap.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title:
-      "Volunteering for the Caux Forum of Initiatives of Change International (IofC) under the 'Healing the Wounds of the Past' category",
-    image: "assets/img/impact/public-policy/Video Series.png",
-    slides: [
-      {
-        date: "",
-        source_name: "Initiatives of Change International",
-        source_link: "https://www.youtube.com/@initiativesofchange",
-        title: "2023 Caux Forum Video Series",
-        image: "assets/img/impact/public-policy/Video Series.png",
-        description:
-          "This series of videos are being produced for 2023 Caux Forum by Nabin Pokhrel (Nepal), Lilan Dayananda and Amila Dilshan (Sri Lanka) who are volunteering in support of the 'Healing the Wounds of the Past' event organising team.",
-        link: "https://youtu.be/DRGvTwflvvc?si=3KczLl-Fqo6Toq2K",
-        backup_image: "assets/img/impact/public-policy/backup/Video Series.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Visiting the Ministry of Foreign Affairs, Kingdom of Thailand",
-    image: "assets/img/impact/public-policy/Visit the Ministry of Foreign Affairs.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Visiting the Ministry of Foreign Affairs, Kingdom of Thailand",
-        image: "assets/img/impact/public-policy/Visit the Ministry of Foreign Affairs.png",
-        description:
-          "It is such a great pleasure to visit the Ministry of Foreign Affairs, Kingdom of Thailand for the 3rd time within the last 12 months...",
-        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-wellness-diversity-activity-7066624979664076800-KkEO?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Visit the Ministry of Foreign Affairs.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Distribution of books with an in-depth and authentic exploration of Theravada Buddhism",
-    image: "assets/img/impact/public-policy/Theravada Buddhism.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Exclusive Insights into Theravada Buddhism: A Unique Book Now Available at the Walpola Rahula Institute Library",
-        image: "assets/img/impact/public-policy/Theravada Buddhism.png",
-        description:
-          "This unique book, available exclusively in Thailand, provided me with great insights while I was there. The book offers an in-depth and authentic exploration of Theravada Buddhism. A week ago, a copy was handed over to the Library of the Walpola Rahula Institute (WRI). You are welcome to visit the WRI library to read it.",
-        link: "https://www.linkedin.com/posts/lilanofficial_buddhism-peace-meditation-activity-7208792523471749120-s5YU?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Theravada Buddhism.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Contributing to the Centre for Diplomatic Advancement",
-    image: "assets/img/impact/public-policy/Precision Agriculture.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Addressing Food Insecurity Through Precision Agriculture and Inclusive Diplomacy: A Collaborative Path to Global Food Resilience",
-        image: "assets/img/impact/public-policy/Precision Agriculture.png",
-        description:
-          "Food insecurity, affecting millions globally, is not just about a lack of food but also encompasses issues of access, knowledge, and...",
-        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-democracy-food-activity-7200943955910250496-IYGS?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Precision Agriculture.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Visiting the Monument of the Republic in Austria",
-    image: "assets/img/impact/public-policy/Republic in Austria.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "visiting the Monument of the Republic in Austria",
-        image: "assets/img/impact/public-policy/Republic in Austria.png",
-        description:
-          'Enjoyed visiting the Monument of the Republic in Austria, which commemorates the establishment of the Republic on November 12, 1918. This iconic monument, crafted by talented sculptors, features three busts of historically significant Social Democrats on pedestals, backed by three granite blocks with the inscription "The memory of the establishment of the Republic on 12 November 1918," emphasizing the founding of the republic.',
-        link: "https://www.linkedin.com/posts/lilanofficial_austria-vienna-history-activity-7213788756368142337-T020?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Republic in Austria.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Maltese Parliament Visit",
-    image: "assets/img/impact/public-policy/Visiting the Maltese Parliament.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Visiting the Maltese Parliament",
-        image: "assets/img/impact/public-policy/Visiting the Maltese Parliament.png",
-        description:
-          "Visiting the Maltese Parliament was an enriching experience that provided valuable insights into the legislative processes and governance of Malta. Engaging with policymakers and observing the inner workings of this esteemed institution underscored the importance of democratic principles and transparent governance. ",
-        link: "https://www.linkedin.com/posts/lilanofficial_malta-diplomacy-history-activity-7213966001128787970-uNHd?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Visiting the Maltese Parliament.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Austrian Parliament Visit",
-    image: "assets/img/impact/public-policy/Austrian Parliament.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Visiting the Austrian Parliament",
-        image: "assets/img/impact/public-policy/Austrian Parliament.png",
-        description:
-          "The Austrian Parliament Building in Vienna is the meeting place of the two houses of the Austrian Parliament. The building is located on the Ringstraße in the first district, Innere Stadt, near Hofburg Palace and the Palace of Justice.",
-        link: "https://www.linkedin.com/posts/lilanofficial_global-diplomacy-democracy-activity-7215070912256040962-g_sc?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Austrian Parliament.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Moonshot Session on a Train Journey",
-    image: "assets/img/impact/public-policy/Moonshot Session.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in a Seminar Conducted by the Moonshot Platform",
-        image: "assets/img/impact/public-policy/Moonshot Session.png",
-        description:
-          "I had an incredible experience participating in a seminar conducted by the Moonshot platform on a train journey from Prague to Ostrava. This unique event was supported by České dráhy, a.s. , City of Ostrava - official and the Ministerstvo dopravy ČR.",
-        link: "https://www.linkedin.com/posts/lilanofficial_team-energy-moonshot-activity-7219811126367203329-rBIR?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Moonshot Session.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Observe Czech Philharmonic",
-    image: "assets/img/impact/public-policy/Celebrating Heritage.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Celebrating Heritage: The Impact of the Czech Philharmonic Orchestra Since 1896",
-        image: "assets/img/impact/public-policy/Celebrating Heritage.png",
-        description:
-          "Since its very first concert on January 4, 1896 the orchestra has been led by and comprised of outstanding artists, all of whom have contributed to building the Czech Philharmonic's excellent reputation at home and around the world. The orchestra's activities have also significantly for better or for worse tended to manifest the artistic, cultural, and political context reflective of the times.",
-        link: "https://www.linkedin.com/posts/lilanofficial_music-symphony-culture-activity-7220316728822521856-5t4f?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Celebrating Heritage.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Meditation for the Bohemian Gravity, the CORE of Creativity, and the Creativity Tree",
-    image: "assets/img/impact/public-policy/Creativity and Presence.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Exploring Creativity and Presence: Insights from Yemi A.D.'s Meditation Session at the Moonshot Platform",
-        image: "assets/img/impact/public-policy/Creativity and Presence.png",
-        description:
-          "I had the opportunity to take part in a meditation session conducted by phenomenal Yemi A.D. at the Moonshot Platform. During the session, we delved into Bohemian Gravity, the CORE of Creativity, and the Creativity Tree.",
-        link: "https://www.linkedin.com/posts/lilanofficial_creativity-energy-moonshot-activity-7221374273293103104-C0Ot?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Creativity and Presence.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Networking at the Berlin Poetry Festival (Poesiefestival)",
-    image: "assets/img/impact/public-policy/Global Voices.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Celebrating Global Voices: My Experience at the Poesiefestival Berlin",
-        image: "assets/img/impact/public-policy/Global Voices.png",
-        description:
-          "It was a pleasant experience to be involved Poesiefestival in Berlin, Germany. Every summer, Berlin is transformed into a stronghold of poetry for a week. Over 150 poets and artists from all over the world come to the Berlin Poetry Festival (Poesiefestival Berlin) and present current trends in contemporary poetry.",
-        link: "https://www.linkedin.com/posts/lilanofficial_music-art-festival-activity-7221824489246838784-VDMy?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Global Voices.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Addressing the Global Diplomatic Forum",
-    image: "assets/img/impact/public-policy/Global Diplomacy.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Engaging in Global Diplomacy: Insights from the Forum in Charleroi, Belgium",
-        image: "assets/img/impact/public-policy/Global Diplomacy.png",
-        description:
-          "Currently attending the Global Diplomatic Forum in Charleroi, Belgium. As defined by the National Geographic Society, diplomacy is the art and science of maintaining peaceful relationships between nations, groups, or individuals. It encompasses discussions on critical issues such as conflict, trade, the environment, technology, and security.",
-        link: "https://www.linkedin.com/posts/lilanofficial_globaldiplomaticforum-diplomacy-internationalrelations-activity-7222536656581537793-yyZI?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Global Diplomacy.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Performing at the Stage on Mars Studio Exploring Human Perspectives",
-    image: "assets/img/impact/public-policy/Human Perspectives.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Unveiling Human Perspectives: The Transformative Experience at Stage on Mars",
-        image: "assets/img/impact/public-policy/Human Perspectives.png",
-        description:
-          "Stage on Mars is a unique studio dedicated to exploring human perspectives. Here, individuals transform their questions into theatrical performances, uncovering insights that are often hidden when viewed in isolation.",
-        link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7223271914230755328-2BqN?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Human Perspectives.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Participating the Diplomatic Forum of the Centre for Diplomatic Advancement",
-    image: "assets/img/impact/public-policy/Youth Diplomatic Forum.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in the Youth Diplomatic Forum in Belgium",
-        image: "assets/img/impact/public-policy/Youth Diplomatic Forum.png",
-        description:
-          "Participating in the Youth Diplomatic Forum in Belgium was an eye-opening experience that deepened my understanding of global diplomacy and the role of youth in shaping international relations. Engaging with young leaders from diverse cultural and political backgrounds, I learned the importance of dialogue and collaboration in addressing complex global challenges.",
-        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-diplomatic-un-activity-7233077437088088065-o4SW?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Youth Diplomatic Forum.png",
-      },
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in the Global Diplomatic Forum in Belgium",
-        image: "assets/img/impact/public-policy/Global Diplomatic Forum.png",
-        description:
-          "It was a pleasure to participate in the Global Diplomatic Forum in Belgium. Diplomacy, as a crucial tool for fostering global harmony, plays an indispensable role in creating a better world. It involves the art of negotiation, dialogue, and collaboration among nations to address complex global challenges such as climate change, poverty, conflict, and human rights violations.",
-        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-diplomatic-un-activity-7224839062661033984-r8tP?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Global Diplomatic Forum.png",
-      },
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in a Diplomatic Forum",
-        image: "assets/img/impact/public-policy/Diplomatic Forum.png",
-        description:
-          "I had the opportunity to participate in a Diplomatic Forum at the Van Der Valk Hotel Charleroi, BMW Group Louyet in Belgium...",
-        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-forum-youth-activity-7223282424183406593-Csjz?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Diplomatic Forum.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Meditation and Mindfulness for Self-reliance for Inner Peace at Das Buddhistische Haus",
-    image: "assets/img/impact/public-policy/Century of Peace.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Celebrating a Century of Peace: The 100th Anniversary of Das Buddhistische Haus in Berlin",
-        image: "assets/img/impact/public-policy/Century of Peace.png",
-        description:
-          "The 100th anniversary of Das Buddhistische Haus in Berlin is happening tomorrow. My recent visit to Berlin, Germany, was such a pleasant experience, especially spending five full days in intense yet smooth meditation. Das Buddhistische Haus is the very first Buddhist temple in Berlin.",
-        link: "https://www.linkedin.com/posts/lilanofficial_meditation-mindfulness-awareness-activity-7225076439585284097-Q5R5?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Century of Peace.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Exploring Musical Culture in Czechia",
-    image: "assets/img/impact/public-policy/Rich Musical Heritage.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Exploring the Rich Musical Heritage of the Czech Republic: A Journey Through Genres and Traditions",
-        image: "assets/img/impact/public-policy/Rich Musical Heritage.png",
-        description:
-          "The Czech Republic is a fantastic place to experience all genres of music. The country's musical heritage is deeply rooted in classical music, with a rich tradition of high-culture opera and symphony. Czech producers have drawn inspiration from traditional music, jazz, and blues.",
-        link: "https://www.linkedin.com/posts/lilanofficial_music-symphony-culture-activity-7236167772332826624-W0zj?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Rich Musical Heritage.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    title: "Visiting the American Field Service (AFS) Headquarters",
-    image: "assets/img/impact/public-policy/Embracing Global Citizenship.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Embracing Global Citizenship: My Visit to the AFS Headquarters in New York",
-        image: "assets/img/impact/public-policy/Embracing Global Citizenship.png",
-        description:
-          "It was a pleasure to visit the American Field Service (AFS) Headquarters in New York, USA. AFS started as a volunteer ambulance corps in 1915, and its story is one of transformation from a wartime humanitarian aid organization to a pioneering international entity with a bold mission: to build a more peaceful world through cultural understanding.",
-        link: "https://www.linkedin.com/posts/lilanofficial_afs-youth-culture-activity-7229765163724201984-739L?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Embracing Global Citizenship.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
+    id: "7.25",
     title: "Completing the Global Competence Certificate (GCC)",
     image: "assets/img/impact/public-policy/Global Up Program.JPEG",
     slides: [
+      {
+        date: "",
+        source_name: "Global Competence Certificate",
+        source_link: "https://www.linkedin.com/company/global-competence-certificate/posts/",
+        title: "Empowering Climate Entrepreneurs: Global Up's Commitment to a Sustainable Future",
+        image: "assets/img/impact/public-policy/Climate Week.png",
+        description:
+          "As Climate Week and the United Nations General Assembly kick off next week, we’re reminded of our shared commitment to tackling climate change. Through the Global Up program, we’ve had the privilege of supporting climate entrepreneurs with the tools and training they need to turn ideas into impactful, climate-focused projects.",
+        link: "https://www.linkedin.com/posts/global-competence-certificate_climateaction-sdgs-globalup-activity-7242174281629995008-TIjw?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Climate Week.png",
+      },
       {
         date: "",
         source_name: "Global Competence Certificate",
@@ -4296,373 +3886,781 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    title: "Participating in the AFS Youth Assembly",
-    image: "assets/img/impact/public-policy/Global Solutions.png",
+    id: "7.24",
+    title: "Visiting the American Field Service (AFS) Headquarters",
+    image: "assets/img/impact/public-policy/Embracing Global Citizenship.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Engaging in Global Solutions: Insights from the AFS Youth Assembly in New York City",
-        image: "assets/img/impact/public-policy/Global Solutions.png",
+        title: "Embracing Global Citizenship: My Visit to the AFS Headquarters in New York",
+        image: "assets/img/impact/public-policy/Embracing Global Citizenship.png",
         description:
-          "I recently had the pleasure of attending the AFS Youth Assembly in New York City, where the agenda focused on key global challenges, including...",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-global-food-activity-7237442749816274946-H087?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Global Solutions.png",
+          "It was a pleasure to visit the American Field Service (AFS) Headquarters in New York, USA. AFS started as a volunteer ambulance corps in 1915, and its story is one of transformation from a wartime humanitarian aid organization to a pioneering international entity with a bold mission: to build a more peaceful world through cultural understanding.",
+        link: "https://www.linkedin.com/posts/lilanofficial_afs-youth-culture-activity-7229765163724201984-739L?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Embracing Global Citizenship.png",
       },
     ],
   },
   {
     filter: "filter-public-policy",
-    title: "Participating in the Clinton Global Initiative Annual Meeting",
-    image: "assets/img/impact/public-policy/Clinton Global Initiative.png",
+    id: "7.23",
+    title: "Exploring Musical Culture in Czechia",
+    image: "assets/img/impact/public-policy/Rich Musical Heritage.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Joining the Clinton Global Initiative: Excited to Contribute Solutions at the Annual Meeting",
-        image: "assets/img/impact/public-policy/Clinton Global Initiative.png",
+        title:
+          "Exploring the Rich Musical Heritage of the Czech Republic: A Journey Through Genres and Traditions",
+        image: "assets/img/impact/public-policy/Rich Musical Heritage.png",
         description:
-          'I’m excited to join the Clinton Global Initiative at their Annual Meeting this September! Solutions will be in focus, and I’m proud to contribute to "What’s Working" in making the world a better place.',
-        link: "https://www.linkedin.com/posts/lilanofficial_cgi2024-cgi2024-cgi-activity-7237643257625632769-fuBf?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/public-policy/backup/Clinton Global Initiative.png",
+          "The Czech Republic is a fantastic place to experience all genres of music. The country's musical heritage is deeply rooted in classical music, with a rich tradition of high-culture opera and symphony. Czech producers have drawn inspiration from traditional music, jazz, and blues.",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-symphony-culture-activity-7236167772332826624-W0zj?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Rich Musical Heritage.png",
       },
     ],
   },
   {
-    filter: "filter-leadership-economic",
-    title: "Resolution Project Guide/Mentor",
-    image: "assets/img/impact/leadership-economic/Resolution Project.png",
+    filter: "filter-public-policy",
+    id: "7.22",
+    title: "Meditation and Mindfulness for Self-reliance for Inner Peace at Das Buddhistische Haus",
+    image: "assets/img/impact/public-policy/Century of Peace.png",
     slides: [
       {
         date: "",
-        source_name: "Resolution Project",
-        source_link: "https://resolutionproject.org/",
-        title: "Lilan Dayananda",
-        image: "assets/img/impact/leadership-economic/Resolution Project.png",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating a Century of Peace: The 100th Anniversary of Das Buddhistische Haus in Berlin",
+        image: "assets/img/impact/public-policy/Century of Peace.png",
         description:
-          "Lilan Dayananda is an international award-winning youth social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South by the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
-        link: "https://resolutionproject.org/team/lilan-dayananda/",
-        backup_image: "assets/img/impact/leadership-economic/backup/Resolution Project.png",
+          "The 100th anniversary of Das Buddhistische Haus in Berlin is happening tomorrow. My recent visit to Berlin, Germany, was such a pleasant experience, especially spending five full days in intense yet smooth meditation. Das Buddhistische Haus is the very first Buddhist temple in Berlin.",
+        link: "https://www.linkedin.com/posts/lilanofficial_meditation-mindfulness-awareness-activity-7225076439585284097-Q5R5?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Century of Peace.png",
       },
     ],
   },
   {
-    filter: "filter-leadership-economic",
+    filter: "filter-public-policy",
+    id: "7.21",
+    title: "Participating the Diplomatic Forum of the Centre for Diplomatic Advancement",
+    image: "assets/img/impact/public-policy/Youth Diplomatic Forum.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the Youth Diplomatic Forum in Belgium",
+        image: "assets/img/impact/public-policy/Youth Diplomatic Forum.png",
+        description:
+          "Participating in the Youth Diplomatic Forum in Belgium was an eye-opening experience that deepened my understanding of global diplomacy and the role of youth in shaping international relations. Engaging with young leaders from diverse cultural and political backgrounds, I learned the importance of dialogue and collaboration in addressing complex global challenges.",
+        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-diplomatic-un-activity-7233077437088088065-o4SW?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Youth Diplomatic Forum.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        id: "7.",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the Global Diplomatic Forum in Belgium",
+        image: "assets/img/impact/public-policy/Global Diplomatic Forum.png",
+        description:
+          "It was a pleasure to participate in the Global Diplomatic Forum in Belgium. Diplomacy, as a crucial tool for fostering global harmony, plays an indispensable role in creating a better world. It involves the art of negotiation, dialogue, and collaboration among nations to address complex global challenges such as climate change, poverty, conflict, and human rights violations.",
+        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-diplomatic-un-activity-7224839062661033984-r8tP?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Global Diplomatic Forum.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in a Diplomatic Forum",
+        image: "assets/img/impact/public-policy/Diplomatic Forum.png",
+        description:
+          "I had the opportunity to participate in a Diplomatic Forum at the Van Der Valk Hotel Charleroi, BMW Group Louyet in Belgium...",
+        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-forum-youth-activity-7223282424183406593-Csjz?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Diplomatic Forum.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.20",
+    title: "Performing at the Stage on Mars Studio Exploring Human Perspectives",
+    image: "assets/img/impact/public-policy/Human Perspectives.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Unveiling Human Perspectives: The Transformative Experience at Stage on Mars",
+        image: "assets/img/impact/public-policy/Human Perspectives.png",
+        description:
+          "Stage on Mars is a unique studio dedicated to exploring human perspectives. Here, individuals transform their questions into theatrical performances, uncovering insights that are often hidden when viewed in isolation.",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7223271914230755328-2BqN?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Human Perspectives.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.19",
+    title: "Addressing the Global Diplomatic Forum",
+    image: "assets/img/impact/public-policy/Global Diplomacy.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Engaging in Global Diplomacy: Insights from the Forum in Charleroi, Belgium",
+        image: "assets/img/impact/public-policy/Global Diplomacy.png",
+        description:
+          "Currently attending the Global Diplomatic Forum in Charleroi, Belgium. As defined by the National Geographic Society, diplomacy is the art and science of maintaining peaceful relationships between nations, groups, or individuals. It encompasses discussions on critical issues such as conflict, trade, the environment, technology, and security.",
+        link: "https://www.linkedin.com/posts/lilanofficial_globaldiplomaticforum-diplomacy-internationalrelations-activity-7222536656581537793-yyZI?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Global Diplomacy.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.18",
+    title: "Networking at the Berlin Poetry Festival (Poesiefestival)",
+    image: "assets/img/impact/public-policy/Global Voices.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating Global Voices: My Experience at the Poesiefestival Berlin",
+        image: "assets/img/impact/public-policy/Global Voices.png",
+        description:
+          "It was a pleasant experience to be involved Poesiefestival in Berlin, Germany. Every summer, Berlin is transformed into a stronghold of poetry for a week. Over 150 poets and artists from all over the world come to the Berlin Poetry Festival (Poesiefestival Berlin) and present current trends in contemporary poetry.",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-art-festival-activity-7221824489246838784-VDMy?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Global Voices.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.17",
+    title: "Meditation for the Bohemian Gravity, the CORE of Creativity, and the Creativity Tree",
+    image: "assets/img/impact/public-policy/Creativity and Presence.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Exploring Creativity and Presence: Insights from Yemi A.D.'s Meditation Session at the Moonshot Platform",
+        image: "assets/img/impact/public-policy/Creativity and Presence.png",
+        description:
+          "I had the opportunity to take part in a meditation session conducted by phenomenal Yemi A.D. at the Moonshot Platform. During the session, we delved into Bohemian Gravity, the CORE of Creativity, and the Creativity Tree.",
+        link: "https://www.linkedin.com/posts/lilanofficial_creativity-energy-moonshot-activity-7221374273293103104-C0Ot?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Creativity and Presence.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.16",
+    title: "Observe Czech Philharmonic",
+    image: "assets/img/impact/public-policy/Celebrating Heritage.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating Heritage: The Impact of the Czech Philharmonic Orchestra Since 1896",
+        image: "assets/img/impact/public-policy/Celebrating Heritage.png",
+        description:
+          "Since its very first concert on January 4, 1896 the orchestra has been led by and comprised of outstanding artists, all of whom have contributed to building the Czech Philharmonic's excellent reputation at home and around the world. The orchestra's activities have also significantly for better or for worse tended to manifest the artistic, cultural, and political context reflective of the times.",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-symphony-culture-activity-7220316728822521856-5t4f?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Celebrating Heritage.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.15",
+    title: "Moonshot Session on a Train Journey",
+    image: "assets/img/impact/public-policy/Moonshot Session.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in a Seminar Conducted by the Moonshot Platform",
+        image: "assets/img/impact/public-policy/Moonshot Session.png",
+        description:
+          "I had an incredible experience participating in a seminar conducted by the Moonshot platform on a train journey from Prague to Ostrava. This unique event was supported by České dráhy, a.s. , City of Ostrava - official and the Ministerstvo dopravy ČR.",
+        link: "https://www.linkedin.com/posts/lilanofficial_team-energy-moonshot-activity-7219811126367203329-rBIR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Moonshot Session.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.15",
+    title: "Austrian Parliament Visit",
+    image: "assets/img/impact/public-policy/Austrian Parliament.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting the Austrian Parliament",
+        image: "assets/img/impact/public-policy/Austrian Parliament.png",
+        description:
+          "The Austrian Parliament Building in Vienna is the meeting place of the two houses of the Austrian Parliament. The building is located on the Ringstraße in the first district, Innere Stadt, near Hofburg Palace and the Palace of Justice.",
+        link: "https://www.linkedin.com/posts/lilanofficial_global-diplomacy-democracy-activity-7215070912256040962-g_sc?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Austrian Parliament.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.14",
+    title: "Maltese Parliament Visit",
+    image: "assets/img/impact/public-policy/Visiting the Maltese Parliament.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting the Maltese Parliament",
+        image: "assets/img/impact/public-policy/Visiting the Maltese Parliament.png",
+        description:
+          "Visiting the Maltese Parliament was an enriching experience that provided valuable insights into the legislative processes and governance of Malta. Engaging with policymakers and observing the inner workings of this esteemed institution underscored the importance of democratic principles and transparent governance. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_malta-diplomacy-history-activity-7213966001128787970-uNHd?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Visiting the Maltese Parliament.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.13",
+    title: "Visiting the Monument of the Republic in Austria",
+    image: "assets/img/impact/public-policy/Republic in Austria.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting the Monument of the Republic in Austria",
+        image: "assets/img/impact/public-policy/Republic in Austria.png",
+        description:
+          'Enjoyed visiting the Monument of the Republic in Austria, which commemorates the establishment of the Republic on November 12, 1918. This iconic monument, crafted by talented sculptors, features three busts of historically significant Social Democrats on pedestals, backed by three granite blocks with the inscription "The memory of the establishment of the Republic on 12 November 1918," emphasizing the founding of the republic.',
+        link: "https://www.linkedin.com/posts/lilanofficial_austria-vienna-history-activity-7213788756368142337-T020?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Republic in Austria.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.12",
+    title: "Contributing to the Centre for Diplomatic Advancement",
+    image: "assets/img/impact/public-policy/Precision Agriculture.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Addressing Food Insecurity Through Precision Agriculture and Inclusive Diplomacy: A Collaborative Path to Global Food Resilience",
+        image: "assets/img/impact/public-policy/Precision Agriculture.png",
+        description:
+          "Food insecurity, affecting millions globally, is not just about a lack of food but also encompasses issues of access, knowledge, and...",
+        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-democracy-food-activity-7200943955910250496-IYGS?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Precision Agriculture.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.11",
+    title: "Distribution of books with an in-depth and authentic exploration of Theravada Buddhism",
+    image: "assets/img/impact/public-policy/Theravada Buddhism.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Exclusive Insights into Theravada Buddhism: A Unique Book Now Available at the Walpola Rahula Institute Library",
+        image: "assets/img/impact/public-policy/Theravada Buddhism.png",
+        description:
+          "This unique book, available exclusively in Thailand, provided me with great insights while I was there. The book offers an in-depth and authentic exploration of Theravada Buddhism. A week ago, a copy was handed over to the Library of the Walpola Rahula Institute (WRI). You are welcome to visit the WRI library to read it.",
+        link: "https://www.linkedin.com/posts/lilanofficial_buddhism-peace-meditation-activity-7208792523471749120-s5YU?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Theravada Buddhism.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.10",
+    title: "Visiting the Ministry of Foreign Affairs, Kingdom of Thailand",
+    image: "assets/img/impact/public-policy/Visit the Ministry of Foreign Affairs.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting the Ministry of Foreign Affairs, Kingdom of Thailand",
+        image: "assets/img/impact/public-policy/Visit the Ministry of Foreign Affairs.png",
+        description:
+          "It is such a great pleasure to visit the Ministry of Foreign Affairs, Kingdom of Thailand for the 3rd time within the last 12 months...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-wellness-diversity-activity-7066624979664076800-KkEO?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Visit the Ministry of Foreign Affairs.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.9",
     title:
-      "Harris School of Public Policy at the University of Chicago and the Indian School of Public Policy (ISPP)",
-    image: "assets/img/impact/leadership-economic/Anubhav Fellow.JPEG",
+      "Volunteering for the Caux Forum of Initiatives of Change International (IofC) under the 'Healing the Wounds of the Past' category",
+    image: "assets/img/impact/public-policy/Video Series.png",
     slides: [
       {
         date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Anubhav Fellow ⫸ A remarkable Changemaker Shaping a Brighter World!",
-        image: "assets/img/impact/leadership-economic/Anubhav Fellow.JPEG",
+        source_name: "Initiatives of Change International",
+        source_link: "https://www.youtube.com/@initiativesofchange",
+        title: "2023 Caux Forum Video Series",
+        image: "assets/img/impact/public-policy/Video Series.png",
         description:
-          "I'm delighted to announce the successful conclusion of the Anubhav Lecture Series, an extraordinary program aimed at fostering innovation and leadership. From May to June 2023, we embarked on an enriching journey of knowledge, personal growth, and community building that surpassed all expectations.",
-        link: "https://www.linkedin.com/posts/lilanofficial_anubhavlectureseries-fellowship-knowledgesharing-activity-7084614091398402048-xB3d?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Anubhav Fellow.png",
+          "This series of videos are being produced for 2023 Caux Forum by Nabin Pokhrel (Nepal), Lilan Dayananda and Amila Dilshan (Sri Lanka) who are volunteering in support of the 'Healing the Wounds of the Past' event organising team.",
+        link: "https://youtu.be/DRGvTwflvvc?si=3KczLl-Fqo6Toq2K",
+        backup_image: "assets/img/impact/public-policy/backup/Video Series.png",
       },
     ],
   },
   {
-    filter: "filter-leadership-economic",
-    title: "79th Session of the Economic and Social Commission for Asia and the Pacific",
-    image: "assets/img/impact/leadership-economic/Side Event.png",
+    filter: "filter-public-policy",
+    id: "7.8",
+    title: "Addressing at the The United Nations Office at Geneva, Switzerland",
+    image: "assets/img/impact/public-policy/Bridging the Gap.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "Participation in the Side Event: Acceleration of Climate Action through Youth Engagement at the 79th Session of ESCAP",
-        image: "assets/img/impact/leadership-economic/Side Event.png",
+          "Bridging the Gap: How Inner Development Goals (IDGs) Empower the Achievement of Sustainable Development Goals (SDGs)",
+        image: "assets/img/impact/public-policy/Bridging the Gap.png",
         description:
-          "It was such a pleasure to participate in the Side Event: 79th Session of the Economic and Social Commission for Asia and the Pacific, “Acceleration of Climate Action: Engagement and Empowerment of Youth for the Future”.",
-        link: "https://www.linkedin.com/posts/lilanofficial_leadership-youthempowerment-climatechange-activity-7069617207864938496-Z15Q?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Side Event.png",
+          "Many people are familiar with the concept of ‘Sustainable Development Goals’ (SDGs), yet a lesser-known fact is that achieving SDGs necessitates the adoption of the ‘Inner Development Goals’ (IDGs) framework.",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdgs-un-youth-activity-7148971507283603457-Wx6G?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Bridging the Gap.png",
       },
     ],
   },
   {
-    filter: "filter-leadership-economic",
-    title: "United People Global Sustainability leadership",
-    image: "assets/img/impact/leadership-economic/UPG Sustainability Leadership.png",
+    filter: "filter-public-policy",
+    id: "7.7",
+    title: "Global Peace Ambassadorship",
+    image: "assets/img/impact/public-policy/Global Peace Chain.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Global Peace Chain",
+        source_link: "https://www.globalpeacechain.org/",
+        title: "Karunarathnalage Lilan Udayanga Dayananda",
+        image: "assets/img/impact/public-policy/Global Peace Chain.png",
+        description:
+          "I am a final year undergraduate (student) of the University of Kelaniya following the Bachelor of Business Management (Special) Degree in Accountancy. I am working on my internship as an intern at Accenture in the Finance and Accounting department while pursuing my academic education at my university.",
+        link: "https://www.globalpeacechain.org/team_members/karunarathnalage-lilan-udayanga-dayananda/",
+        backup_image: "assets/img/impact/public-policy/backup/Global Peace Chain.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.6",
+    title: "Contributing to the Dialogue between Cultures at the “House of Religions” in Bern, Switzerland",
+    image: "assets/img/impact/public-policy/Unity in Diversity.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Selected for the 2023 UPG Sustainability Leadership Class",
-        image: "assets/img/impact/leadership-economic/UPG Sustainability Leadership.png",
+        title: "Unity in Diversity: Exploring the House of Religions in Bern, Switzerland",
+        image: "assets/img/impact/public-policy/Unity in Diversity.png",
         description:
-          "After 4 months of filtration process and out of 3600+ Applications, I'm happy to share that I have been selected to join the UPGSustainability leadership class for 2023.",
-        link: "https://www.linkedin.com/posts/lilanofficial_upgsustainability-sustainability-sdgs-activity-7056046839497703424-Dkk3?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/UPG Sustainability Leadership.png",
+          "This is not a regular Chess Board; this is the entrance to the “House of Religions” in Bern, Switzerland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-peacebuilding-trust-activity-7146588827229335553-Qj4i?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Unity in Diversity.png",
       },
     ],
   },
   {
-    filter: "filter-leadership-economic",
-    title: "Sustainability Impact Forum",
-    image: "assets/img/impact/leadership-economic/Sustainability Impact.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "ELZIAN AGRO to Participate in the 2023 Sustainability Impact Forum in Milan, Italy",
-        image: "assets/img/impact/leadership-economic/Sustainability Impact.png",
-        description:
-          "We are thrilled to announce that ELZIAN AGRO is participating in the 2023 Sustainability Impact Forum (SIF) in Milan, Italy, this June!",
-        link: "https://www.linkedin.com/posts/lilanofficial_sdgs-sustainability-intergenerational-activity-7051035615156469761-nKGU?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Sustainability Impact.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-leadership-economic",
-    title: "Global-South Development Expo 2022",
-    image: "assets/img/impact/leadership-economic/Global South-South Development Expo.JPEG",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "ELZIAN AGRO's Special Week at the Global South-South Development Expo in Bangkok, Thailand",
-        image: "assets/img/impact/leadership-economic/Global South-South Development Expo.JPEG",
-        description:
-          "Last month was a special week for ELZIAN AGRO. We spent this week at the Global South-South Development Expo in Thailand, Bangkok.",
-        link: "https://www.linkedin.com/posts/lilanofficial_development-agriculture-elzianabragro-activity-6981938161027346432-Qp77?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Global South-South Development Expo.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-leadership-economic",
+    filter: "filter-public-policy",
+    id: "7.5",
     title:
-      "China (Sichuan) <> Sri Lanka Business Forum & B2B Session organized by the Federation of Chambers of Commerce and Industry",
-    image: "assets/img/impact/leadership-economic/Business Forum & B2B Session.png",
+      "Collaborating the Walpola Rahula Institute (WRI) with the Initiatives of Change International (IofC)",
+    image: "assets/img/impact/public-policy/Transformative Gathering.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Sri Lanka Business Forum & B2B Session",
-        image: "assets/img/impact/leadership-economic/Business Forum & B2B Session.png",
+        title: "Fostering Unity in Diversity: A Transformative Gathering at the Walpola Rahula Institute",
+        image: "assets/img/impact/public-policy/Transformative Gathering.png",
         description:
-          "China (Sichuan) <> Sri Lanka Business Forum & B2B Session organized by the Federation of Chambers of Commerce and Industry of Sri Lanka (FCCISL) in partnership with CCPIT Sichuan Council (China Council for the Promotion of International Trade) and in collaboration with Sri Lanka Export Development Board (EDB) along with the prominent companies from sectors such as Agriculture, Machinery, ICT, Handicraft, Textile & Garments, Electrical Equipment, and Interior Designing & Decorations.",
-        link: "https://www.linkedin.com/posts/lilanofficial_economy-agriculture-techecosystem-activity-7128756106780164096-uKoq?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Business Forum & B2B Session.png",
+          "“It is easy to go with the trends and tides but it is difficult to go against the tides”. It was a pleasure to have orchestrated a meetup of diverse changemakers at the Walpola Rahula Institute (WRI). The institute, committed to transcending conventional religious teachings, endeavours to foster societal healing. Our gathering represented a rich tapestry of geographical origins, cultures, religions, income classes, ages, races, and genders; a true reflection of our shared humanity.",
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-trust-iofc-activity-7142531191932354561-opO5?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Transformative Gathering.png",
       },
     ],
   },
   {
-    filter: "filter-leadership-economic",
-    title: "Economic and Social Commission for Asia and the Pacific (ESCAP): 79th Session of the Commission",
-    image: "assets/img/impact/leadership-economic/United Nations Commission.png",
+    filter: "filter-public-policy",
+    id: "7.4",
+    title: "Videography support for the ‘Healing the Wounds of the Past' event organizing team",
+    image: "assets/img/impact/public-policy/Caux Forum videos.png",
     slides: [
       {
         date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Serving as a Youth Representative at the 79th Session of the United Nations Commission on Climate Change: A Transformative Experience",
-        image: "assets/img/impact/leadership-economic/United Nations Commission.png",
+        source_name: "Initiatives of Change International",
+        source_link: "https://www.youtube.com/@initiativesofchange",
+        title: "2023 Caux Forum Video Series",
+        image: "assets/img/impact/public-policy/Caux Forum videos.png",
         description:
-          "I had the incredible privilege of serving as the youth representative (observer) at the 79th session of the United Nations Commission...",
-        link: "https://www.linkedin.com/posts/lilanofficial_sustainabledevelopment-leaders-climatechange-activity-7066125306532659200-4FR7?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/United Nations Commission.png",
-      },
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in the 79th ESCAP Session Side Event",
-        image: "assets/img/impact/leadership-economic/ESCAP Session.png",
-        description:
-          "It was such a pleasure to participate in the Side Event: 79th Session of the Economic and Social Commission for Asia and the Pacific, “Acceleration of Climate Action: Engagement and Empowerment of Youth for the Future”. The side event was organized by the United Nations Regional Coordination Mechanism for Asia-Pacific and its Issue-based Coalition on Raising Climate Ambition under the leadership of United Nations Development",
-        link: "https://www.linkedin.com/posts/lilanofficial_leadership-youthempowerment-climatechange-activity-7069617207864938496-Z15Q?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/ESCAP Session.png",
-      },
-      {
-        date: "",
-        source_name: "ESCAP",
-        source_link: "https://www.unescap.org/",
-        title: "79th Session of the Commission",
-        image: "assets/img/impact/leadership-economic/unescap.png",
-        description:
-          "The seventy-ninth session of the Economic and Social Commission for Asia and the Pacific (ESCAP) will be held from 15 to 19 May 2023 at the United Nations Conference Centre in Bangkok.",
-        link: "https://www.unescap.org/events/commission79",
-        backup_image: "assets/img/impact/leadership-economic/backup/unescap.png",
+          "This series of videos are being produced for 2023 Caux Forum by Nabin Pokhrel (Nepal), Lilan Dayananda and Amila Dilshan (Sri Lanka) who are volunteering in support of the 'Healing the Wounds of the Past' event organising team.",
+        link: "https://www.youtube.com/watch?v=DRGvTwflvvc",
+        backup_image: "assets/img/impact/public-policy/backup/Caux Forum videos.png",
       },
     ],
   },
   {
-    filter: "filter-leadership-economic",
-    title: "Economic Research Institute for ASEAN and East Asia (ERIA)",
-    image: "assets/img/impact/leadership-economic/ERIA.png",
-    slides: [
-      {
-        date: "",
-        source_name: "ERIA",
-        source_link: "https://www.eria.org/",
-        title: "ERIA-Asian Network-ADB SEADS: Rethinking Harmony in Asia 2023",
-        image: "assets/img/impact/leadership-economic/ERIA.png",
-        description:
-          "Decisions made in the next few years will determine whether our existence on Earth, as we know it, will continue or collapse because of human activity. The need to change the ways societies interact with and impact the environment becomes more urgent as the tangible impacts of a planetary crisis accumulate.",
-        link: "https://www.eria.org/events/eria-asian-network-adb-seads-rethinking-harmony-in-asia-2023/",
-        backup_image: "assets/img/impact/leadership-economic/backup/ERIA.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-leadership-economic",
-    title: "Asian Development Bank: Southeast Asia Development Solutions (SEADS)",
-    image: "assets/img/impact/leadership-economic/SEADS.png",
-    slides: [
-      {
-        date: "",
-        source_name: "SEADS",
-        source_link: "https://seads.adb.org/",
-        title: "Rethinking Harmony in Asia 2023",
-        image: "assets/img/impact/leadership-economic/SEADS.png",
-        description:
-          "Decisions made in the next few years will determine whether our existence on Earth, as we know it, will continue or collapse because of human activity. The need to change the way societies interact with and impact the environment becomes more urgent, as the tangible impacts of a planetary crisis accumulate.",
-        link: "https://seads.adb.org/events/rethinking-harmony-asia-2023",
-        backup_image: "assets/img/impact/leadership-economic/backup/SEADS.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-leadership-economic",
-    title: "Rethinking Harmony in Asia",
-    image: "assets/img/impact/leadership-economic/Shaping Cooperation.png",
-    slides: [
-      {
-        date: "",
-        source_name: "Ravindra Ngo 赖文卓",
-        source_link: "https://www.linkedin.com/in/ravindra-ngo/",
-        title: "💠Shaping Cooperation in a Fragmenting World💠",
-        image: "assets/img/impact/leadership-economic/Shaping Cooperation.png",
-        description:
-          "While the 54th Annual Meeting of The World Economic Forum taking place at Davos-Klosters (15th to 19th January 2024), i am sharing with you this white paper from the Global Future Council on the Future of Geopolitics.",
-        link: "https://www.linkedin.com/posts/ravindra-ngo_shaping-cooperation-in-a-fragmenting-world-activity-7152867953120526336--vQ4?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Shaping Cooperation.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-leadership-economic",
-    title: "Global Thinkers Forum & Global Thinkers Mentors",
-    image: "assets/img/impact/leadership-economic/global-thinkers-mentors.png",
-    slides: [
-      {
-        date: "",
-        source_name: "Global Thinkers Mentors",
-        source_link: "https://globalthinkersmentors.org/",
-        title: "Lilan Udayanga Dayananda",
-        image: "assets/img/impact/leadership-economic/global-thinkers-mentors.png",
-        description:
-          "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the UN.",
-        link: "https://globalthinkersmentors.org/lilan-udayanga-dayananda",
-        backup_image: "assets/img/impact/leadership-economic/backup/global-thinkers-mentors.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-leadership-economic",
-    title: "Supporting the World Bank Group to initiate projects for Rural Development and Youth Empowerment",
-    image: "assets/img/impact/leadership-economic/Meeting with Parmesh Shah.png",
+    filter: "filter-public-policy",
+    id: "7.2",
+    title: "Inspiring Stories Global Fellowship of Global Politics Affairs",
+    image: "assets/img/impact/public-policy/Best Capstone Project.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "Meeting with Parmesh Shah, Global Lead at the World Bank for Rural Development and Digital Agriculture",
-        image: "assets/img/impact/leadership-economic/Meeting with Parmesh Shah.png",
-        description:
-          "Yesterday, I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions...",
-        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Meeting with Parmesh Shah.png",
+          "The Best Capstone Project during the Inspiring Stories Global Fellowship of the Global Politics Affairs",
+        image: "assets/img/impact/public-policy/Best Capstone Project.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-youthempowerment-leadership-activity-7129060381716606976-YTnD?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Best Capstone Project.png",
       },
     ],
   },
   {
-    filter: "filter-leadership-economic",
-    title: "Collaboration with the Improving Economies for Stronger Communities (IESC)",
-    image: "assets/img/impact/leadership-economic/Meets with Christopher.png",
+    filter: "filter-public-policy",
+    id: "7.1",
+    title: "Addressing the Caux Forum",
+    image: "assets/img/impact/public-policy/Caux Forum.png",
     slides: [
       {
         date: "",
-        source_name: "Elzian Agro",
-        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
-        title:
-          "ELZIAN AGRO Meets with Christopher Addison of IESC to Discuss Climate-Smart Precision Agriculture Solutions",
-        image: "assets/img/impact/leadership-economic/Meets with Christopher.png",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflections from the Caux Forum 2023: Inspiring Conversations in the Heart of the Swiss Alps",
+        image: "assets/img/impact/public-policy/Caux Forum.png",
         description:
-          "IESC - Improving Economies for Stronger Communities (formerly International Executive Service Corps) is a non-profit organization that has been operating for 60 years, focusing on implementing projects for USAID and USDA that promote private sector growth and create economic opportunities for communities in developing countries.",
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:7184059281929912321/",
-        backup_image: "assets/img/impact/leadership-economic/backup/Meets with Christopher.png",
+          "I had the pleasure of participating in the Caux Forum 2023, which was held at the Caux Palace, nestled in the mountains 1000 meters above sea level. With its breathtaking view of Lake Geneva and the Alps, it provided a unique and inspiring setting.",
+        link: "https://www.linkedin.com/posts/lilanofficial_cauxforum-switzerland-iofc-activity-7104370335071801345-4N9U?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Caux Forum.png",
       },
     ],
   },
+
   {
     filter: "filter-leadership-economic",
-    title: "Fostering Food and Agriculture Innovation with AHK Sri Lanka and the German Chamber Network",
-    image: "assets/img/impact/leadership-economic/Global Nutrition and Sustainability.png",
+    id: "8.30",
+    title: "Addressing the Sri Lanka Leadership Awards",
+    image: "assets/img/impact/leadership-economic/Leadership Awards.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "Meeting with Marie Antonia von Schönburg, Chief Delegate of AHK Sri Lanka, at Koelnmesse Gathering",
-        image: "assets/img/impact/leadership-economic/Meeting with Marie.png",
+          "Honored to Participate in the Sri Lanka Leadership Awards at the Crystal Hall, Taj Samudra Hotel",
+        image: "assets/img/impact/leadership-economic/Leadership Awards.png",
         description:
-          "It was a pleasure to have had the opportunity to meet Marie Antonia von Schönburg, Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka...",
-        link: "https://www.linkedin.com/posts/lilanofficial_delegation-germany-srilanka-activity-7194530994920562689-Y1xs?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Meeting with Marie.png",
-      },
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Exploring Global Nutrition and Sustainability at the Anuga Partners Forum Hosted by Koelnmesse GmbH",
-        image: "assets/img/impact/leadership-economic/Global Nutrition and Sustainability.png",
-        description:
-          "In a time when the world of nutrition is becoming increasingly global, and the importance of sustainability and healthy food is growing, it is crucial that we connect with one another to collectively...",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7194982140239888384-Yr2U?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Global Nutrition and Sustainability.png",
+          "Participating in the Sri Lanka Leadership Awards at the Crystal Hall, Taj Samudra Hotel was a pleasure.",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-entrepreneurship-entrepreneur-activity-7237555135822843904-41e8?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Leadership Awards.png",
       },
     ],
   },
   {
     filter: "filter-leadership-economic",
+    id: "8.29",
+    title: "Participate in the Global Ethics Forum (GEF)",
+    image: "assets/img/impact/leadership-economic/Exploring Ethical Leadership.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Ethical Leadership: Insights from the Global Ethics Forum 2024",
+        image: "assets/img/impact/leadership-economic/Exploring Ethical Leadership.png",
+        description:
+          "It was a pleasure to participate in the Global Ethics Forum (GEF) which was organized at Maison de la Paix, Geneva, Switzerland. The Global Ethics Forum (GEF) is a global, solution-focused, multisectoral and multistakeholder platform for dialogue...",
+        link: "https://www.linkedin.com/posts/lilanofficial_globalethicsforum-ethicalleadership-sustainablefuture-activity-7236803295510421507-oRCD?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Exploring Ethical Leadership.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.28",
     title:
-      "Anuga Partners Forum, hosted by Koelnmesse GmbH and focused on Anuga Food Tech India and opening up export opportunities",
-    image: "assets/img/impact/leadership-economic/Meeting Dr. Kingsley Bernard.png",
+      "Collaborating the Walpola Rahula Institute (WRI) with the Initiatives of Change International (IofC)",
+    image: "assets/img/impact/leadership-economic/Cultivating Change and Unity.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Cultivating Change and Unity: A Meetup of Changemakers at the Walpola Rahula Institute",
+        image: "assets/img/impact/leadership-economic/Cultivating Change and Unity.png",
+        description:
+          "“It is easy to go with the trends and tides but it is difficult to go against the tides”. It was a pleasure to have orchestrated a meetup of diverse changemakers at the Walpola Rahula Institute (WRI). The institute, committed to transcending conventional religious teachings, endeavours to foster societal healing. Our gathering represented a rich tapestry of geographical origins, cultures, religions, income classes, ages, races, and genders; a true reflection of our shared humanity.",
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-trust-iofc-activity-7142531191932354561-opO5?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Cultivating Change and Unity.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.27",
+    title: "Addressing the IofC Caux Forum 2023",
+    image: "assets/img/impact/leadership-economic/Reflecting and Rebuilding.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflecting and Rebuilding: Insights from the Caux Forum 2023",
+        image: "assets/img/impact/leadership-economic/Reflecting and Rebuilding.png",
+        description:
+          "I had the pleasure of participating in the Caux Forum 2023, which was held at the Caux Palace, nestled in the mountains 1000 meters above sea level. With its breathtaking view of Lake Geneva and the Alps, it provided a unique and inspiring setting.",
+        link: "https://www.linkedin.com/posts/lilanofficial_cauxforum-switzerland-iofc-activity-7104370335071801345-4N9U?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Reflecting and Rebuilding.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.26",
+    title: "Participating in Youth-Driven Innovation in Global Education Workshop",
+    image: "assets/img/impact/leadership-economic/Empowering the Future.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering the Future: Youth-Driven Innovation in Global Education",
+        image: "assets/img/impact/leadership-economic/Empowering the Future.png",
+        description:
+          "The workshop on the Youth-Driven Innovation in Global Education by Amanda Abrom (Director of the Global Schools Program, United Nations SDSN) and Nene Onyedi Ibezim (Project Officer, Global Schools, UN SDSN) at the AFS Youth Assembly in New York, USA was interactive.",
+        link: "https://www.linkedin.com/posts/lilanofficial_the-workshop-on-the-youth-driven-innovation-activity-7231913597650485248-p4Ok?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Empowering the Future.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.25",
+    title: "Moonshot Young Leaders Camp",
+    image: "assets/img/impact/leadership-economic/Moonshot Young Leaders.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participation in the Moonshot Young Leaders Camp: A Journey of Empowerment and Inspiration",
+        image: "assets/img/impact/leadership-economic/Moonshot Young Leaders.png",
+        description:
+          "I had the opportunity to participate in the Moonshot Young Leaders Camp at the Moonshot Platform. This exceptional program provided a series of inspirational, empowering, and mindful sessions...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7221391951764283392-MQks?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Moonshot Young Leaders.png",
+      },
+      {
+        date: "",
+        source_name: "Moonshot Platform",
+        source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
+        title: "Meet the Young Leaders of the Moonshot Young Leaders Camp 2024",
+        image: "assets/img/impact/leadership-economic/Young Leaders.png",
+        description:
+          "Introducing you to some of the Young Leaders joining us at this year's Moonshot Young Leaders Camp...",
+        link: "https://www.linkedin.com/posts/moonshot-platform_youngleaders-socialimpact-sdgs-activity-7213889108237049858-ejvR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Young Leaders.png",
+      },
+      {
+        date: "August 18, 2024",
+        source_name: "Biz Report",
+        source_link: "https://english.bizreport.lk/",
+        title: "Lilan Dayananda Selected for Moonshot Young Leaders Camp in Czechia",
+        image: "assets/img/impact/leadership-economic/Moonshot Young Leaders Camp.png",
+        description:
+          "Lilan Dayananda, the dynamic Managing Director and CEO of Elzian Agro, has been selected to participate in the prestigious Moonshot Young Leaders Camp. This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges. During the program, Lilan also met the President Petr Pavel of the Czech Republic, the royal family of the House of Lobkowicz at Prague Castle, Senator Ondřej Šimetka and Martin Kupka, Minister of Transport of Czechia.",
+        link: "https://english.bizreport.lk/lilan-dayananda-selected-for-moonshot-young-leaders-camp-in-czechia/",
+        backup_image: "assets/img/impact/leadership-economic/backup/Moonshot Young Leaders Camp.png",
+      },
+      {
+        date: "August 17, 2024",
+        source_name: "Business Cafe",
+        source_link: "https://www.businesscafe.lk/",
+        title: "Lilan Dayananda Selected for Moonshot Young Leaders Camp in Czechia",
+        image: "assets/img/impact/leadership-economic/Business Cafe Leaders.png",
+        description:
+          "This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges.",
+        link: "https://www.businesscafe.lk/business-news/food-beverage/item/16085-lilan-dayananda-selected-for-moonshot-young-leaders-camp-in-czechia",
+        backup_image: "assets/img/impact/leadership-economic/backup/Business Cafe Leaders.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.24",
+    title: "Conversations with Olympic Volunteers",
+    image: "assets/img/impact/leadership-economic/Olympic 2024.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflections on the Olympic 2024 Experience: Celebration, Resilience, and Legacy",
+        image: "assets/img/impact/leadership-economic/Olympic 2024.png",
+        description:
+          "Visiting the Olympic 2024 right after the closing ceremony was an eye-opening experience. The atmosphere was a unique blend of celebration and reflection, where the triumphs of athletes and the spirit of unity were palpable, even as the crowds dispersed. I learned that the true essence of the Olympics isn't just about the competition but the connections formed, the resilience displayed, and the global community that comes together in the name of sport.",
+        link: "https://www.linkedin.com/posts/lilanofficial_olympic-paris-games-activity-7229342795423956993-SPEl?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Olympic 2024.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.23",
+    title: "Workshops & studios at the Berlin University of the Arts (UdK)",
+    image: "assets/img/impact/leadership-economic/Creative Works.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "Meeting Dr. Kingsley Bernard, CEO of the Export Development Board, at the Anuga Partners Forum",
-        image: "assets/img/impact/leadership-economic/Meeting Dr. Kingsley Bernard.png",
+          "Exploring the Creative Works of Young Artists at Berlin University of the Arts Summer Open Studios",
+        image: "assets/img/impact/leadership-economic/Creative Works.png",
         description:
-          "During the latest Anuga Partners Forum, hosted by Koelnmesse GmbH and focused on Anuga Food Tech India, I had the pleasure of meeting Dr. Kingsley Bernard, Chairman and Chief Executive Officer...",
-        link: "https://www.linkedin.com/posts/lilanofficial_export-food-agriculture-activity-7197981542634176512-djp_?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Meeting Dr. Kingsley Bernard.png",
+          "Every summer, at the end of the academic year, the Berlin University of the Arts (UdK) opens the workshops, studios and rehearsal rooms of its faculties for three days and it was a nice experience to get to know the university's young artists and their work.",
+        link: "https://www.linkedin.com/posts/lilanofficial_art-music-summer-activity-7222802749162242048-g9jN?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Creative Works.png",
       },
     ],
   },
   {
     filter: "filter-leadership-economic",
+    id: "8.22",
+    title: "Signing agreements with Koperattivi Malta for EU Economic Resilience",
+    image: "assets/img/impact/leadership-economic/Meeting with Koperattivi Malta.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting with Koperattivi Malta to Discuss Sustainable Transition in Agriculture",
+        image: "assets/img/impact/leadership-economic/Meeting with Koperattivi Malta.png",
+        description:
+          "Recently, I had the pleasure of meeting with Koperattivi Malta to discuss the economic potential of cooperatives in facilitating a sustainable transition to regenerative and precision agriculture for food security. I would like to express my appreciation to the Koperattivi Malta Team for their professional engagement and proactive interaction during our initial meeting.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7214649124418203648-XIK-?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Meeting with Koperattivi Malta.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.21",
+    title: "Participating in the Regional Conference on the Circular Economy at Palais des Nations",
+    image: "assets/img/impact/leadership-economic/Regional Conference.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Participation in the Regional Conference on the Circular Economy at Palais des Nations, Geneva",
+        image: "assets/img/impact/leadership-economic/Regional Conference.png",
+        description:
+          "It was a pleasure to participate in the Regional Conference on the Circular Economy at Palais des Nations in Geneva, Switzerland.",
+        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-un-sdgs-activity-7212530833092460545-PbmU?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Regional Conference.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.20",
+    title:
+      "Empower Youth through Ye! Community Learn and Connect Session organized by the International Trade Centre (ITC)",
+    image: "assets/img/impact/leadership-economic/Ye! Community.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Speaking at the Ye! Community Learn and Connect Session on Sustainable Green Businesses",
+        image: "assets/img/impact/leadership-economic/Ye! Community.png",
+        description:
+          "It was a pleasure to contribute as a speaker for the recent Ye! Community Learn and Connect Session. These sessions, conducted every three months on the last Wednesday, are affiliated with the International Trade Centre and the Ye! Community.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-entrepreneurship-startups-activity-7211735366033137665-y7eh?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Ye! Community.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.19",
+    title: "Synergizing with the Founder Institute Food Ecosystem Entrepreneurs",
+    image: "assets/img/impact/leadership-economic/Global Entrepreneurs.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Networking with Global Entrepreneurs at the Founder Institute Food Ecosystems Accelerator",
+        image: "assets/img/impact/leadership-economic/Global Entrepreneurs.png",
+        description:
+          "The Founder Institute Food Ecosystems Accelerator provided an incredible opportunity to network with like-minded entrepreneurs on a global scale. As proud graduates of Founder Institute...",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-networking-startup-activity-7207865987461763073-HPw1?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Global Entrepreneurs.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.18",
+    title:
+      "Addressing the Investment Advisory Clinic by the USAID CATALYZE Sri Lanka Private Sector Development Activity",
+    image: "assets/img/impact/leadership-economic/Investment Advisory Clinic.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Gratitude for Participation in the Investment Advisory Clinic Organized by USAID CATALYZE Sri Lanka",
+        image: "assets/img/impact/leadership-economic/Investment Advisory Clinic.png",
+        description:
+          "I recently had the opportunity to participate in an Investment Advisory Clinic. I would like to extend my sincere gratitude to USAID CATALYZE Sri Lanka Private Sector Development Activity...",
+        link: "https://www.linkedin.com/posts/lilanofficial_startup-business-investment-activity-7207402604123856896-N0qM?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Investment Advisory Clinic.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.17",
     title:
       'Addressing the WSIS Forum High-Level Event, WSA session, titled "Youth Engagement Around WSIS Action Lines”',
     image: "assets/img/impact/leadership-economic/WSIS Forum.png",
@@ -4705,275 +4703,348 @@ const impacts = [
   },
   {
     filter: "filter-leadership-economic",
+    id: "8.16",
     title:
-      "Addressing the Investment Advisory Clinic by the USAID CATALYZE Sri Lanka Private Sector Development Activity",
-    image: "assets/img/impact/leadership-economic/Investment Advisory Clinic.png",
+      "Anuga Partners Forum, hosted by Koelnmesse GmbH and focused on Anuga Food Tech India and opening up export opportunities",
+    image: "assets/img/impact/leadership-economic/Meeting Dr. Kingsley Bernard.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "Gratitude for Participation in the Investment Advisory Clinic Organized by USAID CATALYZE Sri Lanka",
-        image: "assets/img/impact/leadership-economic/Investment Advisory Clinic.png",
+          "Meeting Dr. Kingsley Bernard, CEO of the Export Development Board, at the Anuga Partners Forum",
+        image: "assets/img/impact/leadership-economic/Meeting Dr. Kingsley Bernard.png",
         description:
-          "I recently had the opportunity to participate in an Investment Advisory Clinic. I would like to extend my sincere gratitude to USAID CATALYZE Sri Lanka Private Sector Development Activity...",
-        link: "https://www.linkedin.com/posts/lilanofficial_startup-business-investment-activity-7207402604123856896-N0qM?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Investment Advisory Clinic.png",
+          "During the latest Anuga Partners Forum, hosted by Koelnmesse GmbH and focused on Anuga Food Tech India, I had the pleasure of meeting Dr. Kingsley Bernard, Chairman and Chief Executive Officer...",
+        link: "https://www.linkedin.com/posts/lilanofficial_export-food-agriculture-activity-7197981542634176512-djp_?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Meeting Dr. Kingsley Bernard.png",
       },
     ],
   },
   {
     filter: "filter-leadership-economic",
-    title: "Synergizing with the Founder Institute Food Ecosystem Entrepreneurs",
-    image: "assets/img/impact/leadership-economic/Global Entrepreneurs.png",
+    id: "8.15",
+    title: "Fostering Food and Agriculture Innovation with AHK Sri Lanka and the German Chamber Network",
+    image: "assets/img/impact/leadership-economic/Global Nutrition and Sustainability.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Networking with Global Entrepreneurs at the Founder Institute Food Ecosystems Accelerator",
-        image: "assets/img/impact/leadership-economic/Global Entrepreneurs.png",
+        title:
+          "Meeting with Marie Antonia von Schönburg, Chief Delegate of AHK Sri Lanka, at Koelnmesse Gathering",
+        image: "assets/img/impact/leadership-economic/Meeting with Marie.png",
         description:
-          "The Founder Institute Food Ecosystems Accelerator provided an incredible opportunity to network with like-minded entrepreneurs on a global scale. As proud graduates of Founder Institute...",
-        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-networking-startup-activity-7207865987461763073-HPw1?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Global Entrepreneurs.png",
+          "It was a pleasure to have had the opportunity to meet Marie Antonia von Schönburg, Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka...",
+        link: "https://www.linkedin.com/posts/lilanofficial_delegation-germany-srilanka-activity-7194530994920562689-Y1xs?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Meeting with Marie.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Exploring Global Nutrition and Sustainability at the Anuga Partners Forum Hosted by Koelnmesse GmbH",
+        image: "assets/img/impact/leadership-economic/Global Nutrition and Sustainability.png",
+        description:
+          "In a time when the world of nutrition is becoming increasingly global, and the importance of sustainability and healthy food is growing, it is crucial that we connect with one another to collectively...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7194982140239888384-Yr2U?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Global Nutrition and Sustainability.png",
       },
     ],
   },
   {
     filter: "filter-leadership-economic",
+    id: "8.14",
+    title: "Collaboration with the Improving Economies for Stronger Communities (IESC)",
+    image: "assets/img/impact/leadership-economic/Meets with Christopher.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title:
+          "ELZIAN AGRO Meets with Christopher Addison of IESC to Discuss Climate-Smart Precision Agriculture Solutions",
+        image: "assets/img/impact/leadership-economic/Meets with Christopher.png",
+        description:
+          "IESC - Improving Economies for Stronger Communities (formerly International Executive Service Corps) is a non-profit organization that has been operating for 60 years, focusing on implementing projects for USAID and USDA that promote private sector growth and create economic opportunities for communities in developing countries.",
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:7184059281929912321/",
+        backup_image: "assets/img/impact/leadership-economic/backup/Meets with Christopher.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.13",
+    title: "Supporting the World Bank Group to initiate projects for Rural Development and Youth Empowerment",
+    image: "assets/img/impact/leadership-economic/Meeting with Parmesh Shah.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Meeting with Parmesh Shah, Global Lead at the World Bank for Rural Development and Digital Agriculture",
+        image: "assets/img/impact/leadership-economic/Meeting with Parmesh Shah.png",
+        description:
+          "Yesterday, I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions...",
+        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Meeting with Parmesh Shah.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.12",
+    title: "Global Thinkers Forum & Global Thinkers Mentors",
+    image: "assets/img/impact/leadership-economic/global-thinkers-mentors.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Global Thinkers Mentors",
+        source_link: "https://globalthinkersmentors.org/",
+        title: "Lilan Udayanga Dayananda",
+        image: "assets/img/impact/leadership-economic/global-thinkers-mentors.png",
+        description:
+          "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the UN.",
+        link: "https://globalthinkersmentors.org/lilan-udayanga-dayananda",
+        backup_image: "assets/img/impact/leadership-economic/backup/global-thinkers-mentors.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.11",
+    title: "Rethinking Harmony in Asia",
+    image: "assets/img/impact/leadership-economic/Shaping Cooperation.png",
+    slides: [
+      {
+        date: "",
+        source_name: "Ravindra Ngo 赖文卓",
+        source_link: "https://www.linkedin.com/in/ravindra-ngo/",
+        title: "💠Shaping Cooperation in a Fragmenting World💠",
+        image: "assets/img/impact/leadership-economic/Shaping Cooperation.png",
+        description:
+          "While the 54th Annual Meeting of The World Economic Forum taking place at Davos-Klosters (15th to 19th January 2024), i am sharing with you this white paper from the Global Future Council on the Future of Geopolitics.",
+        link: "https://www.linkedin.com/posts/ravindra-ngo_shaping-cooperation-in-a-fragmenting-world-activity-7152867953120526336--vQ4?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Shaping Cooperation.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.10",
+    title: "Asian Development Bank: Southeast Asia Development Solutions (SEADS)",
+    image: "assets/img/impact/leadership-economic/SEADS.png",
+    slides: [
+      {
+        date: "September 28, 2023",
+        source_name: "SEADS",
+        source_link: "https://seads.adb.org/",
+        title: "Rethinking Harmony in Asia 2023",
+        image: "assets/img/impact/leadership-economic/SEADS.png",
+        description:
+          "Decisions made in the next few years will determine whether our existence on Earth, as we know it, will continue or collapse because of human activity. The need to change the way societies interact with and impact the environment becomes more urgent, as the tangible impacts of a planetary crisis accumulate.",
+        link: "https://seads.adb.org/events/rethinking-harmony-asia-2023",
+        backup_image: "assets/img/impact/leadership-economic/backup/SEADS.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.9",
+    title: "Economic Research Institute for ASEAN and East Asia (ERIA)",
+    image: "assets/img/impact/leadership-economic/ERIA.png",
+    slides: [
+      {
+        date: "",
+        source_name: "ERIA",
+        source_link: "https://www.eria.org/",
+        title: "ERIA-Asian Network-ADB SEADS: Rethinking Harmony in Asia 2023",
+        image: "assets/img/impact/leadership-economic/ERIA.png",
+        description:
+          "Decisions made in the next few years will determine whether our existence on Earth, as we know it, will continue or collapse because of human activity. The need to change the ways societies interact with and impact the environment becomes more urgent as the tangible impacts of a planetary crisis accumulate.",
+        link: "https://www.eria.org/events/eria-asian-network-adb-seads-rethinking-harmony-in-asia-2023/",
+        backup_image: "assets/img/impact/leadership-economic/backup/ERIA.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.8",
+    title: "Economic and Social Commission for Asia and the Pacific (ESCAP): 79th Session of the Commission",
+    image: "assets/img/impact/leadership-economic/United Nations Commission.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Serving as a Youth Representative at the 79th Session of the United Nations Commission on Climate Change: A Transformative Experience",
+        image: "assets/img/impact/leadership-economic/United Nations Commission.png",
+        description:
+          "I had the incredible privilege of serving as the youth representative (observer) at the 79th session of the United Nations Commission...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainabledevelopment-leaders-climatechange-activity-7066125306532659200-4FR7?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/United Nations Commission.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the 79th ESCAP Session Side Event",
+        image: "assets/img/impact/leadership-economic/ESCAP Session.png",
+        description:
+          "It was such a pleasure to participate in the Side Event: 79th Session of the Economic and Social Commission for Asia and the Pacific, “Acceleration of Climate Action: Engagement and Empowerment of Youth for the Future”. The side event was organized by the United Nations Regional Coordination Mechanism for Asia-Pacific and its Issue-based Coalition on Raising Climate Ambition under the leadership of United Nations Development",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-youthempowerment-climatechange-activity-7069617207864938496-Z15Q?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/ESCAP Session.png",
+      },
+      {
+        date: "",
+        source_name: "ESCAP",
+        source_link: "https://www.unescap.org/",
+        title: "79th Session of the Commission",
+        image: "assets/img/impact/leadership-economic/unescap.png",
+        description:
+          "The seventy-ninth session of the Economic and Social Commission for Asia and the Pacific (ESCAP) will be held from 15 to 19 May 2023 at the United Nations Conference Centre in Bangkok.",
+        link: "https://www.unescap.org/events/commission79",
+        backup_image: "assets/img/impact/leadership-economic/backup/unescap.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.7",
     title:
-      "Empower Youth through Ye! Community Learn and Connect Session organized by the International Trade Centre (ITC)",
-    image: "assets/img/impact/leadership-economic/Ye! Community.png",
+      "China (Sichuan) <> Sri Lanka Business Forum & B2B Session organized by the Federation of Chambers of Commerce and Industry",
+    image: "assets/img/impact/leadership-economic/Business Forum & B2B Session.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Speaking at the Ye! Community Learn and Connect Session on Sustainable Green Businesses",
-        image: "assets/img/impact/leadership-economic/Ye! Community.png",
+        title: "Sri Lanka Business Forum & B2B Session",
+        image: "assets/img/impact/leadership-economic/Business Forum & B2B Session.png",
         description:
-          "It was a pleasure to contribute as a speaker for the recent Ye! Community Learn and Connect Session. These sessions, conducted every three months on the last Wednesday, are affiliated with the International Trade Centre and the Ye! Community.",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-entrepreneurship-startups-activity-7211735366033137665-y7eh?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Ye! Community.png",
+          "China (Sichuan) <> Sri Lanka Business Forum & B2B Session organized by the Federation of Chambers of Commerce and Industry of Sri Lanka (FCCISL) in partnership with CCPIT Sichuan Council (China Council for the Promotion of International Trade) and in collaboration with Sri Lanka Export Development Board (EDB) along with the prominent companies from sectors such as Agriculture, Machinery, ICT, Handicraft, Textile & Garments, Electrical Equipment, and Interior Designing & Decorations.",
+        link: "https://www.linkedin.com/posts/lilanofficial_economy-agriculture-techecosystem-activity-7128756106780164096-uKoq?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Business Forum & B2B Session.png",
       },
     ],
   },
   {
     filter: "filter-leadership-economic",
-    title: "Participating in the Regional Conference on the Circular Economy at Palais des Nations",
-    image: "assets/img/impact/leadership-economic/Regional Conference.png",
+    id: "8.6",
+    title: "Global-South Development Expo 2022",
+    image: "assets/img/impact/leadership-economic/Global South-South Development Expo.JPEG",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ELZIAN AGRO's Special Week at the Global South-South Development Expo in Bangkok, Thailand",
+        image: "assets/img/impact/leadership-economic/Global South-South Development Expo.JPEG",
+        description:
+          "Last month was a special week for ELZIAN AGRO. We spent this week at the Global South-South Development Expo in Thailand, Bangkok.",
+        link: "https://www.linkedin.com/posts/lilanofficial_development-agriculture-elzianabragro-activity-6981938161027346432-Qp77?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Global South-South Development Expo.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.5",
+    title: "Sustainability Impact Forum",
+    image: "assets/img/impact/leadership-economic/Sustainability Impact.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ELZIAN AGRO to Participate in the 2023 Sustainability Impact Forum in Milan, Italy",
+        image: "assets/img/impact/leadership-economic/Sustainability Impact.png",
+        description:
+          "We are thrilled to announce that ELZIAN AGRO is participating in the 2023 Sustainability Impact Forum (SIF) in Milan, Italy, this June!",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdgs-sustainability-intergenerational-activity-7051035615156469761-nKGU?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Sustainability Impact.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.4",
+    title: "United People Global Sustainability leadership",
+    image: "assets/img/impact/leadership-economic/UPG Sustainability Leadership.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Selected for the 2023 UPG Sustainability Leadership Class",
+        image: "assets/img/impact/leadership-economic/UPG Sustainability Leadership.png",
+        description:
+          "After 4 months of filtration process and out of 3600+ Applications, I'm happy to share that I have been selected to join the UPGSustainability leadership class for 2023.",
+        link: "https://www.linkedin.com/posts/lilanofficial_upgsustainability-sustainability-sdgs-activity-7056046839497703424-Dkk3?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/UPG Sustainability Leadership.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.3",
+    title: "79th Session of the Economic and Social Commission for Asia and the Pacific",
+    image: "assets/img/impact/leadership-economic/Side Event.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "Participation in the Regional Conference on the Circular Economy at Palais des Nations, Geneva",
-        image: "assets/img/impact/leadership-economic/Regional Conference.png",
+          "Participation in the Side Event: Acceleration of Climate Action through Youth Engagement at the 79th Session of ESCAP",
+        image: "assets/img/impact/leadership-economic/Side Event.png",
         description:
-          "It was a pleasure to participate in the Regional Conference on the Circular Economy at Palais des Nations in Geneva, Switzerland.",
-        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-un-sdgs-activity-7212530833092460545-PbmU?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Regional Conference.png",
+          "It was such a pleasure to participate in the Side Event: 79th Session of the Economic and Social Commission for Asia and the Pacific, “Acceleration of Climate Action: Engagement and Empowerment of Youth for the Future”.",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-youthempowerment-climatechange-activity-7069617207864938496-Z15Q?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Side Event.png",
       },
     ],
   },
   {
     filter: "filter-leadership-economic",
-    title: "Signing agreements with Koperattivi Malta for EU Economic Resilience",
-    image: "assets/img/impact/leadership-economic/Meeting with Koperattivi Malta.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting with Koperattivi Malta to Discuss Sustainable Transition in Agriculture",
-        image: "assets/img/impact/leadership-economic/Meeting with Koperattivi Malta.png",
-        description:
-          "Recently, I had the pleasure of meeting with Koperattivi Malta to discuss the economic potential of cooperatives in facilitating a sustainable transition to regenerative and precision agriculture for food security. I would like to express my appreciation to the Koperattivi Malta Team for their professional engagement and proactive interaction during our initial meeting.",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7214649124418203648-XIK-?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Meeting with Koperattivi Malta.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-leadership-economic",
-    title: "Workshops & studios at the Berlin University of the Arts (UdK)",
-    image: "assets/img/impact/leadership-economic/Creative Works.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Exploring the Creative Works of Young Artists at Berlin University of the Arts Summer Open Studios",
-        image: "assets/img/impact/leadership-economic/Creative Works.png",
-        description:
-          "Every summer, at the end of the academic year, the Berlin University of the Arts (UdK) opens the workshops, studios and rehearsal rooms of its faculties for three days and it was a nice experience to get to know the university's young artists and their work.",
-        link: "https://www.linkedin.com/posts/lilanofficial_art-music-summer-activity-7222802749162242048-g9jN?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Creative Works.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-leadership-economic",
-    title: "Conversations with Olympic Volunteers",
-    image: "assets/img/impact/leadership-economic/Olympic 2024.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Reflections on the Olympic 2024 Experience: Celebration, Resilience, and Legacy",
-        image: "assets/img/impact/leadership-economic/Olympic 2024.png",
-        description:
-          "Visiting the Olympic 2024 right after the closing ceremony was an eye-opening experience. The atmosphere was a unique blend of celebration and reflection, where the triumphs of athletes and the spirit of unity were palpable, even as the crowds dispersed. I learned that the true essence of the Olympics isn't just about the competition but the connections formed, the resilience displayed, and the global community that comes together in the name of sport.",
-        link: "https://www.linkedin.com/posts/lilanofficial_olympic-paris-games-activity-7229342795423956993-SPEl?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Olympic 2024.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-leadership-economic",
-    title: "Moonshot Young Leaders Camp",
-    image: "assets/img/impact/leadership-economic/Moonshot Young Leaders.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participation in the Moonshot Young Leaders Camp: A Journey of Empowerment and Inspiration",
-        image: "assets/img/impact/leadership-economic/Moonshot Young Leaders.png",
-        description:
-          "I had the opportunity to participate in the Moonshot Young Leaders Camp at the Moonshot Platform. This exceptional program provided a series of inspirational, empowering, and mindful sessions...",
-        link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7221391951764283392-MQks?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Moonshot Young Leaders.png",
-      },
-      {
-        date: "",
-        source_name: "Moonshot Platform",
-        source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
-        title: "Meet the Young Leaders of the Moonshot Young Leaders Camp 2024",
-        image: "assets/img/impact/leadership-economic/Young Leaders.png",
-        description:
-          "Introducing you to some of the Young Leaders joining us at this year's Moonshot Young Leaders Camp:",
-        link: "https://www.linkedin.com/posts/moonshot-platform_youngleaders-socialimpact-sdgs-activity-7213889108237049858-ejvR?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Young Leaders.png",
-      },
-      {
-        date: "August 18, 2024",
-        source_name: "Biz Report",
-        source_link: "https://english.bizreport.lk/",
-        title: "Lilan Dayananda Selected for Moonshot Young Leaders Camp in Czechia",
-        image: "assets/img/impact/leadership-economic/Moonshot Young Leaders Camp.png",
-        description:
-          "Lilan Dayananda, the dynamic Managing Director and CEO of Elzian Agro, has been selected to participate in the prestigious Moonshot Young Leaders Camp. This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges. During the program, Lilan also met the President Petr Pavel of the Czech Republic, the royal family of the House of Lobkowicz at Prague Castle, Senator Ondřej Šimetka and Martin Kupka, Minister of Transport of Czechia.",
-        link: "https://english.bizreport.lk/lilan-dayananda-selected-for-moonshot-young-leaders-camp-in-czechia/",
-        backup_image: "assets/img/impact/leadership-economic/backup/Moonshot Young Leaders Camp.png",
-      },
-      {
-        date: "August 17, 2024",
-        source_name: "Business Cafe",
-        source_link: "https://www.businesscafe.lk/",
-        title: "Lilan Dayananda Selected for Moonshot Young Leaders Camp in Czechia",
-        image: "assets/img/impact/leadership-economic/Business Cafe Leaders.png",
-        description:
-          "This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges.",
-        link: "https://www.businesscafe.lk/business-news/food-beverage/item/16085-lilan-dayananda-selected-for-moonshot-young-leaders-camp-in-czechia",
-        backup_image: "assets/img/impact/leadership-economic/backup/Business Cafe Leaders.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-leadership-economic",
-    title: "Participating in Youth-Driven Innovation in Global Education Workshop",
-    image: "assets/img/impact/leadership-economic/Empowering the Future.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Empowering the Future: Youth-Driven Innovation in Global Education",
-        image: "assets/img/impact/leadership-economic/Empowering the Future.png",
-        description:
-          "The workshop on the Youth-Driven Innovation in Global Education by Amanda Abrom (Director of the Global Schools Program, United Nations SDSN) and Nene Onyedi Ibezim (Project Officer, Global Schools, UN SDSN) at the AFS Youth Assembly in New York, USA was interactive.",
-        link: "https://www.linkedin.com/posts/lilanofficial_the-workshop-on-the-youth-driven-innovation-activity-7231913597650485248-p4Ok?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Empowering the Future.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-leadership-economic",
-    title: "Addressing the IofC Caux Forum 2023",
-    image: "assets/img/impact/leadership-economic/Reflecting and Rebuilding.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Reflecting and Rebuilding: Insights from the Caux Forum 2023",
-        image: "assets/img/impact/leadership-economic/Reflecting and Rebuilding.png",
-        description:
-          "I had the pleasure of participating in the Caux Forum 2023, which was held at the Caux Palace, nestled in the mountains 1000 meters above sea level. With its breathtaking view of Lake Geneva and the Alps, it provided a unique and inspiring setting.",
-        link: "https://www.linkedin.com/posts/lilanofficial_cauxforum-switzerland-iofc-activity-7104370335071801345-4N9U?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Reflecting and Rebuilding.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-leadership-economic",
+    id: "8.2",
     title:
-      "Collaborating the Walpola Rahula Institute (WRI) with the Initiatives of Change International (IofC)",
-    image: "assets/img/impact/leadership-economic/Cultivating Change and Unity.png",
+      "Harris School of Public Policy at the University of Chicago and the Indian School of Public Policy (ISPP)",
+    image: "assets/img/impact/leadership-economic/Anubhav Fellow.JPEG",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Cultivating Change and Unity: A Meetup of Changemakers at the Walpola Rahula Institute",
-        image: "assets/img/impact/leadership-economic/Cultivating Change and Unity.png",
+        title: "Anubhav Fellow ⫸ A remarkable Changemaker Shaping a Brighter World!",
+        image: "assets/img/impact/leadership-economic/Anubhav Fellow.JPEG",
         description:
-          "“It is easy to go with the trends and tides but it is difficult to go against the tides”. It was a pleasure to have orchestrated a meetup of diverse changemakers at the Walpola Rahula Institute (WRI). The institute, committed to transcending conventional religious teachings, endeavours to foster societal healing. Our gathering represented a rich tapestry of geographical origins, cultures, religions, income classes, ages, races, and genders; a true reflection of our shared humanity.",
-        link: "https://www.linkedin.com/posts/lilanofficial_peace-trust-iofc-activity-7142531191932354561-opO5?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Cultivating Change and Unity.png",
+          "I'm delighted to announce the successful conclusion of the Anubhav Lecture Series, an extraordinary program aimed at fostering innovation and leadership. From May to June 2023, we embarked on an enriching journey of knowledge, personal growth, and community building that surpassed all expectations.",
+        link: "https://www.linkedin.com/posts/lilanofficial_anubhavlectureseries-fellowship-knowledgesharing-activity-7084614091398402048-xB3d?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Anubhav Fellow.png",
       },
     ],
   },
   {
     filter: "filter-leadership-economic",
-    title: "Participate in the Global Ethics Forum (GEF)",
-    image: "assets/img/impact/leadership-economic/Exploring Ethical Leadership.png",
+    id: "8.1",
+    title: "Resolution Project Guide/Mentor",
+    image: "assets/img/impact/leadership-economic/Resolution Project.png",
     slides: [
       {
         date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Exploring Ethical Leadership: Insights from the Global Ethics Forum 2024",
-        image: "assets/img/impact/leadership-economic/Exploring Ethical Leadership.png",
+        source_name: "Resolution Project",
+        source_link: "https://resolutionproject.org/",
+        title: "Lilan Dayananda",
+        image: "assets/img/impact/leadership-economic/Resolution Project.png",
         description:
-          "It was a pleasure to participate in the Global Ethics Forum (GEF) which was organized at Maison de la Paix, Geneva, Switzerland. The Global Ethics Forum (GEF) is a global, solution-focused, multisectoral and multistakeholder platform for dialogue...",
-        link: "https://www.linkedin.com/posts/lilanofficial_globalethicsforum-ethicalleadership-sustainablefuture-activity-7236803295510421507-oRCD?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Exploring Ethical Leadership.png",
-      },
-    ],
-  },
-  {
-    filter: "filter-leadership-economic",
-    title: "Addressing the Sri Lanka Leadership Awards",
-    image: "assets/img/impact/leadership-economic/Leadership Awards.png",
-    slides: [
-      {
-        date: "",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Honored to Participate in the Sri Lanka Leadership Awards at the Crystal Hall, Taj Samudra Hotel",
-        image: "assets/img/impact/leadership-economic/Leadership Awards.png",
-        description:
-          "Participating in the Sri Lanka Leadership Awards at the Crystal Hall, Taj Samudra Hotel was a pleasure.",
-        link: "https://www.linkedin.com/posts/lilanofficial_leadership-entrepreneurship-entrepreneur-activity-7237555135822843904-41e8?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/leadership-economic/backup/Leadership Awards.png",
+          "Lilan Dayananda is an international award-winning youth social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South by the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
+        link: "https://resolutionproject.org/team/lilan-dayananda/",
+        backup_image: "assets/img/impact/leadership-economic/backup/Resolution Project.png",
       },
     ],
   },
