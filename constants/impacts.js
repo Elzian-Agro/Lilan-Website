@@ -4373,6 +4373,44 @@ const impacts = [
 
   {
     filter: "filter-leadership-economic",
+    id: "8.32",
+    title: 'Participate in the "Towards the Leaders Stage: The Future of Funding" session at the CGI',
+    image: "assets/img/impact/leadership-economic/Towards the Leaders Stage.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Rebalancing Power: Advancing Equity and Trust in the Future of Philanthropy",
+        image: "assets/img/impact/leadership-economic/Towards the Leaders Stage.png",
+        description:
+          'Reflecting on the "Towards the Leaders Stage: The Future of Funding" session at the CGI Meeting in New York, where the conversation focused on the challenges and opportunities in modern philanthropy...',
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-action-activity-7245856081489362944-OEUw?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/Towards the Leaders Stage.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.31",
+    title: "Participate in Science Summit at the UN General Assembly (UNGA79)",
+    image: "assets/img/impact/leadership-economic/UNGA 79.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Excited to Attend the Science Summit at UNGA 79 – Let's Connect in NYC!",
+        image: "assets/img/impact/leadership-economic/UNGA 79.png",
+        description:
+          "Exciting News! I will participate in the Science Summit at UNGA 79 (the UN General Assembly) in the fourth week of September...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7239589530331140096-lu5O?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/leadership-economic/backup/UNGA 79.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
     id: "8.30",
     title: "Addressing the Sri Lanka Leadership Awards",
     image: "assets/img/impact/leadership-economic/Leadership Awards.png",
