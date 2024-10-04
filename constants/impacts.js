@@ -1286,6 +1286,26 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.53",
+    title:
+      "Participate in the Science Summit on Innovating for Resilience and Prosperity alongside the United Nations General Assembly",
+    image: "assets/img/impact/innovation-social/the Science Summit.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflections on the Science Summit: Innovating for Resilience and Prosperity",
+        image: "assets/img/impact/innovation-social/the Science Summit.png",
+        description:
+          "It was a pleasure to participate in the Science Summit on Innovating for Resilience and Prosperity alongside the United Nations General Assembly in New York...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-innovation-renewableenergy-activity-7247227867468570625-msYe?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/innovation-social/backup/the Science Summit.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.52",
     title: "Participating in the workshop on “Winning Sales Pitch Tactics”",
     image: "assets/img/impact/innovation-social/winning-sales-pitch-tactics.png",
@@ -2322,6 +2342,25 @@ const impacts = [
 
   {
     filter: "filter-food-agriculture",
+    id: "4.26",
+    title: "Participating in the Food Forum during the 79th United Nations General Assembly",
+    image: "assets/img/impact/food-agriculture-forestry/Global Food Security.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Addressing Global Food Security: Insights from the Food Forum at the UN General Assembly",
+        image: "assets/img/impact/food-agriculture-forestry/Global Food Security.png",
+        description:
+          "I had the pleasure of attending the Food Forum at Rockefeller Plaza in New York, held during the 79th United Nations General Assembly. The global food security crisis is intensifying due to a confluence...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-fao-activity-7247668774630252545-oG3x?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/food-agriculture-forestry/backup/Global Food Security.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
     id: "4.25",
     title: "Participating in the Regenerative Agriculture Networking",
     image: "assets/img/impact/food-agriculture-forestry/Regenerative Agriculture Networking.png",
@@ -2987,6 +3026,26 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-climate-environmental",
+    id: "6.38",
+    title:
+      "Participate in the Science Summit on Innovating for Resilience and Prosperity alongside the United Nations General Assembly",
+    image: "assets/img/impact/climate-environmental/the Science Summit.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Insights from the Science Summit: Innovating for Resilience and Prosperity",
+        image: "assets/img/impact/climate-environmental/the Science Summit.png",
+        description:
+          "It was a pleasure to participate in the Science Summit on Innovating for Resilience and Prosperity alongside the United Nations General Assembly in New York.",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-innovation-renewableenergy-activity-7247227867468570625-msYe/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/climate-environmental/backup/the Science Summit.png",
+      },
+    ],
+  },
   {
     filter: "filter-climate-environmental",
     id: "6.37",
@@ -3792,6 +3851,314 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-public-policy",
+    id: "7.38",
+    title: "Connecting with the Peace Boat & Peace Boat Disaster Relief Volunteer Centre",
+    image: "assets/img/impact/public-policy/Boat & Peace Boat.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Tatsuya Yoshioka: A Leader in Peace and Conflict Resolution at the UN Science Summit",
+        image: "assets/img/impact/public-policy/Boat & Peace Boat.png",
+        description:
+          "It was a pleasure to meet Tatsuya Yoshioka (吉岡 達也, Yoshioka Tatsuya) at a Science Summit of the United Nations General Assembly. Yoshioka is a founding member...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-peace-conflict-activity-7247903798730338305-qe9S?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Boat & Peace Boat.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.37",
+    title: "Participating in the Clinton Global Initiative (CGI) Annual Meeting",
+    image: "assets/img/impact/public-policy/CGI Annual Meeting.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Gratitude and Commitment: Reflections on the CGI Annual Meeting",
+        image: "assets/img/impact/public-policy/CGI Annual Meeting.png",
+        description:
+          "I had an incredible experience this year as part of the CGI Annual Meeting, thanks to the outstanding work and dedication of the entire CGI team...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-tech-activity-7246628510948065280-nl9y?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/CGI Annual Meeting.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.36",
+    title: "Visiting National Broadcasting Company (NBC) Universal",
+    image: "assets/img/impact/public-policy/NBC Studios.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "A Thrilling Visit to NBC Studios at Rockefeller Center: Exploring the Home of Iconic TV Shows and Legendary Broadcasts",
+        image: "assets/img/impact/public-policy/NBC Studios.png",
+        description:
+          "It was a pleasure to visit NBC Universe where some of today's most popular television shows are made, like Saturday Night Live...",
+        link: "https://www.linkedin.com/posts/lilanofficial_media-news-actors-activity-7246466750412718080-fdK_?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/NBC Studios.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.35",
+    title: "Participating in the Foreign Policy Health Forum at the United Nations General Assembly",
+    image: "assets/img/impact/public-policy/Foreign Policy.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Global Health: Insights from the Foreign Policy Health Forum Reception",
+        image: "assets/img/impact/public-policy/Foreign Policy.png",
+        description:
+          "I had the opportunity to participate in the Foreign Policy Health Forum Reception during the UNGA at Studio Gather The Rockefeller Foundation Center, New York. A huge thank you to Swati Raj Save Ph.D. and Dr Satnam Deuchakar FRSA for the kind invitation.",
+        link: "https://www.linkedin.com/posts/lilanofficial_globalhealth-unga-climatehealth-activity-7245035878425751552-suOR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Foreign Policy.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.34",
+    title: "Visiting Transparency International",
+    image: "assets/img/impact/public-policy/Hanno Pevkur.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Hanno Pevkur (Minister of Defence of the Republic of Estonia)",
+        image: "assets/img/impact/public-policy/Hanno Pevkur.png",
+        description:
+          "The keynote remarks from Hanno Pevkur, Minister of Defence of the Republic of Estonia, added tremendous value to the second day of the Generation Democracy Global Summit. I had the opportunity to visit Transparency International and engage in a productive discussion with Ingrida Kalinauskienė, CEO of Transparency International Lithuania.",
+        link: "https://www.linkedin.com/posts/lilanofficial_globaldemocracy-youthleadership-civicengagement-activity-7242968354313887744-tDmO?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Hanno Pevkur.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.33",
+    title:
+      "Participating in the session on Strengthening Youth-led Grassroots Activism for Global Democracy and Visiting the Center for Equality Advancement",
+    image: "assets/img/impact/public-policy/Center for Equality Advancement.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth Activism: Visit to the Center for Equality Advancement",
+        image: "assets/img/impact/public-policy/Center for Equality Advancement.png",
+        description:
+          "I had the opportunity to visit the Center for Equality Advancement in Vilnius, Lithuania, during the Generation Democracy Global Summit, following an insightful session on Strengthening Youth-led Grassroots Activism for Global Democracy.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youthactivism-globaldemocracy-grassrootsmovements-activity-7242448896088555522-kZf0?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Center for Equality Advancement.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.32",
+    title: "Participating in the session on Impact on Civil Liberties and Human Rights",
+    image: "assets/img/impact/public-policy/Impact on Civil Liberties.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Day One Highlights: Empowering Young Leaders at the Generation Democracy Summit",
+        image: "assets/img/impact/public-policy/Impact on Civil Liberties.png",
+        description:
+          "I had the opportunity of participating in the Impact on Civil Liberties and Human Rights session at the Generation Democracy Global Summit in Vilnius, Lithuania.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-global-security-activity-7242144787905048577-koKC?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Impact on Civil Liberties.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.31",
+    title:
+      "Participating in the session on Understanding the Global Significance of the Year of Elections and Introduction to Community of Democracies (CoD)",
+    image: "assets/img/impact/public-policy/CoD.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Day One Highlights: Empowering Young Leaders with Insights on the Global Significance of the 2024 Elections at the Generation Democracy Global Summit",
+        image: "assets/img/impact/public-policy/CoD.png",
+        description:
+          'The day one highlights of the Generation Democracy Global Summit included a session on "Understanding the Global Significance...',
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-global-security-activity-7241844096816857089-RbDa?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/CoD.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.30",
+    title: "Participating in the Youth Perspectives on Global Security (Securing Tomorrow) Session",
+    image: "assets/img/impact/public-policy/Generation Democracy Global Summit.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Great Connections on Day One of the Generation Democracy Global Summit: Meeting Jetnor Kasmi and COL (ret) Vaidotas Malinionis",
+        image: "assets/img/impact/public-policy/Generation Democracy Global Summit.png",
+        description:
+          "It was a pleasure to meet Jetnor Kasmi and COL (ret) Vaidotas Malinionis on the first day of the Generation Democracy Global Summit in Vilnius, Lithuania.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-global-security-activity-7241707044343332864-cqCC?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Generation Democracy Global Summit.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.29",
+    title: "Addressing the Generation Democracy Global Summit",
+    image: "assets/img/impact/public-policy/Day Two Highlights.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Day Two Highlights from the Generation Democracy Global Summit in Vilnius: Leadership, CivicTech, and Youth Participation",
+        image: "assets/img/impact/public-policy/Day Two Highlights.png",
+        description:
+          "At the Generation Democracy Global Summit in Vilnius Lithuania, Day Two discussions explored vital issues shaping our future...",
+        link: "https://www.linkedin.com/posts/lilanofficial_globaldemocracy-youthleadership-civicengagement-activity-7242583829410938881-bZa_?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Day Two Highlights.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Day One Recap from the Generation Democracy Global Summit: Youth Perspectives, Global Security, and Defending Civil Liberties",
+        image: "assets/img/impact/public-policy/Day One Recap.png",
+        description:
+          "At the Generation Democracy Global Summit in Vilnius Lithuania, Day One discussions explored vital issues shaping our future...",
+        link: "https://www.linkedin.com/posts/lilanofficial_globaldemocracy-youthleadership-civicengagement-activity-7241440228693921792-W0sZ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Day One Recap.png",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.28",
+    title: "Connecting with the International Communities",
+    image: "assets/img/impact/public-policy/NYC Community.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exciting News: I'll Be in NYC from August 12th to 22nd - Let's Connect!",
+        image: "assets/img/impact/public-policy/NYC Community.png",
+        description:
+          "Exciting news! I’ll be in New York from August 12th to 22nd and would like to connect with the NYC community. If you're passionate about precision agriculture and climate action in the Global South, let’s meet up. Send me a message so we can schedule a convenient time.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7224350106311876608-TPl-?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/NYC Community.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting in Bangkok: Let's Discuss Precision Agriculture and Climate Action in September",
+        image: "assets/img/impact/public-policy/Connecting in Bangkok.png",
+        description:
+          "Exciting news! I’ll be in Bangkok in the third week of September and would like to connect with the Thai community. If you're passionate about precision agriculture and climate action in the Global South...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7224861421937770496-wK3A?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Connecting in Bangkok.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting in Helsinki and Vilnius: Let's Discuss Precision Agriculture and Climate Action in September",
+        image: "assets/img/impact/public-policy/Helsinki and Vilnius.png",
+        description:
+          "Exciting news! I’ll be in Finland (Helsinki) and Lithuania (Vilnius) in the Second week of September and would like to connect with the Finnish and Lithuanian...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7232802314900684800-hULd?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Helsinki and Vilnius.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Excited to Connect in Foz do Iguaçu, Brazil: Let's Discuss Precision Agriculture and Climate Action in October",
+        image: "assets/img/impact/public-policy/Foz do Iguaçu.png",
+        description:
+          "Exciting News! I’m thrilled to share that I’ll be in Foz do Iguaçu, Brazil, during the first week of October. I'm eager to connect with the local Brazilian communities passionate about precision agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7234189432709373952-v3nK?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Foz do Iguaçu.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Thrilled to Connect in NYC: Let's Discuss Precision Agriculture and Climate Action in September",
+        image: "assets/img/impact/public-policy/Connect in NYC.png",
+        description:
+          "Exciting News! I’m thrilled to announce that I’ll be in New York, USA, during the third and fourth weeks of September! I’m eager to connect with fellow New Yorkers and others visiting NYC this month...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7238235886688030721-qLmD?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Connect in NYC.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exciting news! Tomorrow, I’ll be in Singapore!",
+        image: "assets/img/impact/public-policy/be in Singapore.png",
+        description:
+          "I’m eager to connect with those passionate about precision agriculture and climate action in both the Global South and Global North.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7238919595179286529-z1Yn/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/be in Singapore.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Excited to Attend the Science Summit at UNGA 79 – Let's Connect in NYC!",
+        image: "assets/img/impact/public-policy/UNGA 79.png",
+        description:
+          "Exciting News! I will participate in the Science Summit at UNGA 79 (the UN General Assembly) in the fourth week of September...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7239589530331140096-lu5O?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/UNGA 79.png",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting in Vilnius: Let's Meet to Discuss Social Entrepreneurship, Precision Agriculture, and Climate Action!",
+        image: "assets/img/impact/public-policy/Vilnius and eager.png",
+        description:
+          "I'm currently in the beautiful city of Vilnius and eager to connect with fellow Lithuanians and visitors who share a passion for social entrepreneurship, precision agriculture, and climate action...",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-social-youth-activity-7240183246896914433-dxe8?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/public-policy/backup/Vilnius and eager.png",
+      },
+    ],
+  },
   {
     filter: "filter-public-policy",
     id: "7.27",
@@ -5687,7 +6054,7 @@ const impacts = [
 
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.22",
+    id: "10.23",
     title: "Meeting Dr. Sylvia Earle and Dr. Sally Ann Ranney",
     image: "assets/img/impact/meeting-changemakers-vips/Sylvia Earle.png",
     slides: [
@@ -5706,7 +6073,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.21",
+    id: "10.22",
     title: "Meeting Hanno Pevkur (Minister of Defence of the Republic of Estonia)",
     image: "assets/img/impact/meeting-changemakers-vips/Hanno Pevkur.png",
     slides: [
@@ -5725,7 +6092,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.20",
+    id: "10.21",
     title: "Meeting Mohamed Keita, and Radvilė Morkūnaitė - Mikulėnienė",
     image: "assets/img/impact/meeting-changemakers-vips/Mohamed Keita.png",
     slides: [
@@ -5744,7 +6111,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.19",
+    id: "10.20",
     title: "Meeting Prof. Edward P. Joseph",
     image: "assets/img/impact/meeting-changemakers-vips/Edward P. Joseph.png",
     slides: [
@@ -5763,7 +6130,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.18",
+    id: "10.19",
     title: "Meeting Ron Lawler",
     image: "assets/img/impact/meeting-changemakers-vips/Ron Lawler.png",
     slides: [
@@ -5782,7 +6149,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.17",
+    id: "10.18",
     title: "Meeting Henk Rogers",
     image: "assets/img/impact/meeting-changemakers-vips/Henk Rogers.png",
     slides: [
@@ -5801,7 +6168,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.16",
+    id: "10.17",
     title: "Meeting Francesca Gatt",
     image: "assets/img/impact/meeting-changemakers-vips/Francesca Gatt.png",
     slides: [
@@ -5820,7 +6187,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.15",
+    id: "10.16",
     title: "Meeting Eddie Marsden-Jones",
     image: "assets/img/impact/meeting-changemakers-vips/Eddie Marsden-Jones.png",
     slides: [
@@ -5839,7 +6206,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.14",
+    id: "10.15",
     title: "Meeting Dr. Helmut Schuster",
     image: "assets/img/impact/meeting-changemakers-vips/Helmut Schuster.png",
     slides: [
@@ -5859,7 +6226,7 @@ const impacts = [
   {
     filter: "filter-meeting-changemakers-vips",
     title: "Meeting Anand Verma",
-    id: "10.13",
+    id: "10.14",
     image: "assets/img/impact/meeting-changemakers-vips/Anand Verma.png",
     slides: [
       {
@@ -5877,7 +6244,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.12",
+    id: "10.13",
     title: "Meeting Daniel Obst",
     image: "assets/img/impact/meeting-changemakers-vips/Daniel Obst.png",
     slides: [
@@ -5896,7 +6263,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.11",
+    id: "10.12",
     title: "Meeting Priyadarshani Joshi and SAndrés Peñaloza Lanza",
     image: "assets/img/impact/meeting-changemakers-vips/Priyadarshani Joshi and SAndrés Peñaloza.png",
     slides: [
@@ -5916,7 +6283,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.10",
+    id: "10.11",
     title: "Meeting Brandon Hightower",
     image: "assets/img/impact/meeting-changemakers-vips/Brandon Hightower.png",
     slides: [
@@ -5935,7 +6302,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.9",
+    id: "10.10",
     title: "Meeting Martin Kupka",
     image: "assets/img/impact/meeting-changemakers-vips/Martin Kupka.png",
     slides: [
@@ -5954,7 +6321,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.8",
+    id: "10.9",
     title: "Meeting Zlata Holušová",
     image: "assets/img/impact/meeting-changemakers-vips/Zlata Holušová.png",
     slides: [
@@ -5973,7 +6340,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.7",
+    id: "10.8",
     title: "Meeting Radhikaraje Gaekward",
     image: "assets/img/impact/meeting-changemakers-vips/Radhikaraje Gaekward.png",
     slides: [
@@ -5992,7 +6359,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.6",
+    id: "10.7",
     title: "Meeting the President of Czech Republic (Czechia)",
     image: "assets/img/impact/meeting-changemakers-vips/Czech Republic.png",
     slides: [
@@ -6011,7 +6378,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.5",
+    id: "10.6",
     title: "Meeting the royal family of the House of Lobkowicz at Prague Castle",
     image: "assets/img/impact/meeting-changemakers-vips/royal family.png",
     slides: [
@@ -6030,7 +6397,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.4",
+    id: "10.5",
     title: "Meeting Prof. Ivan Paul Grixti",
     image: "assets/img/impact/meeting-changemakers-vips/Ivan Paul Grixti.png",
     slides: [
@@ -6049,7 +6416,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.3",
+    id: "10.4",
     title: "Meeting Dr./Prof./Senator Ondřej Šimetka",
     image: "assets/img/impact/meeting-changemakers-vips/Ondřej Šimetka.png",
     slides: [
@@ -6068,7 +6435,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.2",
+    id: "10.3",
     title: "Meeting Yemi Akinyemi Dele (Yemi A.D.) ",
     image: "assets/img/impact/meeting-changemakers-vips/Yemi Akinyemi Dele.png",
     slides: [
@@ -6087,7 +6454,7 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.1",
+    id: "10.2",
     title: "Meeting Karim Iliya",
     image: "assets/img/impact/meeting-changemakers-vips/Karim Iliya.png",
     slides: [
@@ -6104,10 +6471,29 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.1",
+    title: "Meeting Tatsuya Yoshioka (吉岡 達也, Yoshioka Tatsuya)",
+    image: "assets/img/impact/meeting-changemakers-vips/Tatsuya Yoshioka.png",
+    slides: [
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Tatsuya Yoshioka: A Leader in Peace and Conflict Resolution at the UN Science Summit",
+        image: "assets/img/impact/meeting-changemakers-vips/Tatsuya Yoshioka.png",
+        description:
+          "It was a pleasure to meet Tatsuya Yoshioka (吉岡 達也, Yoshioka Tatsuya) at a Science Summit of the United Nations General Assembly. Yoshioka is a founding member...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-peace-conflict-activity-7247903798730338305-qe9S?utm_source=share&utm_medium=member_desktop",
+        backup_image: "assets/img/impact/meeting-changemakers-vips/backup/Tatsuya Yoshioka.png",
+      },
+    ],
+  },
 
   {
     filter: "filter-aerospace-outer-space",
-    id: "11.3",
+    id: "11.2",
     title: 'MELTINGPOT session on the topic "Why Should Artists Fly to Space?"',
     image: "assets/img/impact/aerospace-outer-space/Exploring New Frontiers.png",
     slides: [
