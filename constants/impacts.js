@@ -2623,14 +2623,14 @@ const impacts = [
     filter: "filter-food-agriculture",
     id: "4.13",
     title: "Lilan's social venture (Elzian Agro) as the finals of Food Tech Congress Challengers 2024",
-    image: "assets/img/impact/food-agriculture-forestry/food-challengers.JPEG",
+    image: "assets/img/impact/food-agriculture-forestry/food-challengers.png",
     slides: [
       {
         date: "",
         source_name: "Elzian Agro",
         source_link: "https://www.linkedin.com/company/elzianagro/posts/",
         title: "We are the Finalissts of Foood Tech Challengers 2024",
-        image: "assets/img/impact/food-agriculture-forestry/food-challengers.JPEG",
+        image: "assets/img/impact/food-agriculture-forestry/food-challengers.png",
         description:
           "Big news! We're rocketing to the finals of Food Tech Challengers 2024! 🚀 Mark your calendars for May 28-29, 2024 (Warsaw, Poland) and come support us at the event as we will pitch on stage!",
         link: "https://www.linkedin.com/posts/elzianagro_ftc2024-food-agriculture-activity-7194706426177466368-idki?utm_source=share&utm_medium=member_desktop",
@@ -4201,7 +4201,7 @@ const impacts = [
     filter: "filter-public-policy",
     id: "7.25",
     title: "Completing the Global Competence Certificate (GCC)",
-    image: "assets/img/impact/public-policy/Global Up Program.JPEG",
+    image: "assets/img/impact/public-policy/Global Up Program.png",
     slides: [
       {
         date: "",
@@ -4219,7 +4219,7 @@ const impacts = [
         source_name: "Global Competence Certificate",
         source_link: "https://www.linkedin.com/company/global-competence-certificate/posts/",
         title: "Successful Completion of the Global Up Program",
-        image: "assets/img/impact/public-policy/Global Up Program.JPEG",
+        image: "assets/img/impact/public-policy/Global Up Program.png",
         description:
           "Congratulations on a successful completion of the Global Up program, Lilan Dayananda 🎉",
         link: "https://www.linkedin.com/posts/global-competence-certificate_globalup-globalcompetence-interculturallearning-activity-7238304952408764417-9krx?utm_source=share&utm_medium=member_desktop",
@@ -5341,14 +5341,14 @@ const impacts = [
     filter: "filter-leadership-economic",
     id: "8.6",
     title: "Global-South Development Expo 2022",
-    image: "assets/img/impact/leadership-economic/Global South-South Development Expo.JPEG",
+    image: "assets/img/impact/leadership-economic/Global South-South Development Expo.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "ELZIAN AGRO's Special Week at the Global South-South Development Expo in Bangkok, Thailand",
-        image: "assets/img/impact/leadership-economic/Global South-South Development Expo.JPEG",
+        image: "assets/img/impact/leadership-economic/Global South-South Development Expo.png",
         description:
           "Last month was a special week for ELZIAN AGRO. We spent this week at the Global South-South Development Expo in Thailand, Bangkok.",
         link: "https://www.linkedin.com/posts/lilanofficial_development-agriculture-elzianabragro-activity-6981938161027346432-Qp77?utm_source=share&utm_medium=member_desktop",
@@ -5419,14 +5419,14 @@ const impacts = [
     id: "8.2",
     title:
       "Harris School of Public Policy at the University of Chicago and the Indian School of Public Policy (ISPP)",
-    image: "assets/img/impact/leadership-economic/Anubhav Fellow.JPEG",
+    image: "assets/img/impact/leadership-economic/Anubhav Fellow.png",
     slides: [
       {
         date: "",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Anubhav Fellow ⫸ A remarkable Changemaker Shaping a Brighter World!",
-        image: "assets/img/impact/leadership-economic/Anubhav Fellow.JPEG",
+        image: "assets/img/impact/leadership-economic/Anubhav Fellow.png",
         description:
           "I'm delighted to announce the successful conclusion of the Anubhav Lecture Series, an extraordinary program aimed at fostering innovation and leadership. From May to June 2023, we embarked on an enriching journey of knowledge, personal growth, and community building that surpassed all expectations.",
         link: "https://www.linkedin.com/posts/lilanofficial_anubhavlectureseries-fellowship-knowledgesharing-activity-7084614091398402048-xB3d?utm_source=share&utm_medium=member_desktop",
@@ -6652,7 +6652,7 @@ const impacts = [
         source_name: "News Asia",
         source_link: "https://newsasia.lk/",
         title: "Elzian Agro Explores Future in Space Agriculture at COPUOS Session",
-        image: "assets/img/impact/aerospace-outer-space/Space Agriculture at COPUOS.JPEG",
+        image: "assets/img/impact/aerospace-outer-space/Space Agriculture at COPUOS.png",
         description:
           "Lilan Dayananda, Managing Director and Chief Executive Officer of Elzian Agro, outlined the company’s ambitious vision to enter the Space Agriculture Sector during the 67th Session of the Committee on the Peaceful Uses of Outer Space (COPUOS) in Vienna, Austria.",
         link: "https://newsasia.lk/elzian-agro-explores-future-in-space-agriculture-at-copuos-session/",
