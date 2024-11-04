@@ -27,6 +27,28 @@
 
     <!-- Main CSS File -->
     <link href="assets/css/main.css" rel="stylesheet" />
+
+    <style>
+      /* Add this CSS to hide the isotope container initially */
+      .isotope-container {
+        display: none;
+      }
+
+      /* Class to show content when a filter is active */
+      .isotope-container.active {
+        display: flex; /* Adjust as needed to show the items */
+      }
+
+      /* Hide all items by default */
+      .isotope-item {
+        display: none;
+      }
+
+      /* Show only items with active filters */
+      .isotope-item.active {
+        display: block;
+      }
+    </style>
   </head>
 
   <body class="portfolio-page">
@@ -69,11 +91,12 @@
             </div>
           </div>
         </div>
-        <nav class="breadcrumbs">
+        <nav class="breadcrumbs" aria-label="breadcrumb">
           <div class="container">
             <ol>
               <li><a href="index.html">Home</a></li>
-              <li class="current">Impact</li>
+              <li id="current-page">Impact</li>
+              <li id="current-category" class="current"></li>
             </ol>
           </div>
         </nav>
@@ -246,6 +269,74 @@
         // Append the constructed HTML to the impact list
         impactList.insertAdjacentHTML("beforeend", recHTML);
       });
+    </script>
+
+    <script>
+      // Select filter buttons and the isotope container
+      const impactFilters = document.querySelector(".impact-filters");
+      const filterButtons = document.querySelectorAll(".impact-filters li");
+      const isotopeContainer = document.querySelector(".isotope-container");
+      const impactItems = document.querySelectorAll(".isotope-item");
+      const currentCategory = document.getElementById("current-category");
+      const currentPage = document.getElementById("current-page");
+      const impactListItems = document.getElementById("impact-list");
+
+      // Function to show filter buttons and hide content
+      function showFilters() {
+        impactFilters.style.display = "flex"; // Show the filter buttons
+        isotopeContainer.classList.remove("active"); // Hide the content container
+        impactItems.forEach((item) => item.classList.remove("active")); // Hide all items
+        currentCategory.textContent = "";
+      }
+
+      // Function to apply the selected filter
+      function applyFilter(filter) {
+        // Show the isotope container
+        isotopeContainer.classList.add("active");
+
+        // Show relevant items based on the filter
+        impactItems.forEach((item) => {
+          if (filter === "*" || item.classList.contains(filter.substring(1))) {
+            item.classList.add("active");
+          } else {
+            item.classList.remove("active");
+          }
+        });
+      }
+
+      // Hide all items initially
+      impactItems.forEach((item) => item.classList.remove("active"));
+
+      // Add event listeners to filter buttons
+      filterButtons.forEach((button) => {
+        button.addEventListener("click", function () {
+          // Remove active class from previous active button
+          document.querySelector(".impact-filters .filter-active")?.classList.remove("filter-active");
+
+          // Add active class to the clicked button
+          this.classList.add("filter-active");
+
+          // Get the filter class from the clicked button
+          const filter = this.getAttribute("data-filter");
+
+          // Apply the selected filter
+          applyFilter(filter);
+
+          // Update the current category display
+          currentCategory.textContent = this.textContent;
+
+          // Hide the filter buttons
+          impactFilters.style.display = "none";
+        });
+      });
+
+      // Event listener for navigating back to impact filters
+      currentPage.addEventListener("click", function () {
+        showFilters(); // Show the filter buttons again
+      });
+
+      // Show the filters initially when the page loads
+      showFilters();
     </script>
 
     <!-- Main JS File -->
