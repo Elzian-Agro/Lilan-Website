@@ -14,8 +14,7 @@ const impacts = [
         description:
           "I am thrilled to share that ELZIAN AGRO has been honored with the prestigious Brand Leadership Award 2024! 🎉 This award recognizes organizations that excel in brand building and innovative marketing strategies, and it is endorsed by the World Marketing Congress, CMO Global, and the World Federation of Marketing Professionals.",
         link: "https://www.linkedin.com/posts/lilanofficial_brandleadershipawards2024-marketingexcellence-activity-7238901417011200000-hE3t/?utm_source=share&utm_medium=member_desktop",
-        backup_image:
-          "assets/img/impact/recognition/best-brand-leadership-awards/backup/best-brand-leadership-awards.png",
+        backup_image: "https://drive.google.com/file/d/1hydDucLDd72IAqJZJ8UG3WlpJ8-6Ut7s/view?usp=sharing",
       },
     ],
   },
@@ -34,8 +33,7 @@ const impacts = [
         description:
           "I am excited to announce that ELZIAN AGRO has been recognized among Sri Lanka’s Best Employer Brand Awards 2024, endorsed by CHRO Asia (a Global Platform for the Human Resource heads) and certified by the World Federation of HR Professionals.",
         link: "https://www.linkedin.com/posts/lilanofficial_employerbrandawards-humanresources-leadership-activity-7238736947815276544-rOHe?utm_source=share&utm_medium=member_desktop",
-        backup_image:
-          "assets/img/impact/recognition/best-employer-brand-awards/backup/best-employer-brand-awards.png",
+        backup_image: "https://drive.google.com/file/d/1Ao5WAau3HgBrce4Q31aSAdDlOrfLuSwS/view",
       },
     ],
   },
@@ -54,7 +52,7 @@ const impacts = [
         description:
           "The AFS Award for Young Global Citizens recognizes young people for their commitment to improving the global community and whose actions contribute to a more just, peaceful, and tolerant world. The winner will receive a $10,000 prize. The Award will be given to a Youth Assembly delegate who:",
         link: "https://www.youthassembly.org/2024/08/17/afs-award-finalists-2024/",
-        backup_image: "assets/img/impact/recognition/american-field-services/backup/afs-award-finalists.png",
+        backup_image: "https://drive.google.com/file/d/1luh0WjcR8zrUPnpSZ0OeTk47J7xmQ6XR/view?usp=drive_link",
       },
     ],
   },
@@ -73,7 +71,7 @@ const impacts = [
         description:
           "We're highlighting top startups from Asia and Australia in our global portfolio, showcasing their significant growth over the past year.",
         link: "https://www.linkedin.com/posts/the-founder-institute_meet-our-top-10-startups-from-asia-and-australia-activity-7135713420305195008--lUS/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/recognition/founder-institute/backup/founder-institute.png",
+        backup_image: "https://drive.google.com/file/d/1q-44cqlhkKaU1YvL8tSruXoZQQ3wOlX_/view?usp=drive_link",
       },
       {
         date: "",
@@ -84,7 +82,7 @@ const impacts = [
         description:
           "Elzian Agro provides smart agronomy solution to farmers that reduces their crop wastage. In 2023 it was honored with multiple national and global awards, including Expo City Dubai.",
         link: "https://fi.co/50/elzian-agro",
-        backup_image: "assets/img/impact/recognition/founder-institute/backup/founder-institute-profile.png",
+        backup_image: "https://drive.google.com/file/d/1h2pkwmrQ-IgIcA028fXvw6D0P0OyFgn8/view?usp=sharing",
       },
     ],
   },
@@ -103,7 +101,7 @@ const impacts = [
         description:
           "We are thrilled to share the incredible success of ELZIAN AGRO at the esteemed SLASSCOM National Ingenuity Awards 2023. It was an enchanting evening filled with boundless inspiration, groundbreaking innovation, and well-deserved recognition of exceptional achievements within the tech industry. ELZIAN AGRO has emerged as one of the top Technology Disrupters in various categories. Our unwavering dedication to innovation and relentless pursuit of excellence has been unequivocally acknowledged with highly esteemed accolades:",
         link: "https://www.linkedin.com/posts/elzianagro_innovation-technology-success-activity-7078303289900990465-8d2O/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/recognition/slasscom/backup/elzian-agro.png",
+        backup_image: "https://drive.google.com/file/d/1cX8c77zRAqUYes0Ydw9LdMdjRCUnxjAl/view?usp=drive_link",
       },
       {
         date: "",
@@ -115,7 +113,7 @@ const impacts = [
         description:
           "I am thrilled and proud to announce that ELZIAN AGRO emerged as the National Winner of Best Innovative Project in Agritech at the SLASSCOM National Ingenuity Awards 2024 🌟.",
         link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-team-activity-7215416791735394304-ScWa/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/recognition/slasscom/backup/linkedin.png",
+        backup_image: "https://drive.google.com/file/d/1wIbkvwKfLhHeW3Hq9bJMB8f_7OIv70UG/view?usp=drive_link",
       },
       {
         date: "July 6, 2023",
@@ -126,7 +124,7 @@ const impacts = [
         description:
           "ELZIAN AGRO, recognized as one of the top Technology Disruptors, garnered high praise and esteemed accolades in various categories, solidifying their position as a leading force in the industry. The company’s commitment to innovation and relentless pursuit of excellence was wholeheartedly acknowledged, with the team being honored in multiple domains.",
         link: "https://cbr.lk/technology/elzian-agro-shines-bright-at-slasscom-national-ingenuity-awards-2023/",
-        backup_image: "assets/img/impact/recognition/slasscom/backup/ceylon-business-reporter.png",
+        backup_image: "https://drive.google.com/file/d/1nSx3ofEQGD64MkCxanQLxYDdPmcXsaUb/view?usp=drive_link",
       },
       {
         date: "",
@@ -137,7 +135,7 @@ const impacts = [
         description:
           "These brilliant minds have redefined innovation and set new benchmarks in the tech industry. Join us in celebrating their remarkable achievements! ",
         link: "https://www.linkedin.com/posts/slasscom_slasscomingenuityawards-snia-winners-activity-7080412198577049600-F0ct/?utm_source=share&utm_medium=member_android",
-        backup_image: "assets/img/impact/recognition/slasscom/backup/slasscom.png",
+        backup_image: "https://drive.google.com/file/d/1B5qRM1PMdVYKy80onpz6rGjiw4rTR8sQ/view?usp=drive_link",
       },
       {
         date: "July 6, 2023",
@@ -148,7 +146,7 @@ const impacts = [
         description:
           "ELZIAN AGRO soared to new heights, claiming the prestigious title of National Winner in the category of Best Disruptive Product Innovation. Their transformative product has revolutionized traditional agricultural practices, leaving an indelible mark on the industry. By pushing boundaries and introducing cutting-edge technologies, ELZIAN AGRO has redefined the possibilities within farming. Their groundbreaking solutions have elevated efficiency, productivity, and sustainability to unprecedented levels.",
         link: "https://ceylontribune.com/?p=233",
-        backup_image: "assets/img/impact/recognition/slasscom/backup/ceylontribune.png",
+        backup_image: "https://drive.google.com/file/d/1lgLuYmyxx6qkWFYgG_z5oxR_TkESYk7v/view?usp=drive_link",
       },
       {
         date: "",
@@ -160,7 +158,7 @@ const impacts = [
         description:
           "I am thrilled and proud to announce that ELZIAN AGRO has been honored with multiple awards for our innovation, technology, and overall success. This achievement would not have been possible without the invaluable support and contributions of all stakeholders and affiliates of ELZIAN AGRO.",
         link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-team-activity-7078312302239760384-uvzq/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/recognition/slasscom/backup/linkedin_2.png",
+        backup_image: "https://drive.google.com/file/d/1ansLT9wGYkOFYpNOk8lLV3eo2dx2ysm5/view?usp=drive_link",
       },
       {
         date: "June, 29, 2023",
@@ -171,7 +169,7 @@ const impacts = [
         description:
           "LZIAN AGRO, a true visionary in the agricultural technology sector, has reached unprecedented heights with their exceptional performance at the highly esteemed SLASSCOM National Ingenuity Awards 2023. The company's relentless pursuit of innovation and commitment to sustainability has garnered them resounding praise and numerous accolades across multiple categories, solidifying their position as leaders in the industry.",
         link: "http://bizenglish.adaderana.lk/elzian-agro-achieves-remarkable-success-at-slasscom-national-ingenuity-awards-2023/",
-        backup_image: "assets/img/impact/recognition/slasscom/backup/ada-derana.png",
+        backup_image: "https://drive.google.com/file/d/1EHo447_c3PWQeoQHFcnKydom6Y_9-KTx/view?usp=drive_link",
       },
     ],
   },
@@ -190,7 +188,7 @@ const impacts = [
         description:
           "These leaders are setting the bar for combining profit and purpose, helping to tackle the world’s most pressing social and environmental issues. Your annual source of inspiration is here.",
         link: "https://www.linkedin.com/posts/meaningful-business_meaningfulbusiness-2023mb100-mb100-activity-7117842154596495360-takh/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/recognition/meaningful-business/backup/meaningful-business.png",
+        backup_image: "https://drive.google.com/file/d/1zF9d4SFS_l60cqHr-7RwI5tbjJjK6lYP/view?usp=drive_link",
       },
       {
         date: "",
@@ -201,7 +199,7 @@ const impacts = [
         description:
           "The 2023 MB100 are an outstanding group of leaders combining profit and purpose to help achieve the UN Global Goals across five key areas: Durability, Impact, Innovation, Leadership and Scope.",
         link: "https://www.linkedin.com/posts/lilanofficial_mb100-meetthemb100-2023mb100-activity-7117863318945492992-8DK_/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/recognition/meaningful-business/backup/linkedin.png",
+        backup_image: "https://drive.google.com/file/d/1E-DqliB4Op4dsrFgEj0uILlUK6jq6_Yk/view?usp=drive_link",
       },
       {
         date: "",
@@ -212,8 +210,7 @@ const impacts = [
         description:
           "Lilan Dayananda is an international award-winning young social tech entrepreneur. For years, his social initiative Elzian Agro has offered customised monitoring information and automation solutions through trending digital technologies to optimise customers’ harvest and productively utilise their resources, improving food security and climate action. ",
         link: "https://meaningful.business/team/lilan-dayananda/",
-        backup_image:
-          "assets/img/impact/recognition/meaningful-business/backup/meaningful-business-profile.png",
+        backup_image: "https://drive.google.com/file/d/1OWl3LVi2vKZJIXaaKMocQ-reEh3zubPY/view?usp=drive_link",
       },
       {
         date: "",
@@ -224,8 +221,7 @@ const impacts = [
         description:
           "The 2023 MB100 are an outstanding group of leaders combining profit and purpose. Curated by an expert panel of 29 judges, the winners were chosen from over 800 applications, representing 93 countries, and were scored across five key areas: Durability, Impact, Innovation, Leadership and Scope.",
         link: "https://meaningful.business/mb100-2023/",
-        backup_image:
-          "assets/img/impact/recognition/meaningful-business/backup/meaningful-business-mb100.png",
+        backup_image: "https://drive.google.com/file/d/1PqS1tfzNwb1QJ5H9QywQmZWlq0vis7Au/view?usp=drive_link",
       },
     ],
   },
@@ -245,7 +241,7 @@ const impacts = [
         description:
           "More than twenty young entrepreneurs from 15 developing countries came together for the first-round pitching of the Youth4South Entrepreneurship Competition on 23 and 24 June 2022. Based on the competitive live pitching over the two days, 10 initiatives emerged as the most environmentally friendly and financially sustainable ones, which made to the main competition at the Global South-South Development Expo 2022 to be held in Bangkok, Thailand, in September.",
         link: "https://southsouth-galaxy.org/news/top-youth-entrepreneurs-selected-for-final-youth4south-entrepreneurship-competition/",
-        backup_image: "assets/img/impact/recognition/youth-entrepreneurs/backup/south-south-galaxy.png",
+        backup_image: "https://drive.google.com/file/d/12lv_XmgWE5KoCjCtst22NrioQ2EEDGH7/view?usp=drive_link",
       },
     ],
   },
@@ -264,7 +260,7 @@ const impacts = [
         description:
           "Lilan Dayananda is a co-founder and the CEO at Elzian Agro. His organisation has been tackling world hunger through award-winning smart agronomy solutions. These innovations provide soil and weather monitoring systems to farmers who are affected by extreme weather changes and pests and who also have limited resources to service their farms. 25-year- old Commonwealth Correspondent Aminat Awogun from Nigeria spoke with Lilan, who is a 2022 Commonwealth Youth Awards Finalist.",
         link: "https://yourcommonwealth.org/economic-development/putting-an-end-to-world-hunger-through-smart-agronomy-solutions/",
-        backup_image: "assets/img/impact/recognition/commonwealth/backup/commonwealth.png",
+        backup_image: "https://drive.google.com/file/d/1gdNG0cQKGM3W2wOHwRMjFM6Bl_TTy26U/view?usp=sharing",
       },
       {
         date: "",
@@ -275,8 +271,7 @@ const impacts = [
         description:
           "The Commonwealth Youth Awards for Excellence in Development Work aim to recognise the contribution young people aged 15–29 make towards promoting and enhancing democracy and achieving the 17 Sustainable Development Goals (SDGs). It raises the profile of committed and innovative Commonwealth youth who are working hard to address pressing issues such as poverty and conflict.",
         link: "https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2022-03/OFFICIAL%202022%20Commonwealth%20Youth%20Awards%20Booklet.pdf",
-        backup_image:
-          "assets/img/impact/recognition/commonwealth/backup/OFFICIAL 2022 Commonwealth Youth Awards Booklet.pdf",
+        backup_image: "https://drive.google.com/file/d/1ukSmsW8QKiepenGDOfHUvNz8Wj34Ih1e/view?usp=drive_link",
       },
       {
         date: "March 01, 2022",
@@ -287,7 +282,7 @@ const impacts = [
         description:
           "Twenty extraordinary young people, including inventors, activists and entrepreneurs, from 17 countries have been announced as finalists for this year’s Commonwealth Youth Awards...",
         link: "https://thecommonwealth.org/news/20-finalists-announced-commonwealth-youth-awards-2022",
-        backup_image: "assets/img/impact/recognition/commonwealth/backup/the-commonwealth.png",
+        backup_image: "https://drive.google.com/file/d/1k5gbdvPOHXErUPQr18Rnyr-bs2JBmnV7/view?usp=drive_link",
       },
       {
         date: "",
@@ -298,7 +293,7 @@ const impacts = [
         description:
           "I recently had the opportunity to capture a moment with my esteemed Commonwealth Youth Award, a prestigious recognition bestowed upon young individuals aged 15 to 29 who have demonstrated exceptional dedication to enhancing democracy and furthering the cause of the 17 Sustainable Development Goals (SDGs). These awards represent a vital facet of The Commonwealth Secretariat's overarching mission to empower, engage, and inspire young people, all while amplifying their voices and achievements throughout the 56 member states.",
         link: "https://www.linkedin.com/posts/lilanofficial_commonwealth-youth-commonwealthyouthawards-activity-7117812520861519873-n2Yb/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/recognition/commonwealth/backup/linkedin.png",
+        backup_image: "https://drive.google.com/file/d/1wawZXLe3ksNy37Rxu_6Ip55XEHo1_wMm/view?usp=drive_link",
       },
       {
         date: "",
@@ -309,7 +304,7 @@ const impacts = [
         description:
           "As the Co-Founder and CEO of ‘Elzian Agro’ Lilan offers rural farmers smart agronomy solutions to increase crop yield organically and helps them respond to significant changes in soil and weather and potential pest threats through data-based prediction reports. The project has reached more than 50,000 farmers and supports government bodies in Sri Lanka to better understand the importance of modern smart agronomy solutions.",
         link: "https://web.facebook.com/100064883162038/posts/4751834144927957/",
-        backup_image: "assets/img/impact/recognition/commonwealth/backup/commonwealth-award-sl.png",
+        backup_image: "https://drive.google.com/file/d/1URcASfOrGBBb-BKdiyaeSdkYdMQnDnl5/view?usp=sharing",
       },
       {
         date: "February 10, 2022",
@@ -320,7 +315,7 @@ const impacts = [
         description:
           "Twenty extraordinary young people, including inventors, activists and entrepreneurs, from 17 countries have been announced as finalists for this year’s Commonwealth Youth Awards.",
         link: "https://colombogazette.com/2022/02/10/sri-lankan-shortlisted-for-commonwealth-youth-awards-2022/",
-        backup_image: "assets/img/impact/recognition/commonwealth/backup/colombo-gazette.png",
+        backup_image: "https://drive.google.com/file/d/1iQM_qc9QlDdcsLLxjVu868g7aECO_Pir/view?usp=drive_link",
       },
     ],
   },
@@ -339,7 +334,7 @@ const impacts = [
         description:
           "Lilan Dayananda, the dynamic Managing Director and CEO of Elzian Agro, was honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards held at the Shangri-La Hotel in Colombo. This event celebrated over 40 young leaders for their exceptional achievements across various sectors, including leadership, entrepreneurship, technology, media, and more.",
         link: "https://english.lankanewsnetwork.com/?p=1230",
-        backup_image: "assets/img/impact/recognition/new-generation-asia/backup/lanka-news-network.png",
+        backup_image: "https://drive.google.com/file/d/16Qw3A6USD6ahg890BxZJUyeNdrKBZ1D2/view?usp=drive_link",
       },
       {
         date: "August 12, 2024",
@@ -350,7 +345,7 @@ const impacts = [
         description:
           "Lilan Dayananda, the Managing Director and Chief Executive Officer of Elzian Agro, was celebrated as the Social Entrepreneur of the Year at the prestigious Fifth New Generation Asia Awards held at the Shangi-La Hotel in Colombo.",
         link: "https://www.lankabusinessnews.com/lilan-dayananda-honored-as-social-entrepreneur-of-the-year-at-new-generation-asia-awards/",
-        backup_image: "assets/img/impact/recognition/new-generation-asia/backup/business-news.png",
+        backup_image: "https://drive.google.com/file/d/1xoyDHbJwwlDrUubPi76SWg71McDHeF5u/view?usp=drive_link",
       },
       {
         date: "",
@@ -361,7 +356,7 @@ const impacts = [
         description:
           "I am delighted to announce that I have been honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards, at the Shangri-La Hotel in Colombo.",
         link: "https://www.linkedin.com/posts/lilanofficial_youth-startup-economy-activity-7216735742062944256-aduN/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/recognition/new-generation-asia/backup/linkedin.png",
+        backup_image: "https://drive.google.com/file/d/1MwP6aYIrpe_AYWLqzSXdrPaZBCxkYOYX/view?usp=drive_link",
       },
     ],
   },
@@ -380,7 +375,7 @@ const impacts = [
         description:
           "Sri Lankan entrepreneur Lilan Dayananda is among 300 young entrepreneurs, leaders, influencers, and trailblazers across the Asia-Pacific region selected by Forbes for its ninth edition of the “30 Under 30 Asia” list. All individuals on the list are under 30 and are leading the transformation of industries while finding innovative ways to navigate new business realities. Now in its ninth year, the Asia list is part of the global expansion of the Forbes 30 Under 30 franchise, which started over a decade ago.",
         link: "https://bizenglish.adaderana.lk/sri-lankan-entrepreneur-lilan-dayananda-in-forbes-30-under-30-asia-list/",
-        backup_image: "assets/img/impact/recognition/forbes/backup/ada-derana.png",
+        backup_image: "https://drive.google.com/file/d/1X0nkvvdulZQHl4UxZF3nsl8AGyh-UMe7/view?usp=drive_link",
       },
       {
         date: "",
@@ -391,7 +386,7 @@ const impacts = [
         description:
           'Sri Lanka entrepreneur Lilan Dayananda who is the co-founder and CEO of Elzian Agro has been featured in the 9th edition of Forbes\' "30 Under 30 Asia" list under the social impact category. 🇱🇰 👏',
         link: "https://www.linkedin.com/posts/our-economics_oureconomics-forbes-activity-7211230358384640000-5ZJG/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/recognition/forbes/backup/our-economics.png",
+        backup_image: "https://drive.google.com/file/d/15BxtWuXoDmCEpJM9T5YtDhpynYGwDtSJ/view?usp=drive_link",
       },
       {
         date: "May 29, 2024",
@@ -402,7 +397,7 @@ const impacts = [
         description:
           'Sri Lankan entrepreneur Lilan Dayananda has been honored by Forbes as one of the 300 young entrepreneurs, leaders, influencers, and trailblazers across the Asia-Pacific region in its ninth annual "30 Under 30 Asia" list. This prestigious list, featuring individuals under the age of 30, highlights those driving industry transformations and pioneering innovative solutions to adapt to evolving business landscapes. Now in its ninth year, the Asia list is an extension of the Forbes 30 Under 30 franchise, which began more than a decade ago.',
         link: "https://sundaytimes.lk/online/business/Sri-Lankas-Lilan-Dayananda-in-Forbes-30-Under-30-Asia-List/10-1145847",
-        backup_image: "assets/img/impact/recognition/forbes/backup/sunday-times.png",
+        backup_image: "https://drive.google.com/file/d/13zH8le658N4QriMrAMcdbs3SAgKSVXu-/view?usp=drive_link",
       },
       {
         date: "May 23, 2024",
@@ -413,7 +408,7 @@ const impacts = [
         description:
           "Sri Lankan entrepreneur Lilan Dayananda has been honored with a coveted spot on Forbes Magazine’s “30 Under 30 Asia” list in the social impact sector. This prestigious list, now in its ninth year, recognizes young leaders under 30 who are driving innovation and adapting to the evolving business landscape. The Asia list is an extension of the renowned Forbes 30 Under 30 franchise, which has been celebrating young talent for over ten years.",
         link: "https://ceylontribune.com/?p=895",
-        backup_image: "assets/img/impact/recognition/forbes/backup/ceylon-tribune.png",
+        backup_image: "https://drive.google.com/file/d/1pLGNdspgJyEvUf8Xzkqs3SzIp_tst9Mv/view?usp=drive_link",
       },
       {
         date: "May 28, 2024",
@@ -424,18 +419,18 @@ const impacts = [
         description:
           "Sri Lankan entrepreneur Lilan Dayananda has been honored with a coveted spot on Forbes Magazine’s “30 Under 30 Asia” list in the social impact sector. This prestigious list, now in its ninth year, recognizes young leaders under 30 who are driving innovation and adapting to the evolving business landscape. The Asia list is an extension of the renowned Forbes 30 Under 30 franchise, which has been celebrating young talent for over ten years.",
         link: "https://english.lankapuvath.lk/2024/05/28/lilan-dayananda/",
-        backup_image: "assets/img/impact/recognition/forbes/backup/lanka-puwath.png",
+        backup_image: "https://drive.google.com/file/d/1Kw4H05GO-yBwS-ye9ePLh23gt_3XHwI3/view?usp=drive_link",
       },
       {
         date: "May 23, 2024",
-        source_name: "Business Cafe ",
+        source_name: "Business Cafe",
         source_link: "https://businesscafe.lk/",
         title: "Forbes '30 Under 30 Asia' list celebrates Sri Lankan Entrepreneur Lilan Dayananda",
         image: "assets/img/impact/recognition/forbes/business-cafe.png",
         description:
           "Now in its ninth year, this esteemed list highlights young visionaries under 30 who are revolutionizing their industries and pioneering innovative strategies to meet the demands of a dynamic business environment.",
         link: "https://businesscafe.lk/business-news/food-beverage/item/15460-forbes-30-under-30-asia-list-celebrates-sri-lankan-entrepreneur-lilan-dayananda",
-        backup_image: "assets/img/impact/recognition/forbes/backup/business-cafe.png",
+        backup_image: "https://drive.google.com/file/d/11NH6eIjr2D3e-3lQry6-bpAFQKWilg9I/view?usp=drive_link",
       },
       {
         date: "Jun 02, 2024",
@@ -446,7 +441,7 @@ const impacts = [
         description:
           "Youth having the power to change the world is a commonly-held belief. And every year Forbes magazine recognises youth who are out there making a difference through its 30 Under 30 list. The 30 Under 30 Asia list for 2024 saw two Sri Lankans recognised and this week The Sunday Morning Brunch chatted with one of them – tech entrepreneur Lilan Dayananda.",
         link: "https://www.themorning.lk/articles/MJd1syvb8TIK7DviAyo6",
-        backup_image: "assets/img/impact/recognition/forbes/backup/the-morning.png",
+        backup_image: "https://drive.google.com/file/d/1zbwv6b7idbEP1zH5m43TaOX6Iz_QiKNP/view?usp=drive_link",
       },
       {
         date: "May 24, 2024",
@@ -457,7 +452,7 @@ const impacts = [
         description:
           "Lilan Dayananda, a  Sri Lankan entrepreneur, has earned a distinguished place on Forbes Magazine’s “30 Under 30 Asia” list in the social impact category. This list, now in its ninth edition, celebrates young innovators under 30 who are transforming their industries and creating forward-thinking solutions to navigate changing business landscapes. The Asia list is part of the broader Forbes 30 Under 30 franchise, which has been highlighting young achievers for over a decade.",
         link: "https://newsasia.lk/sri-lankan-entrepreneur-lilan-dayananda-makes-forbes-30-under-30-asia-list/",
-        backup_image: "assets/img/impact/recognition/forbes/backup/news-asia.png",
+        backup_image: "https://drive.google.com/file/d/1Z_oHbfDvsO19ktvQKGd6SJOcCKOLwuZm/view?usp=drive_link",
       },
       {
         date: "",
@@ -468,7 +463,7 @@ const impacts = [
         description:
           'Sri Lanka entrepreneur Lilan Dayananda who is the co-founder and CEO of Elzian Agro has been featured in the 9th edition of Forbes\' "30 Under 30 Asia" list under the social impact category. His company is a Sri Lankan startup that uses technologies like IoT devices and AI to help small farmers optimize their harvests and deal with climate change. Their services include weather and soil monitoring systems, pest detection and tracing products on the supply chain.',
         link: "https://www.instagram.com/p/C7Ly5MNB7CX/?utm_source=ig_web_copy_link",
-        backup_image: "assets/img/impact/recognition/forbes/backup/instagram.png",
+        backup_image: "https://drive.google.com/file/d/169z3ItcS2nHE9t9lamsWUOvIm4LSD47l/view?usp=drive_link",
       },
       {
         date: "",
@@ -480,7 +475,7 @@ const impacts = [
         description:
           "I am delighted to share with you all that I have been honored with the distinction of being selected for the Forbes 30 Under 30: Social Impact List.In its 9th year now, the Asia list is a continuation of the global expansion of the Forbes 30 Under 30 franchise, which started over a decade ago. It’s a franchise that has had amazing alumni such as Melanie Perkins from Canva, Palmer Luckey from Oculus VR, Evan Spiegel and Bobby Murphy from Snap Inc., Kevin Aluwi from Gojek and K-pop band BTS to name just a few.",
         link: "https://www.linkedin.com/posts/lilanofficial_forbesunder30-forbesu30asia-sdgs-activity-7196917504961646592-N6jv/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/recognition/forbes/backup/linkedin.png",
+        backup_image: "https://drive.google.com/file/d/1H_tF5FNV8KDe_6O897M93fr53r5JrhYR/view?usp=drive_link",
       },
       {
         date: "",
@@ -491,7 +486,7 @@ const impacts = [
         description:
           "Lilan Dayananda is a social tech entrepreneur and cofounder and CEO of Elzian Agro, a Sri Lankan startup that uses technologies like IoT devices and AI to help small farmers optimize their harvests and deal with climate change. Their services include weather and soil monitoring systems, pest detection and tracing products on the supply chain. Dayananda's work earned him a nomination for the Queen's Commonwealth Trust Youth Award in 2022, and Elzian Agro's Pest Prediction System was given the Merit Award at the SLASSCOM National Ingenuity Awards 2022",
         link: "https://www.forbes.com/30-under-30/2024/asia/social-impact?profile=lilan-dayananda",
-        backup_image: "assets/img/impact/recognition/forbes/backup/forbes.png",
+        backup_image: "https://drive.google.com/file/d/1_yiWmMrIftWnVbM83ecf01Xu5jpJLJaY/view?usp=drive_link",
       },
       {
         date: "",
@@ -502,7 +497,7 @@ const impacts = [
         description:
           "Lilan Dayananda is a social tech entrepreneur and cofounder and CEO of Elzian Agro, a Sri Lankan startup that uses technologies like IoT devices and AI to help small farmers optimize their harvests and deal with climate change. Their services include weather and soil monitoring systems, pest detection and tracing products on the supply chain. Dayananda's work earned him a nomination for the Queen's Commonwealth Trust Youth Award in 2022, and Elzian Agro's Pest Prediction System was given the Merit Award at the SLASSCOM National Ingenuity Awards 2022.",
         link: "https://www.forbes.com/profile/lilan-dayananda/?list=30under30-asia-social-impact/&sh=47305d8b5e76",
-        backup_image: "assets/img/impact/recognition/forbes/backup/forbes-profile.png",
+        backup_image: "https://drive.google.com/file/d/11v20zwrVACKavb550IAWLBPJ8d0OIGLN/view?usp=drive_link",
       },
     ],
   },
@@ -6660,6 +6655,4 @@ const impacts = [
       },
     ],
   },
-
-  
 ];
