@@ -572,6 +572,16 @@ PHP Email Form Messages
   color: color-mix(in srgb, var(--default-color), transparent 70%);
 }
 
+.breadcrumbs #current-page {
+  cursor: pointer;
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.breadcrumbs #current-page:hover {
+  color: rgb(11, 164, 95);
+}
 /*--------------------------------------------------------------
 # Global Sections
 --------------------------------------------------------------*/
@@ -870,19 +880,20 @@ section,
 .impact .impact-filters li {
   cursor: pointer;
   display: inline-block;
-  font-size: 16px;
+  font-size: 18px;
   margin: 5px;
   line-height: 1;
   transition: all 0.3s ease-in-out;
   background-color: var(--accent-color);
-  padding: 5px 0px;
+  padding: 20px 0px;
   border-radius: 2px;
   width: calc(50% - 10px); /* Two items per row */
 }
 
-.impact .impact-filters li:first-child {
-  width: 100%; /* First item takes full width */
-}
+/* First item takes full width */
+/* .impact .impact-filters li:first-child {
+  width: 100%; 
+} */
 
 .impact .impact-filters li:hover,
 .impact .impact-filters li.filter-active {
@@ -940,7 +951,100 @@ section,
 }
 
 /*--------------------------------------------------------------
-# Impact Details Section
+# Meadia Details Section
+--------------------------------------------------------------*/
+.meadia .meadia-filters {
+  padding: 0;
+  margin: 0 auto 20px auto;
+  list-style: none;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.meadia .meadia-filters li {
+  cursor: pointer;
+  display: inline-block;
+  font-size: 18px;
+  margin: 5px;
+  line-height: 1;
+  transition: all 0.3s ease-in-out;
+  background-color: var(--accent-color);
+  padding: 20px 0px;
+  border-radius: 2px;
+  width: calc(50% - 10px); /* Two items per row */
+}
+
+/* First item takes full width */
+/* .meadia .meadia-filters li:first-child {
+  width: 100%; 
+} */
+
+.meadia .meadia-filters li:hover,
+.meadia .meadia-filters li.filter-active {
+  background-color: color-mix(in srgb, var(--accent-color), transparent 20%);
+}
+
+@media (max-width: 575px) {
+  .meadia .meadia-filters li {
+    font-size: 14px;
+    margin: 5px;
+    width: 100%;
+  }
+}
+
+.meadia .meadia-content {
+  height: 280px;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .meadia .meadia-content {
+    height: 100%;
+  }
+}
+
+@media (min-width: 1400px) {
+  .meadia .meadia-content {
+    height: 310px;
+  }
+}
+
+.meadia .meadia-image {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
+.meadia .meadia-content img {
+  transition: 0.3s;
+}
+
+.meadia .meadia-info h4 {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 18px;
+  font-weight: 400;
+  display: inline-block;
+  padding-top: 10px;
+}
+
+.meadia .meadia-content img:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.blog .blog-info p {
+  font-size: 15px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: justify;
+}
+
+/*--------------------------------------------------------------
+# Impact and Meadia Common Details Section
 --------------------------------------------------------------*/
 .popup {
   display: none; /* Hide by default */
@@ -1098,78 +1202,6 @@ section,
   .popup .slide .buttons {
     justify-content: center;
   }
-}
-
-/*--------------------------------------------------------------
-# Blog Section
---------------------------------------------------------------*/
-.blog .blog-content {
-  overflow: hidden;
-}
-
-.blog .blog-content img {
-  transition: 0.3s;
-}
-
-.blog .blog-info {
-  margin-top: 10px;
-}
-
-.blog .blog-info h4 {
-  color: var(--accent-color);
-  text-decoration: none;
-  transition: 0.3s;
-  font-size: 18px;
-  font-weight: 400;
-  display: inline-block;
-}
-
-.blog .blog-info p {
-  font-size: 15px;
-  font-weight: 600;
-  color: rgba(255, 255, 255, 0.8);
-  text-align: justify;
-}
-
-.blog .blog-content:hover img {
-  transform: scale(1.1);
-  cursor: pointer;
-}
-
-/*--------------------------------------------------------------
-# Podcast Section
---------------------------------------------------------------*/
-.podcast .podcast-content {
-  overflow: hidden;
-}
-
-.podcast .podcast-content img {
-  transition: 0.3s;
-}
-
-.podcast .podcast-info {
-  margin-top: 10px;
-}
-
-.podcast .podcast-info h4 {
-  color: var(--accent-color);
-  text-decoration: none;
-  transition: 0.3s;
-  font-size: 18px;
-  font-weight: 400;
-  display: inline-block;
-}
-
-.podcast .podcast-info p {
-  font-size: 15px;
-  font-weight: 600;
-  color: rgba(255, 255, 255, 0.8);
-  text-align: justify;
-}
-
-.podcast .podcast-content:hover img {
-  transform: scale(1.1);
-  cursor: pointer;
 }
 
 /*--------------------------------------------------------------
