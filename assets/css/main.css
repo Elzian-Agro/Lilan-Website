@@ -880,24 +880,113 @@ section,
 .impact .impact-filters li {
   cursor: pointer;
   display: inline-block;
-  font-size: 18px;
+  font-size: 16px;
   margin: 5px;
   line-height: 1;
   transition: all 0.3s ease-in-out;
-  background-color: var(--accent-color);
   padding: 20px 0px;
   border-radius: 2px;
   width: calc(50% - 10px); /* Two items per row */
 }
 
-/* First item takes full width */
-/* .impact .impact-filters li:first-child {
-  width: 100%; 
-} */
+.impact .impact-filters #filter-all {
+  background-color: white;
+  color: black;
+}
 
-.impact .impact-filters li:hover,
-.impact .impact-filters li.filter-active {
-  background-color: color-mix(in srgb, var(--accent-color), transparent 20%);
+.impact .impact-filters #filter-all:hover {
+  background-color: rgb(236, 230, 230);
+}
+
+.impact .impact-filters #filter-recognition {
+  background-color: rgb(36, 96, 235);
+}
+
+.impact .impact-filters #filter-recognition:hover{
+  background-color: rgb(31, 61, 230);
+}
+
+.impact .impact-filters #filter-membership {
+  background-color: rgb(58, 215, 15);
+}
+
+.impact .impact-filters #filter-membership:hover {
+  background-color: rgb(52, 193, 12);
+}
+
+.impact .impact-filters #filter-innovation-social {
+  background-color: rgb(239, 28, 28);
+}
+
+.impact .impact-filters #filter-innovation-social:hover {
+  background-color: rgb(223, 10, 10);
+}
+
+.impact .impact-filters #filter-food-agriculture {
+  background-color: rgb(158, 38, 223);
+}
+
+.impact .impact-filters #filter-food-agriculture:hover {
+  background-color: rgb(130, 20, 190);
+}
+
+
+.impact .impact-filters #filter-renewable-energy {
+  background-color: rgb(25, 190, 179);
+}
+
+.impact .impact-filters #filter-renewable-energy:hover{
+  background-color: rgb(15, 156, 146);
+}
+
+
+.impact .impact-filters #filter-climate-environmental {
+  background-color: rgb(219, 42, 154) ;
+}
+
+.impact .impact-filters #filter-climate-environmental:hover {
+  background-color: rgb(202, 9, 131);
+}
+
+
+.impact .impact-filters #filter-public-policy {
+  background-color: rgb(235, 151, 24);
+}
+
+.impact .impact-filters #filter-public-policy:hover {
+  background-color:  rgb(220, 136, 11);
+}
+
+.impact .impact-filters #filter-leadership-economic {
+  background-color: rgb(232, 239, 8);
+}
+
+.impact .impact-filters #filter-leadership-economic:hover {
+  background-color: rgb(220, 227, 5);
+}
+
+.impact .impact-filters #filter-youth-women-empowerment {
+  background-color: rgb(16, 141, 195);
+}
+
+.impact .impact-filters #filter-youth-women-empowerment:hover {
+  background-color: rgb(12, 126, 175);
+}
+
+.impact .impact-filters #filter-meeting-changemakers-vips {
+  background-color: rgb(14, 216, 125);
+}
+
+.impact .impact-filters #filter-meeting-changemakers-vips:hover{
+  background-color: rgb(11, 182, 105);
+}
+
+.impact .impact-filters #filter-aerospace-outer-space {
+  background-color: rgb(189, 28, 217);
+}
+
+.impact .impact-filters #filter-aerospace-outer-space:hover {
+  background-color: rgb(163, 16, 189);
 }
 
 @media (max-width: 575px) {
@@ -966,7 +1055,7 @@ section,
 .meadia .meadia-filters li {
   cursor: pointer;
   display: inline-block;
-  font-size: 18px;
+  font-size: 16px;
   margin: 5px;
   line-height: 1;
   transition: all 0.3s ease-in-out;
