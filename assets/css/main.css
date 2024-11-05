@@ -878,114 +878,116 @@ section,
 }
 
 .impact .impact-filters li {
-  cursor: pointer;
   display: inline-block;
-  font-size: 16px;
-  margin: 5px;
-  line-height: 1;
-  transition: all 0.3s ease-in-out;
-  padding: 20px 0px;
-  border-radius: 2px;
   width: calc(50% - 10px); /* Two items per row */
 }
 
-.impact .impact-filters #filter-all {
+.impact .impact-filters li button {
+  cursor: pointer;
+  border: none;
+  width: 98%;
+  padding: 20px 0px;
+  margin: 5px;
+  font-size: 16px;
+  border-radius: 2px;
+  color: white;
+  transition: all 0.3s ease-in-out;
+}
+
+.impact .impact-filters #filter-all button {
   background-color: white;
   color: black;
 }
 
-.impact .impact-filters #filter-all:hover {
+.impact .impact-filters #filter-all button:hover {
   background-color: rgb(236, 230, 230);
 }
 
-.impact .impact-filters #filter-recognition {
+.impact .impact-filters #filter-recognition button {
   background-color: rgb(36, 96, 235);
 }
 
-.impact .impact-filters #filter-recognition:hover{
+.impact .impact-filters #filter-recognition button:hover {
   background-color: rgb(31, 61, 230);
 }
 
-.impact .impact-filters #filter-membership {
+.impact .impact-filters #filter-membership button {
   background-color: rgb(58, 215, 15);
 }
 
-.impact .impact-filters #filter-membership:hover {
+.impact .impact-filters #filter-membership button:hover {
   background-color: rgb(52, 193, 12);
 }
 
-.impact .impact-filters #filter-innovation-social {
+.impact .impact-filters #filter-innovation-social button {
   background-color: rgb(239, 28, 28);
 }
 
-.impact .impact-filters #filter-innovation-social:hover {
+.impact .impact-filters #filter-innovation-social button:hover {
   background-color: rgb(223, 10, 10);
 }
 
-.impact .impact-filters #filter-food-agriculture {
+.impact .impact-filters #filter-food-agriculture button {
   background-color: rgb(158, 38, 223);
 }
 
-.impact .impact-filters #filter-food-agriculture:hover {
+.impact .impact-filters #filter-food-agriculture button:hover {
   background-color: rgb(130, 20, 190);
 }
 
-
-.impact .impact-filters #filter-renewable-energy {
+.impact .impact-filters #filter-renewable-energy button {
   background-color: rgb(25, 190, 179);
 }
 
-.impact .impact-filters #filter-renewable-energy:hover{
+.impact .impact-filters #filter-renewable-energy button:hover {
   background-color: rgb(15, 156, 146);
 }
 
-
-.impact .impact-filters #filter-climate-environmental {
-  background-color: rgb(219, 42, 154) ;
+.impact .impact-filters #filter-climate-environmental button {
+  background-color: rgb(219, 42, 154);
 }
 
-.impact .impact-filters #filter-climate-environmental:hover {
+.impact .impact-filters #filter-climate-environmental button:hover {
   background-color: rgb(202, 9, 131);
 }
 
-
-.impact .impact-filters #filter-public-policy {
+.impact .impact-filters #filter-public-policy button {
   background-color: rgb(235, 151, 24);
 }
 
-.impact .impact-filters #filter-public-policy:hover {
-  background-color:  rgb(220, 136, 11);
+.impact .impact-filters #filter-public-policy button:hover {
+  background-color: rgb(220, 136, 11);
 }
 
-.impact .impact-filters #filter-leadership-economic {
-  background-color: rgb(232, 239, 8);
+.impact .impact-filters #filter-leadership-economic button {
+  background-color: rgb(196, 200, 68);
 }
 
-.impact .impact-filters #filter-leadership-economic:hover {
-  background-color: rgb(220, 227, 5);
+.impact .impact-filters #filter-leadership-economic button:hover {
+  background-color: rgb(179, 184, 55);
 }
 
-.impact .impact-filters #filter-youth-women-empowerment {
+.impact .impact-filters #filter-youth-women-empowerment button {
   background-color: rgb(16, 141, 195);
 }
 
-.impact .impact-filters #filter-youth-women-empowerment:hover {
+.impact .impact-filters #filter-youth-women-empowerment button:hover {
   background-color: rgb(12, 126, 175);
 }
 
-.impact .impact-filters #filter-meeting-changemakers-vips {
+.impact .impact-filters #filter-meeting-changemakers-vips button {
   background-color: rgb(14, 216, 125);
 }
 
-.impact .impact-filters #filter-meeting-changemakers-vips:hover{
+.impact .impact-filters #filter-meeting-changemakers-vips button:hover {
   background-color: rgb(11, 182, 105);
 }
 
-.impact .impact-filters #filter-aerospace-outer-space {
+.impact .impact-filters #filter-aerospace-outer-space button {
   background-color: rgb(189, 28, 217);
 }
 
-.impact .impact-filters #filter-aerospace-outer-space:hover {
+.impact .impact-filters #filter-aerospace-outer-space button:hover {
   background-color: rgb(163, 16, 189);
 }
 
@@ -998,7 +1000,8 @@ section,
 }
 
 .impact .impact-content {
-  height: 280px;
+  height: auto;
+  padding-left: 10px;
   overflow: hidden;
 }
 
@@ -1010,33 +1013,20 @@ section,
 
 @media (min-width: 1400px) {
   .impact .impact-content {
-    height: 310px;
+    height: auto;
+    padding-left: 10px;
+    cursor: pointer;
   }
 }
 
-.impact .impact-image {
-  width: 100%;
-  height: auto;
-  overflow: hidden;
-}
-
-.impact .impact-content img {
-  transition: 0.3s;
-}
-
 .impact .impact-content h4 {
-  color: var(--accent-color);
+  color: white;
   text-decoration: none;
   transition: 0.3s;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 400;
   display: inline-block;
   padding-top: 10px;
-}
-
-.impact .impact-content img:hover {
-  transform: scale(1.1);
-  cursor: pointer;
 }
 
 /*--------------------------------------------------------------
@@ -1053,83 +1043,114 @@ section,
 }
 
 .meadia .meadia-filters li {
-  cursor: pointer;
   display: inline-block;
-  font-size: 16px;
-  margin: 5px;
-  line-height: 1;
-  transition: all 0.3s ease-in-out;
-  background-color: var(--accent-color);
-  padding: 20px 0px;
-  border-radius: 2px;
   width: calc(50% - 10px); /* Two items per row */
 }
 
-/* First item takes full width */
-/* .meadia .meadia-filters li:first-child {
-  width: 100%; 
-} */
+.meadia .meadia-filters li button {
+  cursor: pointer;
+  border: none;
+  width: 98%;
+  padding: 20px 0px;
+  margin: 5px;
+  font-size: 16px;
+  border-radius: 2px;
+  color: white;
+  transition: all 0.3s ease-in-out;
+}
 
-.meadia .meadia-filters li:hover,
-.meadia .meadia-filters li.filter-active {
-  background-color: color-mix(in srgb, var(--accent-color), transparent 20%);
+.meadia .meadia-filters #filter-all button {
+  background-color: white;
+  color: black;
+}
+
+.meadia .meadia-filters #filter-all button:hover {
+  background-color: rgb(236, 230, 230);
+}
+
+.meadia .meadia-filters #filter-podcast button {
+  background-color: rgb(16, 141, 195);
+}
+
+.meadia .meadia-filters #filter-podcast button:hover {
+  background-color: rgb(12, 126, 175);
+}
+
+.meadia .meadia-filters #filter-blog button {
+  background-color: rgb(14, 216, 125);
+}
+
+.meadia .meadia-filters #filter-blog button:hover {
+  background-color: rgb(11, 182, 105);
+}
+
+.meadia .meadia-filters #filter-other-media button {
+  background-color: rgb(235, 151, 24);
+}
+
+.meadia .meadia-filters #filter-other-media button:hover {
+  background-color: rgb(220, 136, 11);
 }
 
 @media (max-width: 575px) {
-  .meadia .meadia-filters li {
+  .impact .impact-filters li {
     font-size: 14px;
     margin: 5px;
     width: 100%;
   }
 }
 
-.meadia .meadia-content {
-  height: 280px;
+.meadia .meadia-content,
+.meadia .blog-content {
+  height: auto;
+  padding: 0 10px 0 10px;
   overflow: hidden;
 }
 
 @media (max-width: 768px) {
-  .meadia .meadia-content {
+  .meadia .meadia-content,
+  .meadia .blog-content {
     height: 100%;
   }
 }
 
 @media (min-width: 1400px) {
-  .meadia .meadia-content {
-    height: 310px;
+  .meadia .meadia-content,
+  .meadia .blog-content {
+    height: auto;
+    padding: 0 10px 0 10px;
+    cursor: pointer;
   }
 }
 
-.meadia .meadia-image {
-  width: 100%;
-  height: auto;
-  overflow: hidden;
-}
-
-.meadia .meadia-content img {
-  transition: 0.3s;
-}
-
-.meadia .meadia-info h4 {
-  color: var(--accent-color);
+.meadia .meadia-content h4 {
+  color: white;
   text-decoration: none;
   transition: 0.3s;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 400;
   display: inline-block;
   padding-top: 10px;
 }
 
-.meadia .meadia-content img:hover {
-  transform: scale(1.1);
-  cursor: pointer;
+.meadia .blog-content h4 {
+  color: white;
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 16px;
+  font-weight: 400;
+  display: inline-block;
 }
 
-.blog .blog-info p {
-  font-size: 15px;
-  font-weight: 600;
-  color: rgba(255, 255, 255, 0.8);
-  text-align: justify;
+.meadia .blog-content #blog {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.meadia .blog-content p {
+  color: white;
 }
 
 /*--------------------------------------------------------------

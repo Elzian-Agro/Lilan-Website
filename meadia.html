@@ -106,16 +106,24 @@
             data-layout="masonry"
             data-sort="original-order">
             <ul class="meadia-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-              <li data-filter="*" class="filter-active">Overall View</li>
-              <li data-filter=".filter-podcast">Podcast</li>
-              <li data-filter=".filter-blog">Blog</li>
-              <li data-filter=".filter-other-media">Other Media Appearances</li>
+              <li data-filter="*" class="filter-active" id="filter-all">
+                <button onclick="updateContent('white' , 'black')">Overall View</button>
+              </li>
+              <li data-filter=".filter-podcast" id="filter-podcast">
+                <button onclick="updateContent('rgb(16, 141, 195)')">Podcast</button>
+              </li>
+              <li data-filter=".filter-blog" id="filter-blog">
+                <button onclick="updateContent('rgb(14, 216, 125)')">Blog</button>
+              </li>
+              <li data-filter=".filter-other-media" id="filter-other-media">
+                <button onclick="updateContent('rgb(235, 151, 24)')">Other Media Appearances</button>
+              </li>
             </ul>
             <!-- End MEadia Filters -->
 
             <div
               id="meadia-list"
-              class="row gy-4 isotope-container"
+              class="row gy-2 isotope-container"
               data-aos="fade-up"
               data-aos-delay="200"></div>
 
@@ -182,19 +190,9 @@
 
         if (meadia.slides) {
           recHTML = `
-          <div class="col-lg-4 col-md-6 isotope-item ${meadia.filter}">
-            <div class="meadia-content">
-              <div class="meadia-image">
-                <img
-                  src="${meadia.image}"
-                  class="img-fluid"
-                  alt="${meadia.title}"
-                  data-popup="popup-${index + 1}"
-                />
-              </div>
-              <div class="meadia-info">
-                <h4>${meadia.title}</h4>
-              </div>            
+          <div class="isotope-item ${meadia.filter}">
+            <div class="meadia-content" id="meadia-content" data-popup="popup-${index + 1}" >
+               <h4>${meadia.title}</h4>
             </div>
           </div>
 
@@ -253,21 +251,16 @@
         `;
         } else {
           recHTML = `
-          <div class="col-lg-4 col-md-6 meadia-item isotope-item ${meadia.filter}">
-            <div class="meadia-content">
-              <div class="meadia-image">
-                <a href="${meadia.url}" target="_blank">
-                  <img
-                    src="${meadia.image}"
-                    class="img-fluid"
-                    alt="${meadia.title}"
-                  />
-                </a>
-              </div>
-              <div class="meadia-info">
+          <div class="meadia-item isotope-item ${meadia.filter}">
+            <div class="blog-content" id="meadia-content" data-popup="popup-${index + 1}" >
+              <a href="${meadia.url}" target="_blank">
+                <div id="blog">
                 <h4>${meadia.title}</h4>
-              </div>            
-            </div>            
+                <p>${meadia.date}</p>
+                </div>
+              </a>
+            </div>
+                    
           </div>
         `;
         }
@@ -343,6 +336,30 @@
 
       // Show the filters initially when the page loads
       showFilters();
+    </script>
+
+    <script>
+      function updateContent(bgcolor, txtcolor) {
+        // Select all elements with the class 'impact-content'
+        const contentAreas = document.querySelectorAll(".meadia-content");
+        const blogAreas = document.querySelectorAll(".blog-content");
+        const contentAreasText = document.querySelectorAll(
+          ".meadia-content h4, .blog-content h4,.blog-content p"
+        );
+
+        // Loop through each element and set the background color
+        contentAreas.forEach((element) => {
+          element.style.backgroundColor = bgcolor;
+        });
+
+        blogAreas.forEach((element) => {
+          element.style.backgroundColor = bgcolor;
+        });
+
+        contentAreasText.forEach((element) => {
+          element.style.color = txtcolor || "white";
+        });
+      }
     </script>
 
     <!-- Main JS File -->
