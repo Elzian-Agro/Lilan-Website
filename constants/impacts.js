@@ -6,7 +6,7 @@ const impacts = [
     image: "assets/img/impact/recognition/best-brand-leadership-awards/best-brand-leadership-awards.png",
     slides: [
       {
-        date: "",
+        date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "ELZIAN AGRO Honored with Prestigious Brand Leadership Award 2024",
@@ -25,7 +25,7 @@ const impacts = [
     image: "assets/img/impact/recognition/best-employer-brand-awards/best-employer-brand-awards.png",
     slides: [
       {
-        date: "",
+        date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "ELZIAN AGRO Recognized Among Sri Lanka's Best Employer Brand Awards 2024",
@@ -63,7 +63,7 @@ const impacts = [
     image: "assets/img/impact/recognition/founder-institute/founder-institute.png",
     slides: [
       {
-        date: "",
+        date: "December 2023",
         source_name: "Founder Institute",
         source_link: "https://www.linkedin.com/school/the-founder-institute/posts/",
         title: "Discover Asia and Australia's fastest-growing startups in our latest FI50 Report!",
@@ -93,7 +93,7 @@ const impacts = [
     image: "assets/img/impact/recognition/slasscom/linkedin.jpg",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "Elzian Agro",
         source_link: "https://www.linkedin.com/company/elzianagro/posts/",
         title: "SLASSCOM National Ingenuity Awards 2023",
@@ -104,7 +104,7 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1cX8c77zRAqUYes0Ydw9LdMdjRCUnxjAl/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -127,7 +127,7 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1nSx3ofEQGD64MkCxanQLxYDdPmcXsaUb/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "November 2023",
         source_name: "SLASSCOM",
         source_link: "https://www.linkedin.com/company/slasscom/posts/",
         title: "The National Winners of the Prestigious SLASSCOM National Ingenuity Awards!",
@@ -149,7 +149,7 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1lgLuYmyxx6qkWFYgG_z5oxR_TkESYk7v/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -180,7 +180,7 @@ const impacts = [
     image: "assets/img/impact/recognition/meaningful-business/linkedin.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "Meaningful Business",
         source_link: "https://www.linkedin.com/company/meaningful-business/posts/",
         title: "Introduce the 2023 Meaningful Business 100",
@@ -191,7 +191,7 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1zF9d4SFS_l60cqHr-7RwI5tbjJjK6lYP/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Recognised by Meaningful Business on the 2023",
@@ -213,7 +213,7 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1OWl3LVi2vKZJIXaaKMocQ-reEh3zubPY/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "2023",
         source_name: "Meaningful Business",
         source_link: "https://meaningful.business/",
         title: "The 2023 Meaningful Business 100 (MB100)",
@@ -263,7 +263,7 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1gdNG0cQKGM3W2wOHwRMjFM6Bl_TTy26U/view?usp=sharing",
       },
       {
-        date: "",
+        date: "2022",
         source_name: "",
         source_link: "",
         title: "Commonwealth Youth Awards 2022",
@@ -285,7 +285,7 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1k5gbdvPOHXErUPQr18Rnyr-bs2JBmnV7/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Commonwealth Youth Awards",
@@ -296,7 +296,7 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1wawZXLe3ksNy37Rxu_6Ip55XEHo1_wMm/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "March 19, 2022",
         source_name: "International Youth Change Maker - IYCM",
         source_link: "https://web.facebook.com/IYcmBd",
         title: "Commonwealth Youth Awards Winner 2022",
@@ -348,7 +348,7 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1xoyDHbJwwlDrUubPi76SWg71McDHeF5u/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards",
@@ -378,7 +378,7 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1X0nkvvdulZQHl4UxZF3nsl8AGyh-UMe7/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "July 2024",
         source_name: "Our Economics",
         source_link: "https://www.linkedin.com/company/our-economics/posts/?feedView=all",
         title: "Sri Lankan entrepreneur Lilan Dayananda featured in Forbes 30 Under 30 list",
@@ -455,7 +455,7 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1Z_oHbfDvsO19ktvQKGd6SJOcCKOLwuZm/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "May 20, 2024",
         source_name: "Pulse Today",
         source_link: "https://www.instagram.com/pulsetoday/",
         title: "Sri Lankan Entrepreneur Lilan Dayananda Featured in Forbes 30 Under 30 List",
@@ -466,7 +466,7 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/169z3ItcS2nHE9t9lamsWUOvIm4LSD47l/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "June 2024",
         source_name: "Linkedin",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -517,7 +517,7 @@ const impacts = [
         description:
           "Lilan Dayananda is an international award-winning young social tech entrepreneur who is among the latest top ten Social Entrepreneurs of the Global South according to the United Nations. Lilan was recognized among the top meaningful business founders in 2023 by Ernst & Young (EY), Hogan Lovells Global Law Firms, and Babson College. For years, his social initiatives have come up with innovative solutions that can apply to climate action and biodiversity restoration. One of his social ventures (founded by him) has the world’s first scientifically validated methodology to quantify the human contribution to Primary Ecosystem Services.",
         link: "https://www.wyse-ngo.org/wyse-global-change-makers-sdg-13/2024/7/18/karunarathnalage-lilan-udayanga-dayananda-sri-lanka",
-        backup_image: "assets/img/impact/membership/backup/WYSE-international.png",
+        backup_image: "https://drive.google.com/file/d/1stjHgu9XV01wM0MSKNUHjDLm0kuzR3fh/view?usp=drive_link",
       },
     ],
   },
@@ -528,17 +528,17 @@ const impacts = [
     image: "assets/img/impact/membership/moonshot-young-leader.png",
     slides: [
       {
-        date: "",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Proud to Be a Moonshot Young Leader",
         image: "assets/img/impact/membership/moonshot-young-leader.png",
         description: "It is such a pleasure to be a Moonshot Young Leader.",
         link: "https://www.linkedin.com/posts/lilanofficial_startup-entrepreneurship-business-activity-7214291806371426306-pPuE/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/moonshot-young-leader.png",
+        backup_image: "https://drive.google.com/file/d/1XNkMChZ4B-DYYINRVdTL4XiwtdlzMbKK/view?usp=sharing",
       },
       {
-        date: "",
+        date: "July 2024",
         source_name: "Moonshot Platform",
         source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
         title: "Introducing some of the Young Leaders",
@@ -546,7 +546,7 @@ const impacts = [
         description:
           "Introducing you to some of the Young Leaders joining us at this year's Moonshot Young Leaders Camp...",
         link: "https://www.linkedin.com/posts/moonshot-platform_youngleaders-socialimpact-sdgs-activity-7213889108237049858-ejvR?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/moonshot-platform.png",
+        backup_image: "https://drive.google.com/file/d/1J8FlENnyxT2Wyg0qOIyO7qTqfQ8-6LDZ/view?usp=drive_link",
       },
     ],
   },
@@ -557,7 +557,7 @@ const impacts = [
     image: "assets/img/impact/membership/OYW-manchester-summit.png",
     slides: [
       {
-        date: "",
+        date: "November 2022",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Honored to Be Ranked number 1 at the One Young World Manchester Summit 2022",
@@ -565,7 +565,7 @@ const impacts = [
         description:
           "It was a pleasure to be ranked number 1 at OYW Manchester Summit 2022! Thank you to One Young World for allowing me to be a part of this extraordinary, global gathering of young leaders at Manchester Central last week. It has been such a privilege to be in the presence of some of the greatest leaders of our time. Being surrounded by like-minded, optimistic and values-driven individuals from every corner of the world has been one of the most inspiring moments of my life. I am grateful for having crossed paths with all the other delegates and the opportunity to hear their stories of overcoming adversity, as well as their dreams of a better future.",
         link: "https://www.linkedin.com/posts/lilanofficial_it-was-a-pleasure-to-be-ranked-number-1-at-activity-6976216251329126400-Wryt/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/OYW-manchester-summit.png",
+        backup_image: "https://drive.google.com/file/d/1xWZ77TPTAU6oN-aoRRXsx5nCthCaBG_e/view?usp=drive_link",
       },
     ],
   },
@@ -576,7 +576,7 @@ const impacts = [
     image: "assets/img/impact/membership/climate-reality-linkedin.png",
     slides: [
       {
-        date: "",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Honor of participating in The Climate Reality Project Leadership Corps training",
@@ -584,7 +584,7 @@ const impacts = [
         description:
           "Today, I had the honor of participating in The Climate Reality Project Leadership Corps training at the Rome Convention Center La Nuvola, Italy. It was a valuable opportunity to train with former U.S. Vice President Al Gore and to join a community of dedicated changemakers committed to advancing equitable climate solutions.",
         link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-un-activity-7213148927116685312-0JZ4/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/climate-reality-linkedin.png",
+        backup_image: "https://drive.google.com/file/d/1t3XUiw94D1bQWkG00u9j_1Sfh4qH2uuU/view?usp=drive_link",
       },
     ],
   },
@@ -595,7 +595,7 @@ const impacts = [
     image: "assets/img/impact/membership/generation-democracy.png",
     slides: [
       {
-        date: "",
+        date: "September 2024",
         source_name: "Generation Democracy",
         source_link: "https://www.linkedin.com/company/generationdemocracy/posts/",
         title: "Lilan Dayananda: A Young Visionary Revolutionizing Agriculture",
@@ -603,10 +603,10 @@ const impacts = [
         description:
           "Lilan Dayananda is a trailblazing social entrepreneur from Sri Lanka who is at the forefront of tackling global food security through innovative agricultural solutions. As the co-founder and CEO of ELZIAN AGRO, he is leading the charge in climate-smart, data-driven precision agriculture. ",
         link: "https://www.linkedin.com/posts/generationdemocracy_gendem-globalsummit-climateaction-activity-7230547634376110080-KZaU/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/generation-democracy.png",
+        backup_image: "https://drive.google.com/file/d/1mb74KBYpsh9owyRUuuO4lJKjOo2jA9ao/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "June 3, 2024",
         source_name: "gendem.iri",
         source_link: "https://www.instagram.com/gendem.iri/",
         title: "Generation Democracy Success Story: Lilan Dayananda Empowers Through Innovation",
@@ -616,10 +616,10 @@ const impacts = [
           "Lilan Dayananda, a social tech entrepreneur from Sri Lanka and a member of the @iriglobal Generation Democracy Network, is making waves in the agricultural sector. As the co-founder and CEO of Elzian Agro, Lilan is harnessing the power of technology to empower small farmers and combat climate change.",
         link: "https://www.instagram.com/p/C7vwGZnKNVm/",
         source_name: "gendem.iri",
-        backup_image: "assets/img/impact/membership/backup/gendem.iri.png",
+        backup_image: "https://drive.google.com/file/d/1e5ZOK4Yz-TdrgFrTjbN_p5TE-NVmpLw8/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "June 3, 2024",
         source_name: "Generation Democracy",
         source_link: "https://x.com/IRIGenDem",
         title: "Generation Democracy Success Story: Lilan Dayananda Empowers Through Innovation",
@@ -627,7 +627,7 @@ const impacts = [
         description:
           "Lilan Dayananda, a social tech entrepreneur from Sri Lanka and a member of @IRIglobal Generation Democracy Network, is making waves in the agricultural sector. As the co-founder and CEO of Elzian Agro, Lilan is harnessing the power of technology to empower small farmers and combat climate change.",
         link: "https://x.com/IRIGenDem/status/1797538632934285513",
-        backup_image: "assets/img/impact/membership/backup/generation-democracy-instagram.png",
+        backup_image: "https://drive.google.com/file/d/1IJsFilePUWQi4rxNEOvAEUild9OwnMEZ/view?usp=drive_link",
       },
     ],
   },
@@ -638,7 +638,7 @@ const impacts = [
     image: "assets/img/impact/membership/wy4cj.asia.png",
     slides: [
       {
-        date: "",
+        date: "March 26, 2024",
         source_name: "wy4cj.asia",
         source_link:
           "https://www.instagram.com/p/C4-8btnoRYk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
@@ -647,7 +647,7 @@ const impacts = [
         description:
           "Lilan Dayananda, an international award-winning young social tech entrepreneur, has garnered recognition for his impactful work in social entrepreneurship. He stands out as one of the top ten Social Entrepreneurs of the Global-South, acknowledged by prestigious organizations like the United Nations Youth Envoy’s Office and UNDP Youth Co: Lab. Lilan’s commitment to excellence is evident through his accolades, such as being the only Sri Lankan Commonwealth Youth Awardee for his outstanding development efforts and his nomination for the Queen’s Commonwealth Trust Youth Award. His innovative solutions in food security, climate action, and sustainability have earned him a place among the top 100 meaningful business founders recognized by Ernst & Young (EY), Hogan Lovells Global Law Firms.",
         link: "https://www.instagram.com/p/C4-8btnoRYk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        backup_image: "assets/img/impact/membership/backup/wy4cj.asia.png",
+        backup_image: "https://drive.google.com/file/d/1iFF4dQuJ5MJCseOB7K9jfEChLM5p7ES1/view?usp=drive_link",
       },
     ],
   },
@@ -658,7 +658,7 @@ const impacts = [
     image: "assets/img/impact/membership/clinton-global-initiative.png",
     slides: [
       {
-        date: "",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Selected for the inaugural class of the Clinton Global Initiative (CGI) Fellowship!",
@@ -666,7 +666,7 @@ const impacts = [
         description:
           "As part of the Clinton Foundation's commitment to nurturing the next generation of leaders, the CGI Fellowship supports emerging social entrepreneurs, helping us enhance our leadership skills, connect with peers, and refine our ideas into actionable solutions.",
         link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-startup-social-activity-7216447969246527488-lydr/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/clinton-global-initiative.png",
+        backup_image: "https://drive.google.com/file/d/1KCY835OfS4DoXGUtMjE3_zLhQvOsXwVd/view?usp=drive_link",
       },
       {
         date: "Aug 20, 2024",
@@ -678,7 +678,7 @@ const impacts = [
         description:
           "Lilan Dayananda, a prominent youth entrepreneur from Sri Lanka, has been named among the 25 emerging leaders and entrepreneurs selected for the inaugural cohort of the Clinton Global Initiative (CGI) Fellowship. This prestigious fellowship will provide Fellows with access to vital resources and expert guidance as they each develop their own Commitments to Action new, specific, and measurable projects aimed at addressing some of the world’s most critical challenges.",
         link: "https://sundaytimes.lk/online/business/Sri-Lankan-Youth-Entrepreneur-Lilan-Dayananda-Selected-for-Prestigious-Clinton-Global-Initiative-Fellowship/10-1146618",
-        backup_image: "assets/img/impact/membership/backup/clinto-global-sunday-times.png",
+        backup_image: "https://drive.google.com/file/d/1WNo37PIjNOtJxVV80IB_X__oe5zU8yDo/view?usp=drive_link",
       },
       {
         date: "May 29, 2024",
@@ -689,7 +689,7 @@ const impacts = [
         description:
           "25 leaders from across Africa, Asia, Europe, and the Americas commit to take action on climate change, health equity, women and girls’ equality, and more...",
         link: "https://www.clintonfoundation.org/press-and-news/clinton-global-initiative-fellowship/2024-class-of-clinton-global-initiative-fellows-announced/",
-        backup_image: "assets/img/impact/membership/backup/clinton-foundation.png",
+        backup_image: "https://drive.google.com/file/d/1BtZ0Ei9xhoRLwClOfPAJzvPMMCH8-kAJ/view?usp=drive_link",
       },
     ],
   },
@@ -700,6 +700,18 @@ const impacts = [
     image: "assets/img/impact/membership/global-thinker-smentors.png",
     slides: [
       {
+        date: "October 2024",
+        source_name: "Global Thinkers Forum",
+        source_link: "https://www.linkedin.com/company/global-thinkers-forum/posts/",
+        title:
+          "Empowering Future Innovators: Meet Lilan Dayananda, Sri Lanka's Rising Social Tech Entrepreneur",
+        image: "assets/img/impact/membership/global-thinker-likedin.png",
+        description:
+          "Meet our 2024 mentee from SriLanka Lilan Dayananda! He is an international award-winning young social tech entrepreneur.",
+        link: "https://www.linkedin.com/posts/global-thinkers-forum_srilanka-mentor-gtf-activity-7247178445196083200-C4dd?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1xP0-abGuSA5h9naIv8kWQbFgmcTeO722/view?usp=drive_link",
+      },
+      {
         date: "",
         source_name: "Global Thinkers",
         source_link: "https://globalthinkersmentors.org/",
@@ -708,7 +720,7 @@ const impacts = [
         description:
           "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the UN.",
         link: "https://globalthinkersmentors.org/lilan-udayanga-dayananda",
-        backup_image: "assets/img/impact/membership/backup/global-thinker-smentors.png",
+        backup_image: "https://drive.google.com/file/d/1gt_MWiW8Eb3sVqPSE6-TrArdLBzuyY8f/view?usp=drive_link",
       },
     ],
   },
@@ -719,7 +731,7 @@ const impacts = [
     image: "assets/img/impact/membership/youth-jury-introduce.png",
     slides: [
       {
-        date: "",
+        date: "June 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Participating in the AIPH Youth Award Deliberations",
@@ -727,10 +739,10 @@ const impacts = [
         description:
           "As a Youth Jury Member, I had the privilege of actively participating in the AIPH Youth Award deliberations during the 2024 edition of the esteemed AIPH World Green City Awards. Collaborating closely with esteemed colleagues Laura Barron , Hanieh Moghani , Colin Fernandes , Andressa Reis , Blaise Binama, Ph.D , Justin Ho Guo Shun , Bruna Pacheco de Campos , Dominique Bird , Bonney Emmanuel Baffoe , Ferdinand Combary , Leena Joshi , Muntasyir Al Wafi , Raluca MIHAI , Vathanak Soeun , Widson Ambaisi , our shared goal was to identify the entry that possessed the greatest potential to inspire and meet the evolving needs of the youth, fostering a future characterized by security and wellness.",
         link: "https://www.linkedin.com/posts/lilanofficial_aiph-green-award-activity-7196898811905007617-ZFme/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/AIPH-youth-award.png",
+        backup_image: "https://drive.google.com/file/d/1XNmLTzk9E4T5-ZlIcWGM3zujw5V51fg7/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "January 29, 2024",
         source_name: "AIPH",
         source_link: "https://aiph.org/",
         title:
@@ -739,10 +751,10 @@ const impacts = [
         description:
           "In partnership with the Global Youth Biodiversity Network (GYBN), AIPH is proud to unveil the 15 members of the Youth Jury who will select the shortlist and winner of the first AIPH Youth Award from the 21 Finalists in the AIPH World Green City Awards 2024.",
         link: "https://aiph.org/latest-news/youth-jury-wgca-2024/",
-        backup_image: "assets/img/impact/membership/backup/youth-jury-wgca.png",
+        backup_image: "https://drive.google.com/file/d/1LNByRrjFH8izsFd0rinXH9-hhig9ol7C/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "January 2024",
         source_name: "AIPH",
         source_link: "https://aiph.org/",
         title: "Youth Jury 2024",
@@ -750,10 +762,10 @@ const impacts = [
         description:
           "The Youth Jury, who will decide the AIPH Youth Award in the 2024 edition of the AIPH World Green City Awards, boasts 15 dynamic members from around the world, all with a passion for urban greening.",
         link: "https://aiph.org/green-city/green-city-awards/youth-jury/",
-        backup_image: "assets/img/impact/membership/backup/youth-jury.png",
+        backup_image: "https://drive.google.com/file/d/136jxChiGHNr43VPzTbsXxmJbvoYy8HXV/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "April 2024",
         source_name: "AIPH Green City",
         source_link: "https://www.linkedin.com/showcase/aiph-green-city/posts/",
         title: "Introducing the AIPH Youth Jury",
@@ -761,7 +773,7 @@ const impacts = [
         description:
           "Meet the final five members of the Youth Jury, Muntasyir Al Wafi, Raluca MIHAI, Laura Barron, Karunarathnalage Lilan Dayananda, and Bruna Pacheco de Campos.",
         link: "https://www.linkedin.com/posts/aiph-green-city_aiphworldgreencityawards-wgca2024-youthaward-activity-7164242060449939456-ifMo?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/youth-jury-introduce.png",
+        backup_image: "https://drive.google.com/file/d/1fXZFfudxWuJKsV9HoV806rh9_CFx1zOv/view?usp=drive_link",
       },
     ],
   },
@@ -772,14 +784,14 @@ const impacts = [
     image: "assets/img/impact/membership/theirworld.png",
     slides: [
       {
-        date: "",
+        date: "January 2024",
         source_name: "Sertifier",
         source_link: "https://sertifier.com/",
         title: "GYA Membership - June 2023 - 2025",
         image: "assets/img/impact/membership/theirworld.png",
         description: "This badge recognises membership of Theirworld's Global Youth Ambassador programme. ",
         link: "https://verified.sertifier.com/en/verify/48505403543188/",
-        backup_image: "assets/img/impact/membership/backup/theirworld.png",
+        backup_image: "https://drive.google.com/file/d/1yb1vuSxNHdkoquHXUNvUFDABjROfbp1n/view?usp=drive_link",
       },
     ],
   },
@@ -790,14 +802,14 @@ const impacts = [
     image: "assets/img/impact/membership/mbimb.png",
     slides: [
       {
-        date: "",
+        date: "March 2024",
         source_name: "My Body Is My Body (MBIMB)",
         source_link: "https://mbimb.org/",
         title: "MBIMB Profile",
         image: "assets/img/impact/membership/mbimb.png",
         description: "",
         link: "https://mbimb.org/members/lilan_dayananda/",
-        backup_image: "assets/img/impact/membership/backup/mbimb.png",
+        backup_image: "https://drive.google.com/file/d/1CIcHxnCTpz4HNPkf8BslvkJFtfaXNb2L/view?usp=drive_link",
       },
     ],
   },
@@ -816,7 +828,7 @@ const impacts = [
         description:
           "I am a final year undergraduate (student) of the University of Kelaniya following the Bachelor of Business Management (Special) Degree in Accountancy. I am working on my internship as an intern at Accenture in the Finance and Accounting department while pursuing my academic education at my university. I am a detail-oriented, efficient, and organized undergraduate with extensive experience in extracurricular activities related to career development and volunteering.",
         link: "https://www.globalpeacechain.org/team_members/karunarathnalage-lilan-udayanga-dayananda/",
-        backup_image: "assets/img/impact/membership/backup/global-peace-chain.png",
+        backup_image: "https://drive.google.com/file/d/1rHPJMJnHwLH9-bMQfoE6oxEZ8xgc8Ooo/view?usp=drive_link",
       },
     ],
   },
@@ -827,7 +839,7 @@ const impacts = [
     image: "assets/img/impact/membership/blue-planet-alliance-official.png",
     slides: [
       {
-        date: "",
+        date: "August 2024",
         source_name: "Blue Planet Alliance",
         source_link: "https://www.linkedin.com/company/blue-planet-alliance/posts/",
         title: "Lilan Dayananda - Global Ambassador & Young Entrepreneur",
@@ -835,7 +847,7 @@ const impacts = [
         description:
           "Lilan Dayananda is a BPA Global Ambassador — and young entrepreneur — from Sri Lanka. His startup uses technologies like IoT devices and AI to help small farmers in his country optimize harvests and better navigate climate change.",
         link: "https://www.linkedin.com/posts/blue-planet-alliance_lilan-dayananda-is-a-bpa-global-ambassador-activity-7222216060400250887-JAJO/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/blue-planet-alliance.png",
+        backup_image: "https://drive.google.com/file/d/16carGePbFCa0HSYy-cAAx8MTx9HjYx7J/view?usp=drive_link",
       },
       {
         date: "",
@@ -846,7 +858,7 @@ const impacts = [
         description:
           "The Blue Planet Global Ambassador Program was launched during the 2022 Our Oceans Conference in Palau to honor and empower young people from the ages of 16 to 30 to help spread our mission globally. Through the program, Blue Planet Alliance is building a network of youth advocates dedicated to engaging in global activism to make their communities — and the world as a whole — a better place. Specifically, our Ambassadors are helping us in our mission to lead every island nation — and countries across the globe — transition away from dirty energy and to 100% renewable energy by 2045.",
         link: "https://blueplanetalliance.org/globalambassadorprogram",
-        backup_image: "assets/img/impact/membership/backup/blue-planet-alliance-official.png",
+        backup_image: "https://drive.google.com/file/d/1VtR7VjNdxNjMrxMVh0bSbTTBWq3ElGIv/view?usp=drive_link",
       },
       {
         date: "",
@@ -857,7 +869,7 @@ const impacts = [
         description:
           "Blue Planet Alliance Global Ambassador Lilan Dayananda from Sri Lanka was honored with the distinction of being selected for the Forbes 30 Under 30: Social Impact List. In its ninth year, the Asia list continues the global expansion of the Forbes 30 Under 30 franchise, which started over a decade ago.",
         link: "https://blueplanetalliance.org/news/using-ai-to-help-farmers-grow-their-businesses",
-        backup_image: "assets/img/impact/membership/backup/blue-planet-alliance-article.png",
+        backup_image: "https://drive.google.com/file/d/17LwT5zt8Dt-grpVDEiGHD_y56DQEzSDb/view?usp=drive_link",
       },
     ],
   },
@@ -877,7 +889,7 @@ const impacts = [
         description:
           "Six UPG Sustainability Leaders from across South Asia compete for your vote to win a place on the Journey To Hurricane Island (USA). Voters will win prizes!",
         link: "https://fox4kc.com/business/press-releases/ein-presswire/683778177/six-upg-sustainability-leaders-from-south-asia-compete-for-votes-to-reach-hurricane-island-usa/",
-        backup_image: "assets/img/impact/membership/backup/fox4kc.png",
+        backup_image: "https://drive.google.com/file/d/115QUxkk4XDhavepdLGH5FbDO6ogza_Jy/view?usp=drive_link",
       },
       {
         date: "January 31, 2024",
@@ -889,7 +901,7 @@ const impacts = [
         description:
           "Six UPG Sustainability Leaders from across South Asia compete for your vote to win a place on the Journey To Hurricane Island (USA). Voters will win prizes!",
         link: "https://www.einpresswire.com/article/683778177/six-upg-sustainability-leaders-from-south-asia-compete-for-votes-to-reach-hurricane-island-usa",
-        backup_image: "assets/img/impact/membership/backup/einpresswire.png",
+        backup_image: "https://drive.google.com/file/d/1TVKnMNEYltbVzJL3TGw9RuJPCisZiSSp/view?usp=drive_link",
       },
     ],
   },
@@ -900,17 +912,17 @@ const impacts = [
     image: "assets/img/impact/membership/united-people-global-x.png",
     slides: [
       {
-        date: "",
+        date: "April 2024",
         source_name: "United People Global",
         source_link: "https://www.youtube.com/@UnitedPeopleGlobal",
         title: "United Voices",
         image: "assets/img/impact/membership/united-people-global.png",
         description: "What's Going On? UPG Champion Invite...",
         link: "https://www.youtube.com/watch?v=WjIME9s70Xk",
-        backup_image: "assets/img/impact/membership/backup/united-people-global.png",
+        backup_image: "https://drive.google.com/file/d/1CYJUqjU49RsO0nRFVc8E-fIYWpAH1ird/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "November 17, 2023",
         source_name: "United People Global",
         source_link: "https://x.com/unitedpeople36",
         title: "Celebrating UPG Sustainability Mini-Training",
@@ -918,7 +930,7 @@ const impacts = [
         description:
           "Celebrating another UPGSustainability Mini-Training for citizens! See images from Colombo in a session led by UPGSustainability Leader Lilan Dayananda!",
         link: "https://twitter.com/unitedpeople36/status/1725461332852416866",
-        backup_image: "assets/img/impact/membership/backup/united-people-global-x.png",
+        backup_image: "https://drive.google.com/file/d/1psBJkT1hLGRwTxdukO4cmsrMrqcLNQ2l/view?usp=drive_link",
       },
     ],
   },
@@ -929,7 +941,7 @@ const impacts = [
     image: "assets/img/impact/membership/mit-solve.png",
     slides: [
       {
-        date: "",
+        date: "April 2024",
         source_name: "MIT SOLVE",
         source_link: "https://solve.mit.edu/",
         title: "Mit Solve Publications",
@@ -937,7 +949,7 @@ const impacts = [
         description:
           "We utilize limited resources (water, fertilizer, labour, land) at an optimum level through climate-smart, data-driven precision agriculture solutions.",
         link: "https://solve.mit.edu/users/-102339",
-        backup_image: "assets/img/impact/membership/backup/mit-solve.png",
+        backup_image: "https://drive.google.com/file/d/1CHHbJmq0IN28JYd6h2yGB7OjDhyRR3-E/view?usp=drive_link",
       },
     ],
   },
@@ -948,7 +960,7 @@ const impacts = [
     image: "assets/img/impact/membership/wsa.png",
     slides: [
       {
-        date: "",
+        date: "June 2024",
         source_name: "WSA",
         source_link: "https://www.linkedin.com/company/world-summit-awards/posts/",
         title: "World Summit on the Information Security",
@@ -956,10 +968,10 @@ const impacts = [
         description:
           'Hear from WSA Youth Ambassadors at the World Summit on the Information Society Forum in the "Youth Engagement Around WSIS Action Lines" session. 🌐',
         link: "https://www.linkedin.com/posts/world-summit-awards_wsis-technology-networks-activity-7201107444255637505-ndlZ/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/wsa.png",
+        backup_image: "https://drive.google.com/file/d/1Jlxj37_pWsBkuA3Yw9DQA-iwW0MixJjR/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "January 2024",
         source_name: "WSA",
         source_link: "https://www.linkedin.com/company/world-summit-awards/posts/",
         title: "Announcing 127 New WSA Youth Ambassadors: Leaders in Innovation and Social Impact",
@@ -967,10 +979,10 @@ const impacts = [
         description:
           "Celebrate with us as we announce the appointment of 127 dynamic leaders as WSA Youth Ambassadors! These ambassadors, carefully chosen from a pool of 727 global applications, represent 73 countries and boast diverse expertise in entrepreneurship, socialimpact, sustainability, and digital innovation. More than just symbols of their nations, they actively contribute to fostering positive change within their communities. In doing so, they exemplify WSA's vision for a society that is both inclusive and sustainable.",
         link: "https://www.linkedin.com/posts/world-summit-awards_wsa-youth-ambassadors-activity-7145775372054298624-lRS1?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/wsa-celebrate.png",
+        backup_image: "https://drive.google.com/file/d/1pIBHHDelpEy6_8v8StrqDAR2-P2G9X2B/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "December 2023",
         source_name: "WSA",
         source_link: "https://wsa-global.org/",
         title: "Get to know our newest youth ambassadors",
@@ -978,10 +990,10 @@ const impacts = [
         description:
           "This year WSA held the first ever open call for WSA Youth Ambassadors. The call was open from July until August, and during the short application time WSA received 727 high-quality applications from all over the world. The selection process was long and thorough, and after 2 preselection rounds, 127 new WSA Youth Ambassadors were appointed.",
         link: "https://wsa-global.org/2023/11/07/get-to-know-our-newest-youth-ambassadors/",
-        backup_image: "assets/img/impact/membership/backup/newest-youth-ambassadors.png",
+        backup_image: "https://drive.google.com/file/d/1qkl1nQR0lJphOXpUeOnusz-KKdxrkDAE/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "December 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Honored to Be Chosen as a WSA Youth Ambassador for Sri Lanka",
@@ -989,7 +1001,7 @@ const impacts = [
         description:
           "I am absolutely thrilled to share that I have been chosen as a WSA Youth Ambassador in Sri Lanka. For those unfamiliar, WSA which stands for the World Summit Awards, represents a distinctive awards system with a profound purpose: the selection and promotion of local digital innovations aimed at enhancing society. What sets WSA apart is its unique blend of ongoing international events, a rich array of activities, and an extensive network that encompasses startups, social entrepreneurs, mentors, distinguished jurors, influential speakers, experts, government leaders, esteemed academia, and members of civil society. WSA essentially serves as a global platform that showcases cutting-edge examples of how information and communication technologies can have a profoundly positive impact on society as a whole.",
         link: "https://www.linkedin.com/posts/lilanofficial_wsa-wsayouthambassador-youth-activity-7128778758567710720-JnY9/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/wsa-linkedin.png",
+        backup_image: "https://drive.google.com/file/d/1Xg5lyOu7cfCFesyoXkKHjyqrDjikxJsz/view?usp=drive_link",
       },
       {
         date: "",
@@ -1000,7 +1012,7 @@ const impacts = [
         description:
           "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
         link: "https://wsa-global.org/person/lilan-dayananda/",
-        backup_image: "assets/img/impact/membership/backup/wsa-lilan-profile.png",
+        backup_image: "https://drive.google.com/file/d/1HlRmH9bg_2wgMIWLLpy15CBtpEJwGcPA/view?usp=drive_link",
       },
     ],
   },
@@ -1011,14 +1023,14 @@ const impacts = [
     image: "assets/img/impact/membership/fxb-climate-advocates.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "FXB International Climate Advocates Program",
         image: "assets/img/impact/membership/climate-advocates-program.png",
         description: "",
         link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7068052986857472000-FN2t/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/climate-advocates-program.png",
+        backup_image: "https://drive.google.com/file/d/1FUNigCJvCv_8CXCJyJeykKljWLvR3R02/view?usp=drive_link",
       },
       {
         date: "",
@@ -1029,7 +1041,7 @@ const impacts = [
         description:
           "The agricultural sector in Sri Lanka, which incorporates both organic and conventional farming, confronts the problem of determining essential soil components accurately. Notably, organic cultivators, who harness natural techniques like compost and crop rotation, find it challenging due to a lack of specific soil composition details. This deficiency compromises the efficient use of resources, particularly in fertilizer application, and inhibits the valuation of their produce's environmental benefits, referred to as Primary Ecosystem Services (PES) [1].",
         link: "https://www.fxbclimateadvocates.org/copy-of-malika-gizzat-1",
-        backup_image: "assets/img/impact/membership/backup/fxb-climate-advocates.png",
+        backup_image: "https://drive.google.com/file/d/1laH-C1x8pAFiCsFHfyW5FpGxI5VNhOWQ/view?usp=drive_link",
       },
     ],
   },
@@ -1040,7 +1052,7 @@ const impacts = [
     image: "assets/img/impact/membership/the-asian-network.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "Ravindra Ngo 赖文卓 ",
         source_link: "https://www.linkedin.com/in/ravindra-ngo/",
         title: "The Asian Network - Online Conference",
@@ -1048,7 +1060,7 @@ const impacts = [
         description:
           "The Asian Network is excited to host a high level online conference supported by ERIA: Economic Research Institute for ASEAN and East Asia & ADB Southeast Asia Development Solutions (SEADS) ",
         link: "https://www.linkedin.com/posts/ravindra-ngo_harmony-asia-geopolitics-activity-7105384184889659393-QiJE/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/the-asian-network.png",
+        backup_image: "https://drive.google.com/file/d/1uJi6_U36GEQGbclkXfc0rkPwMClJ_lON/view?usp=drive_link",
       },
     ],
   },
@@ -1059,7 +1071,7 @@ const impacts = [
     image: "assets/img/impact/membership/ESG-connect-greenly.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Joined ESG Connect by Greenly",
@@ -1067,7 +1079,7 @@ const impacts = [
         description:
           "I’m happy to announce that I have joined ESG Connect by Greenly - a global community of sustainability leaders united in their mission to shape a greener future. The number of Chief Sustainability Officers, Chief Impact Officers, and Sustainability Managers at corporations is skyrocketing 🚀.",
         link: "https://www.linkedin.com/posts/lilanofficial_sustainability-community-network-activity-7067572302372110336-qNqf/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/ESG-connect-greenly.png",
+        backup_image: "https://drive.google.com/file/d/1miWqx4tcX33F6DG1cel0rpqVle6f9iTF/view?usp=drive_link",
       },
     ],
   },
@@ -1086,7 +1098,7 @@ const impacts = [
         description:
           "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
         link: "https://wenaturalists.com/profile/lilandayananda",
-        backup_image: "assets/img/impact/membership/backup/naturalists-profile.png",
+        backup_image: "https://drive.google.com/file/d/1FFtazjW3BKanQbWQX0jwOzCx8I0HYpjZ/view?usp=drive_link",
       },
     ],
   },
@@ -1104,7 +1116,7 @@ const impacts = [
         image: "assets/img/impact/membership/youth-power-member.png",
         description: "",
         link: "https://www.youthpower.org/members-list?search_api_fulltext=lilan&field_users_type=5739&sort_by=created&sort_order=DESC",
-        backup_image: "assets/img/impact/membership/backup/youth-power-member.png",
+        backup_image: "https://drive.google.com/file/d/1UhtwqSlmpngwuWkz0Ggp5hgZiIHKBwAB/view?usp=drive_link",
       },
     ],
   },
@@ -1123,7 +1135,7 @@ const impacts = [
         description:
           "Lilan Dayananda is a social tech entrepreneur and co-founder and CEO of ELZIAN AGRO. He is a Commonwealth Youth Awardee for excellence in development works in 2022 and was nominated for Queen’s Commonwealth Trust Youth Award 2022. Lilan is among the top 10 Social Entrepreneurs of the Global South Development Expo. He is a successful graduate of the Silicon Valley based Founder Institute’s accelerator program. For years, his initiative organization has come up with award-winning innovative solutions that can apply to Precision Agriculture.",
         link: "https://en.unesco.org/inclusivepolicylab/user/8900",
-        backup_image: "assets/img/impact/membership/backup/UNESCO-public-profile.png",
+        backup_image: "https://drive.google.com/file/d/1i-eL80C_p9v47MUZoNe0aEOPkTmN7x8k/view?usp=drive_link",
       },
     ],
   },
@@ -1134,7 +1146,7 @@ const impacts = [
     image: "assets/img/impact/membership/climate-ambassador-prrogram-certificate.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "MAX THABISO EDKINS Climate Ambassador Prrogram Certificate",
@@ -1142,7 +1154,7 @@ const impacts = [
         description:
           "I have successfully completed the 2022 Max Thabiso Edkins Climate Ambassador Program from The World Bank , GYCN - Global Youth Climate Network and Connect4Climate",
         link: "https://www.linkedin.com/posts/lilanofficial_i-have-successfully-completed-the-2022-max-activity-6995218144957005824-jNDI/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/climate-ambassador-prrogram-certificate.png",
+        backup_image: "https://drive.google.com/file/d/1Tm1pJrurzQo9P-jYYpyeTFtE7FpJPo3B/view?usp=drive_link",
       },
     ],
   },
@@ -1153,7 +1165,7 @@ const impacts = [
     image: "assets/img/impact/membership/world-business-dialogue.png",
     slides: [
       {
-        date: "",
+        date: "November 2022",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Ambassador Certificate",
@@ -1161,10 +1173,10 @@ const impacts = [
         description:
           "The “Organisations forum Wirtschaftskongress” (OfW) was founded in 1984 to build a bridge between academic theory and business practice. Since then, an annually changing team of Cologne students has organized an international business conference as its main product here in Cologne. The intention was to connect entrepreneurs, scientists, and ambitious students through an intensive, intergenerational exchange.",
         link: "https://www.linkedin.com/posts/lilanofficial_team-teamwork-work-activity-6950877215412617216-7bYL/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/ambassador-certificate.png",
+        backup_image: "https://drive.google.com/file/d/1vp_5t86ygDX_EecRslO_Bg_x9o5ZsG_U/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "November 2022",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "23rd World Business Dialogue",
@@ -1172,7 +1184,7 @@ const impacts = [
         description:
           "The “Organisations forum Wirtschaftskongress” (OfW) was founded in 1984 to build a bridge between academic theory and business practice. Since then, an annually changing team of Cologne students has organized an international business conference as its main product here in Cologne. The intention was to connect entrepreneurs, scientists, and ambitious students through an intensive, intergenerational exchange.",
         link: "https://www.linkedin.com/posts/lilanofficial_experience-conference-wbd-activity-6918251338711666688-uHwi/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/world-business-dialogue.png",
+        backup_image: "https://drive.google.com/file/d/1e-tBnMCfSAqZGtr1pyLDKrG_aUcbq8rE/view?usp=drive_link",
       },
     ],
   },
@@ -1184,7 +1196,19 @@ const impacts = [
     description: "",
     slides: [
       {
-        date: "",
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Empowering Purpose-Driven Leaders: My Inspiring Experience with the Meaningful Business Community in NYC",
+        image: "assets/img/impact/membership/meaningful-business-linkedin-2.png",
+        description:
+          "It was a pleasure connecting with the Meaningful Business community in New York at Lighthouse, one of the city’s most sustainable restaurants.",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-leadership-sustainable-activity-7257584987615436801-BD95/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1dhSzU0TUf-CQ8lifYo9FfXtfRNgi9Wog/view?usp=drive_link",
+      },
+      {
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Meaningful Business Member",
@@ -1192,7 +1216,7 @@ const impacts = [
         description:
           "Pleased to have joined @Meaningful Business as a member, alongside other leaders tackling the world's most pressing issues. It is a curated network designed to connect peers globally, strengthen social businesses and amplify positive impact, all in support of the @United Nations Global Goals.",
         link: "https://www.linkedin.com/posts/lilanofficial_business-network-leaders-activity-7056419759705239552-rjGW/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/meaningful-business-linkedin.png",
+        backup_image: "https://drive.google.com/file/d/1JSn3zsKijZINHgYOjenlEUOOTnFJmwmv/view?usp=drive_link",
       },
       {
         date: "",
@@ -1203,7 +1227,7 @@ const impacts = [
         description:
           "Lilan Dayananda is an international award-winning young social tech entrepreneur. For years, his social initiative Elzian Agro has offered customised monitoring information and automation solutions through trending digital technologies to optimise customers’ harvest and productively utilise their resources, improving food security and climate action. ",
         link: "https://meaningful.business/team/lilan-dayananda/",
-        backup_image: "assets/img/impact/membership/backup/meaningful-business-profile.png",
+        backup_image: "https://drive.google.com/file/d/1jaW6UQyPaFMhinvGmIbh8wZpsICUR46w/view?usp=drive_link",
       },
     ],
   },
@@ -1215,7 +1239,7 @@ const impacts = [
     description: "",
     slides: [
       {
-        date: "",
+        date: "2022",
         source_name: "Island Innovation",
         source_link: "https://islandinnovation.co/",
         title: "About Lilan Dayananda",
@@ -1223,7 +1247,7 @@ const impacts = [
         description:
           "Lilan is from Sri Lanka. He is a detail-oriented and efficient Tech Entrepreneur with extensive experience in Commerce & Business Management. Certified Organic Agribusiness Practitioner and an exporter. Degree holder in Bachelor of Business Management (Special) Degree in Accountancy. Founder of a few University Clubs and Associations. Professional Video Editor and Graphic Designer. Lilan’s start-ups offer real-time smart agronomy solutions through information technology, the internet of things (IoT), automation, machine learning, artificial intelligence, drone technologies, mobile applications, and web applications. Former Media Planner at Mindshare & GroupM. Former Finance & Accounting Data Analyst at Accenture.",
         link: "https://islandinnovation.co/ambassadors/lilan-dayananda/",
-        backup_image: "assets/img/impact/membership/backup/island-innovation.png",
+        backup_image: "https://drive.google.com/file/d/1De8q_dTZ951NR-nNw1z7XZd2R-qLitAT/view?usp=drive_link",
       },
     ],
   },
@@ -1235,6 +1259,18 @@ const impacts = [
     description: "",
     slides: [
       {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Celebrating Youth Leadership and Social Impact: Highlights from the Enactus World Cup in Astana with the Resolution Project",
+        image: "assets/img/impact/membership/resolution-project-likedin.png",
+        description:
+          "As a Resolution Project Guide, it is a pleasure to see a successful Enactus World Cup in Astana, Kazakhstan. Congratulations to all the winners and finalists!",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-leadership-entrepreneurship-activity-7252830061488136192-joGW?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ybMHKAincrPUcMV10sZOSNY88AYCWnBH/view?usp=drive_link",
+      },
+      {
         date: "",
         source_name: "Resolution Project",
         source_link: "https://resolutionproject.org/",
@@ -1243,7 +1279,7 @@ const impacts = [
         description:
           "Lilan Dayananda is an international award-winning youth social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South by the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
         link: "https://resolutionproject.org/team/lilan-dayananda/",
-        backup_image: "assets/img/impact/membership/backup/resolution-project.png",
+        backup_image: "https://drive.google.com/file/d/1_yb-W4q9segG6Q_LQKsbfN9nJqjTQsfm/view?usp=drive_link",
       },
     ],
   },
@@ -1255,7 +1291,7 @@ const impacts = [
     description: "",
     slides: [
       {
-        date: "",
+        date: "November 2022",
         source_name: "Council for Inclusive Capitalism",
         source_link: "https://www.linkedin.com/company/council-for-inclusive-capitalism/posts/",
         title: "Welcome New Council Members",
@@ -1263,7 +1299,7 @@ const impacts = [
         description:
           "Today we welcome 7 more forward-thinking business leaders to the Council. We are encouraged by their dedication to conducting business in ways that lead to a more inclusive and sustainable economy. Join us in welcoming.",
         link: "https://www.linkedin.com/posts/council-for-inclusive-capitalism_today-we-welcome-7-more-forward-thinking-activity-6946215103197310976-W6Vk/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/membership/backup/council-inclusive-capitalism.png",
+        backup_image: "https://drive.google.com/file/d/1-nmUxsHkWXPeifWq4dSsbDWltTg88uKX/view?usp=drive_link",
       },
       {
         date: "",
@@ -1274,11 +1310,104 @@ const impacts = [
         description:
           "Lilan Dayananda is a social tech entrepreneur and a co-founder and the CEO of ELZIAN AGRO. He is a Commonwealth Youth Awardee for Excellence in Development Works in 2022 which was presented by The Commonwealth and nominated for Queen’s Commonwealth Trust Youth Award 2022. He is a special degree holder in Business Management from the University of Kelaniya and a Certified Organic Agribusiness Practitioner. He is a successful graduate of Silicon Valley based Founder Institute’s accelerator program. For years, his initiative organization has come up with award-winning innovative solutions that can apply to Precision Agriculture. His aim through his startup ELZIAN AGRO is to provide effective sustainable solutions to end hunger in all its forms.",
         link: "https://www.inclusivecapitalism.com/member/lilan-dayananda/",
-        backup_image: "assets/img/impact/membership/backup/inclusive-capitalism.png",
+        backup_image: "https://drive.google.com/file/d/1CkobLCg8DpGbemg50aqgSruz1M9lL3-_/view?usp=drive_link",
       },
     ],
   },
 
+  {
+    filter: "filter-innovation-social",
+    id: "3.58",
+    title: "Addressing the Generation Democracy Global Summit regarding Social Entrepreneurship",
+    slides: [
+      {
+        date: "November 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Social Entrepreneurship: Bridging Economic Empowerment and Civic Engagement at the Generation Democracy Global Summit",
+        image: "assets/img/impact/innovation-social/Generation Democracy Global Summit.png",
+        description:
+          "I had the incredible opportunity to participate in a session on Social Entrepreneurship during the Generation Democracy Global Summit in Lithuania.",
+        link: "https://www.linkedin.com/posts/lilanofficial_global-democracy-youthleadership-activity-7258492209895780352-I0sQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1g98Rvg15V1pFO-9Fvc-QFp56afTX-jVf/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.57",
+    title: "Meaningful Business Community Gathering",
+    slides: [
+      {
+        date: "November 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting with Purpose: A Memorable Gathering with the Meaningful Business Community in New York",
+        image: "assets/img/impact/innovation-social/Gathering with the Meaningful Business.png",
+        description:
+          "It was a pleasure connecting with the Meaningful Business community in New York at Lighthouse, one of the city’s most sustainable restaurants.",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-leadership-sustainable-activity-7257584987615436801-BD95?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1gD7eWrxrtuczGkg7vvLBWNWhJaqjfIgD/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.56",
+    title: "Moonshot Platform - AI for Good Award Category Finalist",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "Moonshot Platform",
+        source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
+        title:
+          "Announcing the Moonshot AI for Good Award Finalists: Pioneers Driving Transformation Through Innovation",
+        image: "assets/img/impact/innovation-social/Award Category Finalist.png",
+        description:
+          "Introducing our shortlist for the Moonshot AI for Good Award! These innovative leaders are utilising the power of AI to drive transformation in their respective fields.",
+        link: "https://www.linkedin.com/posts/moonshot-platform_moonshotawards2024-aiforgood-socialimpact-activity-7252941872271122433-x7pj?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1kKUACpsWM6uQQl93ORP-KymuhGso0wTd/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.55",
+    title: "Moonshot Platform - Start-Up Award Category Finalist",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "Moonshot Platform",
+        source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
+        title: "Celebrating Big Impact from Small Beginnings: Meet the Start-Up Award Finalists",
+        image: "assets/img/impact/innovation-social/Meet the Start-Up Award Finalists.png",
+        description:
+          "The Start-Up Award Category is aimed at recognising businesses that may be small in company size but massive in impact potential. Meet the finalists in the category. ",
+        link: "https://www.linkedin.com/posts/moonshot-platform_moonshotawards2024-startup-activity-7249154196711559169-L7cj?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1WsWAGvLQj8Fd6UFrNShxs9C8voICs_cI/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.54",
+    title: "Participating in the LSTA Annual Conference",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the LSTA Annual Conference",
+        image: "assets/img/impact/innovation-social/LSTA Annual Conference.png",
+        description:
+          "It was a pleasure to participate in the LSTA Annual Conference at the New York Hilton, where we explored critical topics such as the economy, AI, and the intersection of geopolitics and investing through two insightful keynotes.",
+        link: "https://www.linkedin.com/posts/lilanofficial_global-economy-economy2024-activity-7248239747490324480-p470?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1v1hEPQyLgOUFrXGlLrkD47dYnvZHOt5j/view?usp=drive_link",
+      },
+    ],
+  },
   {
     filter: "filter-innovation-social",
     id: "3.53",
@@ -1287,7 +1416,19 @@ const impacts = [
     image: "assets/img/impact/innovation-social/the Science Summit.png",
     slides: [
       {
-        date: "",
+        date: "November 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Empowering Resilience and Prosperity: Insights from KINETIK’s Islands Shaping the Future Program",
+        image: "assets/img/impact/innovation-social/Empowering Resilience.png",
+        description:
+          "It was a pleasure connecting with diverse, impactful leaders during KINETIK's Islands Shaping the Future: Innovating for Resilience and Prosperity program...",
+        link: "https://www.linkedin.com/posts/lilanofficial_science-island-innovation-activity-7257823518543814656-wHuY?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1RPGWV8G1kfGfPM8GLxVO4CFdUFi-dqSo/view?usp=drive_link",
+      },
+      {
+        date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Reflections on the Science Summit: Innovating for Resilience and Prosperity",
@@ -1295,7 +1436,7 @@ const impacts = [
         description:
           "It was a pleasure to participate in the Science Summit on Innovating for Resilience and Prosperity alongside the United Nations General Assembly in New York...",
         link: "https://www.linkedin.com/posts/lilanofficial_sustainability-innovation-renewableenergy-activity-7247227867468570625-msYe?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/the Science Summit.png",
+        backup_image: "https://drive.google.com/file/d/1rvujoCZF1YRQ0CwQIEQ896-5gP56R2uE/view?usp=drive_link",
       },
     ],
   },
@@ -1306,7 +1447,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/winning-sales-pitch-tactics.png",
     slides: [
       {
-        date: "",
+        date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Attended a Session on “Winning Sales Pitch Tactics”",
@@ -1314,7 +1455,7 @@ const impacts = [
         description:
           "I recently had the opportunity to attend a session led by Anuradha Ekanayake, CEO of Suwanda, on “Winning Sales Pitch Tactics,” organized by New Generation Sri Lanka at Swastha by Link Natural, Colombo.",
         link: "https://www.linkedin.com/posts/lilanofficial_sales-marketing-session-activity-7237851087506960384-xtid?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/winning-sales-pitch-tactics.png",
+        backup_image: "https://drive.google.com/file/d/1camQyfVfqEMjtAJvzd62E86B0qzm_q-b/view?usp=drive_link",
       },
     ],
   },
@@ -1325,7 +1466,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/social-enterprise.png",
     slides: [
       {
-        date: "",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Pitching Social Enterprise for Global Impact at AFS Youth Assembly in New York",
@@ -1333,7 +1474,7 @@ const impacts = [
         description:
           "I had the pleasure of pitching my social enterprise (ELZIAN AGRO), at Convene Brookfield Place during the AFS Youth Assembly in New York. The AFS Award for Young Global Citizens recognizes young people for their commitment to improving the global community and whose actions contribute to a more just, peaceful, and tolerant world.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-entrepreneurship-activity-7235538161362157568-vAZJ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/social-enterprise.png",
+        backup_image: "https://drive.google.com/file/d/1U7X1XX6y9mXXhlJNlvcxj1ehroj3ldWB/view?usp=drive_link",
       },
     ],
   },
@@ -1345,7 +1486,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/explora-business.png",
     slides: [
       {
-        date: "",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Explore Opportunities for Expanding into International Markets",
@@ -1353,7 +1494,7 @@ const impacts = [
         description:
           "Amidst a busy schedule, it was a pleasure to explore opportunities for expanding into international markets, specifically targeting Europe and the UAE, alongside Eddie Marsden-Jones in Colombo, Sri Lanka. Eddie is a seasoned technology leader with decades of C-suite experience, having held key roles as CIO for Europe’s largest tour operator group and a leading airline group in the Middle East. His impressive career also includes founding three successful businesses, including EddIT Consulting, and serving on the boards of SMEs in the HR services sector. Eddie’s entrepreneurial spirit and business development expertise are truly inspiring. ",
         link: "https://www.linkedin.com/posts/lilanofficial_technology-tech-europe-activity-7234941427019870209-x-Tf/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/explora-business.png",
+        backup_image: "https://drive.google.com/file/d/1VgstFHVMHGNaMJ58P4xD-7BiadDOaR8x/view?usp=drive_link",
       },
     ],
   },
@@ -1372,7 +1513,7 @@ const impacts = [
         description:
           "Lilan Dayananda, Managing Director and Chief Executive Officer of Elzian Agro, has unveiled the company’s ambitious plan to expand its operations into the European Union via Malta. In a productive meeting with Startup in EU partners and Koperattivi Malta, discussions centered on the economic potential of cooperatives in facilitating a sustainable transition to regenerative and precision agriculture for enhanced food security.",
         link: "https://english.bizreport.lk/elzian-agro-to-expand-operations-to-eu-through-malta/",
-        backup_image: "assets/img/impact/innovation-social/backup/biz-report-malta.png",
+        backup_image: "https://drive.google.com/file/d/1_AL8d5D2OAvjwuMIOxeVM4vP0XNA_uW5/view?usp=drive_link",
       },
     ],
   },
@@ -1391,7 +1532,7 @@ const impacts = [
         description:
           "Elzian Agro has been recognized as a finalist in the Science Startups category by the prestigious Falling Walls Foundation. The Falling Walls Science Summit, an esteemed international forum for scientific breakthroughs, celebrates the fall of the Berlin Wall and fosters dialogue between science and society.",
         link: "https://ceylontribune.com/?p=1134",
-        backup_image: "assets/img/impact/innovation-social/backup/ceylon-tribune-ai-agro.png",
+        backup_image: "https://drive.google.com/file/d/1guDRRmdLgsOj6RbZx6NGZuha93LLmfyd/view?usp=drive_link",
       },
     ],
   },
@@ -1403,7 +1544,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/hacking-solution-workshop.png",
     slides: [
       {
-        date: "",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -1412,7 +1553,7 @@ const impacts = [
         description:
           "The workshop on the Hacking Solutions through Innovation, Networking, and Theory of Change by Lukas Findeisen and Larissa Cevallos at the AFS Youth Assembly in New York, USA was interactive. This workshop was designed to foster networking, innovation, and interactive learning among delegates. Participants engaged in collaborative problem-solving activities, and innovative thinking exercises, and gain insights into the Theory of Change model, empowering them to create impactful solutions to real-world challenges.",
         link: "https://www.linkedin.com/posts/lilanofficial_innovation-networking-theory-activity-7232004227005304832-uUZQ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/hacking-solution-workshop.png",
+        backup_image: "https://drive.google.com/file/d/1at4zB5C8kaj0k5ZOEgiTkAtRI3QB3F1I/view?usp=drive_link",
       },
     ],
   },
@@ -1423,7 +1564,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/future-ai.png",
     slides: [
       {
-        date: "",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -1432,7 +1573,7 @@ const impacts = [
         description:
           "The session conducted by Anand Verma (Dr.) on the future of AI at Convene Center, Brookfield Place in New York, was insightful. Future generative AI in agriculture will enable businesses to optimize crop yields by analyzing vast datasets on soil, weather, and plant health, leading to more precise farming practices. It will also drive innovation in sustainable farming by generating new strategies for resource management, reducing waste, and enhancing food security. Additionally, generative AI will help businesses expand into new markets by creating customized, data-driven agricultural solutions tailored to different regions and climates.",
         link: "https://www.linkedin.com/posts/lilanofficial_ai-elzian-elzianagro-activity-7231639967314194432-9ZRG?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/future-ai.png",
+        backup_image: "https://drive.google.com/file/d/1D5VjqZZAPuFb9Ai-eLebHpq4OSn-CFh_/view?usp=drive_link",
       },
     ],
   },
@@ -1443,7 +1584,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/silicon-alley.png",
     slides: [
       {
-        date: "",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Explored Silicon Alley and Engaged in an Interactive Founder Discussion",
@@ -1451,7 +1592,7 @@ const impacts = [
         description:
           "Explored Silicon Alley and engaged in an interactive founder discussion at the NYU Entrepreneurial Institute and NYU Leslie eLab, both at New York University. Silicon Alley, centered around Manhattan's Flatiron district, is a vibrant hub for high-tech companies. Grateful for the insightful contributions by Matt Parker, Jonas Günther, Jag Gill and Keith Mauppa.",
         link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-startup-startups-activity-7231263302939463681-M7tj?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/silicon-alley.png",
+        backup_image: "https://drive.google.com/file/d/1Rm3wxGdfTbu-MegAuNVLUr8fv1AGbGRH/view?usp=drive_link",
       },
     ],
   },
@@ -1463,7 +1604,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/climate-entrepreneurship.png",
     slides: [
       {
-        date: "",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -1472,7 +1613,7 @@ const impacts = [
         description:
           "Thrilled to have participated in the Climate Entrepreneurship Program at New York University and NYU School of Professional Studies! I explored unique value propositions, innovative business models, and the principles of the lean startup methodology. Unlike traditional approaches, lean startups focus on searching for the right business model, constantly testing, revising, and gathering customer feedback to rapidly iterate and refine products. This approach significantly reduces the risk of launching products that don't meet market needs, ensuring that we build solutions that truly resonate with our customers.",
         link: "https://www.linkedin.com/posts/lilanofficial_business-climate-entrepreneurship-activity-7229988870195490816-abBZ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/climate-entrepreneurship.png",
+        backup_image: "https://drive.google.com/file/d/1qE0lMNqPFrMTfL4XlX_g3djqLPCiHopp/view?usp=drive_link",
       },
     ],
   },
@@ -1483,7 +1624,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/vítkovice.png",
     slides: [
       {
-        date: "",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Explored the industrial area of Vítkovice",
@@ -1491,7 +1632,7 @@ const impacts = [
         description:
           "During my recent visit to the Czech Republic, I explored the industrial area of Vítkovice. Once neglected and abandoned, industrial zones like Vítkovice have become significant parts of Europe’s cultural heritage. Many of these areas have undergone remarkable transformations, evolving from zones of darkness and disuse into vibrant attractions where visitors of all ages can learn about this chapter of history.",
         link: "https://www.linkedin.com/posts/lilanofficial_robot-science-technology-activity-7228576032373493760-HGKg/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/vítkovice.png",
+        backup_image: "https://drive.google.com/file/d/1_PjBGln2QHmK8WnOe869UPap6llg0phV/view?usp=drive_link",
       },
     ],
   },
@@ -1502,7 +1643,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/startup-highlight.png",
     slides: [
       {
-        date: "",
+        date: "August 2024",
         source_name: "Founders Lair",
         source_link: "https://www.linkedin.com/company/founderslair/posts/",
         title: "Startup Highlight",
@@ -1510,7 +1651,7 @@ const impacts = [
         description:
           "ELZIAN AGRO employs AI, ML, IoT, and automation to address challenges in agriculture such as adapting to climate change, identifying quality organic fertilizers, soil quality assessment, and optimizing limited resources like water and labor. They conducted market research involving over 60,000 farmers to tailor their solutions effectively.",
         link: "https://www.linkedin.com/posts/founderslair_startuphighlight-agritech-srilanka-activity-7223905886388281344-Qf-e?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/startup-highlight.png",
+        backup_image: "https://drive.google.com/file/d/1223JO1z_S5B21YRcdYjX6Y4nblgjSDem/view?usp=drive_link",
       },
     ],
   },
@@ -1521,7 +1662,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/meet-startup-eu.png",
     slides: [
       {
-        date: "",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Great Meeting with Moe Soliman, Our EU Affiliate Director in Malta",
@@ -1529,7 +1670,7 @@ const impacts = [
         description:
           "Had the pleasure of meeting with our Startup in EU 🇪🇺 Affiliate Director Moe Soliman based in Malta. We're currently engaged in comprehensive initiatives aimed at expanding innovative startups from the Global South into the European market. Our efforts encompass EU market analysis, incorporation strategy, regulatory compliance, partnership and networking, risk assessment, business planning, execution and oversight, as well as reporting and analysis. We're excited to open up new opportunities in Germany, France, the Netherlands, Malta, Spain, and other European countries.",
         link: "https://www.linkedin.com/posts/lilanofficial_albania-andorra-austria-activity-7217271638893940737-OAVv?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/meet-startup-eu.png",
+        backup_image: "https://drive.google.com/file/d/1ehXMctN0u0FNaoBsrjr5VPv62cVtEKbF/view?usp=drive_link",
       },
     ],
   },
@@ -1540,7 +1681,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/meet-malta.png",
     slides: [
       {
-        date: "",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Meeting with Koperattivi Malta",
@@ -1548,7 +1689,7 @@ const impacts = [
         description:
           "I had the pleasure of meeting with Koperattivi Malta to discuss the economic potential of cooperatives in facilitating a sustainable transition to regenerative and precision agriculture for food security. I would like to express my appreciation to the Koperattivi Malta Team for their professional engagement and proactive interaction during our initial meeting.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7214649124418203648-XIK-?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/meet-malta.png",
+        backup_image: "https://drive.google.com/file/d/11o7XsjGepzcENmJNBPzgJTvog6aS2K8L/view?usp=drive_link",
       },
     ],
   },
@@ -1559,7 +1700,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/international-conference.png",
     slides: [
       {
-        date: "",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -1568,7 +1709,7 @@ const impacts = [
         description:
           "It was a pleasure to participate in the international conference on Control, Decision and Information Technologies (CoDIT 2024) Valetta, Malta. Its purpose is to be a forum for technical exchange amongst scientists having interests in Control, Automation, Robotics, Optimization, Decision, Cybernetics, Computer Science and Information Technologies. This conference will provide a remarkable opportunity for the academic and industrial communities to address new challenges, share solutions and discuss future research directions. The technical program will include plenary lectures, regular technical sessions, and special sessions.",
         link: "https://www.linkedin.com/posts/lilanofficial_technology-automation-science-activity-7213911719327252480-tiD9?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/international-conference.png",
+        backup_image: "https://drive.google.com/file/d/1LniG0XNFNhz2Rpyz3bXRxRXjl6gT9pyD/view?usp=drive_link",
       },
     ],
   },
@@ -1580,7 +1721,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/address-ye-community.png",
     slides: [
       {
-        date: "",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Addressing the Ye! Community",
@@ -1588,7 +1729,7 @@ const impacts = [
         description:
           "It was a pleasure to contribute as a speaker for the recent Ye! Community Learn and Connect Session. These sessions, conducted every three months on the last Wednesday, are affiliated with the International Trade Centre and the Ye! Community.",
         link: "https://www.linkedin.com/posts/lilanofficial_youth-entrepreneurship-startups-activity-7211735366033137665-y7eh?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/address-ye-community.png",
+        backup_image: "https://drive.google.com/file/d/1jLQXEBJXIbs7u2exsv35mf-olGP6-660/view?usp=drive_link",
       },
     ],
   },
@@ -1599,7 +1740,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/science-startup-founder.png",
     slides: [
       {
-        date: "",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Science Startup Founder at the Falling Walls Science Summit",
@@ -1607,7 +1748,7 @@ const impacts = [
         description:
           "I am happy to be recognised as a finalist in the Science Startups category of the GlobalCall24 Falling Walls Foundation. This recognition brings me a step closer to the Science Breakthroughs of the Year, to be celebrated at the FallingWalls ScienceSummit24 from 7-9 November. Stay tuned for further updates.",
         link: "https://www.linkedin.com/posts/lilanofficial_globalcall24-fallingwalls-sciencesummit24-activity-7207426507940536320-vuzw?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/science-startup-founder.png",
+        backup_image: "https://drive.google.com/file/d/1sT_z9I2J7DyL6r91RQsspsMviZ78kK2t/view?usp=drive_link",
       },
     ],
   },
@@ -1626,8 +1767,7 @@ const impacts = [
         description:
           "Elzian Agro, a precision agriculture company based in Sri Lanka, was selected as a finalist in the World Bank Youth Innovation Challenge under the category of water solutions for a new climate reality. Elzian Agro was selected among the top 40 finalists in the World Bank Youth Innovation Challenge. Their excellent innovation was chosen from over 1,600 registrations from 95 countries and more than 300 outstanding applications from 63 countries.",
         link: "https://profitmagazine.lk/elzian-agro-named-finalist-in-world-bank-youth-innovation-challenge/",
-        backup_image:
-          "assets/img/impact/innovation-social/backup/profit-magazine.png-bank-youth-innovation.png",
+        backup_image: "https://drive.google.com/file/d/1h3GPavBoQl65C1CDDODf2K3nMuIcviW4/view?usp=drive_link",
       },
     ],
   },
@@ -1639,7 +1779,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/addressing-world-summit.png",
     slides: [
       {
-        date: "",
+        date: "June 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -1648,10 +1788,10 @@ const impacts = [
         description:
           "It is a pleasure to contribute to the WSA session at the World Summit on the Information Society (WSIS Process) Forum High-Level Event in Geneva, Switzerland, co-hosted by the International...",
         link: "https://www.linkedin.com/posts/lilanofficial_wsa-wsis-itu-activity-7200804008263917570-oDjz?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/addressing-world-summit.png",
+        backup_image: "https://drive.google.com/file/d/1vAQABH9UpS4AbVtsFJ7w4231995diOHn/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "May 2024",
         source_name: "WSIS+20 Forum High-Level Event 2024",
         source_link: "https://www.itu.int/net4/wsis/forum/2024/",
         title: "Youth Engagement Around WSIS Action Lines",
@@ -1659,7 +1799,7 @@ const impacts = [
         description:
           'The WSIS Action Lines, outline steps to leverage information and communication technologies (ICTs) for sustainable development. The WSA  session titled "Youth Engagement Around WSIS Action Lines" focuses on the critical role young people play in advancing the Tunis agenda, specifically around action line C7.',
         link: "https://www.itu.int/net4/wsis/forum/2024/Agenda/Session/185",
-        backup_image: "assets/img/impact/innovation-social/backup/wsis-forum.png",
+        backup_image: "https://drive.google.com/file/d/1Xk0u5_hBzzeqT9lemhdHJ4G2TgYHxuBk/view?usp=drive_link",
       },
     ],
   },
@@ -1670,7 +1810,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/global-leadership-summit.png",
     slides: [
       {
-        date: "",
+        date: "June 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Addressing the Global Leadership Summit 2024",
@@ -1678,7 +1818,7 @@ const impacts = [
         description:
           "It is such a pleasure to address the Global Leadership Summit representing ELZIAN AGRO, which is taking place this coming week in partnership with - ForbesBLK, United Nations Association of the United States of America, UNDP , Youth4Climate, World Health Organization Partnership for Maternal and Child Health, Ye! Community - International Trade Centre, Partnership for the Goals - Goal17 Mentoring, Theirworld Global Youth Ambassadors, UNITE 2030, and Bolycthier .",
         link: "https://www.linkedin.com/posts/lilanofficial_socialimpact-sdgs-youth-activity-7194714123773906944-hjFp?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/global-leadership-summit.png",
+        backup_image: "https://drive.google.com/file/d/17G22K6hwWcKX5jgSb11FuN_xsNPUT5OP/view?usp=drive_link",
       },
     ],
   },
@@ -1689,7 +1829,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/food-challengers.png",
     slides: [
       {
-        date: "",
+        date: "July 2024",
         source_name: "Elzian Agro",
         source_link: "https://www.linkedin.com/company/elzianagro/posts/",
         title: "We are the finalists of Food Tech Challengers 2024",
@@ -1697,7 +1837,7 @@ const impacts = [
         description:
           "Big news! We're rocketing to the finals of Food Tech Challengers 2024! 🚀 Mark your calendars for May 28-29, 2024 (Warsaw, Poland) and come support us at the event as we will pitch on stage!",
         link: "https://www.linkedin.com/posts/elzianagro_ftc2024-food-agriculture-activity-7194706426177466368-idki?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/food-challengers.png",
+        backup_image: "https://drive.google.com/file/d/1IdvW4u2qlUfC07v53S8j34h-YmcWaSnV/view?usp=drive_link",
       },
     ],
   },
@@ -1715,7 +1855,7 @@ const impacts = [
         image: "assets/img/impact/innovation-social/ye-community-participants.png",
         description: "",
         link: "https://social.yecommunity.com/page/faqs-1631efab-82fb-4014-8041-a196073bb453?lang=es",
-        backup_image: "assets/img/impact/innovation-social/backup/ye-community-participants.png",
+        backup_image: "https://drive.google.com/file/d/1Umi2ZbhlOz181YyMOICbXpmYtILLdRj4/view?usp=drive_link",
       },
     ],
   },
@@ -1726,7 +1866,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/seed-transformation-program.png",
     slides: [
       {
-        date: "",
+        date: "May 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "The Seed Transformation Program",
@@ -1734,7 +1874,7 @@ const impacts = [
         description:
           "The Seed Transformation Program caters specifically to established enterprises, offering a robust curriculum led by esteemed faculty from Stanford University Graduate School of Business and experienced advisors.",
         link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-startup-business-activity-7192213003562328064-_9YK?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/seed-transformation-program.png",
+        backup_image: "https://drive.google.com/file/d/1q13ujulkkbA7Yi_-PHR1k-SS37W0sLY1/view?usp=drive_link",
       },
     ],
   },
@@ -1745,7 +1885,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/youth-ecopreneur-programme.png",
     slides: [
       {
-        date: "",
+        date: "September 2024",
         source_name: "Ye! Community",
         source_link: "https://www.linkedin.com/company/ye-community/posts/",
         title: "Participant Feature #YECO 2024",
@@ -1753,10 +1893,10 @@ const impacts = [
         description:
           "Elzian Agro offers IoT monitoring systems and automation for efficient agricultural operations, supporting smallholder farmers with sustainable solutions.",
         link: "https://www.linkedin.com/posts/ye-community_greeninnovation-youthecopreneurs-generationrestoration-activity-7229095428045090817-CjMe?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/youth-ecopreneur-programme.png",
+        backup_image: "https://drive.google.com/file/d/1QLaHGJAOKKY9AYkt3SrUwiLWllZapKQR/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "May 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Proud to have been selected for #YECO 2024",
@@ -1764,7 +1904,7 @@ const impacts = [
         description:
           "Excited to share that I've been chosen for the Ye! Youth Ecopreneur Programme 2024 powered by the Ye! Community / International Trade Centre and G20 Global Land Initiative.",
         link: "https://www.linkedin.com/posts/lilanofficial_yeco-yeco24-yeyouthecopreneur-activity-7188950771411890177-IIA9?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/YECO-selected.png",
+        backup_image: "https://drive.google.com/file/d/1kVVHmYHjsmPid_LO9NSiJzn-HltwHxiX/view?usp=drive_link",
       },
     ],
   },
@@ -1784,7 +1924,7 @@ const impacts = [
         description:
           "Sri Lanka, known for its incredible culture, amazing nature and kind people is also home to hundreds of startups. Here, we take a closer look at ten startups in Sri Lanka that are worth keeping an eye on.",
         link: "https://techround.co.uk/startups/10-startups-in-sri-lanka-to-watch/",
-        backup_image: "assets/img/impact/innovation-social/backup/ten-startup.png",
+        backup_image: "https://drive.google.com/file/d/1ZzhEZ9FtOiUp0vEVogeqcbj-P4biE10g/view?usp=drive_link",
       },
     ],
   },
@@ -1795,7 +1935,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/meet-parmesh-snah.png",
     slides: [
       {
-        date: "",
+        date: "April 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Productive Discussion with Parmesh Shah on Sri Lankan Agricultural Challenges and Solutions",
@@ -1803,7 +1943,7 @@ const impacts = [
         description:
           "I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions in the context of Sri Lankan agriculture. I would like to extend my appreciation to Sunil Madan, MPA for arranging the meeting.",
         link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/meet-parmesh-snah.png",
+        backup_image: "https://drive.google.com/file/d/1ikTbzLFleaS_Hd8CdBy_QAJRC5hC-x9h/view?usp=drive_link",
       },
     ],
   },
@@ -1814,7 +1954,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/UNLEASH-rwanda.png",
     slides: [
       {
-        date: "",
+        date: "January 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "UNLEASH Plus Accelerator 2023 in Rwanda",
@@ -1822,7 +1962,7 @@ const impacts = [
         description:
           "A few weeks ago, I had the privilege to be part of the UNLEASH+ Accelerator Program in the land of the Thousand Hills, Kigali, Rwanda.",
         link: "https://www.linkedin.com/posts/lilanofficial_sdgs-unleash-startup-activity-7143356516790616064-P9h9?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/UNLEASH-rwanda.png",
+        backup_image: "https://drive.google.com/file/d/1c0t87gdI4_dQfRqW1RZul1-wC7ab9t4y/view?usp=drive_link",
       },
     ],
   },
@@ -1833,14 +1973,14 @@ const impacts = [
     image: "assets/img/impact/innovation-social/UNLEASH-certificate.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Certificate of Participation",
         image: "assets/img/impact/innovation-social/UNLEASH-certificate.png",
         description: "",
         link: "https://www.linkedin.com/posts/lilanofficial_unleash-activity-7025044954561318912-zlpO?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/UNLEASH-certificate.png",
+        backup_image: "https://drive.google.com/file/d/1XrWkiNZ9Jj17BcE9fnqrtwU4bpEHVl_O/view?usp=drive_link",
       },
     ],
   },
@@ -1851,7 +1991,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/conclusion-linkedin.png",
     slides: [
       {
-        date: "",
+        date: "January 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "The conclusion of COP28 UAE",
@@ -1859,7 +1999,7 @@ const impacts = [
         description:
           "The conclusion of COP28 UAE in the UAE stands as a timely reminder of the formidable climate challenges ahead, ones that have already touched us all. Amidst this awareness, however, lie significant victories that merit recognition.",
         link: "https://www.linkedin.com/posts/lilanofficial_climate-action-cop28-activity-7142878878489821184-MPbl?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/conclusion-linkedin.png",
+        backup_image: "https://drive.google.com/file/d/15ozN9_OaM4LYUNnfkSJKNM-N-g6yaw_9/view?usp=drive_link",
       },
     ],
   },
@@ -1870,7 +2010,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/founder-institute-growing-startup.png",
     slides: [
       {
-        date: "",
+        date: "December 2023",
         source_name: "Founder Institute",
         source_link: "https://www.linkedin.com/school/the-founder-institute/posts/",
         title: "Discover Asia and Australia's fastest-growing startups in our latest FI50 Report!",
@@ -1878,7 +2018,7 @@ const impacts = [
         description:
           "We're highlighting top startups from Asia and Australia in our global portfolio, showcasing their significant growth over the past year...",
         link: "https://www.linkedin.com/posts/the-founder-institute_meet-our-top-10-startups-from-asia-and-australia-activity-7135713420305195008--lUS?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/founder-institute-growing-startup.png",
+        backup_image: "https://drive.google.com/file/d/1KZbvOFKE_2Ilqq8jHbHhN8gPKLTP3A-3/view?usp=drive_link",
       },
       {
         date: "",
@@ -1889,7 +2029,7 @@ const impacts = [
         description:
           "Elzian Agro provides smart agronomy solution to farmers that reduces their crop wastage. In 2023 it was honored with multiple national and global awards, including Expo City Dubai.",
         link: "https://fi.co/50/elzian-agro",
-        backup_image: "assets/img/impact/innovation-social/backup/fi-elzian-agro.png",
+        backup_image: "https://drive.google.com/file/d/15n7NqyYgRK8kHJ6vyTw9QXmQ576UWH4R/view?usp=drive_link",
       },
     ],
   },
@@ -1900,7 +2040,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/global-hey-instagram.png",
     slides: [
       {
-        date: "",
+        date: "December 2, 2022",
         source_name: "The HEY Campaign",
         source_link: "https://www.instagram.com/wearehey/?e=09b4fc84-9ad2-409c-9066-24fe727070ec&g=5",
         title: "Meet our Global HEY Climate Fund Finalist Lilan Dayananda of Sri Lanka",
@@ -1908,7 +2048,7 @@ const impacts = [
         description:
           "His project Earth Restoration LifeForce is the world's first Bio-Currency. As the leading technology partner for the International Analog Forestry Network, this group has analyzed decades (40 years) of data and built a correlation for our methodology to quantify the human contribution for Oxygen production and clean water cycling to the atmosphere with the help from international and local scientists and experts in Forestry, Analog forestry, Agroforestry, and regenerative farming.",
         link: "https://www.instagram.com/p/ClpA9wNyxXi/?utm_source=ig_web_copy_link",
-        backup_image: "assets/img/impact/innovation-social/backup/global-hey-instagram.png",
+        backup_image: "https://drive.google.com/file/d/1LVt7qCsjoO2YB3VlP19DieLcvkuUoByb/view?usp=drive_link",
       },
     ],
   },
@@ -1919,7 +2059,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/spiralation.png",
     slides: [
       {
-        date: "",
+        date: "December 2023",
         source_name: "Spiralation",
         source_link: "https://www.linkedin.com/company/spiralation/posts/",
         title: "Celebrating Entrepreneurs Worldwide",
@@ -1927,7 +2067,7 @@ const impacts = [
         description:
           "Embrace the chaos, celebrate the victories, and dance to the rhythm of your own entrepreneurial journey. Here's to the Mavericks making waves!",
         link: "https://www.linkedin.com/posts/spiralation_gew2023-gewsrilanka-entrepreneurship-activity-7130809037218086912-iJCi/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/spiralation.png",
+        backup_image: "https://drive.google.com/file/d/1es2l-ldOcCXTGb51oAVK0ef50-l_22gM/view?usp=drive_link",
       },
     ],
   },
@@ -1938,7 +2078,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/INFOTEL-exhibition.png",
     slides: [
       {
-        date: "",
+        date: "December 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "INFOTEL 2023 ICT Exhibition",
@@ -1946,7 +2086,7 @@ const impacts = [
         description:
           "INFOTEL 2023 ICT Exhibition, organised by the Federation of Information Technology Industry Sri Lanka (FITIS), themed ‘Fuelling the Digital Economy, will focus on key areas of the digital economy to support the economy through intelligent and modern technology. The exhibition will also cover digital government, smart education, smart health solutions, cyber security, agritech, artificial intelligence (AI), smart cities, green energy, and others.",
         link: "https://www.linkedin.com/posts/lilanofficial_informationtechnology-informationsecurity-activity-7127235218385637376-lJtI/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/INFOTEL-exhibition.png",
+        backup_image: "https://drive.google.com/file/d/1hDJc2R0gdoUM0rUj2rh3KqQMjimFIiSB/view?usp=drive_link",
       },
     ],
   },
@@ -1957,7 +2097,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/great-journey-elzian-agro.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "Elzian Agro",
         source_link: "https://www.linkedin.com/company/elzianagro/posts/",
         title: "Grateful for the Journey with Stanford Seed",
@@ -1965,7 +2105,7 @@ const impacts = [
         description:
           "Grateful for the incredible journey of growth and learning through the Stanford Seed. 🚀 We had the privilege of meeting our Stanford Seed Spark mentor, Mr. PN Subramanian, who has been an invaluable guide on this entrepreneurial adventure. 🌟",
         link: "https://www.linkedin.com/feed/update/urn:li:activity:7127087911107268608/",
-        backup_image: "assets/img/impact/innovation-social/backup/great-journey-elzian-agro.png",
+        backup_image: "https://drive.google.com/file/d/10s1lnSvCbsFvIau5RXdHz9Ke2wSTMTya/view?usp=drive_link",
       },
     ],
   },
@@ -1976,7 +2116,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/CERN-laboratory.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "CERN Laboratory",
@@ -1984,7 +2124,7 @@ const impacts = [
         description:
           "Founded in 1954, the CERN laboratory sits astride the Franco-Swiss border near Geneva. It was one of Europe's first joint ventures. At CERN, the European Organization for Nuclear Research, physicists and engineers are probing the fundamental structure of the universe. They use the world's largest and most complex scientific instruments to study the basic constituents of matter the fundamental particles. The particles are made to collide together at close to the speed of light. The process gives the physicists clues about how the particles interact, and provides insights into the fundamental laws of nature.",
         link: "https://www.linkedin.com/posts/lilanofficial_cern-nuclear-nuclearenergy-activity-7123375218328289280-dw55?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/CERN-laboratory.png",
+        backup_image: "https://drive.google.com/file/d/1j7or0i5wYUnGtbkXNkQ-8Eb2tGea7mTI/view?usp=drive_link",
       },
     ],
   },
@@ -1995,14 +2135,14 @@ const impacts = [
     image: "assets/img/impact/innovation-social/news-first-media-bio-currency.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "News First Media",
         source_link: "https://www.youtube.com/@newsfirst.english",
         title: "Introducing Bio Currency to the world",
         image: "assets/img/impact/innovation-social/news-first-media-bio-currency.png",
         description: "",
         link: "https://www.youtube.com/watch?v=E1NJ7B2fbpQ&ab_channel=NewsfirstEnglish",
-        backup_image: "assets/img/impact/innovation-social/backup/news-first-media-bio-currency.png",
+        backup_image: "https://drive.google.com/file/d/1wzQaLB3_MrpWDfPD-FiYGtbZ7xYoCPLm/view?usp=drive_link",
       },
     ],
   },
@@ -2021,7 +2161,7 @@ const impacts = [
         description:
           "Businesscafe - ELZIAN AGRO, a leading agricultural solutions company, has made waves in the industry by emerging as one of the top finalists in the fiercely competitive Expo City Dubai ExpoLive Innovation Programme in June 2023.",
         link: "https://businesscafe.lk/business-news/food-beverage/item/12854-elzian-agro-secures-innovation-grant-in-expo-live-innovation-programme",
-        backup_image: "assets/img/impact/innovation-social/backup/business-cafe-agri-solution.png",
+        backup_image: "https://drive.google.com/file/d/1ls5yIytZxDJzLwp-bk9ZxOOnMKQrc6c9/view?usp=drive_link",
       },
     ],
   },
@@ -2040,7 +2180,7 @@ const impacts = [
         description:
           "ELZIAN AGRO soared to new heights, claiming the prestigious title of National Winner in the category of Best Disruptive Product Innovation. Their transformative product has revolutionized traditional agricultural practices, leaving an indelible mark on the industry. By pushing boundaries and introducing cutting-edge technologies, ELZIAN AGRO has redefined the possibilities within farming. Their groundbreaking solutions have elevated efficiency, productivity, and sustainability to unprecedented levels.",
         link: "http://english.lankanewsnetwork.com/?p=147",
-        backup_image: "assets/img/impact/innovation-social/backup/lanka-news-network-technology.png",
+        backup_image: "https://drive.google.com/file/d/15wodGnpV79NPFOFStwuXYneLyvGbIYFS/view?usp=drive_link",
       },
     ],
   },
@@ -2059,7 +2199,7 @@ const impacts = [
         description:
           "ELZIAN AGRO, a leading agricultural solutions company, has achieved a remarkable feat by emerging as one of the top finalists in the highly competitive Expo City Dubai ExpoLive Innovation Programme in June 2023. This prestigious recognition comes after an intensive selection process that saw thousands of applicants from 123 countries vying for the honor.",
         link: "https://newsasia.lk/elzian-agro-honored-as-top-selected-finalist-in-dubais-expo-live-innovation-programme/",
-        backup_image: "assets/img/impact/innovation-social/backup/news-asia-expo-live.png",
+        backup_image: "https://drive.google.com/file/d/1jLJO5WY_NRuW2OBJfRauViOhXwWXjQDX/view?usp=drive_link",
       },
     ],
   },
@@ -2078,7 +2218,7 @@ const impacts = [
         description:
           "ELZIAN AGRO, the trailblazing agricultural solutions company, has emerged as one of the top finalists in the fiercely competitive Expo City Dubai ExpoLive Innovation Programme. The announcement, made on the 28th of June 2023, has catapulted ELZIAN AGRO to new heights, solidifying their position as an innovator committed to a sustainable and transformative future.",
         link: "https://english.bizreport.lk/elzian-agros-extraordinary-achievement-in-expo-city-dubais-innovation-programme/",
-        backup_image: "assets/img/impact/innovation-social/backup/biz-report-expo-live.png",
+        backup_image: "https://drive.google.com/file/d/13eHlzGCh0CL44B999ZCEbrdsggCw4IPF/view?usp=drive_link",
       },
     ],
   },
@@ -2097,7 +2237,7 @@ const impacts = [
         description:
           "ELZIAN AGRO, a prominent player in the agricultural solutions sector, has achieved an extraordinary feat by securing a coveted spot as one of the top finalists in the highly competitive Expo City Dubai ExpoLive Innovation Programme. The announcement, made on June 28th, 2023, is a testament to ELZIAN AGRO’s unwavering commitment to driving innovation and sustainability in the industry.",
         link: "https://english.lankanewsnetwork.com/?p=160",
-        backup_image: "assets/img/impact/innovation-social/backup/lanka-news-network-elzian-agro.png",
+        backup_image: "https://drive.google.com/file/d/1KdbNDilEaRltIRzATIqK4nseUrz9E8_X/view?usp=drive_link",
       },
     ],
   },
@@ -2116,7 +2256,7 @@ const impacts = [
         description:
           "ELZIAN AGRO, a prominent player in the agricultural solutions sector, has achieved an extraordinary feat by securing a coveted spot as one of the top finalists in the highly competitive Expo City Dubai ExpoLive Innovation Programme. The announcement, made on June 28th, 2023, is a testament to ELZIAN AGRO’s unwavering commitment to driving innovation and sustainability in the industry.",
         link: "http://ceylontribune.com/?p=243",
-        backup_image: "assets/img/impact/innovation-social/backup/ceylon-tribune-expo-live.png",
+        backup_image: "https://drive.google.com/file/d/1FzoV0pzLKykFeT9syIqbuqokqlU7TRpq/view?usp=drive_link",
       },
     ],
   },
@@ -2127,7 +2267,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/expo-live-innovation-programme.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "Elzian Agro",
         source_link: "https://www.linkedin.com/company/elzianagro/posts/",
         title: "ELZIAN AGRO Named Top Finalist in Expo City Dubai's Expo Live Innovation Programme",
@@ -2135,17 +2275,17 @@ const impacts = [
         description:
           "We are thrilled and deeply privileged to announce that ELZIAN AGRO has emerged as one of the top finalists in the highly competitive Expo City Dubai ExpoLive Innovation Programme held in Dubai. This remarkable achievement comes after a rigorous selection process that involved over thousands of applicants from 123 countries.",
         link: "https://www.linkedin.com/posts/elzianagro_expolive-terra-expocitydubai-activity-7065784154159775744-rBK-/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/expo-live-innovation-programme.png",
+        backup_image: "https://drive.google.com/file/d/1lWkH0AQNJxqsJpRZ8SL2PEK5gljQWpZA/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "November 2023",
         source_name: "",
         source_link: "",
         title: "Expo Live Present",
         image: "assets/img/impact/innovation-social/expo-live-present.png",
         description: "",
         link: "https://drive.google.com/file/d/1FoF2CpQJB0w6DsxZPMyMKeko160hbtHv/view",
-        backup_image: "assets/img/impact/innovation-social/backup/expo-live-present.png",
+        backup_image: "https://drive.google.com/file/d/1rAI90USULpQ_Hs_rnqWLumqL6U9V3CCG/view?usp=drive_link",
       },
     ],
   },
@@ -2165,7 +2305,7 @@ const impacts = [
         description:
           "ELZIAN AGRO, a trailblazer in the field agricultural technology, emerged as a shining star at the prestigious SLASSCOM National Ingenuity Awards 2023. The event, which celebrated groundbreaking innovation and exceptional achievements in the tech industry...",
         link: "https://www.lankabusinessnews.com/elzian-agro-is-championing-innovation-and-impact-in-precision-agriculture-technology/",
-        backup_image: "assets/img/impact/innovation-social/backup/championing-innovation.png",
+        backup_image: "https://drive.google.com/file/d/1dNs4j9-eg8sBNotcg_v-rGlsM3HuK5JG/view?usp=drive_link",
       },
     ],
   },
@@ -2184,7 +2324,7 @@ const impacts = [
         description:
           "Established in 2021, ELZIAN AGRO aims to improve the lives of communities through a data-driven digitalized agricultural system, harnessing technologies such IoT, AI, ML, GIS and Blockchain, to provide effective, sustainable solutions to end hunger in all its forms. Their validated (patent-pending) IoT-enabled monitoring devices allow farmers to monitor soil and liquid composition in real-time, predict issues before they happen and make informed decisions to optimize crop yields, while quantifying farmers’ contribution to the primary ecosystem services. ELZIAN AGRO have reached 100,000+ farmers with their awareness campaign.",
         link: "https://www.expocitydubai.com/en/global-innovators/elzian-agro",
-        backup_image: "assets/img/impact/innovation-social/backup/expo-city-dubai-recognition.png",
+        backup_image: "https://drive.google.com/file/d/1SKvl2mjpbDMdk3Oe_r8lpmgTwpvDNbog/view?usp=drive_link",
       },
     ],
   },
@@ -2204,7 +2344,7 @@ const impacts = [
         description:
           "Elzian Agro, a leading agricultural solutions company, was recognised as one of the top finalists in the prestigious Expo City Dubai ExpoLive Innovation Program...",
         link: "https://www.ft.lk/sectors/Elzian-Agro-becomes-one-of-top-finalists-in-Expo-City-Dubai-ExpoLive-Innovation-Program/20-750577",
-        backup_image: "assets/img/impact/innovation-social/backup/expoLive-innovation-program-daily-ft.png",
+        backup_image: "https://drive.google.com/file/d/1w5Xlq2CXBmsL67uT4cY3u-9qqeoEnypN/view?usp=drive_link",
       },
     ],
   },
@@ -2223,7 +2363,7 @@ const impacts = [
         description:
           "Established in 2021, ELZIAN AGRO aims to improve the lives of communities through a data-driven digitalized agricultural system, harnessing technologies such IoT, AI, ML, GIS and Blockchain, to provide effective, sustainable solutions to end hunger in all its forms. Their validated (patent-pending) IoT-enabled monitoring devices allow farmers to monitor soil and liquid composition in real-time, predict issues before they happen and make informed decisions to optimize crop yields, while quantifying farmers’ contribution to the primary ecosystem services. ELZIAN AGRO have reached 100,000+ farmers with their awareness campaign.",
         link: "https://www.expocitydubai.com/en/global-innovators/elzian-agro/",
-        backup_image: "assets/img/impact/innovation-social/backup/dubai-expo-live.png",
+        backup_image: "https://drive.google.com/file/d/1ETshxrPh5LlqJOqt0Q2kmdTu2bXr9x6D/view?usp=drive_link",
       },
     ],
   },
@@ -2242,7 +2382,7 @@ const impacts = [
         description:
           "Earth Restoration is a company that designs Adaptive Resilient Ecosystem Areas (AREAs) that are useful for humans and the planet. JOIN US!",
         link: "https://restore.earth/",
-        backup_image: "assets/img/impact/innovation-social/backup/earth-restoration-incorporation.png",
+        backup_image: "https://drive.google.com/file/d/1m3Ix03jQQEBGCC8nDOXUj_v0qRyrFYMp/view?usp=drive_link",
       },
     ],
   },
@@ -2261,7 +2401,7 @@ const impacts = [
         description:
           "Lilan Dayananda is an international award-winning youth social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South by the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
         link: "https://resolutionproject.org/team/lilan-dayananda/",
-        backup_image: "assets/img/impact/innovation-social/backup/resolution-project.png",
+        backup_image: "https://drive.google.com/file/d/1c_gHvTlAIy1u3nXPd_XEDjTUYLKhsJaO/view?usp=drive_link",
       },
     ],
   },
@@ -2272,7 +2412,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/vidulakara-uok.png",
     slides: [
       {
-        date: "",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Guest Speaker for Business Segment of Vidulakara TV",
@@ -2280,7 +2420,7 @@ const impacts = [
         description:
           "I am grateful to the Office of the Vice-Chancellor, Senior Professor Nilanthi de Silva (Vice Chancellor of the University of Kelaniya Sri Lanka), and the Communication and Media Unit for the invitation to participate in the Business Segment of Vidulakara TV. My sincere thanks also to Senior Lecturer Saman Rajapaksha (Director of the Media Unit), for his involvement. A special appreciation goes to Banuka Karunarathna from TV Derana for leading the session with such engaging interaction.",
         link: "https://www.linkedin.com/posts/lilanofficial_leadership-business-insights-activity-7228383979157041152-xc_g/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/vidulakara-uok.png",
+        backup_image: "https://drive.google.com/file/d/1YNhFRlvnT1KQOXXuNE6PBeDTuHlmReTn/view?usp=drive_link",
       },
     ],
   },
@@ -2292,7 +2432,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/exploring-cooperative-remediation.png",
     slides: [
       {
-        date: "",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Exploring Cooperative Remediation and Sustainable Lunar Activities at UNOOSA Conference",
@@ -2300,7 +2440,7 @@ const impacts = [
         description:
           "Yesterday was productive as I explored the process and principles for cooperative remediation of massive derelicts. Today, I'm eager to dive into more information on Earth Observation Visualizations, a side event organized by the United States. Additionally, I look forward to reflecting on the United Nations Office for Outer Space Affairs (UNOOSA) Conference on Sustainable Lunar Activities, Priorities, and Capacity Building. This joint side event is co-organized by the Secure World Foundation (SWF) and the Lunar Policy Platform (LPP), with support from the Republic of Korea.",
         link: "https://www.linkedin.com/posts/lilanofficial_space-peace-food-activity-7211298002626351104-21-A/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/exploring-cooperative-remediation.png",
+        backup_image: "https://drive.google.com/file/d/1xygu87qnriYpzwSZfuTP0RvfJb-0v__t/view?usp=drive_link",
       },
     ],
   },
@@ -2311,7 +2451,7 @@ const impacts = [
     image: "assets/img/impact/innovation-social/elzian-agro-page.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Precision Agriculture",
@@ -2319,7 +2459,7 @@ const impacts = [
         description:
           "Precision agriculture companies are at the forefront of revolutionizing the way we produce food. They use cutting-edge technology, such as drones, sensors, and artificial intelligence, to gather data that can help farmers make informed decisions about their crops. However, despite their advanced technology, precision agriculture companies should not be afraid to get their hands dirty, or, more accurately, their office suits.",
         link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-data-activity-7051952614443270144-NItR/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/innovation-social/backup/precision-agriculture-linkedin.png",
+        backup_image: "https://drive.google.com/file/d/1SEPnnGnIyyaOYSrAAamPcHURQjy-9kfh/view?usp=drive_link",
       },
       {
         date: "",
@@ -2330,19 +2470,37 @@ const impacts = [
         description:
           "ELZIAN AGRO provides smart agronomy solutions to support mass cultivation farmers to monitor and automate their farmland. We offer customized monitoring information and automation solutions through trending digital technologies to optimize our customers' harvest and productively utilize their resources. According to United Nations Sustainable Reports, farmers negatively impact due to extreme weather changes and limited resources.",
         link: "https://agro.elzian.com/about",
-        backup_image: "assets/img/impact/innovation-social/backup/elzian-agro-page.png",
+        backup_image: "https://drive.google.com/file/d/1kh3iKdOu4EfZ84EsWa9gJ2drXGJV9bdR/view?usp=drive_link",
       },
     ],
   },
 
   {
     filter: "filter-food-agriculture",
-    id: "4.26",
-    title: "Participating in the Food Forum during the 79th United Nations General Assembly",
-    image: "assets/img/impact/food-agriculture-forestry/Global Food Security.png",
+    id: "4.27",
+    title: "Featuring on the MOSAICUE Magazine: Nutrition & Food Security Edition",
     slides: [
       {
-        date: "",
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Presenting MOSAICUE Magazine to Dr. Chelsea Clinton: A Call to Action on Climate Change, Nutrition, and Healthcare",
+        image: "assets/img/impact/food-agriculture-forestry/Featuring on the MOSAICUE Magazine.png",
+        description:
+          "It was an incredible honor to present MOSAICUE Magazine to Dr. Chelsea Clinton during the Clinton Global Initiative Annual Meeting...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7251063029629366272-Id9d?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1WC62GMcZ-j_UbaGEM93yLTaNULtSEznv/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.26",
+    title: "Participating in the Food Forum during the 79th United Nations General Assembly",
+    slides: [
+      {
+        date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Addressing Global Food Security: Insights from the Food Forum at the UN General Assembly",
@@ -2350,7 +2508,7 @@ const impacts = [
         description:
           "I had the pleasure of attending the Food Forum at Rockefeller Plaza in New York, held during the 79th United Nations General Assembly. The global food security crisis is intensifying due to a confluence...",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-fao-activity-7247668774630252545-oG3x?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/Global Food Security.png",
+        backup_image: "https://drive.google.com/file/d/1c2bLejDXWTVuRna6xSB3oMgbZrxQluD0/view?usp=drive_link",
       },
     ],
   },
@@ -2361,7 +2519,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/Regenerative Agriculture Networking.png",
     slides: [
       {
-        date: "",
+        date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Reflections from the Regenerative Agriculture Networking Event in New York",
@@ -2369,8 +2527,7 @@ const impacts = [
         description:
           "I had the privilege of attending the Regenerative Agriculture Networking event in New York, USA, thanks to the kind invitation from my CGI mentor, Hugh Locke. During the gathering, we explored the current challenges and opportunities within regenerative agriculture from a global perspective.",
         link: "https://www.linkedin.com/posts/lilanofficial_regenerativeagriculture-sustainability-socialimpact-activity-7243885798142418944-Q1Wg?utm_source=share&utm_medium=member_desktop",
-        backup_image:
-          "assets/img/impact/food-agriculture-forestry/backup/Regenerative Agriculture Networking.png",
+        backup_image: "https://drive.google.com/file/d/17N9BzcOQAAcuxmZ29wDAuUKorr0Dd2zj/view?usp=drive_link",
       },
     ],
   },
@@ -2389,7 +2546,7 @@ const impacts = [
         description:
           "Lilan Dayananda, Managing Director and Chief Executive Officer of Elzian Agro, outlined the company’s ambitious vision to enter the Space Agriculture Sector during the 67th Session of the Committee on the Peaceful Uses of Outer Space (COPUOS) in Vienna, Austria. The session, held in 2024, continues to address space-related legal issues, promote sustainable space exploration, and enhance global collaboration in space science and technology. COPUOS plays a crucial role in developing international space law and fostering dialogue among nations on space governance.",
         link: "https://lankatalks.com/post/elzian-agro-explores-future-in-space-agriculture-at-copuos-session",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/lankatalks-agro.png",
+        backup_image: "https://drive.google.com/file/d/1sJtJwosvA7EDxE9-FL0jgjIK2u7PSYDq/view?usp=drive_link",
       },
     ],
   },
@@ -2409,7 +2566,7 @@ const impacts = [
         description:
           "Lilan Dayananda, the Managing Director and CEO of Elzian Agro, visited the National Museum of Agriculture in Ostrava, Czech Republic during the Moonshot Young Leaders Camp. Lilan was one of the youth social entrepreneurs who were selected for the Leadership Camp. This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges.",
         link: "https://profitmagazine.lk/lilan-dayananda-explores-agricultural-innovation-at-national-museum-of-agriculture-in-ostrava/",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/profitmagazine-museum.png",
+        backup_image: "https://drive.google.com/file/d/1_EYNqNXmJX5cQOwzGwq3zxb1eVsilzsE/view?usp=drive_link",
       },
     ],
   },
@@ -2421,7 +2578,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/youth-statement.png",
     slides: [
       {
-        date: "",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -2430,7 +2587,7 @@ const impacts = [
         description:
           "Observing and participating in the process of the Youth Statement on Sustainable Livestock Transformation at FAO in Rome, Italy. The sustainable transformation of livestock systems is imperative for achieving global food security, environmental sustainability, and economic stability. Youth involvement is not just beneficial but essential in this transition. ",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-youth-activity-7225268028211388416-6RqQ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/youth-statement.png",
+        backup_image: "https://drive.google.com/file/d/17WkxUiLWxRQJ-N8_NgN6ApZ5tl7SAGy1/view?usp=drive_link",
       },
     ],
   },
@@ -2442,7 +2599,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/FOODTECH.png",
     slides: [
       {
-        date: "",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -2451,7 +2608,7 @@ const impacts = [
         description:
           "It was a pleasant experience to participate in the FOODTECH high-level meeting at the United Nations Industrial Development Organization (UNIDO) in Vienna, Austria.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-tech-activity-7221954034960678912-L8hr/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/FOODTECH.png",
+        backup_image: "https://drive.google.com/file/d/1tkKs1PqoVM7USpvaWHMK-cMCK379VPzJ/view?usp=drive_link",
       },
     ],
   },
@@ -2462,7 +2619,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/elzian-agro-ai.png",
     slides: [
       {
-        date: "",
+        date: "August 2024",
         source_name: "Brandon Andrews",
         source_link: "https://www.linkedin.com/in/mrbrandonandrews/",
         title: "How ELZIAN AGRO uses AI Uses to Support Farmers",
@@ -2470,10 +2627,10 @@ const impacts = [
         description:
           "Lilan Dayananda shares how ELZIAN AGRO uses AI uses to support farmers in the latest episode of Impact with AI. ",
         link: "https://www.linkedin.com/posts/mrbrandonandrews_entrepreneurs-sustainabledevelopment-artificialintelligence-activity-7222249134651555840-Ap_l?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/elzian-agro-ai.png",
+        backup_image: "https://drive.google.com/file/d/1DSEobog6hOMKbDLsbgwKs4C_ONFt0myH/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "August 2024",
         source_name: "Elzian Agro",
         source_link: "https://www.linkedin.com/company/elzianagro/posts/",
         title:
@@ -2482,10 +2639,10 @@ const impacts = [
         description:
           'Our Managing Director Lilan Dayananda, appeared on "Impact with AI" and discussed the potential and current implications of AI for agriculture.',
         link: "https://www.linkedin.com/feed/update/urn:li:activity:7221080232315772929",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/impact-with-ai.png",
+        backup_image: "https://drive.google.com/file/d/1T58H-QqQddU4frhx74TqsY6oeQY_9os6/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Podcast Session with Brandon Andrews",
@@ -2493,7 +2650,7 @@ const impacts = [
         description:
           "My podcast session with Brandon Andrews is coming soon. Brandon is an entrepreneur, entertainment consultant, and policy expert. He meets thousands of entrepreneurs each year casting for ABC's Shark Tank ABC. He is cofounder and Chief Product Officer of Gauge - a mobile market research platform. Named a Global Innovation Fellow by the U.S. Department of State, ",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-sdg2-activity-7221077763934371840-EjXY?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/podcast-with-andrews.png",
+        backup_image: "https://drive.google.com/file/d/1hNUD78IEYuk53pL7X1YSP33kJN5xVAIV/view?usp=drive_link",
       },
     ],
   },
@@ -2505,7 +2662,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/national-museum.png",
     slides: [
       {
-        date: "",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Visit the National Museum of Agriculture in Ostrava, Czech Republic",
@@ -2513,7 +2670,7 @@ const impacts = [
         description:
           "It was a nice experience to visit the National Museum of Agriculture in Ostrava, Czech Republic. It offers expositions focused on food and agriculture machines. The third area of focus is Ostrava in the wider view of the region of northern Moravia and Bohemian Silesia. I also explained what we innovate at ELZIAN AGRO.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7220437738787856384-JTJQ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/national-museum.png",
+        backup_image: "https://drive.google.com/file/d/1YmlyEyMbuf6flzGzb3bCySQkEWtI-zqF/view?usp=drive_link",
       },
     ],
   },
@@ -2524,7 +2681,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/meet-malta.png",
     slides: [
       {
-        date: "",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Meeting with Koperattivi Malta",
@@ -2532,7 +2689,7 @@ const impacts = [
         description:
           " I had the pleasure of meeting with Koperattivi Malta to discuss the economic potential of cooperatives in facilitating a sustainable transition to regenerative and precision agriculture for food security. I would like to express my appreciation to the Koperattivi Malta Team for their professional engagement and proactive interaction during our initial meeting.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7214649124418203648-XIK-?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/meet-malta.png",
+        backup_image: "https://drive.google.com/file/d/1UU_dSWdQVuoD6z7n3sX8HM-mKwlr1nyD/view?usp=drive_link",
       },
     ],
   },
@@ -2543,7 +2700,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/food-ecosystems-accelerator.png",
     slides: [
       {
-        date: "",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "The Founder Institute Food Ecosystems Accelerator",
@@ -2551,7 +2708,7 @@ const impacts = [
         description:
           "The Founder Institute Food Ecosystems Accelerator provided an incredible opportunity to network with like-minded entrepreneurs on a global scale. As proud graduates of Founder Institute, we continuously leverage our synergies and optimize our growth through strategic affiliations. It’s always a pleasure to meet with Khalid Roumieh in person whenever we're in Dubai to discuss the progress of our ventures.",
         link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-networking-startup-activity-7207865987461763073-HPw1?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/food-ecosystems-accelerator.png",
+        backup_image: "https://drive.google.com/file/d/1-MDBLmmk5yzaDny3W8Vo1ooRK_do3-I2/view?usp=drive_link",
       },
     ],
   },
@@ -2562,7 +2719,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/precision-agro.png",
     slides: [
       {
-        date: "",
+        date: "June 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -2571,7 +2728,7 @@ const impacts = [
         description:
           "Food insecurity, affecting millions globally, is not just about a lack of food but also encompasses issues of access, knowledge, and support. Precision agriculture, which utilizes advanced technologies like climate-smart farming, data-driven techniques, and sustainable practices, can revolutionize food production by making it more efficient and resilient. However, technological solutions alone are insufficient.",
         link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-democracy-food-activity-7200943955910250496-IYGS?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/precision-agro.png",
+        backup_image: "https://drive.google.com/file/d/1ixcuAA0ObXe5xtkl2PUlGZvDnbyajrU0/view?usp=drive_link",
       },
     ],
   },
@@ -2590,7 +2747,7 @@ const impacts = [
         description:
           "Elzian Agro, a precision agriculture company based in Sri Lanka, was selected as a finalist in the World Bank Youth Innovation Challenge under the category of water solutions for a new climate reality. Elzian Agro was selected among the top 40 finalists in the World Bank Youth Innovation Challenge. Their excellent innovation was chosen from over 1,600 registrations from 95 countries and more than 300 outstanding applications from 63 countries.",
         link: "https://profitmagazine.lk/elzian-agro-named-finalist-in-world-bank-youth-innovation-challenge/",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/innovation-challenge.png",
+        backup_image: "https://drive.google.com/file/d/1Ba9-oJwM_a6llQqt1FyeatuEtq0NoS_6/view?usp=drive_link",
       },
     ],
   },
@@ -2602,7 +2759,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/anuga-partners-forum.png",
     slides: [
       {
-        date: "",
+        date: "June 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Anuga Partners Forum",
@@ -2610,7 +2767,7 @@ const impacts = [
         description:
           "During the latest Anuga Partners Forum, hosted by Koelnmesse GmbH and focused on Anuga Food Tech India, I had the pleasure of meeting Dr. Kingsley Bernard, Chairman and Chief Executive Officer of the Export Development Board (EDB). I took the opportunity to express my appreciation for his continuous support towards ELZIAN AGRO.",
         link: "https://www.linkedin.com/posts/lilanofficial_export-food-agriculture-activity-7197981542634176512-djp_?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/anuga-partners-forum.png",
+        backup_image: "https://drive.google.com/file/d/1Rw1utVcczQEO1b8eAZToFZh1pVsWCZyh/view?usp=drive_link",
       },
     ],
   },
@@ -2621,7 +2778,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/food-challengers.png",
     slides: [
       {
-        date: "",
+        date: "June 2024",
         source_name: "Elzian Agro",
         source_link: "https://www.linkedin.com/company/elzianagro/posts/",
         title: "We are the Finalissts of Foood Tech Challengers 2024",
@@ -2629,7 +2786,7 @@ const impacts = [
         description:
           "Big news! We're rocketing to the finals of Food Tech Challengers 2024! 🚀 Mark your calendars for May 28-29, 2024 (Warsaw, Poland) and come support us at the event as we will pitch on stage!",
         link: "https://www.linkedin.com/posts/elzianagro_ftc2024-food-agriculture-activity-7194706426177466368-idki?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/food-challengers.png",
+        backup_image: "https://drive.google.com/file/d/1p3_JAjn0N04IRmdv5QTofTw58vIx4nCS/view?usp=drive_link",
       },
     ],
   },
@@ -2641,7 +2798,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/meet-marie.png",
     slides: [
       {
-        date: "",
+        date: "June 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -2650,10 +2807,10 @@ const impacts = [
         description:
           "It was a pleasure to have had the opportunity to meet Marie Antonia von Schönburg, Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka...",
         link: "https://www.linkedin.com/posts/lilanofficial_delegation-germany-srilanka-activity-7194530994920562689-Y1xs?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/meet-marie.png",
+        backup_image: "https://drive.google.com/file/d/1I0ARj8XIGEo-WsPRTxUq23SCv-h8XkMo/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "June 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -2662,7 +2819,7 @@ const impacts = [
         description:
           "In a time when the world of nutrition is becoming increasingly global, and the importance of sustainability and healthy food is growing, it is crucial that we connect with one another to collectively find solutions. The latest Anuga Partners Forum hosted by Koelnmesse GmbH focused on the Anuga Food Tech India.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7194982140239888384-Yr2U?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/food-growing.png",
+        backup_image: "https://drive.google.com/file/d/1uYLMD8DkSy8_7RUNyJEpKSrQnHnDbjvn/view?usp=drive_link",
       },
     ],
   },
@@ -2673,7 +2830,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/Pitch2Fork.png",
     slides: [
       {
-        date: "",
+        date: "June 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Attend the Pitch2Fork Event in Dubai",
@@ -2681,10 +2838,10 @@ const impacts = [
         description:
           "It was a pleasure to attend the recent Pitch2Fork event in Dubai, UAE, where I had the opportunity to meet distinguished individuals such as Henry Gordon-Smith, CEO of Agritecture; Khalid Roumieh, CEO of Tech.Tracer ; and Roberto Vitón, Managing Director of Valoral Advisors.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-protein-activity-7194743457200947200-pgd1?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/Pitch2Fork.png",
+        backup_image: "https://drive.google.com/file/d/14rgNraICywiJiF93kRKFZaHcxxJICuG4/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "June 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "The Pitch2Fork event in Dubai",
@@ -2692,7 +2849,7 @@ const impacts = [
         description:
           "The Pitch2Fork event in Dubai culminated in resounding success, featuring distinguished speakers who shared invaluable insights.",
         link: "https://www.linkedin.com/posts/lilanofficial_pitch2fork-food-agriculture-activity-7193273074526359553-VvV2?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/Pitch2Fork-dubai.png",
+        backup_image: "https://drive.google.com/file/d/17wsAFY4H1Eh2DZYRYWx6cI6no4ymeqMG/view?usp=drive_link",
       },
     ],
   },
@@ -2712,7 +2869,7 @@ const impacts = [
         description:
           "Sri Lanka, known for its incredible culture, amazing nature and kind people is also home to hundreds of startups. Here, we take a closer look at ten startups in Sri Lanka that are worth keeping an eye on.",
         link: "https://techround.co.uk/startups/10-startups-in-sri-lanka-to-watch/",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/techround-startup.png",
+        backup_image: "https://drive.google.com/file/d/1K9xMj6kzPe-s5wu81qczI9Jz6IDppcbR/view?usp=drive_link",
       },
     ],
   },
@@ -2724,7 +2881,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/agriculture-intersects.png",
     slides: [
       {
-        date: "",
+        date: "April 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -2732,7 +2889,7 @@ const impacts = [
         image: "assets/img/impact/food-agriculture-forestry/agriculture-intersects.png",
         description: "",
         link: "https://www.linkedin.com/posts/lilanofficial_agriculture-food-tech-activity-7180118115521904640-E1Aq?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/agriculture-intersects.png",
+        backup_image: "https://drive.google.com/file/d/1Ku1DiXvB2khk8wGI0xrJRv3C97ubqakr/view?usp=drive_link",
       },
     ],
   },
@@ -2743,7 +2900,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/kick-off-partnership.png",
     slides: [
       {
-        date: "",
+        date: "April 2024",
         source_name: "Joseph A.",
         source_link: "https://www.linkedin.com/in/joseph-a-662016285/",
         title: "Officially kick off our partnership with The Commonwealth and the year of the youth project",
@@ -2751,10 +2908,10 @@ const impacts = [
         description:
           "We’ve worked for months to put together a world class line up designed to inspire, equip, and unleash young people to participate in the world’s most important industries. ",
         link: "https://www.linkedin.com/posts/joseph-a-662016285_agriculture-sustainability-digitalagriculture-activity-7176184384708849664-MEUd?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/kick-off-partnership.png",
+        backup_image: "https://drive.google.com/file/d/1ALGt614jvf50Vp6klIpIylMPVQqieR07/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "April 2024",
         source_name: "Elzian Agro",
         source_link: "https://www.linkedin.com/company/elzianagro/posts/",
         title: "Nurturing Agricultures for a Sustainable Future",
@@ -2762,7 +2919,7 @@ const impacts = [
         description:
           "Our Managing Director Lilan Dayananda will deliver a speech today at the interactive Agrivine webinar on unleashing youth potential in Agriculture.",
         link: "https://www.linkedin.com/feed/update/urn:li:activity:7176551534116106241",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/nurturing-agricultures.png",
+        backup_image: "https://drive.google.com/file/d/12GHH49xR08iPq2n-Z0O_DKnLLgFHmmr1/view?usp=drive_link",
       },
     ],
   },
@@ -2773,7 +2930,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/discussion-with-parmesh.png",
     slides: [
       {
-        date: "",
+        date: "April 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Productive Discussion on Sri Lankan Agriculture with Parmesh Shah",
@@ -2781,7 +2938,7 @@ const impacts = [
         description:
           "I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions in the context of Sri Lankan agriculture. I would like to extend my appreciation to Sunil Madan, MPA for arranging the meeting.",
         link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/discussion-with-parmesh.png",
+        backup_image: "https://drive.google.com/file/d/1j6RAOp70Rp41I0IqHrJwN30OnYZ9c66L/view?usp=drive_link",
       },
     ],
   },
@@ -2801,7 +2958,7 @@ const impacts = [
         description:
           "Elzian-Agro-Mate is an automation system with many sensors consisting of a combination of hardware and software that serves as a supervisor in charge of irrigation and other associated operations of agriculture, it is an automated irrigation system that continually measures the moisture level in the soil. The Automated irrigation system may use to irrigate farmland with different irrigation needs. While the system is primarily intended for agricultural irrigation, it may use for automated plant watering, fertilizer, and pesticide spraying automation.",
         link: "https://alphaportal.in/beta/fao/digital_solutions_details.php?id=19",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/fao-agro-mate.png",
+        backup_image: "https://drive.google.com/file/d/1OhAengc8033hgRxWHojj4jVXujmjpMNa/view?usp=drive_link",
       },
       {
         date: "",
@@ -2812,7 +2969,7 @@ const impacts = [
         description:
           "Energized by the photosynthesis process, contracted - primary ecosystem services (C-PES ) lays the foundations of recording and regulating living wealth generation of ‘tree-farming’ in the context of re-establishing traditional agrarian systems (agroecological systems). Our LifeForce project is capable of demonstrating to the observer our alternate vision for placing new value into existing agro-economies, both digital and fiat-backed (blockchain-secured). Unlocking PES values is done by growing 40+ pan-tropical tree species, whose biomass accretion curves are verified by our Photosynthetic Biomass verification application (PBV app).",
         link: "https://alphaportal.in/beta/fao/digital_solutions_details.php?id=20",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/lifeforce-system.png",
+        backup_image: "https://drive.google.com/file/d/1EgmuhnO4nxk7VG9J-dv5E7XMVhjzB-VE/view?usp=drive_link",
       },
       {
         date: "",
@@ -2823,7 +2980,7 @@ const impacts = [
         description:
           "Elzian-Agro-Eye system is a high-precision outdoor environmental weather and soil monitoring system that is mainly used for industrial and agricultural meteorological environment monitoring. Its support structure is composed of a high-strength pole and three beams through expansion screws, which can effectively resist strong winds. Various weather sensors are installed on the beam, which can accurately measure the current environment’s temperature and humidity, wind speed, wind direction, rainfall, solar radiation, illumination, atmospheric pressure, rainfall, soil moisture/NPK level, soil conductivity.",
         link: "https://alphaportal.in/beta/fao/digital_solutions_details.php?id=18",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/monitoring-system.png",
+        backup_image: "https://drive.google.com/file/d/1FuPGI4kT3UHyw_fPfex6iRVGr75jgoRk/view?usp=drive_link",
       },
     ],
   },
@@ -2835,7 +2992,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/global-youth-dialogue.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -2843,7 +3000,7 @@ const impacts = [
         image: "assets/img/impact/food-agriculture-forestry/global-youth-dialogue.png",
         description: "Looking forward to the World Food Forum...",
         link: "https://www.linkedin.com/posts/lilanofficial_the-global-youth-dialogue-on-sustainable-activity-7115979716955668480-_3MU?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/global-youth-dialogue.png",
+        backup_image: "https://drive.google.com/file/d/18xJ_M9RDubSO2Ci0S-Y82GOLGbdQSB7z/view?usp=drive_link",
       },
     ],
   },
@@ -2862,10 +3019,10 @@ const impacts = [
         description:
           "As a part of our monthly summits, join us this upcoming September 1st for the Sustainable Agriculture and Agricultural Technology Summit to address the challenges, future directions, latest updates, insights, perspectives, and the best practices for sustainable agriculture! The Sustainable Agriculture and Agricultural Technology Summit will gather key industry players around the world to discuss current issues and emerging opportunities through the lens of science and technology.",
         link: "https://www.logytalks.com/summit/the-sustainable-agriculture-and-agricultural-technology-summit",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/logytalks.png",
+        backup_image: "https://drive.google.com/file/d/1P0pN0D8O-OhuVhsDQHyyodmNjj0IGIn5/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "November 2022",
         source_name: "Logy Talks",
         source_link: "https://www.linkedin.com/company/logytalks/posts/",
         title: "Welcome our guest speaker Lilan Dayananda Co-founder & CEO @ ELZIAN AGRO",
@@ -2873,7 +3030,7 @@ const impacts = [
         description:
           "We are glad to welcome our guest speaker Lilan Dayananda Co-founder & CEO @ELZIANAGRO, and Commonwealth Youth Awardee for Excellence in Development Work 2022, at our upcoming summit “The Sustainable Agriculture and Agricultural Technology Summit”, his session’s topic will be about the “Impact of Analog Forestry and Precision Agriculture for Sustainable Agriculture”.",
         link: "https://www.linkedin.com/posts/logytalks_logytalks-summit-webinar-activity-6965351571513581569-22ic/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/logytalks-linkedin.png",
+        backup_image: "https://drive.google.com/file/d/1raICHgvai27vxRSLAlPZYDMg6wjHQt7B/view?usp=drive_link",
       },
     ],
   },
@@ -2885,7 +3042,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/leading-climate-action.png",
     slides: [
       {
-        date: "",
+        date: "November 2022",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -2894,7 +3051,7 @@ const impacts = [
         description:
           "The Healthy and Environment-friendly Youth (HEY) Global Parliament - Minister of Agriculture and Food Security – Lilan Dayananda.",
         link: "https://www.linkedin.com/posts/lilanofficial_development-food-agriculture-activity-6972726955674673152-xskB?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/leading-climate-action.png",
+        backup_image: "https://drive.google.com/file/d/1cybUx4mo83iNa9W7pZUezlU3k2Wj9VcD/view?usp=drive_link",
       },
     ],
   },
@@ -2912,7 +3069,7 @@ const impacts = [
         image: "assets/img/impact/food-agriculture-forestry/fao-cb3426t.png",
         description: "",
         link: "https://www.fao.org/3/cb3426t/cb3426t.pdf",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/fao-cb3426t.pdf  ",
+        backup_image: "https://drive.google.com/file/d/1FRjCoiGUWcnJdpTN8nFj7x5RNMXAVcXS/view?usp=drive_link",
       },
     ],
   },
@@ -2923,7 +3080,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/championing-innovation.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -2932,7 +3089,7 @@ const impacts = [
         description:
           "I am deeply honored to have received an invitation to participate in the first-ever Global Conference on Sustainable Agricultural Mechanization (GAMC), with the theme “Efficiency, Inclusiveness and Resilience” at the FAO headquarters of the United Nations in Rome, Italy.",
         link: "https://www.linkedin.com/posts/lilanofficial_sustainable-agriculture-mechanization-activity-7114649865845964800-shBn?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/championing-innovation.png",
+        backup_image: "https://drive.google.com/file/d/1MIdGVhsE6RKAxv62uz3sjOG6AJgs5N32/view?usp=drive_link",
       },
     ],
   },
@@ -2943,7 +3100,7 @@ const impacts = [
     image: "assets/img/impact/food-agriculture-forestry/empowering-youth-voices.png",
     slides: [
       {
-        date: "",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -2952,10 +3109,10 @@ const impacts = [
         description:
           "It was such a pleasure to contribute to this, representing youth perspectives. The release of the Proceedings from the FAO Global Conference on Sustainable Livestock Transformation! 🌿🐄🐓🐖🐃🐪🐑🐐🦆🐫🦙🐣🐝🌾🌿 This in-depth document provides a thorough overview of the conference, highlights from the global youth dialogue, and showcases inspiring success stories in sustainable livestock practices. It's a must-read for anyone committed to advancing sustainable livestock management.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-youth-activity-7226435931652734976-K7cT/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/youth-perspectives.png",
+        backup_image: "https://drive.google.com/file/d/1mEumpPMUWAlOqe3HkPIi9cpaMfWH5XhS/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -2964,7 +3121,7 @@ const impacts = [
         description:
           "I am deeply honored to have received an invitation to participate in the inaugural Global Youth Dialogue on Sustainable Livestock Transformation. This momentous event took place in parallel with the FAO Global Conference on Sustainable Livestock Transformation at the illustrious FAO headquarters of the United Nations in Rome, Italy. I am privileged to have been given the platform to advocate for the voices of youth and to share innovative ideas on this critical topic.",
         link: "https://www.linkedin.com/posts/lilanofficial_i-am-deeply-honored-to-have-received-an-invitation-activity-7113953023562846208-i0i4/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/food-agriculture-forestry/backup/empowering-youth-voices.png",
+        backup_image: "https://drive.google.com/file/d/1v8QLFo6nlVV9NIrBG_yHoDjubS9q9do-/view?usp=drive_link",
       },
     ],
   },
@@ -2977,7 +3134,7 @@ const impacts = [
     image: "assets/img/impact/renewable-energy/COP28-UAE.png",
     slides: [
       {
-        date: "",
+        date: "January 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "The conclusion of COP28 UAE",
@@ -2985,7 +3142,7 @@ const impacts = [
         description:
           "The conclusion of COP28 UAE in the UAE stands as a timely reminder of the formidable climate challenges ahead, ones that have already touched us all. Amidst this awareness, however, lie significant victories that merit recognition.",
         link: "https://www.linkedin.com/posts/lilanofficial_climate-action-cop28-activity-7142878878489821184-MPbl/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/renewable-energy/backup/COP28-UAE.png",
+        backup_image: "https://drive.google.com/file/d/191Im2rfNCIOVhmSANk994ZGw2qTPidGh/view?usp=drive_link",
       },
     ],
   },
@@ -2996,7 +3153,7 @@ const impacts = [
     image: "assets/img/impact/renewable-energy/rising-stars-award.png",
     slides: [
       {
-        date: "",
+        date: "December 2023",
         source_name: "Riccardo Toxiri",
         source_link: "https://www.linkedin.com/in/riccardotoxiri/",
         title: "IRENA NewGen Rising Stars Award Semi-finals: A Journey of Innovation",
@@ -3004,10 +3161,10 @@ const impacts = [
         description:
           "A massive shoutout to the incredible 20 youth-led start-ups from the first cohort of the IRENA NewGen Renewable Energy Accelerator Programme that participated, showcasing innovation, creativity and professionalism at their finest.",
         link: "https://www.linkedin.com/posts/riccardotoxiri_newgen-newgen-activity-7130527609192390656-gTSb?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/renewable-energy/backup/rising-stars-award.png",
+        backup_image: "https://drive.google.com/file/d/11tThAuNq5_bBum8DcUjFPiFRUgPaQ66s/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "November 2023",
         source_name: "International Renewable Energy Agency (IRENA)",
         source_link: "https://www.linkedin.com/company/irena/posts/",
         title:
@@ -3016,11 +3173,157 @@ const impacts = [
         description:
           "The NewGen Accelerator hosts 22 clean-tech and renewable energy start-ups from various corners of the World, marking the beginning of its first cohort. ",
         link: "https://www.linkedin.com/posts/irena_newgen-newgen-newgen-activity-7107685006101090304-bUYl?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/renewable-energy/backup/IRENA.png",
+        backup_image: "https://drive.google.com/file/d/1IA64Co45QiLNgQv6q63si2bjCO-g8Bqa/view?usp=drive_link",
       },
     ],
   },
 
+  {
+    filter: "filter-climate-environmental",
+    id: "6.45",
+    title:
+      "Participating in a panel titled Revitalizing Agriculture, Bioeconomy, and Celebrating Native Biocultural Wisdom",
+    slides: [
+      {
+        date: "November 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Revitalizing Agriculture and Celebrating Biocultural Wisdom: Insights from the Science Summit Panel in New York",
+        image: "assets/img/impact/climate-environmental/Revitalizing Agriculture.png",
+        description:
+          "I recently had the incredible opportunity to participate in a panel titled “Revitalizing Agriculture, Bioeconomy, and Celebrating...",
+        link: "https://www.linkedin.com/posts/lilanofficial_science-sustainability-sustainable-activity-7259565435853971458-bNXY?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1zlp3mJnubG4_hc1eY_8v0EtYxResTfuo/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.44",
+    title: "Participating in the COP29",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "Karina L. Weinstein",
+        source_link: "https://www.linkedin.com/in/karinaweinstein/",
+        title: "Heading to Baku: Representing FXB Global and Empowering Youth Voices at COP 29",
+        image: "assets/img/impact/climate-environmental/Heading to Baku.png",
+        description:
+          "Excited to be heading to Baku for Week 2 of COP 29 to represent FXB Global and the FXB Climate Advocates program! ",
+        link: "https://www.linkedin.com/posts/karinaweinstein_cop29-youthclimateaction-fxbclimateadvocates-activity-7257522900910444544-Bzek?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/125jrRXLZ2inmDlZzxGVJ3tt7jxlUkj1l/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.43",
+    title: "Participating in the Youth Leadership for Climate Justice Session",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Youth Leadership for Climate Justice: Empowering Democratic Governance for a Sustainable Future",
+        image: "assets/img/impact/climate-environmental/Climate Justice.png",
+        description:
+          "I had the opportunity to participate in an insightful session on Youth Leadership for Climate Justice, which explored the powerful intersection...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climatejustice-youthleadership-sustainability-activity-7256890561507295234-lziX?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1XH6cEdP69SZbe0fN0wWvAAXOYfq79gUl/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.42",
+    title: "Participating in the Global Climate Action Partnership to drive regional climate initiatives",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Global Climate Champions Unite in Brazil: Advancing Regional Initiatives for a Sustainable Future",
+        image: "assets/img/impact/climate-environmental/Global Climate Champions.png",
+        description:
+          "Climate champions from across the globe recently gathered in Brazil with the Global Climate Action Partnership to drive regional climate initiatives.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-climatechange-activity-7255790228009824257-4M33?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ZjYB_tVn55Tc_LTsyr0iVWJGCoDjrFx5/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.41",
+    title:
+      "Attending the G20 ESWG meeting to commit to the Kunming-Montreal Global Biodiversity Framework, focusing on collaboration for sustainable biodiversity conservation.",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Brazil's G20 Presidency Highlights Commitment to Global Biodiversity as Leadership Transitions to South Africa",
+        image: "assets/img/impact/climate-environmental/Brazil's G20 Presidency.png",
+        description:
+          "As Brazil's G20 presidency transitions to South Africa on December 1st, the government released a document highlighting outcomes from the Environment and Sustainability Working Group (ESWG) meeting.",
+        link: "https://www.linkedin.com/posts/lilanofficial_global-environment-sustainability-activity-7254295059318091778-Htzl?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1icZT0J8J1fYCat7Sb6ElV0wne7LfCLIv/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.40",
+    title: "Featuring on the MOSAIQUE Magazine",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Presenting MOSAICUE Magazine to Dr. Chelsea Clinton: Honoring Nature's Role in Advancing Health and Technology",
+        image: "assets/img/impact/climate-environmental/MOSAIQUE Magazine.png",
+        description:
+          "It was an incredible honor to present MOSAICUE Magazine to Dr. Chelsea Clinton during the Clinton Global Initiative Annual Meeting.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7251063029629366272-Id9d?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/19ju-2pcL1F-22QzRyV4ZqoCiCjXIti0F/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.39",
+    title: "Spearheading a documentary that showcases the impact of climate change denial on communities",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Documenting Climate Reality: Amplifying the Urgency of Action and Justice for Vulnerable Communities",
+        image: "assets/img/impact/climate-environmental/Documenting Climate Reality.png",
+        description:
+          "Producing an effective documentary on climate change is crucial in highlighting the real-world consequences of climate change denial on vulnerable communities.",
+        link: "https://www.linkedin.com/posts/lilanofficial_nyclimateweek-activity-7249084641796620288-58ZJ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/16m-2ePoablTDHjjoCEf4FdpJUBNi4sEZ/view?usp=drive_link",
+      },
+      {
+        date: "October 2024",
+        source_name: "Swati Raj Save Ph.D.",
+        source_link: "https://www.linkedin.com/in/drswatisave/",
+        title:
+          "100 Days of Climate Justice Leadership in Rome: Join Us in Creating a Documentary on the Impact of Climate Denial",
+        image: "assets/img/impact/climate-environmental/100 Days of Climate Justice Leadership.png",
+        description:
+          "It will be 100 days for me & Lilan Dayananda being trained in Rome as Climate Justice leaders by Climate Reality Project. ",
+        link: "https://www.linkedin.com/posts/drswatisave_nyclimateweek-activity-7249014746824200192-We4Y?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/162U8mrbdISQqGUWbFYM4ljfqpFJaCf06/view?usp=drive_link",
+      },
+    ],
+  },
   {
     filter: "filter-climate-environmental",
     id: "6.38",
@@ -3029,7 +3332,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/the Science Summit.png",
     slides: [
       {
-        date: "",
+        date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Insights from the Science Summit: Innovating for Resilience and Prosperity",
@@ -3037,7 +3340,7 @@ const impacts = [
         description:
           "It was a pleasure to participate in the Science Summit on Innovating for Resilience and Prosperity alongside the United Nations General Assembly in New York.",
         link: "https://www.linkedin.com/posts/lilanofficial_sustainability-innovation-renewableenergy-activity-7247227867468570625-msYe/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/the Science Summit.png",
+        backup_image: "https://drive.google.com/file/d/1C_UBPJk0ptjbyKGHYcn7Tk1cZZpTO5rF/view?usp=drive_link",
       },
     ],
   },
@@ -3048,7 +3351,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Nature-Based Solutions Networking.png",
     slides: [
       {
-        date: "",
+        date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Participating in the Ponterra and Latham & Watkins Nature-Based Solutions Networking",
@@ -3056,7 +3359,7 @@ const impacts = [
         description:
           "Today, I had the opportunity to participate in the Ponterra and Latham & Watkins Nature-Based Solutions Networking in Midtown, New York.",
         link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-action-activity-7245648419032072192-n7OP?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Nature-Based Solutions Networking.png",
+        backup_image: "https://drive.google.com/file/d/1eljX6Xk4QwZsxVzm8-tS-NIKz1r9thXm/view?usp=drive_link",
       },
     ],
   },
@@ -3067,7 +3370,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Harvard University.png",
     slides: [
       {
-        date: "",
+        date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -3076,7 +3379,7 @@ const impacts = [
         description:
           "I had the incredible opportunity to participate in the Harvard University Climate Accelerator at the Harvard Club of New York City, where we engaged in deep discussions on some of the most pressing climate issues and climate action aspects...",
         link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-action-activity-7244655953290133504-57Jp?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Harvard University.png",
+        backup_image: "https://drive.google.com/file/d/199jLiBRVZ9e6ZC-PIa6sa5Q4iRtYE4if/view?usp=drive_link",
       },
     ],
   },
@@ -3087,7 +3390,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Islands Shaping the Future.png",
     slides: [
       {
-        date: "",
+        date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Islands Shaping the Future : Innovating for Resilience and Prosperity",
@@ -3095,7 +3398,7 @@ const impacts = [
         description:
           "Session Overview: Islands face unique challenges but hold immense potential for sustainable development. Our panels will showcase how island nations drive innovation and science in critical biodiversity areas through their Indigenous communities, culture, and natural resources. We’ll examine the global economic impact of island resources and address the challenges of marginalization and science equity.",
         link: "https://www.linkedin.com/posts/lilanofficial_innovate-innovation-island-activity-7242181630809833472-zNzG?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Islands Shaping the Future.png",
+        backup_image: "https://drive.google.com/file/d/1s8lQ85wXzNQTpQ5-ECCn2sy_I8LBMZmg/view?usp=drive_link",
       },
     ],
   },
@@ -3106,7 +3409,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/NYC Community.png",
     slides: [
       {
-        date: "",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -3115,10 +3418,10 @@ const impacts = [
         description:
           "Exciting news! I’ll be in New York from August 12th to 22nd and would like to connect with the NYC community. If you're passionate about precision agriculture and climate action in the Global South, let’s meet up. Send me a message so we can schedule a convenient time.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7224350106311876608-TPl-?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/NYC Community.png",
+        backup_image: "https://drive.google.com/file/d/1Njbe-lFXDv-lqCeqEnMSY2o-Z9VAVMwv/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "November 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -3127,10 +3430,10 @@ const impacts = [
         description:
           "Exciting News! I’m thrilled to announce that I’ll be in New York, USA, during the third and fourth weeks of September! I’m eager to connect with fellow New Yorkers and others visiting NYC this month, especially those passionate about precision agriculture and climate action in both the Global South and Global North.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7238235886688030721-qLmD?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Connect in NYC.png",
+        backup_image: "https://drive.google.com/file/d/1ZSzGtdLD-1q3wiCqpDdxmDIRf-acIBeh/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -3139,10 +3442,10 @@ const impacts = [
         description:
           "Exciting News! I’m thrilled to share that I’ll be in Foz do Iguaçu, Brazil, during the first week of October. I'm eager to connect with the local Brazilian communities passionate about precision agriculture and climate action, especially in the Global South and South America.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7234189432709373952-v3nK?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Foz do Iguaçu.png",
+        backup_image: "https://drive.google.com/file/d/1C6SyBjnGw2UIhlk8EWfj0RQaK2m2MaXs/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -3151,10 +3454,10 @@ const impacts = [
         description:
           "Exciting news! I’ll be in Finland (Helsinki) and Lithuania (Vilnius) in the Second week of September and would like to connect with the Finnish and Lithuanian communities. If you're passionate about precision agriculture and climate action in the Global South and Europe, let’s meet up. Please send me a message so we can schedule a convenient time.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7232802314900684800-hULd?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Helsinki and Vilnius.png",
+        backup_image: "https://drive.google.com/file/d/13znoyY-qKKUAqd5KwEnH7Y6NRr4F4u0o/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Connecting in Bangkok: Let's Discuss Precision Agriculture and Climate Action in September",
@@ -3162,7 +3465,7 @@ const impacts = [
         description:
           "Exciting news! I’ll be in Bangkok in the third week of September and would like to connect with the Thai community. If you're passionate about precision agriculture and climate action in the Global South, let’s meet up. Send me a message so we can schedule a convenient time.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7224861421937770496-wK3A?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Connecting in Bangkok.png",
+        backup_image: "https://drive.google.com/file/d/1mTesoQP7sYpLmoYyCqmCk23hOPsbubj9/view?usp=drive_link",
       },
     ],
   },
@@ -3173,7 +3476,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Climate Entrepreneurship Track.png",
     slides: [
       {
-        date: "",
+        date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -3182,7 +3485,7 @@ const impacts = [
         description:
           "I recently had the opportunity to complete the Climate Entrepreneurship Track at the New York University...",
         link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7237972508140806145-R5GN?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Climate Entrepreneurship Track.png",
+        backup_image: "https://drive.google.com/file/d/1gqZUFfk9yUmE90sIHFP-ECiCdmser6oq/view?usp=drive_link",
       },
     ],
   },
@@ -3193,7 +3496,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Technology Executive Committee.png",
     slides: [
       {
-        date: "",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -3202,7 +3505,7 @@ const impacts = [
         description:
           "As a member of the Technology Executive Committee (TEC) of the UN Climate Change (UNFCCC) representing YOUNGO, I have the privilege of leading two crucial activity groups...",
         link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7234268132922507264-KKmO?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Technology Executive Committee.png",
+        backup_image: "https://drive.google.com/file/d/1wWA7DfIgGA42TcVbOfdVUuEwqOJ3SsIH/view?usp=drive_link",
       },
     ],
   },
@@ -3221,7 +3524,7 @@ const impacts = [
         description:
           "Lilan Dayananda, Managing Director and Chief Executive Officer of Elzian Agro, recently participated in the Climate Reality Leadership Training held at the Rome Convention Center La Nuvola in Italy. The event, which included former U.S. Vice President Al Gore, brought together climate leaders for three days of intensive learning, sharing, and strategizing.",
         link: "https://eyeviewsl.com/elzian-agros-ceo-lilan-dayananda-joins-for-climate-reality-leadership-training-in-rome/",
-        backup_image: "assets/img/impact/climate-environmental/backup/Climate Reality.png",
+        backup_image: "https://drive.google.com/file/d/1dH6Su_3Slr3Wdw3-5PpwMTNIlQgEM2Ma/view?usp=drive_link",
       },
     ],
   },
@@ -3233,7 +3536,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Climate Action Workshop.png",
     slides: [
       {
-        date: "",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -3242,7 +3545,7 @@ const impacts = [
         description:
           "I gained valuable insights from the Education for Climate Action: Learning to Act for People and Planet workshop at the AFS Youth Assembly at Convene Center, Brookfield Place in New York. Priyadarshani Joshi, PhD, Senior Research Officer for the GEM Report UNESCO at UNESCO, and Andrés Peñaloza Lanza, Global Education Programs Coordinator at AFS Intercultural Programs conducted the workshop.",
         link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-learning-activity-7230846842769485824-uVJG?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Climate Action Workshop.png",
+        backup_image: "https://drive.google.com/file/d/1b28hVCSI4Lx5av8aAZB5kQ4YRdKylWIz/view?usp=drive_link",
       },
     ],
   },
@@ -3254,7 +3557,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Climate Entrepreneurship Program.png",
     slides: [
       {
-        date: "",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Participate in the Climate Entrepreneurship Program at the New York University",
@@ -3262,10 +3565,10 @@ const impacts = [
         description:
           "I recently had the opportunity to participate in the Climate Entrepreneurship Program at the New York University ; NYU School of Professional Studies through the AFS Youth Assembly Climate Entrepreneurship Academy. Along with 40 participants from across the globe, I learned how to engage in the global startup and climate community to contribute to sustainable solutions.",
         link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climate-activity-7232660195103940609-jxoQ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Climate Entrepreneurship Program.png",
+        backup_image: "https://drive.google.com/file/d/1OxPx8JIKYIEdVnrJfOUsLhEv95CkKZIy/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Engaging in Climate Entrepreneurship Sessions with Jim Aloise at New York University",
@@ -3273,10 +3576,10 @@ const impacts = [
         description:
           "It was an opportunity to participate in the sessions led by Jim Aloise during the Climate Entrepreneurship Program at New York University and the NYU School of Professional Studies. Climate entrepreneurship is a process where entrepreneurs use business ventures to address climate change and environmental challenges. ",
         link: "https://www.linkedin.com/posts/lilanofficial_business-climate-entrepreneurship-activity-7231114716415193088-yEyv?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Climate Entrepreneurship Sessions.png",
+        backup_image: "https://drive.google.com/file/d/1LQQsRWPL7Zp-LqksPLrrIF29b0UJ-dTN/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Participated in the Climate Entrepreneurship Program",
@@ -3284,7 +3587,7 @@ const impacts = [
         description:
           "Thrilled to have participated in the Climate Entrepreneurship Program at New York University and NYU School of Professional Studies! ",
         link: "https://www.linkedin.com/posts/lilanofficial_business-climate-entrepreneurship-activity-7229988870195490816-abBZ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/climate-entrepreneurship-program.png",
+        backup_image: "https://drive.google.com/file/d/1afV5YhkV-jkfM2mQs8zqUNt4s6gXIw-z/view?usp=drive_link",
       },
     ],
   },
@@ -3295,7 +3598,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Climate Cafe.png",
     slides: [
       {
-        date: "",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "🌍 Join the Climate Cafe® Movement! ☕️",
@@ -3303,7 +3606,7 @@ const impacts = [
         description:
           "Looking for an inclusive space to talk and act on climate change? A Climate Café® is the perfect place! Since 2015, this community-led initiative has been bringing people together from rural Scotland to communities around the world.",
         link: "https://www.linkedin.com/posts/lilanofficial_join-the-climate-cafe-movement-looking-activity-7217645270849703937-wKMG?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Climate Cafe.png",
+        backup_image: "https://drive.google.com/file/d/1TzUKzjQl_gZMmEvBts9hZDi2ae9yWXLh/view?usp=drive_link",
       },
     ],
   },
@@ -3314,7 +3617,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Climate Fresk Event.png",
     slides: [
       {
-        date: "",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Participating in the Climate Fresk Event for Climate Reality Leaders in Rome",
@@ -3322,7 +3625,7 @@ const impacts = [
         description:
           "I had the opportunity to join the Climate Fresk event for Climate Reality Leaders at Hilton Rome Eur La Lama in Rome, Italy. To effectively take action and develop solutions, it's crucial to first grasp the problem. Climate Fresk serves as a potent tool for delivering high-quality climate education. It's accessible to everyone and can be rapidly scaled within any organization or community.",
         link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7214633190991310848-CHWs/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Climate Fresk Event.png",
+        backup_image: "https://drive.google.com/file/d/10fgLl9lDjKn0QpejRJBX5PFtPzDQN0iy/view?usp=drive_link",
       },
     ],
   },
@@ -3333,7 +3636,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Climate Reality Training.png",
     slides: [
       {
-        date: "",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "A Remarkable Experience at Climate Reality Training with Former Vice President Al Gore",
@@ -3341,7 +3644,7 @@ const impacts = [
         description:
           'Attending the Climate Reality training has been a remarkable experience, echoing the sentiment that "all roads lead to Rome." This event has provided an invaluable opportunity to engage with passionate climate activists and experts, featuring enlightening presentations from distinguished speakers, including former Vice President Al Gore.',
         link: "https://www.linkedin.com/posts/lilanofficial_climateaction-climatechange-climate-activity-7213897437797580801-RDRF?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Climate Reality Training.png",
+        backup_image: "https://drive.google.com/file/d/12V6J7GldaUqLfCZU1g2rSSIeGgIQ0vOq/view?usp=drive_link",
       },
     ],
   },
@@ -3353,7 +3656,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Sustainable Future.png",
     slides: [
       {
-        date: "",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Advocating for a Sustainable Future at The Climate Reality Project in Rom",
@@ -3361,7 +3664,7 @@ const impacts = [
         description:
           " As a Climate Reality Leader, I advocate for a sustainable future. It's time to end our dependence on fossil fuels and halt the funding that supports this outdated and harmful industry. By transitioning to renewable energy sources, we not only combat climate change but also create a healthier, more resilient planet for future generations. It was a pleasure to participate in The Climate Reality Project in Rome, Italy; along with Legambiente.",
         link: "https://www.linkedin.com/posts/lilanofficial_climateaction-climatechange-climate-activity-7213478910821380097-xY7x?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Sustainable Future.png",
+        backup_image: "https://drive.google.com/file/d/1W2qvYUU0nUG52mpbgkz6qXKh_AL3xjbD/view?usp=drive_link",
       },
     ],
   },
@@ -3372,7 +3675,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Exploring the Mysteries.png",
     slides: [
       {
-        date: "",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Exploring the Mysteries of the Deep Ocean: Insights from Dr. Asha de Vos",
@@ -3380,7 +3683,7 @@ const impacts = [
         description:
           "Life below 200 meters deep is as fascinating as life within the light-filled zones of the oceans. Despite the busy schedule, I had the opportunity to participate in the session “Beyond the Realm of Light: Exploring the Deep Ocean of Sri Lanka,” conducted by Dr. Asha de Vos. The session was insightful, providing a unique opportunity to delve into the mysterious depths of the ocean and witness groundbreaking discoveries firsthand.",
         link: "https://www.linkedin.com/posts/lilanofficial_blueeconomy-blue-ocean-activity-7206708873393582081-oDc5?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Exploring the Mysteries.png",
+        backup_image: "https://drive.google.com/file/d/1s-rCp2R_xMTupJmkzwD_wrKn-ZkjN97c/view?usp=drive_link",
       },
     ],
   },
@@ -3391,7 +3694,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Botanical Night.png",
     slides: [
       {
-        date: "",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "An Enchanting Evening at the Botanical Night in Berlin",
@@ -3399,7 +3702,7 @@ const impacts = [
         description:
           "Once a year the Botanical Garden Berlin hosts the Botanical Night and it was nice to experience the manifold plants and flowers. On the occasion of the Botanical Night, the paths of the Botanical Garden in Berlin-Dahlen are illuminated and guide visitors to many attractions. The garden grounds are divided into eight themed areas that form the enchanted land of Botania.",
         link: "https://www.linkedin.com/posts/lilanofficial_botanical-night-garden-activity-7223302333558841344-UtVc?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Botanical Night.png",
+        backup_image: "https://drive.google.com/file/d/1lSN-s2JQ0-s9Gb6sqFkpnY0CwguvwJmS/view?usp=drive_link",
       },
     ],
   },
@@ -3411,7 +3714,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Meeting with Marie.png",
     slides: [
       {
-        date: "",
+        date: "June 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Meeting with Marie Antonia von Schönburg",
@@ -3419,10 +3722,10 @@ const impacts = [
         description:
           "It was a pleasure to have had the opportunity to meet Marie Antonia von Schönburg, Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka, during the recent gathering hosted by Koelnmesse.",
         link: "https://www.linkedin.com/posts/lilanofficial_delegation-germany-srilanka-activity-7194530994920562689-Y1xs?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Meeting with Marie.png",
+        backup_image: "https://drive.google.com/file/d/1faa834giFmcXQfA2fV7kh_UpJw9mK7me/view?usp=drive_link",
       },
       {
-        date: "",
+        date: "June 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -3431,7 +3734,7 @@ const impacts = [
         description:
           "In a time when the world of nutrition is becoming increasingly global, and the importance of sustainability and healthy food is growing, it is crucial that we connect with one another to collectively find solutions. The latest Anuga Partners Forum hosted by Koelnmesse GmbH focused on the Anuga Food Tech India.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7194982140239888384-Yr2U?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Global Nutrition Solutions.png",
+        backup_image: "https://drive.google.com/file/d/1CCp9TIUl8i37dsG9y_k2eOGPzYuYfJyg/view?usp=drive_link",
       },
     ],
   },
@@ -3442,7 +3745,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/CODE RED Climate Climate Summit.png",
     slides: [
       {
-        date: "",
+        date: "June 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "The CODE RED Climate Climate Summit",
@@ -3450,7 +3753,7 @@ const impacts = [
         description:
           "Participating in the CODE RED Climate Summit was an enlightening experience, especially considering Sri Lanka's current pivotal position amidst escalating climate change challenges. Over the course of three days, the summit meticulously examined the dual facets of climate risks and opportunities. ",
         link: "https://www.linkedin.com/posts/lilanofficial_climate-sdgs-sdg13-activity-7194316486197350400-sXoT?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/CODE RED Climate Climate Summit.png",
+        backup_image: "https://drive.google.com/file/d/1TOj4HxmtIX4eWIjzJSeKHgN2KBmuX7NO/view?usp=drive_link",
       },
     ],
   },
@@ -3461,7 +3764,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/instagram-lilan.png",
     slides: [
       {
-        date: "",
+        date: "March 26, 2024",
         source_name: "World's Youth for Climate Justice Asian Front",
         source_link: "https://www.instagram.com/wy4cj.asia/?g=5",
         title: "Lilan Dayananda",
@@ -3469,7 +3772,7 @@ const impacts = [
         description:
           "Lilan Dayananda, an international award-winning young social tech entrepreneur, has garnered recognition for his impactful work in social entrepreneurship. He stands out as one of the top ten Social Entrepreneurs of the Global-South, acknowledged by prestigious organizations like the United Nations Youth Envoy’s Office and UNDP Youth Co: Lab. Lilan’s commitment to excellence is evident through his accolades, such as being the only Sri Lankan Commonwealth Youth Awardee for his outstanding development efforts and his nomination for the Queen’s Commonwealth Trust Youth Award. His innovative solutions in food security, climate action, and sustainability have earned him a place among the top 100 meaningful business founders recognized by Ernst & Young (EY), Hogan Lovells Global Law Firms.",
         link: "https://www.instagram.com/p/C4-8btnoRYk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        backup_image: "assets/img/impact/climate-environmental/backup/instagram-lilan.png",
+        backup_image: "https://drive.google.com/file/d/1jEDqQB16nbMqH4AAzmi35V2gZsWh54dZ/view?usp=drive_link",
       },
     ],
   },
@@ -3481,7 +3784,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Meeting with Parmesh Shah.png",
     slides: [
       {
-        date: "",
+        date: "April 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "A Memorable Meeting with Parmesh Shah",
@@ -3489,7 +3792,7 @@ const impacts = [
         description:
           "I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions in the context of Sri Lankan agriculture. I would like to extend my appreciation to Sunil Madan, MPA for arranging the meeting.",
         link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Meeting with Parmesh Shah.png",
+        backup_image: "https://drive.google.com/file/d/1IBUVAv7DZldDNFQrL8TtQ-UFgc9vjPCI/view?usp=drive_link",
       },
     ],
   },
@@ -3500,7 +3803,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Climate Change Conference.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Attend the 17th United Nations Climate Change Conference",
@@ -3508,7 +3811,7 @@ const impacts = [
         description:
           "I was invited to attend the 17th United Nations climate change conference of youth (COY 17) which was held in Sharm el Sheikh Egypt. I attended the conference as a delegate of Sri Lanka, COY-17 was organized by the official youth and children constituency of the United Nations framework convention on climate change (UNFCCC).",
         link: "https://www.linkedin.com/posts/lilanofficial_i-was-invited-to-attend-the-17th-united-nations-activity-6999411427182604288-kma_?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Climate Change Conference.png",
+        backup_image: "https://drive.google.com/file/d/1aApZ_rk7MBv_tFG_Sqgn8Wxf2mQo8fLK/view?usp=drive_link",
       },
     ],
   },
@@ -3519,14 +3822,14 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Certificate of Recognition.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Certificate of Recognition",
         image: "assets/img/impact/climate-environmental/Certificate of Recognition.png",
         description: "FXB International Climate Advocates Program",
         link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7068052986857472000-FN2t?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Certificate of Recognition.png",
+        backup_image: "https://drive.google.com/file/d/13DvlcJ11ODcz9JTYFM4RXXJJvgE1zg5-/view?usp=drive_link",
       },
     ],
   },
@@ -3537,7 +3840,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/COP28 UAE.png",
     slides: [
       {
-        date: "",
+        date: "January 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "The conclusion of COP28 UAE",
@@ -3545,7 +3848,7 @@ const impacts = [
         description:
           "The conclusion of COP28 UAE in the UAE stands as a timely reminder of the formidable climate challenges ahead, ones that have already touched us all. Amidst this awareness, however, lie significant victories that merit recognition.",
         link: "https://www.linkedin.com/posts/lilanofficial_climate-action-cop28-activity-7142878878489821184-MPbl?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/COP28 UAE.png",
+        backup_image: "https://drive.google.com/file/d/1tSf7TsD8hDorcRUdPBLC-XwS1vYMF1p9/view?usp=drive_link",
       },
     ],
   },
@@ -3556,7 +3859,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/FXB Climate Advocates.png",
     slides: [
       {
-        date: "",
+        date: "November 27, 2023",
         source_name: "FXB Climate Advocates",
         source_link: "https://www.instagram.com/fxbclimateadvocates/?g=5",
         title: "FXB Climate Advocates",
@@ -3564,7 +3867,7 @@ const impacts = [
         description:
           "FXB Climate Advocates will present at COP 28 on climate finance, climate education, sustainable agriculture, and more!",
         link: "https://www.instagram.com/p/C0KKFE-L8nq/?utm_source=ig_web_copy_link",
-        backup_image: "assets/img/impact/climate-environmental/backup/FXB Climate Advocates.png",
+        backup_image: "https://drive.google.com/file/d/19F6rfesPbKu9Yz_3vjhR719Ccfste91M/view?usp=drive_link",
       },
       {
         date: "",
@@ -3575,7 +3878,7 @@ const impacts = [
         description:
           "There will be 25 FXB Climate Advocates alumni attending COP 28 in Dubai. In addition to their role as members of the FXB Climate Advocates network, they will represent diverse organizations such as YOUNGO (the official children and youth constituency of the United Nations Framework Convention on Climate Change (UNFCCC), Youth in Action for Climate Change, and Re-Earth Initiative, among others. Our Advocates will present on climate finance, climate education, indigenous rights, and sustainable agriculture, among others.",
         link: "https://www.fxbclimateadvocates.org/cop28",
-        backup_image: "assets/img/impact/climate-environmental/backup/fxb-climate-advocates.png",
+        backup_image: "https://drive.google.com/file/d/1CFUdpwi35JQcS5PDUEkLiK8_fdRpWr3q/view?usp=drive_link",
       },
     ],
   },
@@ -3586,7 +3889,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Climate Action Forum.png",
     slides: [
       {
-        date: "",
+        date: "December 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "The National Youth Climate Action Forum",
@@ -3594,7 +3897,7 @@ const impacts = [
         description:
           "The National Youth Climate Action Forum, a collaborative initiative orchestrated by the National Youth Services Council and the Presidential Secretariat - Climate Change Office, stands as a pivotal platform for young changemakers. Designed to facilitate collective efforts, the forum serves as a dynamic arena where passionate individuals converge to confront the pressing issue of climate change.",
         link: "https://www.linkedin.com/posts/lilanofficial_climatechange-climateaction-cop28-activity-7128473323629412353-vq8B?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Climate Action Forum.png",
+        backup_image: "https://drive.google.com/file/d/1uBnNJHDIRssT-SdwxgjSsNl8inJh3Aue/view?usp=drive_link",
       },
     ],
   },
@@ -3605,7 +3908,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/VERGE.png",
     slides: [
       {
-        date: "",
+        date: "December 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "A Remarkable Experience at VERGE 23 in San Jose, California",
@@ -3613,7 +3916,7 @@ const impacts = [
         description:
           "I had a remarkable experience at VERGE 23 in San Jose, California. VERGE 23 was the foremost climate tech event, dedicated to accelerating solutions for the most pressing challenges of our time. It served as the focal point for leaders in the climate community, including representatives from businesses, government entities, solution providers, and startups.",
         link: "https://www.linkedin.com/posts/lilanofficial_climatechange-climateaction-sdgs-activity-7128453228249153537-Waew?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/VERGE.png",
+        backup_image: "https://drive.google.com/file/d/16JZnjDfFyoCfyBXknke38E8A7Xh_x2pI/view?usp=drive_link",
       },
     ],
   },
@@ -3625,7 +3928,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/SDGs Programme.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -3634,7 +3937,7 @@ const impacts = [
         description:
           'The United Nations Office at Geneva in Switzerland, is one of the four major offices of the United Nations where numerous different UN agencies have a joint presence. I appreciate the United Nations Institute for Training and Research (UNITAR) for implementing the "Climate Change and SDGs Programme".',
         link: "https://www.linkedin.com/posts/lilanofficial_climatechange-climateaction-cop28-activity-7124763925014843392-vXdo?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/SDGs Programme.png",
+        backup_image: "https://drive.google.com/file/d/1STFHzhKO-9ix0bsDUfXK6EIXvDfFFrPG/view?usp=drive_link",
       },
     ],
   },
@@ -3645,7 +3948,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/simulation-model.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -3654,7 +3957,7 @@ const impacts = [
         description:
           "I have been accepted for the COP28 Simulation Model by Engineers for Sustainable Egypt and reserved my seat on the round discussion table of the COP28 simulation model as a delegate of Sri Lanka...",
         link: "https://www.linkedin.com/posts/lilanofficial_sustainableabrdevelopmentabrambassadors-cop28uae-activity-7119743855939252224-6RwZ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/simulation-model.png",
+        backup_image: "https://drive.google.com/file/d/1DHZYIL0odjlNAwsNmtk6wABxxufE7Q2s/view?usp=drive_link",
       },
     ],
   },
@@ -3665,7 +3968,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/climate-summit.png",
     slides: [
       {
-        date: "",
+        date: "November 2022",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Simulation Model of the Climate Summit 2022",
@@ -3673,7 +3976,7 @@ const impacts = [
         description:
           "I have been accepted for COP27 Simulation Model by Engineers for Sustainable Egypt and reserved my seat on the round discussion table of the cop27 simulation model as a delegate of Sri Lanka, which will be held on the 10th of September - 18th of September 2022. ",
         link: "https://www.linkedin.com/posts/lilanofficial_i-have-been-accepted-for-cop27-simulation-activity-6974188338454958081-ITQV?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/climate-summit.png",
+        backup_image: "https://drive.google.com/file/d/1cZpFTA_qe1oR8zMmca9iXfTfjNBIKq8F/view?usp=drive_link",
       },
     ],
   },
@@ -3685,7 +3988,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/women-child-mental-health.png",
     slides: [
       {
-        date: "",
+        date: "November 2022",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Women's and Children's Mental Health in the Climate Crisis",
@@ -3693,7 +3996,7 @@ const impacts = [
         description:
           "Without a doubt, women and children are increasing at high risk within the climate crisis. This session would see the draft research of the HEY Campaign being established, whilst taking critique of its findings, addressing the link between mental health and the climate crisis, the realities of women’s and children’s mental health, and what can be done/is being done to strengthen or improve mental health stigma and institutions across the countries in the study with a critique of other countries not within the study.",
         link: "https://www.linkedin.com/posts/lilanofficial_without-a-doubt-women-and-children-are-increasing-activity-6980918930714374144-6OWM?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/women-child-mental-health.png",
+        backup_image: "https://drive.google.com/file/d/1JQ2dg0JK1Q1vwhpjw3Ebf7Kgk-0B5bu4/view?usp=drive_link",
       },
     ],
   },
@@ -3704,7 +4007,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/Youth4Climate.png",
     slides: [
       {
-        date: "",
+        date: "November 2022",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "A Milestone Week for ELZIAN AGRO at Youth4Climate: Powering Action in New York City",
@@ -3712,7 +4015,7 @@ const impacts = [
         description:
           "Last week was a special week for ELZIAN AGRO. I spent that week at Youth4Climate: Powering Action flagship event, in New York City, USA.",
         link: "https://www.linkedin.com/posts/lilanofficial_agriculture-water-data-activity-6982327030235217920-Z6VL?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/Youth4Climate.png",
+        backup_image: "https://drive.google.com/file/d/1AAjMnEbAS1-4aSqQf9haQxocYbjjjRNc/view?usp=drive_link",
       },
     ],
   },
@@ -3723,7 +4026,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/un-climate.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "17th United Nations Climate Change Conference",
@@ -3731,7 +4034,7 @@ const impacts = [
         description:
           "I was invited to attend the 17th United Nations climate change conference of youth (COY 17) which was held in Sharm el Sheikh Egypt. I attended the conference as a delegate of Sri Lanka, COY-17 was organized by the official youth and children constituency of the United Nations framework convention on climate change (UNFCCC).",
         link: "https://www.linkedin.com/posts/lilanofficial_i-was-invited-to-attend-the-17th-united-nations-activity-6999411427182604288-kma_?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/un-climate.png",
+        backup_image: "https://drive.google.com/file/d/133bfemAUvrsS1blpBZ8bxDvVXoCEldIb/view?usp=drive_link",
       },
     ],
   },
@@ -3742,7 +4045,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/UN-commission.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -3751,7 +4054,7 @@ const impacts = [
         description:
           "I had the incredible privilege of serving as the youth representative (observer) at the 79th session of the United Nations Commission...",
         link: "https://www.linkedin.com/posts/lilanofficial_sustainabledevelopment-leaders-climatechange-activity-7066125306532659200-4FR7?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/UN-commission.png",
+        backup_image: "https://drive.google.com/file/d/1NP6m81jIcfPRN19TEBBGse4Mc62BybmN/view?usp=drive_link",
       },
     ],
   },
@@ -3762,7 +4065,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/demand-global.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -3771,7 +4074,7 @@ const impacts = [
         description:
           "Youth are still emphasizing key priorities that characterize a successful bonnclimateconference 2023. We will continue to emphasize our demands until they are met.",
         link: "https://www.linkedin.com/posts/lilanofficial_bonnclimateconference-climatechange-climateaction-activity-7074424975255891968-L-lg?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/demand-global.png",
+        backup_image: "https://drive.google.com/file/d/1ifJryglYUUXGXzoS02oZbKilahybWcnr/view?usp=drive_link",
       },
     ],
   },
@@ -3782,7 +4085,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/act4sdgs.png",
     slides: [
       {
-        date: "",
+        date: "January 2023",
         source_name: "ACT4SDGs",
         source_link: "https://act4sdgs.org/",
         title: "Elzian Agro's Earth Restoration LifeForce Project",
@@ -3790,7 +4093,7 @@ const impacts = [
         description:
           "Energized by photosynthesis, Our LifeForce project’s contracted - primary ecosystem services (C-PES ) lays the foundations of recording and regulating living wealth generation of ‘tree-farming’ in the context of re-establishing traditional agrarian systems.",
         link: "https://act4sdgs.org/profile/lilan_dayananda",
-        backup_image: "assets/img/impact/climate-environmental/backup/act4sdgs.png",
+        backup_image: "https://drive.google.com/file/d/1m8l4GFBW-nCijd-Hg-0G7IR2pQZ7gLwU/view?usp=drive_link",
       },
     ],
   },
@@ -3801,7 +4104,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/capacity-building.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
@@ -3810,7 +4113,7 @@ const impacts = [
         description:
           "It was an insightful Capacity Building Program for the Asian Front, organized by the esteemed World's Youth for Climate Justice (WYCJ), hosted at the University of Colombo along with the initial meeting with the Vice Chancellor of University of Colombo, Snr. Prof. H.D. Karunaratne .",
         link: "https://www.linkedin.com/posts/lilanofficial_climateaction-wycj-wy4cj-activity-7114333674644393984-S3iA?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/capacity-building.png",
+        backup_image: "https://drive.google.com/file/d/1LNoCT7cPR-t8Yy-zJ4l1nTJWF21zWwGV/view?usp=drive_link",
       },
       {
         date: "September 24, 2023",
@@ -3822,7 +4125,7 @@ const impacts = [
         description:
           "The first capacity-building workshop of the Asian Front of the World’s Youth for Climate Justice (WYCJ), organised in collaboration with the Centre for Environmental Law and Policy (CELP) at the Faculty of Law, and the Centre for Climate Justice-Bangladesh (CCJ-B), took place in Colombo, Sri Lanka from 21st to 24th September. The programme was conducted under the guidance of Professor Kokila Konasinghe, Advisor for the WYCJ-Asian Front and Head of the Department of Department of Public and International Law of the Faculty of Law.",
         link: "https://cmb.ac.lk/wycjs-inaugural-workshop-in-colombo",
-        backup_image: "assets/img/impact/climate-environmental/backup/uoc.png",
+        backup_image: "https://drive.google.com/file/d/1-Srfk9RZ3J8Ia6wn6y-YFlvvd4o4Ygs2/view?usp=drive_link",
       },
     ],
   },
@@ -3833,7 +4136,7 @@ const impacts = [
     image: "assets/img/impact/climate-environmental/asia-pacific.png",
     slides: [
       {
-        date: "",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "The Asia Pacific Youth Environment Forum (APYEF)",
@@ -3841,7 +4144,7 @@ const impacts = [
         description:
           "The Asia Pacific Youth Environment Forum (APYEF), a significant prelude to the Fifth Forum of Ministers and Environment Authorities of Asia Pacific, transpired from the 1st to the 2nd of October 2023. This event was meticulously orchestrated with a primary objective: to furnish a dedicated platform for self-organized training and capacity enhancement for the youth cohort partaking in the upcoming Sixth Session of the United Nations Environment Assembly (UNEA-6) and the Forum itself.",
         link: "https://www.linkedin.com/posts/lilanofficial_the-asia-pacific-youth-environment-forum-activity-7115413756741898241-3Mz8?utm_source=share&utm_medium=member_desktop",
-        backup_image: "assets/img/impact/climate-environmental/backup/asia-pacific.png",
+        backup_image: "https://drive.google.com/file/d/1imI6bhXs4gbp9VZCFjv1YvxaUoPy0miR/view?usp=drive_link",
       },
     ],
   },
