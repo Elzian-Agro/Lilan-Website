@@ -532,7 +532,7 @@ PHP Email Form Messages
 }
 
 .page-title .heading {
-  padding: 160px 0 80px 0;
+  padding: 120px 0 30px 0;
   border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
 }
 
@@ -572,6 +572,16 @@ PHP Email Form Messages
   color: color-mix(in srgb, var(--default-color), transparent 70%);
 }
 
+.breadcrumbs #current-page {
+  cursor: pointer;
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.breadcrumbs #current-page:hover {
+  color: rgb(11, 164, 95);
+}
 /*--------------------------------------------------------------
 # Global Sections
 --------------------------------------------------------------*/
@@ -674,11 +684,7 @@ section,
   border-bottom: 2px solid var(--accent-color);
 }
 
-.hero .social-links {
-  margin-top: 20px;
-}
-
-.hero .social-links a {
+.social-links-home a {
   background-color: color-mix(in srgb, var(--default-color), transparent 90%);
   color: var(--default-color);
   font-size: 14px;
@@ -688,11 +694,11 @@ section,
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  margin-right: 20px;
+  margin-right: 15px;
   transition: 0.3s;
 }
 
-.hero .social-links a:hover {
+.social-links-home a:hover {
   background-color: var(--accent-color);
 }
 
@@ -872,25 +878,117 @@ section,
 }
 
 .impact .impact-filters li {
-  cursor: pointer;
   display: inline-block;
-  font-size: 16px;
-  margin: 5px;
-  line-height: 1;
-  transition: all 0.3s ease-in-out;
-  background-color: var(--accent-color);
-  padding: 5px 0px;
-  border-radius: 2px;
   width: calc(50% - 10px); /* Two items per row */
 }
 
-.impact .impact-filters li:first-child {
-  width: 100%; /* First item takes full width */
+.impact .impact-filters li button {
+  cursor: pointer;
+  border: none;
+  width: 98%;
+  padding: 20px 0px;
+  margin: 5px;
+  font-size: 16px;
+  border-radius: 2px;
+  color: white;
+  transition: all 0.3s ease-in-out;
 }
 
-.impact .impact-filters li:hover,
-.impact .impact-filters li.filter-active {
-  background-color: color-mix(in srgb, var(--accent-color), transparent 20%);
+.impact .impact-filters #filter-all button {
+  background-color: white;
+  color: black;
+}
+
+.impact .impact-filters #filter-all button:hover {
+  background-color: rgb(236, 230, 230);
+}
+
+.impact .impact-filters #filter-recognition button {
+  background-color: rgb(36, 96, 235);
+}
+
+.impact .impact-filters #filter-recognition button:hover {
+  background-color: rgb(31, 61, 230);
+}
+
+.impact .impact-filters #filter-membership button {
+  background-color: rgb(58, 215, 15);
+}
+
+.impact .impact-filters #filter-membership button:hover {
+  background-color: rgb(52, 193, 12);
+}
+
+.impact .impact-filters #filter-innovation-social button {
+  background-color: rgb(239, 28, 28);
+}
+
+.impact .impact-filters #filter-innovation-social button:hover {
+  background-color: rgb(223, 10, 10);
+}
+
+.impact .impact-filters #filter-food-agriculture button {
+  background-color: rgb(158, 38, 223);
+}
+
+.impact .impact-filters #filter-food-agriculture button:hover {
+  background-color: rgb(130, 20, 190);
+}
+
+.impact .impact-filters #filter-renewable-energy button {
+  background-color: rgb(25, 190, 179);
+}
+
+.impact .impact-filters #filter-renewable-energy button:hover {
+  background-color: rgb(15, 156, 146);
+}
+
+.impact .impact-filters #filter-climate-environmental button {
+  background-color: rgb(219, 42, 154);
+}
+
+.impact .impact-filters #filter-climate-environmental button:hover {
+  background-color: rgb(202, 9, 131);
+}
+
+.impact .impact-filters #filter-public-policy button {
+  background-color: rgb(235, 151, 24);
+}
+
+.impact .impact-filters #filter-public-policy button:hover {
+  background-color: rgb(220, 136, 11);
+}
+
+.impact .impact-filters #filter-leadership-economic button {
+  background-color: rgb(196, 200, 68);
+}
+
+.impact .impact-filters #filter-leadership-economic button:hover {
+  background-color: rgb(179, 184, 55);
+}
+
+.impact .impact-filters #filter-youth-women-empowerment button {
+  background-color: rgb(16, 141, 195);
+}
+
+.impact .impact-filters #filter-youth-women-empowerment button:hover {
+  background-color: rgb(12, 126, 175);
+}
+
+.impact .impact-filters #filter-meeting-changemakers-vips button {
+  background-color: rgb(14, 216, 125);
+}
+
+.impact .impact-filters #filter-meeting-changemakers-vips button:hover {
+  background-color: rgb(11, 182, 105);
+}
+
+.impact .impact-filters #filter-aerospace-outer-space button {
+  background-color: rgb(189, 28, 217);
+}
+
+.impact .impact-filters #filter-aerospace-outer-space button:hover {
+  background-color: rgb(163, 16, 189);
 }
 
 @media (max-width: 575px) {
@@ -902,8 +1000,11 @@ section,
 }
 
 .impact .impact-content {
-  height: 280px;
+  height: auto;
+  padding-left: 10px;
   overflow: hidden;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
 }
 
 @media (max-width: 768px) {
@@ -914,37 +1015,163 @@ section,
 
 @media (min-width: 1400px) {
   .impact .impact-content {
-    height: 310px;
+    height: auto;
+    padding-left: 10px;
   }
 }
 
-.impact .impact-image {
-  width: 100%;
-  height: auto;
-  overflow: hidden;
-}
-
-.impact .impact-content img {
-  transition: 0.3s;
-}
-
 .impact .impact-content h4 {
-  color: var(--accent-color);
+  color: white;
   text-decoration: none;
   transition: 0.3s;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 400;
   display: inline-block;
   padding-top: 10px;
 }
 
-.impact .impact-content img:hover {
-  transform: scale(1.1);
+/*--------------------------------------------------------------
+# Meadia Details Section
+--------------------------------------------------------------*/
+.meadia .meadia-filters {
+  padding: 0;
+  margin: 0 auto 20px auto;
+  list-style: none;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.meadia .meadia-filters li {
+  display: inline-block;
+  width: calc(50% - 10px); /* Two items per row */
+}
+
+.meadia .meadia-filters li button {
+  cursor: pointer;
+  border: none;
+  width: 98%;
+  padding: 20px 0px;
+  margin: 5px;
+  font-size: 16px;
+  border-radius: 2px;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+
+.meadia .meadia-filters #filter-all button {
+  background-color: white;
+  color: black;
+}
+
+.meadia .meadia-filters #filter-all button:hover {
+  background-color: rgb(236, 230, 230);
+}
+
+.meadia .meadia-filters #filter-podcast button {
+  background-color: rgb(16, 141, 195);
+}
+
+.meadia .meadia-filters #filter-podcast button:hover {
+  background-color: rgb(12, 126, 175);
+}
+
+.meadia .meadia-filters #filter-blog button {
+  background-color: rgb(14, 216, 125);
+}
+
+.meadia .meadia-filters #filter-blog button:hover {
+  background-color: rgb(11, 182, 105);
+}
+
+.meadia .meadia-filters #filter-other-media button {
+  background-color: rgb(235, 151, 24);
+}
+
+.meadia .meadia-filters #filter-other-media button:hover {
+  background-color: rgb(220, 136, 11);
+}
+
+@media (max-width: 1000px) {
+  .impact .impact-filters li {
+    font-size: 14px;
+    margin: 5px;
+    width: 100%;
+  }
+}
+
+.meadia .meadia-content,
+.meadia .blog-content {
+  height: auto;
+  padding: 0 10px 0 10px;
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
   cursor: pointer;
 }
 
+@media (max-width: 768px) {
+  .meadia .meadia-content,
+  .meadia .blog-content {
+    height: 100%;
+  }
+}
+
+@media (min-width: 1400px) {
+  .meadia .meadia-content,
+  .meadia .blog-content {
+    height: auto;
+    padding: 0 10px 0 10px;
+  }
+}
+
+.meadia .meadia-content h4 {
+  color: white;
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 16px;
+  font-weight: 400;
+  display: inline-block;
+  padding-top: 10px;
+}
+
+.meadia .blog-content h4 {
+  color: white;
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 16px;
+  font-weight: 400;
+  display: inline-block;
+}
+
+.meadia .blog-content #blog {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.meadia .blog-content #blog p {
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+  padding-top: 8px;
+}
+
+@media (max-width: 900px) {
+  .meadia .blog-content #blog {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .meadia .blog-content #blog p {
+    padding-top: 0px;
+  }
+}
+
 /*--------------------------------------------------------------
-# Impact Details Section
+# Impact and Meadia Common Details Section
 --------------------------------------------------------------*/
 .popup {
   display: none; /* Hide by default */
@@ -1061,7 +1288,7 @@ section,
 
 .popup .close-btn {
   position: absolute;
-  top: 8px;
+  top: 20px;
   right: 18px;
   background: transparent;
   border: none;
@@ -1102,78 +1329,6 @@ section,
   .popup .slide .buttons {
     justify-content: center;
   }
-}
-
-/*--------------------------------------------------------------
-# Blog Section
---------------------------------------------------------------*/
-.blog .blog-content {
-  overflow: hidden;
-}
-
-.blog .blog-content img {
-  transition: 0.3s;
-}
-
-.blog .blog-info {
-  margin-top: 10px;
-}
-
-.blog .blog-info h4 {
-  color: var(--accent-color);
-  text-decoration: none;
-  transition: 0.3s;
-  font-size: 18px;
-  font-weight: 400;
-  display: inline-block;
-}
-
-.blog .blog-info p {
-  font-size: 15px;
-  font-weight: 600;
-  color: rgba(255, 255, 255, 0.8);
-  text-align: justify;
-}
-
-.blog .blog-content:hover img {
-  transform: scale(1.1);
-  cursor: pointer;
-}
-
-/*--------------------------------------------------------------
-# Podcast Section
---------------------------------------------------------------*/
-.podcast .podcast-content {
-  overflow: hidden;
-}
-
-.podcast .podcast-content img {
-  transition: 0.3s;
-}
-
-.podcast .podcast-info {
-  margin-top: 10px;
-}
-
-.podcast .podcast-info h4 {
-  color: var(--accent-color);
-  text-decoration: none;
-  transition: 0.3s;
-  font-size: 18px;
-  font-weight: 400;
-  display: inline-block;
-}
-
-.podcast .podcast-info p {
-  font-size: 15px;
-  font-weight: 600;
-  color: rgba(255, 255, 255, 0.8);
-  text-align: justify;
-}
-
-.podcast .podcast-content:hover img {
-  transform: scale(1.1);
-  cursor: pointer;
 }
 
 /*--------------------------------------------------------------

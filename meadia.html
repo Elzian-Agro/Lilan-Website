@@ -59,9 +59,9 @@
           <ul id="mainmenu">
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
-            <li><a href="impact.html" class="active">Impact</a></li>
+            <li><a href="impact.html">Impact</a></li>
             <li><a href="recommendation.html">Recommendation</a></li>
-            <li><a href="meadia.html">Meadia</a></li>
+            <li><a href="meadia.html" class="active">Meadia</a></li>
             <li><a href="contact.html">Contact</a></li>
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -76,10 +76,10 @@
           <div class="container">
             <div class="row d-flex justify-content-center text-center">
               <div class="col-lg-8">
-                <h1>Impact</h1>
+                <h1>Meadia</h1>
                 <p class="mb-0">
-                  Add description about Impact. Add description about Impact. Add description about Impact.
-                  Add description about Impact. Add description about Impact. Add description about Impact.
+                  Add description about Meadia. Add description about Meadia. Add description about Meadia.
+                  Add description about Meadia. Add description about Meadia. Add description about Meadia.
                 </p>
               </div>
             </div>
@@ -89,7 +89,7 @@
           <div class="container">
             <ol>
               <!-- <li><a href="index.html">Home</a></li> -->
-              <li id="current-page">Impact</li>
+              <li id="current-page">Meadia</li>
               <li id="current-category" class="current"></li>
             </ol>
           </div>
@@ -97,81 +97,41 @@
       </div>
       <!-- End Page Title -->
 
-      <!-- Impact Section -->
-      <section id="impact" class="impact section">
+      <!-- Meadia Section -->
+      <section id="meadia" class="meadia section">
         <div class="container">
           <div
             class="isotope-layout"
             data-default-filter="*"
             data-layout="masonry"
             data-sort="original-order">
-            <ul class="impact-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
+            <ul class="meadia-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
               <li data-filter="*" class="filter-active" id="filter-all">
-                <button onclick="updateContent('white', 'black')">Overall View</button>
+                <button onclick="updateContent('white' , 'black')">Overall View</button>
               </li>
-              <li data-filter=".filter-recognition" id="filter-recognition">
-                <button onclick="updateContent('rgb(36, 96, 235)')">Recognition & Accolades</button>
+              <li data-filter=".filter-podcast" id="filter-podcast">
+                <button onclick="updateContent('rgb(16, 141, 195)')">Podcast</button>
               </li>
-              <li data-filter=".filter-membership" id="filter-membership">
-                <button onclick="updateContent('rgb(58, 215, 15)')">
-                  Membership, Volunteerism & Affiliations
-                </button>
+              <li data-filter=".filter-blog" id="filter-blog">
+                <button onclick="updateContent('rgb(14, 216, 125)')">Blog</button>
               </li>
-              <li data-filter=".filter-innovation-social" id="filter-innovation-social">
-                <button onclick="updateContent('rgb(239, 28, 28)')">
-                  Innovation & Social Entrepreneurship
-                </button>
-              </li>
-              <li data-filter=".filter-food-agriculture" id="filter-food-agriculture">
-                <button onclick="updateContent('rgb(158, 38, 223)')">Food, Agriculture & Forestry</button>
-              </li>
-              <li data-filter=".filter-renewable-energy" id="filter-renewable-energy">
-                <button onclick="updateContent('rgb(25, 190, 179)')">
-                  Renewable Energy & Energy Conservation
-                </button>
-              </li>
-              <li data-filter=".filter-climate-environmental" id="filter-climate-environmental">
-                <button onclick="updateContent('rgb(219, 42, 154)')">
-                  Climate Action & Environmental Restoration
-                </button>
-              </li>
-              <li data-filter=".filter-public-policy" id="filter-public-policy">
-                <button onclick="updateContent('rgb(235, 151, 24)')">
-                  Public Policy, Peace, Diplomacy & Inclusive Democracy
-                </button>
-              </li>
-              <li data-filter=".filter-leadership-economic" id="filter-leadership-economic">
-                <button onclick="updateContent('rgb(196, 200, 68)')">
-                  Leadership, Economic & Social Empowerment
-                </button>
-              </li>
-              <li data-filter=".filter-youth-women-empowerment" id="filter-youth-women-empowerment">
-                <button onclick="updateContent('rgb(16, 141, 195)')">Youth & Women Empowerment</button>
-              </li>
-              <li data-filter=".filter-meeting-changemakers-vips" id="filter-meeting-changemakers-vips">
-                <button onclick="updateContent('rgb(14, 216, 125)')">
-                  Meeting Extraordinary Changemakers & VIPs
-                </button>
-              </li>
-              <li data-filter=".filter-aerospace-outer-space" id="filter-aerospace-outer-space">
-                <button onclick="updateContent('rgb(189, 28, 217)')">
-                  Aerospace & Outer Space Protection
-                </button>
+              <li data-filter=".filter-other-media" id="filter-other-media">
+                <button onclick="updateContent('rgb(235, 151, 24)')">Other Media Appearances</button>
               </li>
             </ul>
-            <!-- End Impact Filters -->
+            <!-- End MEadia Filters -->
 
             <div
-              id="impact-list"
+              id="meadia-list"
               class="row gy-2 isotope-container"
               data-aos="fade-up"
               data-aos-delay="200"></div>
 
-            <!-- End Impact Container -->
+            <!-- End Meadia Container -->
           </div>
         </div>
       </section>
-      <!-- /Impact Section -->
+      <!-- /Meadia Section -->
     </main>
 
     <footer id="footer" class="footer dark-background">
@@ -219,17 +179,20 @@
     <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
 
     <!-- Recommendation Data File -->
-    <script src="./constants/impacts.js"></script>
+    <script src="./constants/meadia.js"></script>
 
     <script>
-      // Render impacts
-      const impactList = document.getElementById("impact-list");
+      // Render meadia
+      const meadiaList = document.getElementById("meadia-list");
 
-      impacts.forEach((impact, index) => {
-        let recHTML = `
-          <div class="isotope-item ${impact.filter}">
-            <div class="impact-content" id="impact-content" data-popup="popup-${index + 1}" >
-               <h4>${impact.title}</h4>
+      meadia.forEach((meadia, index) => {
+        let recHTML = "";
+
+        if (meadia.slides) {
+          recHTML = `
+          <div class="isotope-item ${meadia.filter}">
+            <div class="meadia-content" id="meadia-content" data-popup="popup-${index + 1}" >
+               <h4>${meadia.title}</h4>
             </div>
           </div>
 
@@ -241,22 +204,22 @@
               <div class="slides">
         `;
 
-        // Loop through the slides and append to recHTML
-        impact.slides.forEach((slide) => {
-          // Automatically generate a quote from the slide text
-          let quote = slide.description;
+          // Loop through the slides and append to recHTML
+          meadia.slides.forEach((slide) => {
+            // Automatically generate a quote from the slide text
+            let quote = slide.description;
 
-          // Limit to 200 characters without cutting words in half
-          if (quote.length > 250) {
-            // Trim to the nearest space before 200 characters
-            quote = quote.substring(0, 250);
-            const lastSpaceIndex = quote.lastIndexOf(" ");
+            // Limit to 200 characters without cutting words in half
+            if (quote.length > 250) {
+              // Trim to the nearest space before 200 characters
+              quote = quote.substring(0, 250);
+              const lastSpaceIndex = quote.lastIndexOf(" ");
 
-            // Ensure we cut off at the last full word
-            quote = quote.substring(0, lastSpaceIndex) + "...";
-          }
+              // Ensure we cut off at the last full word
+              quote = quote.substring(0, lastSpaceIndex) + "...";
+            }
 
-          recHTML += `
+            recHTML += `
             <div class="slide">
               <div><img src="${slide.image}" class="img-fluid" alt="${slide.title}" /></div>
               <div class="text-content">
@@ -278,35 +241,50 @@
               </div>
             </div>
           `;
-        });
+          });
 
-        // Close the HTML tags
-        recHTML += `
+          // Close the HTML tags
+          recHTML += `
               </div> <!-- .slides -->
             </div> <!-- .popup-content -->
           </div> <!-- #popup-${index + 1} -->
         `;
+        } else {
+          recHTML = `
+          <div class="meadia-item isotope-item ${meadia.filter}">
+            <div class="blog-content" id="meadia-content" data-popup="popup-${index + 1}" >
+              <a href="${meadia.url}" target="_blank">
+                <div id="blog">
+                  <h4>${meadia.title}</h4>
+                  <p>${meadia.date}</p>
+                </div>
+              </a>
+            </div>
+                    
+          </div>
+        `;
+        }
 
-        // Append the constructed HTML to the impact list
-        impactList.insertAdjacentHTML("beforeend", recHTML);
+        // Append the constructed HTML to the meadia list
+        meadiaList.insertAdjacentHTML("beforeend", recHTML);
       });
     </script>
 
     <script>
       // Select filter buttons and the isotope container
-      const impactFilters = document.querySelector(".impact-filters");
-      const filterButtons = document.querySelectorAll(".impact-filters li");
+      const meadiaFilters = document.querySelector(".meadia-filters");
+      const filterButtons = document.querySelectorAll(".meadia-filters li");
       const isotopeContainer = document.querySelector(".isotope-container");
-      const impactItems = document.querySelectorAll(".isotope-item");
+      const meadiaItems = document.querySelectorAll(".isotope-item");
       const currentCategory = document.getElementById("current-category");
       const currentPage = document.getElementById("current-page");
-      const impactListItems = document.getElementById("impact-list");
+      const meadiaListItems = document.getElementById("meadia-list");
 
       // Function to show filter buttons and hide content
       function showFilters() {
-        impactFilters.style.display = "flex"; // Show the filter buttons
+        meadiaFilters.style.display = "flex"; // Show the filter buttons
         isotopeContainer.classList.remove("active"); // Hide the content container
-        impactItems.forEach((item) => item.classList.remove("active")); // Hide all items
+        meadiaItems.forEach((item) => item.classList.remove("active")); // Hide all items
         currentCategory.textContent = "";
       }
 
@@ -316,7 +294,7 @@
         isotopeContainer.classList.add("active");
 
         // Show relevant items based on the filter
-        impactItems.forEach((item) => {
+        meadiaItems.forEach((item) => {
           if (filter === "*" || item.classList.contains(filter.substring(1))) {
             item.classList.add("active");
           } else {
@@ -326,13 +304,13 @@
       }
 
       // Hide all items initially
-      impactItems.forEach((item) => item.classList.remove("active"));
+      meadiaItems.forEach((item) => item.classList.remove("active"));
 
       // Add event listeners to filter buttons
       filterButtons.forEach((button) => {
         button.addEventListener("click", function () {
           // Remove active class from previous active button
-          document.querySelector(".impact-filters .filter-active")?.classList.remove("filter-active");
+          document.querySelector(".meadia-filters .filter-active")?.classList.remove("filter-active");
 
           // Add active class to the clicked button
           this.classList.add("filter-active");
@@ -347,11 +325,11 @@
           currentCategory.textContent = this.textContent;
 
           // Hide the filter buttons
-          impactFilters.style.display = "none";
+          meadiaFilters.style.display = "none";
         });
       });
 
-      // Event listener for navigating back to impact filters
+      // Event listener for navigating back to meadia filters
       currentPage.addEventListener("click", function () {
         showFilters(); // Show the filter buttons again
       });
@@ -362,8 +340,8 @@
 
     <script>
       function updateContent(bgcolor, txtcolor) {
-        // Select all elements with the class 'impact-content'
-        const contentAreas = document.querySelectorAll(".impact-content");
+        // Select all elements with the class 'meadia-content' or 'blog-content'
+        const contentAreas = document.querySelectorAll(".meadia-content , .blog-content");
 
         // Loop through each element to set initial colors and add hover/active effects
         contentAreas.forEach((element) => {
@@ -371,10 +349,21 @@
           element.style.backgroundColor = bgcolor;
           element.querySelector("h4").style.color = txtcolor || "white";
 
+          // Check if <p> tag exists and set its color dynamically
+          const pTag = element.querySelector("p");
+          if (pTag) {
+            pTag.style.color = txtcolor || "white";
+          }
+
           // Hover effect
           element.addEventListener("mouseenter", () => {
             element.style.backgroundColor = bgcolor == "white" ? "#a0a1a3" : "white";
             element.querySelector("h4").style.color = txtcolor == "black" ? "white" : "black";
+
+            // Change <p> color on hover if it exists
+            if (pTag) {
+              pTag.style.color = txtcolor == "black" ? "white" : "black";
+            }
           });
 
           element.addEventListener("mouseleave", () => {
@@ -382,6 +371,11 @@
             if (!element.classList.contains("active")) {
               element.style.backgroundColor = bgcolor;
               element.querySelector("h4").style.color = txtcolor || "white";
+
+              // Reset <p> color on mouse leave if it exists
+              if (pTag) {
+                pTag.style.color = txtcolor || "white";
+              }
             }
           });
 
@@ -392,17 +386,27 @@
               el.classList.remove("active");
               el.style.backgroundColor = bgcolor;
               el.querySelector("h4").style.color = txtcolor || "white";
+
+              // Reset <p> color on click if it exists
+              const elPTag = el.querySelector("p");
+              if (elPTag) {
+                elPTag.style.color = txtcolor || "white";
+              }
             });
 
             // Set active state for clicked element
             element.classList.add("active");
             element.style.backgroundColor = bgcolor == "white" ? "#a0a1a3" : "white";
             element.querySelector("h4").style.color = txtcolor == "black" ? "white" : "black";
+
+            // Set <p> color for active element if it exists
+            if (pTag) {
+              pTag.style.color = txtcolor == "black" ? "white" : "black";
+            }
           });
         });
       }
     </script>
-
     <!-- Main JS File -->
     <script src="assets/js/main.js"></script>
   </body>
