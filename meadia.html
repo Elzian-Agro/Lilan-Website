@@ -255,8 +255,8 @@
             <div class="blog-content" id="meadia-content" data-popup="popup-${index + 1}" >
               <a href="${meadia.url}" target="_blank">
                 <div id="blog">
-                <h4>${meadia.title}</h4>
-                <p>${meadia.date}</p>
+                  <h4>${meadia.title}</h4>
+                  <p>${meadia.date}</p>
                 </div>
               </a>
             </div>
@@ -340,28 +340,73 @@
 
     <script>
       function updateContent(bgcolor, txtcolor) {
-        // Select all elements with the class 'impact-content'
-        const contentAreas = document.querySelectorAll(".meadia-content");
-        const blogAreas = document.querySelectorAll(".blog-content");
-        const contentAreasText = document.querySelectorAll(
-          ".meadia-content h4, .blog-content h4,.blog-content p"
-        );
+        // Select all elements with the class 'meadia-content' or 'blog-content'
+        const contentAreas = document.querySelectorAll(".meadia-content , .blog-content");
 
-        // Loop through each element and set the background color
+        // Loop through each element to set initial colors and add hover/active effects
         contentAreas.forEach((element) => {
+          // Set initial background and text color
           element.style.backgroundColor = bgcolor;
-        });
+          element.querySelector("h4").style.color = txtcolor || "white";
 
-        blogAreas.forEach((element) => {
-          element.style.backgroundColor = bgcolor;
-        });
+          // Check if <p> tag exists and set its color dynamically
+          const pTag = element.querySelector("p");
+          if (pTag) {
+            pTag.style.color = txtcolor || "white";
+          }
 
-        contentAreasText.forEach((element) => {
-          element.style.color = txtcolor || "white";
+          // Hover effect
+          element.addEventListener("mouseenter", () => {
+            element.style.backgroundColor = bgcolor == "white" ? "#a0a1a3" : "white";
+            element.querySelector("h4").style.color = txtcolor == "black" ? "white" : "black";
+
+            // Change <p> color on hover if it exists
+            if (pTag) {
+              pTag.style.color = txtcolor == "black" ? "white" : "black";
+            }
+          });
+
+          element.addEventListener("mouseleave", () => {
+            // Only reset hover color if the item is not active
+            if (!element.classList.contains("active")) {
+              element.style.backgroundColor = bgcolor;
+              element.querySelector("h4").style.color = txtcolor || "white";
+
+              // Reset <p> color on mouse leave if it exists
+              if (pTag) {
+                pTag.style.color = txtcolor || "white";
+              }
+            }
+          });
+
+          // Active effect
+          element.addEventListener("click", () => {
+            // Remove active state from other elements
+            contentAreas.forEach((el) => {
+              el.classList.remove("active");
+              el.style.backgroundColor = bgcolor;
+              el.querySelector("h4").style.color = txtcolor || "white";
+
+              // Reset <p> color on click if it exists
+              const elPTag = el.querySelector("p");
+              if (elPTag) {
+                elPTag.style.color = txtcolor || "white";
+              }
+            });
+
+            // Set active state for clicked element
+            element.classList.add("active");
+            element.style.backgroundColor = bgcolor == "white" ? "#a0a1a3" : "white";
+            element.querySelector("h4").style.color = txtcolor == "black" ? "white" : "black";
+
+            // Set <p> color for active element if it exists
+            if (pTag) {
+              pTag.style.color = txtcolor == "black" ? "white" : "black";
+            }
+          });
         });
       }
     </script>
-
     <!-- Main JS File -->
     <script src="assets/js/main.js"></script>
   </body>

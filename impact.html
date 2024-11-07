@@ -364,15 +364,41 @@
       function updateContent(bgcolor, txtcolor) {
         // Select all elements with the class 'impact-content'
         const contentAreas = document.querySelectorAll(".impact-content");
-        const contentAreasText = document.querySelectorAll(".impact-content h4");
 
-        // Loop through each element and set the background color
+        // Loop through each element to set initial colors and add hover/active effects
         contentAreas.forEach((element) => {
+          // Set initial background and text color
           element.style.backgroundColor = bgcolor;
-        });
+          element.querySelector("h4").style.color = txtcolor || "white";
 
-        contentAreasText.forEach((element) => {
-          element.style.color = txtcolor || "white";
+          // Hover effect
+          element.addEventListener("mouseenter", () => {
+            element.style.backgroundColor = bgcolor == "white" ? "#a0a1a3" : "white";
+            element.querySelector("h4").style.color = txtcolor == "black" ? "white" : "black";
+          });
+
+          element.addEventListener("mouseleave", () => {
+            // Only reset hover color if the item is not active
+            if (!element.classList.contains("active")) {
+              element.style.backgroundColor = bgcolor;
+              element.querySelector("h4").style.color = txtcolor || "white";
+            }
+          });
+
+          // Active effect
+          element.addEventListener("click", () => {
+            // Remove active state from other elements
+            contentAreas.forEach((el) => {
+              el.classList.remove("active");
+              el.style.backgroundColor = bgcolor;
+              el.querySelector("h4").style.color = txtcolor || "white";
+            });
+
+            // Set active state for clicked element
+            element.classList.add("active");
+            element.style.backgroundColor = bgcolor == "white" ? "#a0a1a3" : "white";
+            element.querySelector("h4").style.color = txtcolor == "black" ? "white" : "black";
+          });
         });
       }
     </script>

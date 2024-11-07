@@ -1003,6 +1003,8 @@ section,
   height: auto;
   padding-left: 10px;
   overflow: hidden;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
 }
 
 @media (max-width: 768px) {
@@ -1015,7 +1017,6 @@ section,
   .impact .impact-content {
     height: auto;
     padding-left: 10px;
-    cursor: pointer;
   }
 }
 
@@ -1056,7 +1057,7 @@ section,
   font-size: 16px;
   border-radius: 2px;
   color: white;
-  transition: all 0.3s ease-in-out;
+  transition: background-color 0.3s ease;
 }
 
 .meadia .meadia-filters #filter-all button {
@@ -1105,6 +1106,8 @@ section,
   height: auto;
   padding: 0 10px 0 10px;
   overflow: hidden;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
 }
 
 @media (max-width: 768px) {
@@ -1119,7 +1122,6 @@ section,
   .meadia .blog-content {
     height: auto;
     padding: 0 10px 0 10px;
-    cursor: pointer;
   }
 }
 
@@ -1149,8 +1151,23 @@ section,
   padding-top: 10px;
 }
 
-.meadia .blog-content p {
+.meadia .blog-content #blog p {
   color: white;
+  font-size: 14px;
+  font-weight: 400;
+  padding-top: 8px;
+}
+
+@media (max-width: 900px) {
+  .meadia .blog-content #blog {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .meadia .blog-content #blog p {
+    padding-top: 0px;
+  }
 }
 
 /*--------------------------------------------------------------
