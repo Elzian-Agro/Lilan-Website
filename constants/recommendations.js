@@ -1,5 +1,15 @@
 const recommendations = [
   {
+    date: "October 18, 2024",
+    name: "Bilgudei Gankhulug",
+    position: "Social Entrepreneur",
+    relationship: "Bilgudei worked with Lilan but on different teams",
+    image: "assets/img/recommendation/Bilgudei Gankhulug.png",
+    linkedin: "https://www.linkedin.com/in/bilgudei-gankhulug-a302b416b/",
+    recommendation:
+      "I had the pleasure of working with Lilan Dayananda during our time at both the UNLEASH Innovation Lab in India and the FAO Global Conference on Sustainable Livestock Transformation in Italy. Throughout these events, Lilan consistently stood out for his exceptional leadership skills and collaborative spirit.\n\n In team settings, Lilan was not only a natural leader but also a great listener who valued everyone's input, creating an inclusive and empowering environment. His ability to navigate complex challenges, offer insightful solutions, and bring the best out of others was truly remarkable.\n\n Moreover, Lilan demonstrated outstanding social skills, building strong networks and fostering meaningful connections. His passion for sustainable development, combined with his innovative mindset, makes him a valuable asset to any team or initiative. I have no doubt that Lilan will continue to make a significant impact in all his future endeavors.\n\n I highly recommend Lilan Dayananda for any opportunity that seeks a dedicated, visionary leader with a proven track record of excellence.",
+  },
+  {
     date: "September 21, 2024",
     name: "Charles Ojodale Igomu",
     position: "Graduate Teaching Assistant",
