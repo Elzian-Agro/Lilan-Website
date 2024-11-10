@@ -151,7 +151,7 @@ const impacts = [
           "ELZIAN AGRO has been Honored with Multiple Awards for Our Innovation, Technology, and Overall Success.",
         image: "assets/img/impact/recognition/slasscom/linkedin_2.jpg",
         description:
-          "I am thrilled and proud to announce that ELZIAN AGRO has been honored with multiple awards for our innovation, technology, and overall success. This achievement would not have been possible without the invaluable support and contributions of all stakeholders and affiliates of ELZIAN AGRO.",
+          "I am thrilled and proud to announce that ELZIAN AGRO has been honored with multiple awards for our innovation, technology, and overall success. This achievement would not have been possible...",
         link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-team-activity-7078312302239760384-uvzq/?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1ansLT9wGYkOFYpNOk8lLV3eo2dx2ysm5/view?usp=drive_link",
       },
@@ -162,7 +162,7 @@ const impacts = [
         title: "ELZIAN AGRO Achieves Remarkable Success at SLASSCOM National Ingenuity Awards 2023",
         image: "assets/img/impact/recognition/slasscom/ada-derana.png",
         description:
-          "LZIAN AGRO, a true visionary in the agricultural technology sector, has reached unprecedented heights with their exceptional performance at the highly esteemed SLASSCOM National Ingenuity Awards 2023. The company's relentless pursuit of innovation and commitment to sustainability has garnered them resounding praise and numerous accolades across multiple categories, solidifying their position as leaders in the industry.",
+          "LZIAN AGRO, a true visionary in the agricultural technology sector, has reached unprecedented heights with their exceptional performance at the highly esteemed SLASSCOM National Ingenuity Awards 2023...",
         link: "http://bizenglish.adaderana.lk/elzian-agro-achieves-remarkable-success-at-slasscom-national-ingenuity-awards-2023/",
         backup_image: "https://drive.google.com/file/d/1EHo447_c3PWQeoQHFcnKydom6Y_9-KTx/view?usp=drive_link",
       },
@@ -232,7 +232,7 @@ const impacts = [
           "Top Youth Entrepreneurs Selected for Final Youth4South Entrepreneurship Competition, to be held in Bangkok in September",
         image: "assets/img/impact/recognition/youth-entrepreneurs/south-south-galaxy.png",
         description:
-          "More than twenty young entrepreneurs from 15 developing countries came together for the first-round pitching of the Youth4South Entrepreneurship Competition on 23 and 24 June 2022. Based on the competitive live pitching over the two days, 10 initiatives emerged as the most environmentally friendly and financially sustainable ones, which made to the main competition at the Global South-South Development Expo 2022 to be held in Bangkok, Thailand, in September.",
+          "More than twenty young entrepreneurs from 15 developing countries came together for the first-round pitching of the Youth4South...",
         link: "https://southsouth-galaxy.org/news/top-youth-entrepreneurs-selected-for-final-youth4south-entrepreneurship-competition/",
         backup_image: "https://drive.google.com/file/d/12lv_XmgWE5KoCjCtst22NrioQ2EEDGH7/view?usp=drive_link",
       },
@@ -323,7 +323,7 @@ const impacts = [
         title: "Lilan Dayananda Named Social Entrepreneur of the Year at New Generation Asia Awards",
         image: "assets/img/impact/recognition/new-generation-asia/lanka-news-network.png",
         description:
-          "Lilan Dayananda, the dynamic Managing Director and CEO of Elzian Agro, was honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards held at the Shangri-La Hotel in Colombo. This event celebrated over 40 young leaders for their exceptional achievements across various sectors, including leadership, entrepreneurship, technology, media, and more.",
+          "Lilan Dayananda, the dynamic Managing Director and CEO of Elzian Agro, was honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards held at the Shangri-La Hotel...",
         link: "https://english.lankanewsnetwork.com/?p=1230",
         backup_image: "https://drive.google.com/file/d/16Qw3A6USD6ahg890BxZJUyeNdrKBZ1D2/view?usp=drive_link",
       },
@@ -334,7 +334,7 @@ const impacts = [
         title: "Lilan Dayananda honored as Social Entrepreneur of the Year at New Generation Asia Awards",
         image: "assets/img/impact/recognition/new-generation-asia/business-news.png",
         description:
-          "Lilan Dayananda, the Managing Director and Chief Executive Officer of Elzian Agro, was celebrated as the Social Entrepreneur of the Year at the prestigious Fifth New Generation Asia Awards held at the Shangi-La Hotel in Colombo.",
+          "Lilan Dayananda, the Managing Director and Chief Executive Officer of Elzian Agro, was celebrated as the Social Entrepreneur of the Year at the prestigious Fifth New Generation Asia Awards...",
         link: "https://www.lankabusinessnews.com/lilan-dayananda-honored-as-social-entrepreneur-of-the-year-at-new-generation-asia-awards/",
         backup_image: "https://drive.google.com/file/d/1xoyDHbJwwlDrUubPi76SWg71McDHeF5u/view?usp=drive_link",
       },
@@ -460,10 +460,10 @@ const impacts = [
         source_name: "Linkedin",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "Honored with the distinction of being selected for the Forbes 30 Under 30: Social Impact List.",
+          "Honored with the distinction of being selected for the Forbes 30 Under 30: Social Impact List",
         image: "assets/img/impact/recognition/forbes/linkedin.png",
         description:
-          "I am delighted to share with you all that I have been honored with the distinction of being selected for the Forbes 30 Under 30: Social Impact List.In its 9th year now, the Asia list is a continuation of the global expansion of the Forbes 30 Under 30 franchise, which started over a decade ago. It’s a franchise that has had amazing alumni such as Melanie Perkins from Canva, Palmer Luckey from Oculus VR, Evan Spiegel and Bobby Murphy from Snap Inc., Kevin Aluwi from Gojek and K-pop band BTS to name just a few.",
+          "I am delighted to share with you all that I have been honored with the distinction of being selected for the Forbes 30 Under 30: Social Impact List.In its 9th year now, the Asia list is a continuation...",
         link: "https://www.linkedin.com/posts/lilanofficial_forbesunder30-forbesu30asia-sdgs-activity-7196917504961646592-N6jv/?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1H_tF5FNV8KDe_6O897M93fr53r5JrhYR/view?usp=drive_link",
       },
@@ -550,7 +550,7 @@ const impacts = [
         title: "Honored to Be Ranked number 1 at the One Young World Manchester Summit 2022",
         image: "assets/img/impact/membership/OYW-manchester-summit.png",
         description:
-          "It was a pleasure to be ranked number 1 at OYW Manchester Summit 2022! Thank you to One Young World for allowing me to be a part of this extraordinary, global gathering of young leaders at Manchester Central last week. It has been such a privilege to be in the presence of some of the greatest leaders of our time. Being surrounded by like-minded, optimistic and values-driven individuals from every corner of the world has been one of the most inspiring moments of my life. I am grateful for having crossed paths with all the other delegates and the opportunity to hear their stories of overcoming adversity, as well as their dreams of a better future.",
+          "It was a pleasure to be ranked number 1 at OYW Manchester Summit 2022! Thank you to One Young World for allowing me to be a part of this extraordinary, global gathering of young leaders...",
         link: "https://www.linkedin.com/posts/lilanofficial_it-was-a-pleasure-to-be-ranked-number-1-at-activity-6976216251329126400-Wryt/?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1xWZ77TPTAU6oN-aoRRXsx5nCthCaBG_e/view?usp=drive_link",
       },
@@ -598,7 +598,7 @@ const impacts = [
         source_name: "gendem.iri",
         image: "assets/img/impact/membership/gendem.iri.png",
         description:
-          "Lilan Dayananda, a social tech entrepreneur from Sri Lanka and a member of the @iriglobal Generation Democracy Network, is making waves in the agricultural sector. As the co-founder and CEO of Elzian Agro, Lilan is harnessing the power of technology to empower small farmers and combat climate change.",
+          "Lilan Dayananda, a social tech entrepreneur from Sri Lanka and a member of the @iriglobal Generation Democracy Network, is making waves in the agricultural sector. As the co-founder...",
         link: "https://www.instagram.com/p/C7vwGZnKNVm/",
         source_name: "gendem.iri",
         backup_image: "https://drive.google.com/file/d/1e5ZOK4Yz-TdrgFrTjbN_p5TE-NVmpLw8/view?usp=drive_link",
@@ -610,7 +610,7 @@ const impacts = [
         title: "Generation Democracy Success Story: Lilan Dayananda Empowers Through Innovation",
         image: "assets/img/impact/membership/generation-democracy-instagram.png",
         description:
-          "Lilan Dayananda, a social tech entrepreneur from Sri Lanka and a member of @IRIglobal Generation Democracy Network, is making waves in the agricultural sector. As the co-founder and CEO of Elzian Agro, Lilan is harnessing the power of technology to empower small farmers and combat climate change.",
+          "Lilan Dayananda, a social tech entrepreneur from Sri Lanka and a member of @IRIglobal Generation Democracy Network, is making waves in the agricultural sector. As the co-founder...",
         link: "https://x.com/IRIGenDem/status/1797538632934285513",
         backup_image: "https://drive.google.com/file/d/1IJsFilePUWQi4rxNEOvAEUild9OwnMEZ/view?usp=drive_link",
       },
@@ -659,7 +659,7 @@ const impacts = [
           "Sri Lankan Youth Entrepreneur Lilan Dayananda Selected for Prestigious Clinton Global Initiative Fellowship",
         image: "assets/img/impact/membership/clinto-global-sunday-times.png",
         description:
-          "Lilan Dayananda, a prominent youth entrepreneur from Sri Lanka, has been named among the 25 emerging leaders and entrepreneurs selected for the inaugural cohort of the Clinton Global Initiative (CGI) Fellowship. This prestigious fellowship will provide Fellows with access to vital resources and expert guidance as they each develop their own Commitments to Action new, specific, and measurable projects aimed at addressing some of the world’s most critical challenges.",
+          "Lilan Dayananda, a prominent youth entrepreneur from Sri Lanka, has been named among the 25 emerging leaders and entrepreneurs selected for the inaugural cohort of the Clinton Global Initiative...",
         link: "https://sundaytimes.lk/online/business/Sri-Lankan-Youth-Entrepreneur-Lilan-Dayananda-Selected-for-Prestigious-Clinton-Global-Initiative-Fellowship/10-1146618",
         backup_image: "https://drive.google.com/file/d/1WNo37PIjNOtJxVV80IB_X__oe5zU8yDo/view?usp=drive_link",
       },
@@ -730,7 +730,7 @@ const impacts = [
           "AIPH and GYBN proudly announce list of Youth Jury members for the AIPH World Green City Awards 2024",
         image: "assets/img/impact/membership/youth-jury-wgca.png",
         description:
-          "In partnership with the Global Youth Biodiversity Network (GYBN), AIPH is proud to unveil the 15 members of the Youth Jury who will select the shortlist and winner of the first AIPH Youth Award from the 21 Finalists in the AIPH World Green City Awards 2024.",
+          "In partnership with the Global Youth Biodiversity Network (GYBN), AIPH is proud to unveil the 15 members of the Youth Jury who will select the shortlist and winner of the first AIPH Youth Award...",
         link: "https://aiph.org/latest-news/youth-jury-wgca-2024/",
         backup_image: "https://drive.google.com/file/d/1LNByRrjFH8izsFd0rinXH9-hhig9ol7C/view?usp=drive_link",
       },
@@ -950,7 +950,7 @@ const impacts = [
         title: "Announcing 127 New WSA Youth Ambassadors: Leaders in Innovation and Social Impact",
         image: "assets/img/impact/membership/wsa-celebrate.png",
         description:
-          "Celebrate with us as we announce the appointment of 127 dynamic leaders as WSA Youth Ambassadors! These ambassadors, carefully chosen from a pool of 727 global applications, represent 73 countries and boast diverse expertise in entrepreneurship, socialimpact, sustainability, and digital innovation. More than just symbols of their nations, they actively contribute to fostering positive change within their communities. In doing so, they exemplify WSA's vision for a society that is both inclusive and sustainable.",
+          "Celebrate with us as we announce the appointment of 127 dynamic leaders as WSA Youth Ambassadors! These ambassadors, carefully chosen from a pool of 727 global applications, represent...",
         link: "https://www.linkedin.com/posts/world-summit-awards_wsa-youth-ambassadors-activity-7145775372054298624-lRS1?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1pIBHHDelpEy6_8v8StrqDAR2-P2G9X2B/view?usp=drive_link",
       },
