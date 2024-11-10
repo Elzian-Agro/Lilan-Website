@@ -61,7 +61,7 @@
             <li><a href="about.html">About</a></li>
             <li><a href="impact.html" class="active">Impact</a></li>
             <li><a href="recommendation.html">Recommendation</a></li>
-            <li><a href="meadia.html">Meadia</a></li>
+            <li><a href="meadia.html">Media</a></li>
             <li><a href="contact.html">Contact</a></li>
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -77,10 +77,6 @@
             <div class="row d-flex justify-content-center text-center">
               <div class="col-lg-8">
                 <h1>Impact</h1>
-                <p class="mb-0">
-                  Add description about Impact. Add description about Impact. Add description about Impact.
-                  Add description about Impact. Add description about Impact. Add description about Impact.
-                </p>
               </div>
             </div>
           </div>
@@ -88,7 +84,6 @@
         <nav class="breadcrumbs" aria-label="breadcrumb">
           <div class="container">
             <ol>
-              <!-- <li><a href="index.html">Home</a></li> -->
               <li id="current-page">Impact</li>
               <li id="current-category" class="current"></li>
             </ol>
@@ -107,56 +102,40 @@
             data-sort="original-order">
             <ul class="impact-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
               <li data-filter="*" class="filter-active" id="filter-all">
-                <button onclick="updateContent('white', 'black')">Overall View</button>
+                <button>Overall View</button>
               </li>
               <li data-filter=".filter-recognition" id="filter-recognition">
-                <button onclick="updateContent('rgb(36, 96, 235)')">Recognition & Accolades</button>
+                <button>Recognition & Accolades</button>
               </li>
               <li data-filter=".filter-membership" id="filter-membership">
-                <button onclick="updateContent('rgb(58, 215, 15)')">
-                  Membership, Volunteerism & Affiliations
-                </button>
+                <button>Membership, Volunteerism & Affiliations</button>
               </li>
               <li data-filter=".filter-innovation-social" id="filter-innovation-social">
-                <button onclick="updateContent('rgb(239, 28, 28)')">
-                  Innovation & Social Entrepreneurship
-                </button>
+                <button>Innovation & Social Entrepreneurship</button>
               </li>
               <li data-filter=".filter-food-agriculture" id="filter-food-agriculture">
-                <button onclick="updateContent('rgb(158, 38, 223)')">Food, Agriculture & Forestry</button>
+                <button>Food, Agriculture & Forestry</button>
               </li>
               <li data-filter=".filter-renewable-energy" id="filter-renewable-energy">
-                <button onclick="updateContent('rgb(25, 190, 179)')">
-                  Renewable Energy & Energy Conservation
-                </button>
+                <button>Renewable Energy & Energy Conservation</button>
               </li>
               <li data-filter=".filter-climate-environmental" id="filter-climate-environmental">
-                <button onclick="updateContent('rgb(219, 42, 154)')">
-                  Climate Action & Environmental Restoration
-                </button>
+                <button>Climate Action & Environmental Restoration</button>
               </li>
               <li data-filter=".filter-public-policy" id="filter-public-policy">
-                <button onclick="updateContent('rgb(235, 151, 24)')">
-                  Public Policy, Peace, Diplomacy & Inclusive Democracy
-                </button>
+                <button>Public Policy, Peace, Diplomacy & Inclusive Democracy</button>
               </li>
               <li data-filter=".filter-leadership-economic" id="filter-leadership-economic">
-                <button onclick="updateContent('rgb(196, 200, 68)')">
-                  Leadership, Economic & Social Empowerment
-                </button>
+                <button>Leadership, Economic & Social Empowerment</button>
               </li>
               <li data-filter=".filter-youth-women-empowerment" id="filter-youth-women-empowerment">
-                <button onclick="updateContent('rgb(16, 141, 195)')">Youth & Women Empowerment</button>
+                <button>Youth & Women Empowerment</button>
               </li>
               <li data-filter=".filter-meeting-changemakers-vips" id="filter-meeting-changemakers-vips">
-                <button onclick="updateContent('rgb(14, 216, 125)')">
-                  Meeting Extraordinary Changemakers & VIPs
-                </button>
+                <button>Meeting Extraordinary Changemakers & VIPs</button>
               </li>
               <li data-filter=".filter-aerospace-outer-space" id="filter-aerospace-outer-space">
-                <button onclick="updateContent('rgb(189, 28, 217)')">
-                  Aerospace & Outer Space Protection
-                </button>
+                <button>Aerospace & Outer Space Protection</button>
               </li>
             </ul>
             <!-- End Impact Filters -->
@@ -186,13 +165,11 @@
         </div>
         <div class="container">
           <div class="copyright">
-            <span>Copyright</span>
             <strong class="px-1 sitename"
               ><a href="https://www.linkedin.com/in/lilanofficial/" target="_blank"
-                >© Lilan Dayananda.</a
+                >Lilan Dayananda</a
               ></strong
             >
-            <span>All Rights Reserved</span>
           </div>
         </div>
       </div>
@@ -228,7 +205,9 @@
       impacts.forEach((impact, index) => {
         let recHTML = `
           <div class="isotope-item ${impact.filter}">
-            <div class="impact-content" id="impact-content" data-popup="popup-${index + 1}" >
+            <div class="impact-content" id="impact-content" data-popup="popup-${index + 1}" data-filter="${
+          impact.filter
+        }">
                <h4>${impact.title}</h4>
             </div>
           </div>
@@ -236,8 +215,6 @@
           <div id="popup-${index + 1}" class="popup">
             <div class="popup-content">
               <span class="close-btn">&times;</span>
-              <span class="prev-arrow">&#10094;</span>
-              <span class="next-arrow">&#10095;</span>
               <div class="slides">
         `;
 
@@ -282,10 +259,17 @@
 
         // Close the HTML tags
         recHTML += `
-              </div> <!-- .slides -->
-            </div> <!-- .popup-content -->
-          </div> <!-- #popup-${index + 1} -->
-        `;
+            <div class="navigation-container">
+              <span class="prev-arrow">&#10094;</span>
+              <span class="pagination-dots">
+                ${impact.slides.map((_, i) => `<span class="dot" data-slide="${i}"></span>`).join("")}
+              </span>
+              <span class="next-arrow">&#10095;</span>
+            </div>
+          </div> <!-- .slides -->
+        </div> <!-- .popup-content -->
+      </div> <!-- #popup-${index + 1} -->
+      `;
 
         // Append the constructed HTML to the impact list
         impactList.insertAdjacentHTML("beforeend", recHTML);
@@ -361,27 +345,46 @@
     </script>
 
     <script>
-      function updateContent(bgcolor, txtcolor) {
+      function updateContent() {
+        // Define a color mapping for each filter type
+        const filterColors = {
+          "filter-recognition": { bgColor: "rgb(36, 96, 235)", textColor: "black" },
+          "filter-membership": { bgColor: "rgb(58, 215, 15)", textColor: "black" },
+          "filter-innovation-social": { bgColor: "rgb(239, 28, 28)", textColor: "black" },
+          "filter-food-agriculture": { bgColor: "rgb(158, 38, 223)", textColor: "black" },
+          "filter-renewable-energy": { bgColor: "rgb(25, 190, 179)", textColor: "black" },
+          "filter-climate-environmental": { bgColor: "rgb(219, 42, 154)", textColor: "black" },
+          "filter-public-policy": { bgColor: "rgb(235, 151, 24)", textColor: "black" },
+          "filter-leadership-economic": { bgColor: "rgb(196, 200, 68)", textColor: "black" },
+          "filter-youth-women-empowerment": { bgColor: "rgb(16, 141, 195)", textColor: "black" },
+          "filter-meeting-changemakers-vips": { bgColor: "rgb(14, 216, 125)", textColor: "black" },
+          "filter-aerospace-outer-space": { bgColor: "rgb(189, 28, 217)", textColor: "black" },
+        };
+
         // Select all elements with the class 'impact-content'
         const contentAreas = document.querySelectorAll(".impact-content");
 
         // Loop through each element to set initial colors and add hover/active effects
         contentAreas.forEach((element) => {
-          // Set initial background and text color
-          element.style.backgroundColor = bgcolor;
-          element.querySelector("h4").style.color = txtcolor || "white";
+          // Get the filter type from a data attribute or other method
+          const filterType = element.dataset.filter;
+
+          // Set the initial colors based on the filter type
+          const { bgColor } = filterColors[filterType];
+          element.style.backgroundColor = bgColor;
+          element.querySelector("h4").style.color = "white";
 
           // Hover effect
           element.addEventListener("mouseenter", () => {
-            element.style.backgroundColor = bgcolor == "white" ? "#a0a1a3" : "white";
-            element.querySelector("h4").style.color = txtcolor == "black" ? "white" : "black";
+            element.style.backgroundColor = "white";
+            element.querySelector("h4").style.color = "black";
           });
 
           element.addEventListener("mouseleave", () => {
             // Only reset hover color if the item is not active
             if (!element.classList.contains("active")) {
-              element.style.backgroundColor = bgcolor;
-              element.querySelector("h4").style.color = txtcolor || "white";
+              element.style.backgroundColor = bgColor;
+              element.querySelector("h4").style.color = "white";
             }
           });
 
@@ -390,17 +393,21 @@
             // Remove active state from other elements
             contentAreas.forEach((el) => {
               el.classList.remove("active");
-              el.style.backgroundColor = bgcolor;
-              el.querySelector("h4").style.color = txtcolor || "white";
+              const filter = el.dataset.filter;
+              const { bgColor } = filterColors[filter];
+              el.style.backgroundColor = bgColor;
+              el.querySelector("h4").style.color = "white";
             });
 
             // Set active state for clicked element
             element.classList.add("active");
-            element.style.backgroundColor = bgcolor == "white" ? "#a0a1a3" : "white";
-            element.querySelector("h4").style.color = txtcolor == "black" ? "white" : "black";
+            element.style.backgroundColor = "white";
+            element.querySelector("h4").style.color = "black";
           });
         });
       }
+
+      updateContent();
     </script>
 
     <!-- Main JS File -->

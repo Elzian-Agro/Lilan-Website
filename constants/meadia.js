@@ -186,7 +186,7 @@ const meadia = [
         title: "Lilan Dayananda honored as Social Entrepreneur of the Year at New Generation Asia Awards",
         image: "assets/img/meadia/other-media/business-news.png",
         description:
-          "Lilan Dayananda, the Managing Director and Chief Executive Officer of Elzian Agro, was celebrated as the Social Entrepreneur of the Year at the prestigious Fifth New Generation Asia Awards held at the Shangi-La Hotel in Colombo.",
+          "Lilan Dayananda, the Managing Director and Chief Executive Officer of Elzian Agro, was celebrated as the Social Entrepreneur of the Year at the prestigious Fifth New Generation Asia Awards...",
         link: "https://www.lankabusinessnews.com/lilan-dayananda-honored-as-social-entrepreneur-of-the-year-at-new-generation-asia-awards/",
         backup_image: "https://drive.google.com/file/d/1TRDY-jxsPt62EGi8EPw4iD_338tMlHhh/view?usp=drive_link",
       },

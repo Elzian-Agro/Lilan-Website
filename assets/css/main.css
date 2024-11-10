@@ -532,7 +532,7 @@ PHP Email Form Messages
 }
 
 .page-title .heading {
-  padding: 120px 0 30px 0;
+  padding: 100px 0 10px 0;
   border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
 }
 
@@ -589,7 +589,7 @@ section,
 .section {
   color: var(--default-color);
   background-color: var(--background-color);
-  padding: 40px 0;
+  padding: 20px 0;
   scroll-margin-top: 100px;
   overflow: clip;
 }
@@ -1257,33 +1257,46 @@ section,
   background-color: #06993c;
 }
 
-.popup .prev-arrow,
-.popup .next-arrow {
-  cursor: pointer;
+/* Position navigation and pagination at the bottom */
+.popup .navigation-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
   position: absolute;
-  top: 40%;
-  padding: 12px;
-  color: rgb(235, 225, 225);
-  background: transparent;
-  font-size: 24px;
-  user-select: none;
-  z-index: 1;
-  transition: color 0.3s ease, background 0.3s ease, transform 0.3s ease;
+  bottom: -80px;
+  width: 100%;
 }
 
-.popup .prev-arrow {
-  left: 10px;
+.popup .navigation-container .prev-arrow,
+.popup .navigation-container .next-arrow {
+  cursor: pointer;
+  padding: 10px;
+  font-size: 20px;
+  color: #ffffff;
 }
 
-.popup .next-arrow {
-  right: 10px;
+.popup .navigation-container .prev-arrow:hover,
+.popup .navigation-container .next-arrow:hover {
+  color: #0cc851;
 }
 
-.popup .prev-arrow:hover,
-.popup .next-arrow:hover {
-  color: rgb(0, 0, 0);
-  background: #ffffff;
-  transform: scale(1.1);
+.popup .navigation-container .pagination-dots {
+  display: flex;
+  gap: 5px;
+  margin: 0 15px;
+}
+
+.popup .pagination-dots .dot {
+  width: 10px;
+  height: 10px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  transition: background-color 0.3s ease;
+}
+
+.popup .pagination-dots .dot.active {
+  background-color: #0cc851;
 }
 
 .popup .close-btn {
@@ -1328,6 +1341,11 @@ section,
 
   .popup .slide .buttons {
     justify-content: center;
+  }
+
+  .popup .navigation-container {
+    bottom: -60px;
+    width: 85%;
   }
 }
 
