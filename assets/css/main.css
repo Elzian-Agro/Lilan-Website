@@ -991,7 +991,7 @@ section,
   background-color: rgb(163, 16, 189);
 }
 
-@media (max-width: 575px) {
+@media (max-width: 1000px) {
   .impact .impact-filters li {
     font-size: 14px;
     margin: 5px;
@@ -1114,7 +1114,7 @@ section,
 }
 
 @media (max-width: 1000px) {
-  .impact .impact-filters li {
+  .meadia .meadia-filters li {
     font-size: 14px;
     margin: 5px;
     width: 100%;
