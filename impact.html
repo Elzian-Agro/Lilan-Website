@@ -27,35 +27,13 @@
 
     <!-- Main CSS File -->
     <link href="assets/css/main.css" rel="stylesheet" />
-
-    <style>
-      /* Add this CSS to hide the isotope container initially */
-      .isotope-container {
-        display: none;
-      }
-
-      /* Class to show content when a filter is active */
-      .isotope-container.active {
-        display: flex; /* Adjust as needed to show the items */
-      }
-
-      /* Hide all items by default */
-      .isotope-item {
-        display: none;
-      }
-
-      /* Show only items with active filters */
-      .isotope-item.active {
-        display: block;
-      }
-    </style>
   </head>
 
   <body class="portfolio-page">
     <header id="header" class="header d-flex align-items-center fixed-top">
       <div
         class="container-fluid container-xl position-relative d-flex align-items-center justify-content-end">
-        <nav id="navmenu" class="navmenu">
+        <nav id="navmenu" class="navmenu" aria-label="Main Menu">
           <ul id="mainmenu">
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
@@ -345,7 +323,7 @@
     </script>
 
     <script>
-      function updateContent() {
+      (function () {
         // Define a color mapping for each filter type
         const filterColors = {
           "filter-recognition": { bgColor: "rgb(36, 96, 235)", textColor: "black" },
@@ -405,9 +383,7 @@
             element.querySelector("h4").style.color = "black";
           });
         });
-      }
-
-      updateContent();
+      })();
     </script>
 
     <!-- Main JS File -->
