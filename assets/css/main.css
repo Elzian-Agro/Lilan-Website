@@ -1030,6 +1030,26 @@ section,
   padding-top: 10px;
 }
 
+/* Add this CSS to hide the isotope container initially */
+.impact .isotope-container {
+  display: none;
+}
+
+/* Class to show content when a filter is active */
+.impact .isotope-container.active {
+  display: flex; /* Adjust as needed to show the items */
+}
+
+/* Hide all items by default */
+.impact .isotope-item {
+  display: none;
+}
+
+/* Show only items with active filters */
+.impact .isotope-item.active {
+  display: block;
+}
+
 /*--------------------------------------------------------------
 # Meadia Details Section
 --------------------------------------------------------------*/
@@ -1168,6 +1188,26 @@ section,
   .meadia .blog-content #blog p {
     padding-top: 0px;
   }
+}
+
+/* Add this CSS to hide the isotope container initially */
+.meadia .isotope-container {
+  display: none;
+}
+
+/* Class to show content when a filter is active */
+.meadia .isotope-container.active {
+  display: flex; /* Adjust as needed to show the items */
+}
+
+/* Hide all items by default */
+.meadia .isotope-item {
+  display: none;
+}
+
+/* Show only items with active filters */
+.meadia .isotope-item.active {
+  display: block;
 }
 
 /*--------------------------------------------------------------
