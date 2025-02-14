@@ -79,40 +79,40 @@
             data-layout="masonry"
             data-sort="original-order">
             <ul class="impact-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-              <li data-filter="*" class="filter-active" id="filter-all">
+              <li data-filter="*" class="filter-active" id="filter-overall-view">
                 <button>Overall View</button>
               </li>
-              <li data-filter=".filter-recognition" id="filter-recognition">
+              <li data-filter=".filter-recognition" id="filter-recognition-and-accolades">
                 <button>Recognition & Accolades</button>
               </li>
-              <li data-filter=".filter-membership" id="filter-membership">
+              <li data-filter=".filter-membership" id="filter-membership-volunteerism-and-affiliations">
                 <button>Membership, Volunteerism & Affiliations</button>
               </li>
-              <li data-filter=".filter-innovation-social" id="filter-innovation-social">
+              <li data-filter=".filter-innovation-social" id="filter-innovation-and-social-entrepreneurship">
                 <button>Innovation & Social Entrepreneurship</button>
               </li>
-              <li data-filter=".filter-food-agriculture" id="filter-food-agriculture">
+              <li data-filter=".filter-food-agriculture" id="filter-food-agriculture-and-forestry">
                 <button>Food, Agriculture & Forestry</button>
               </li>
-              <li data-filter=".filter-renewable-energy" id="filter-renewable-energy">
+              <li data-filter=".filter-renewable-energy" id="filter-renewable-energy-and-energy-conservation">
                 <button>Renewable Energy & Energy Conservation</button>
               </li>
-              <li data-filter=".filter-climate-environmental" id="filter-climate-environmental">
+              <li data-filter=".filter-climate-environmental" id="filter-climate-action-and-environmental-restoration">
                 <button>Climate Action & Environmental Restoration</button>
               </li>
-              <li data-filter=".filter-public-policy" id="filter-public-policy">
+              <li data-filter=".filter-public-policy" id="filter-public-policy-peace-diplomacy-and-inclusive-democracy">
                 <button>Public Policy, Peace, Diplomacy & Inclusive Democracy</button>
               </li>
-              <li data-filter=".filter-leadership-economic" id="filter-leadership-economic">
+              <li data-filter=".filter-leadership-economic" id="filter-leadership-economic-and-social-empowerment">
                 <button>Leadership, Economic & Social Empowerment</button>
               </li>
-              <li data-filter=".filter-youth-women-empowerment" id="filter-youth-women-empowerment">
+              <li data-filter=".filter-youth-women-empowerment" id="filter-youth-and-women-empowerment">
                 <button>Youth & Women Empowerment</button>
               </li>
-              <li data-filter=".filter-meeting-changemakers-vips" id="filter-meeting-changemakers-vips">
+              <li data-filter=".filter-meeting-changemakers-vips" id="filter-meeting-extraordinary-changemakers-and-vips">
                 <button>Meeting Extraordinary Changemakers & VIPs</button>
               </li>
-              <li data-filter=".filter-aerospace-outer-space" id="filter-aerospace-outer-space">
+              <li data-filter=".filter-aerospace-outer-space" id="filter-aerospace-and-outer-space-protection">
                 <button>Aerospace & Outer Space Protection</button>
               </li>
             </ul>
@@ -270,6 +270,8 @@
         isotopeContainer.classList.remove("active"); // Hide the content container
         impactItems.forEach((item) => item.classList.remove("active")); // Hide all items
         currentCategory.textContent = "";
+
+        history.pushState({}, "", window.location.pathname);
       }
 
       // Function to apply the selected filter
@@ -310,6 +312,11 @@
 
           // Hide the filter buttons
           impactFilters.style.display = "none";
+
+          // Update the URL
+          const filterId = this.id.replace("filter-", "");
+          const newUrl = `${window.location.pathname}#${filterId}`;
+          history.pushState({ filter: filterId }, "", newUrl);
         });
       });
 
