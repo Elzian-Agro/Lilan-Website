@@ -890,100 +890,99 @@ section,
 }
 
 .impact .impact-filters #filter-all button {
-  background-color: white;
-  color: black;
+  background-color: #005f00;
 }
 
 .impact .impact-filters #filter-all button:hover {
-  background-color: rgb(236, 230, 230);
-}
-
-.impact .impact-filters #filter-recognition button {
-  background-color: rgb(36, 96, 235);
-}
-
-.impact .impact-filters #filter-recognition button:hover {
-  background-color: rgb(31, 61, 230);
+  background-color:  #004f00;
 }
 
 .impact .impact-filters #filter-membership button {
-  background-color: rgb(58, 215, 15);
+  background-color: #007f00;
 }
 
 .impact .impact-filters #filter-membership button:hover {
-  background-color: rgb(52, 193, 12);
-}
-
-.impact .impact-filters #filter-innovation-social button {
-  background-color: rgb(239, 28, 28);
-}
-
-.impact .impact-filters #filter-innovation-social button:hover {
-  background-color: rgb(223, 10, 10);
+  background-color: #006f00;
 }
 
 .impact .impact-filters #filter-food-agriculture button {
-  background-color: rgb(158, 38, 223);
+  background-color: #009f00;
 }
 
 .impact .impact-filters #filter-food-agriculture button:hover {
-  background-color: rgb(130, 20, 190);
-}
-
-.impact .impact-filters #filter-renewable-energy button {
-  background-color: rgb(25, 190, 179);
-}
-
-.impact .impact-filters #filter-renewable-energy button:hover {
-  background-color: rgb(15, 156, 146);
+  background-color: #008f00;
 }
 
 .impact .impact-filters #filter-climate-environmental button {
-  background-color: rgb(219, 42, 154);
+  background-color: #00bf00;
 }
 
 .impact .impact-filters #filter-climate-environmental button:hover {
-  background-color: rgb(202, 9, 131);
-}
-
-.impact .impact-filters #filter-public-policy button {
-  background-color: rgb(235, 151, 24);
-}
-
-.impact .impact-filters #filter-public-policy button:hover {
-  background-color: rgb(220, 136, 11);
+  background-color: #00af00;
 }
 
 .impact .impact-filters #filter-leadership-economic button {
-  background-color: rgb(196, 200, 68);
+  background-color: #00df00;
 }
 
 .impact .impact-filters #filter-leadership-economic button:hover {
-  background-color: rgb(179, 184, 55);
-}
-
-.impact .impact-filters #filter-youth-women-empowerment button {
-  background-color: rgb(16, 141, 195);
-}
-
-.impact .impact-filters #filter-youth-women-empowerment button:hover {
-  background-color: rgb(12, 126, 175);
+  background-color: #00cf00;
 }
 
 .impact .impact-filters #filter-meeting-changemakers-vips button {
-  background-color: rgb(14, 216, 125);
+  background-color: #00ff00;
 }
 
 .impact .impact-filters #filter-meeting-changemakers-vips button:hover {
-  background-color: rgb(11, 182, 105);
+  background-color: #00ef00;
+}
+
+.impact .impact-filters #filter-recognition button {
+  background-color: #4f4f4f;
+}
+
+.impact .impact-filters #filter-recognition button:hover {
+  background-color: #3a3a3a;
+}
+
+.impact .impact-filters #filter-innovation-social button {
+  background-color: #5f5f5f;
+}
+
+.impact .impact-filters #filter-innovation-social button:hover {
+  background-color: #4a4a4a;
+}
+
+.impact .impact-filters #filter-renewable-energy button {
+  background-color: #6f6f6f;
+}
+
+.impact .impact-filters #filter-renewable-energy button:hover {
+  background-color: #5a5a5a;
+}
+
+.impact .impact-filters #filter-public-policy button {
+  background-color: #7f7f7f;
+}
+
+.impact .impact-filters #filter-public-policy button:hover {
+  background-color: #6a6a6a;
+}
+
+.impact .impact-filters #filter-youth-women-empowerment button {
+  background-color: #8f8f8f;
+}
+
+.impact .impact-filters #filter-youth-women-empowerment button:hover {
+  background-color: #7a7a7a;
 }
 
 .impact .impact-filters #filter-aerospace-outer-space button {
-  background-color: rgb(189, 28, 217);
+  background-color: #9f9f9f;
 }
 
 .impact .impact-filters #filter-aerospace-outer-space button:hover {
-  background-color: rgb(163, 16, 189);
+  background-color: #8a8a8a;
 }
 
 @media (max-width: 1000px) {
