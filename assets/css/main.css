@@ -890,51 +890,51 @@ section,
 }
 
 .impact .impact-filters #filter-overall-view button {
-  background-color: #005f00;
+  background-color: #0b5b30;
 }
 
 .impact .impact-filters #filter-overall-view button:hover {
-  background-color: #004f00;
+  background-color: #084424;
 }
 
 .impact .impact-filters #filter-membership-volunteerism-and-affiliations button {
-  background-color: #007f00;
+  background-color: #0d723c;
 }
 
 .impact .impact-filters #filter-membership-volunteerism-and-affiliations button:hover {
-  background-color: #006f00;
+  background-color: #0b5b30;
 }
 
 .impact .impact-filters #filter-food-agriculture-and-forestry button {
-  background-color: #009f00;
+  background-color: #13a055;
 }
 
 .impact .impact-filters #filter-food-agriculture-and-forestry button:hover {
-  background-color: #008f00;
+  background-color: #108948;
 }
 
 .impact .impact-filters #filter-climate-action-and-environmental-restoration button {
-  background-color: #00bf00;
+  background-color: #18cd6d;
 }
 
 .impact .impact-filters #filter-climate-action-and-environmental-restoration button:hover {
-  background-color: #00af00;
+  background-color: #15b761 ;
 }
 
 .impact .impact-filters #filter-leadership-economic-and-social-empowerment button {
-  background-color: #00df00;
+  background-color: #1be479;
 }
 
 .impact .impact-filters #filter-leadership-economic-and-social-empowerment button:hover {
-  background-color: #00cf00;
+  background-color: #18d26e;
 }
 
 .impact .impact-filters #filter-meeting-extraordinary-changemakers-and-vips button {
-  background-color: #00ff00;
+  background-color: #48ea94;
 }
 
 .impact .impact-filters #filter-meeting-extraordinary-changemakers-and-vips button:hover {
-  background-color: #00ef00;
+  background-color: #1be479;
 }
 
 .impact .impact-filters #filter-recognition-and-accolades button {
@@ -973,7 +973,7 @@ section,
   background-color: #8f8f8f;
 }
 
-.impact .impact-filters #filter-aerospace-and-outer-space-protection button:hover {
+.impact .impact-filters #filter-youth-and-women-empowerment button:hover {
   background-color: #7a7a7a;
 }
 
@@ -981,9 +981,11 @@ section,
   background-color: #9f9f9f;
 }
 
-.impact .impact-filters #filter-aerospace-outer-space button:hover {
+.impact .impact-filters #filter-aerospace-and-outer-space-protection button:hover {
   background-color: #8a8a8a;
 }
+
+
 
 @media (max-width: 1000px) {
   .impact .impact-filters li {
