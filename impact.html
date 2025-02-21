@@ -27,6 +27,19 @@
 
     <!-- Main CSS File -->
     <link href="assets/css/main.css" rel="stylesheet" />
+
+    <style>
+      /* Blur effect for the initial image */
+      .lazy-image {
+        filter: blur(3px); /* Adjust the blur intensity as needed */
+        transition: filter 0.5s ease; /* Smooth transition for the blur effect */
+      }
+
+      /* Remove blur once the full image is loaded */
+      .lazy-image.loaded {
+        filter: blur(0);
+      }
+    </style>
   </head>
 
   <body class="portfolio-page">
@@ -223,7 +236,11 @@
 
           recHTML += `
             <div class="slide">
-              <div><img data-src="${slide.image}" class="img-fluid lazy" alt="${slide.title}" /></div>
+              <div class="image-container">
+                <img src="assets/img/impact/loader.png" data-src="${
+                  slide.image
+                }" class="img-fluid lazy-image" alt="${slide.title}" />
+              </div>
               <div class="text-content">
                 <h4>${slide.title}</h4>
                 <p class="source">
@@ -265,28 +282,45 @@
     </script>
 
     <script>
-      // Function to lazy load images
-      function lazyLoadImages() {
-        const lazyImages = document.querySelectorAll("img.lazy");
+      // Function to lazy load images within a specific container
+      function lazyLoadImages(container) {
+        const lazyImages = container.querySelectorAll("img.lazy-image");
 
         lazyImages.forEach((img) => {
           if (img.getAttribute("data-src")) {
-            img.setAttribute("src", img.getAttribute("data-src"));
+            // Create a new image element to preload the full image
+            const newImage = new Image();
+            newImage.src = img.getAttribute("data-src");
+
+            // Once the full image is loaded, replace the blurred image
+            newImage.onload = () => {
+              // Set the src of the blurred image to the full image
+              img.src = newImage.src;
+              // Add the 'loaded' class to remove the blur effect
+              img.classList.add("loaded");
+            };
+
+            // Remove the data-src attribute to prevent reloading
             img.removeAttribute("data-src");
-            img.classList.remove("lazy");
           }
         });
       }
 
-      // Add event listeners to load images when the popup is opened
+      // Add event listeners to load images when an impact item is clicked
       document.querySelectorAll(".impact-content").forEach((item) => {
         item.addEventListener("click", () => {
-          // Load images for the clicked item
-          lazyLoadImages();
+          // Get the popup container associated with the clicked impact item
+          const popupId = item.getAttribute("data-popup");
+          const popupContainer = document.getElementById(popupId);
+
+          // Load images only within the clicked popup container
+          if (popupContainer) {
+            lazyLoadImages(popupContainer);
+          }
         });
       });
     </script>
-    
+
     <script>
       // Select filter buttons and the isotope container
       const impactFilters = document.querySelector(".impact-filters");
