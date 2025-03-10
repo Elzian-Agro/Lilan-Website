@@ -774,6 +774,18 @@ section,
   line-height: 0;
 }
 
+.about .buttons {
+  margin-bottom: 5px;
+}
+
+.about .reading-word {
+  background-color: #0789d4;
+}
+
+.about #stopButton {
+  display: none;
+}
+
 /*--------------------------------------------------------------
 # Stats Section
 --------------------------------------------------------------*/
@@ -918,7 +930,7 @@ section,
 }
 
 .impact .impact-filters #filter-climate-action-and-environmental-restoration button:hover {
-  background-color: #15b761 ;
+  background-color: #15b761;
 }
 
 .impact .impact-filters #filter-leadership-economic-and-social-empowerment button {
@@ -984,8 +996,6 @@ section,
 .impact .impact-filters #filter-aerospace-and-outer-space-protection button:hover {
   background-color: #8a8a8a;
 }
-
-
 
 @media (max-width: 1000px) {
   .impact .impact-filters li {
