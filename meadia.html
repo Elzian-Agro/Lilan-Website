@@ -27,6 +27,19 @@
 
     <!-- Main CSS File -->
     <link href="assets/css/main.css" rel="stylesheet" />
+
+    <style>
+      /* Blur effect for the initial image */
+      .lazy-image {
+        filter: blur(3px); /* Adjust the blur intensity as needed */
+        transition: filter 0.5s ease; /* Smooth transition for the blur effect */
+      }
+
+      /* Remove blur once the full image is loaded */
+      .lazy-image.loaded {
+        filter: blur(0);
+      }
+    </style>
   </head>
 
   <body class="portfolio-page">
@@ -191,7 +204,11 @@
 
             recHTML += `
             <div class="slide">
-              <div><img src="${slide.image}" class="img-fluid" alt="${slide.title}" /></div>
+              <div>
+                <img src="assets/img/impact/loader.png" data-src="${
+                  slide.image
+                }" class="img-fluid lazy-image" alt="${slide.title}" />
+              </div>
               <div class="text-content">
                 <h4>${slide.title}</h4>
                 <p class="source">
@@ -246,6 +263,46 @@
 
         // Append the constructed HTML to the meadia list
         meadiaList.insertAdjacentHTML("beforeend", recHTML);
+      });
+    </script>
+
+    <script>
+      // Function to lazy load images within a specific container
+      function lazyLoadImages(container) {
+        const lazyImages = container.querySelectorAll("img.lazy-image");
+
+        lazyImages.forEach((img) => {
+          if (img.getAttribute("data-src")) {
+            // Create a new image element to preload the full image
+            const newImage = new Image();
+            newImage.src = img.getAttribute("data-src");
+
+            // Once the full image is loaded, replace the blurred image
+            newImage.onload = () => {
+              // Set the src of the blurred image to the full image
+              img.src = newImage.src;
+              // Add the 'loaded' class to remove the blur effect
+              img.classList.add("loaded");
+            };
+
+            // Remove the data-src attribute to prevent reloading
+            img.removeAttribute("data-src");
+          }
+        });
+      }
+
+      // Add event listeners to load images when an impact item is clicked
+      document.querySelectorAll(".meadia-content").forEach((item) => {
+        item.addEventListener("click", () => {
+          // Get the popup container associated with the clicked impact item
+          const popupId = item.getAttribute("data-popup");
+          const popupContainer = document.getElementById(popupId);
+
+          // Load images only within the clicked popup container
+          if (popupContainer) {
+            lazyLoadImages(popupContainer);
+          }
+        });
       });
     </script>
 
@@ -321,9 +378,9 @@
       (function () {
         // Define a color mapping for each filter type
         const filterColors = {
-          "filter-podcast": { bgColor: "rgb(16, 141, 195)" },
-          "filter-blog": { bgColor: "rgb(14, 216, 125)" },
-          "filter-other-media": { bgColor: "rgb(235, 151, 24)" },
+          "filter-podcast": { bgColor: "#5f5f5f" },
+          "filter-blog": { bgColor: "#13a055" },
+          "filter-other-media": { bgColor: "#7f7f7f" },
         };
 
         // Select all elements with the class 'meadia-content' or 'blog-content'
@@ -333,7 +390,6 @@
         contentAreas.forEach((element) => {
           // Get the filter type from a data attribute or other method
           const filterType = element.dataset.filter;
-          console.log(filterType);
 
           // Set the initial colors based on the filter type
           const { bgColor } = filterColors[filterType];
