@@ -1086,11 +1086,11 @@ section,
   transition: background-color 0.3s ease;
 }
 
-.meadia .meadia-filters #filter-all button {
+.meadia .meadia-filters #filter-overall-view button {
   background-color: #0d723c;
 }
 
-.meadia .meadia-filters #filter-all button:hover {
+.meadia .meadia-filters #filter-overall-view button:hover {
   background-color: #0b5b30;
 }
 
@@ -1110,11 +1110,11 @@ section,
   background-color: #108948;
 }
 
-.meadia .meadia-filters #filter-other-media button {
+.meadia .meadia-filters #filter-other-media-appearances button {
   background-color: #7f7f7f;
 }
 
-.meadia .meadia-filters #filter-other-media button:hover {
+.meadia .meadia-filters #filter-other-media-appearances button:hover {
   background-color: #6a6a6a;
 }
 

@@ -79,7 +79,7 @@
             data-layout="masonry"
             data-sort="original-order">
             <ul class="meadia-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-              <li data-filter="*" class="filter-active" id="filter-all">
+              <li data-filter="*" class="filter-active" id="filter-overall-view">
                 <button>Overall View</button>
               </li>
               <li data-filter=".filter-podcast" id="filter-podcast">
@@ -88,7 +88,7 @@
               <li data-filter=".filter-blog" id="filter-blog">
                 <button>Blog</button>
               </li>
-              <li data-filter=".filter-other-media" id="filter-other-media">
+              <li data-filter=".filter-other-media-appearances" id="filter-other-media-appearances">
                 <button>Other Media Appearances</button>
               </li>
             </ul>
@@ -309,6 +309,8 @@
         isotopeContainer.classList.remove("active"); // Hide the content container
         meadiaItems.forEach((item) => item.classList.remove("active")); // Hide all items
         currentCategory.textContent = "";
+
+        history.pushState({}, "", window.location.pathname);
       }
 
       // Function to apply the selected filter
@@ -349,6 +351,11 @@
 
           // Hide the filter buttons
           meadiaFilters.style.display = "none";
+
+          // Update the URL
+          const filterId = this.id.replace("filter-", "");
+          const newUrl = `${window.location.pathname}#${filterId}`;
+          history.pushState({ filter: filterId }, "", newUrl);
         });
       });
 
@@ -367,7 +374,7 @@
         const filterColors = {
           "filter-podcast": { bgColor: "#5f5f5f" },
           "filter-blog": { bgColor: "#13a055" },
-          "filter-other-media": { bgColor: "#7f7f7f" },
+          "filter-other-media-appearances": { bgColor: "#7f7f7f" },
         };
 
         // Select all elements with the class 'meadia-content' or 'blog-content'
