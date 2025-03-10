@@ -1394,6 +1394,16 @@ section,
   }
 }
 
+/* Blur effect for the initial image */
+.lazy-image {
+  filter: blur(3px);
+  transition: filter 0.5s ease;
+}
+
+/* Remove blur once the full image is loaded */
+.lazy-image.loaded {
+  filter: blur(0);
+}
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
