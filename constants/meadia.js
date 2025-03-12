@@ -9,10 +9,10 @@ const meadia = [
 
   {
     filter: "filter-blog",
-    date: "February 10, 2022",
-    title: "Can Digital Agriculture Save Money to Farmers?",
-    image: "assets/img/meadia/blog/digitization-prevents.png",
-    url: "https://agro.elzian.com/blog/blog-page-8.html",
+    date: "November 25, 2021",
+    title: "Smart Agriculture On Smartphones",
+    image: "assets/img/meadia/blog/smart-agriculture.png",
+    url: "https://agro.elzian.com/blog/blog-page.html",
   },
   {
     filter: "filter-blog",
@@ -23,10 +23,10 @@ const meadia = [
   },
   {
     filter: "filter-blog",
-    date: "November 25, 2021",
-    title: "Smart Agriculture On Smartphones",
-    image: "assets/img/meadia/blog/smart-agriculture.png",
-    url: "https://agro.elzian.com/blog/blog-page.html",
+    date: "February 10, 2022",
+    title: "Can Digital Agriculture Save Money to Farmers?",
+    image: "assets/img/meadia/blog/digitization-prevents.png",
+    url: "https://agro.elzian.com/blog/blog-page-8.html",
   },
 
   {

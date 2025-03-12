@@ -190,7 +190,7 @@
       // Render impacts
       const impactList = document.getElementById("impact-list");
 
-      impacts.forEach((impact, index) => {
+      impacts.slice().reverse().forEach((impact, index) => {
         let recHTML = `
           <div class="isotope-item ${impact.filter}">
             <div class="impact-content" id="impact-content" data-popup="popup-${index + 1}" data-filter="${

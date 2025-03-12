@@ -155,7 +155,7 @@
       // Render meadia
       const meadiaList = document.getElementById("meadia-list");
 
-      meadia.forEach((meadia, index) => {
+      meadia.slice().reverse().forEach((meadia, index) => {
         let recHTML = "";
 
         if (meadia.slides) {
