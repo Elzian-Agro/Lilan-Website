@@ -774,6 +774,14 @@ section,
   line-height: 0;
 }
 
+.about .buttons {
+  margin-bottom: 5px;
+}
+
+.about #stopButton {
+  display: none;
+}
+
 /*--------------------------------------------------------------
 # Stats Section
 --------------------------------------------------------------*/
@@ -918,7 +926,7 @@ section,
 }
 
 .impact .impact-filters #filter-climate-action-and-environmental-restoration button:hover {
-  background-color: #15b761 ;
+  background-color: #15b761;
 }
 
 .impact .impact-filters #filter-leadership-economic-and-social-empowerment button {
@@ -984,8 +992,6 @@ section,
 .impact .impact-filters #filter-aerospace-and-outer-space-protection button:hover {
   background-color: #8a8a8a;
 }
-
-
 
 @media (max-width: 1000px) {
   .impact .impact-filters li {
@@ -1076,37 +1082,36 @@ section,
   transition: background-color 0.3s ease;
 }
 
-.meadia .meadia-filters #filter-all button {
-  background-color: white;
-  color: black;
+.meadia .meadia-filters #filter-overall-view button {
+  background-color: #0d723c;
 }
 
-.meadia .meadia-filters #filter-all button:hover {
-  background-color: rgb(236, 230, 230);
+.meadia .meadia-filters #filter-overall-view button:hover {
+  background-color: #0b5b30;
 }
 
 .meadia .meadia-filters #filter-podcast button {
-  background-color: rgb(16, 141, 195);
+  background-color: #5f5f5f;
 }
 
 .meadia .meadia-filters #filter-podcast button:hover {
-  background-color: rgb(12, 126, 175);
+  background-color: #4a4a4a;
 }
 
 .meadia .meadia-filters #filter-blog button {
-  background-color: rgb(14, 216, 125);
+  background-color: #13a055;
 }
 
 .meadia .meadia-filters #filter-blog button:hover {
-  background-color: rgb(11, 182, 105);
+  background-color: #108948;
 }
 
-.meadia .meadia-filters #filter-other-media button {
-  background-color: rgb(235, 151, 24);
+.meadia .meadia-filters #filter-other-media-appearances button {
+  background-color: #7f7f7f;
 }
 
-.meadia .meadia-filters #filter-other-media button:hover {
-  background-color: rgb(220, 136, 11);
+.meadia .meadia-filters #filter-other-media-appearances button:hover {
+  background-color: #6a6a6a;
 }
 
 @media (max-width: 1000px) {
@@ -1385,6 +1390,16 @@ section,
   }
 }
 
+/* Blur effect for the initial image */
+.lazy-image {
+  filter: blur(3px);
+  transition: filter 0.5s ease;
+}
+
+/* Remove blur once the full image is loaded */
+.lazy-image.loaded {
+  filter: blur(0);
+}
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/

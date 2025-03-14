@@ -79,7 +79,7 @@
             data-layout="masonry"
             data-sort="original-order">
             <ul class="meadia-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-              <li data-filter="*" class="filter-active" id="filter-all">
+              <li data-filter="*" class="filter-active" id="filter-overall-view">
                 <button>Overall View</button>
               </li>
               <li data-filter=".filter-podcast" id="filter-podcast">
@@ -88,7 +88,7 @@
               <li data-filter=".filter-blog" id="filter-blog">
                 <button>Blog</button>
               </li>
-              <li data-filter=".filter-other-media" id="filter-other-media">
+              <li data-filter=".filter-other-media-appearances" id="filter-other-media-appearances">
                 <button>Other Media Appearances</button>
               </li>
             </ul>
@@ -155,7 +155,7 @@
       // Render meadia
       const meadiaList = document.getElementById("meadia-list");
 
-      meadia.forEach((meadia, index) => {
+      meadia.slice().reverse().forEach((meadia, index) => {
         let recHTML = "";
 
         if (meadia.slides) {
@@ -191,7 +191,11 @@
 
             recHTML += `
             <div class="slide">
-              <div><img src="${slide.image}" class="img-fluid" alt="${slide.title}" /></div>
+              <div>
+                <img src="assets/img/impact/loader.png" data-src="${
+                  slide.image
+                }" class="img-fluid lazy-image" alt="${slide.title}" />
+              </div>
               <div class="text-content">
                 <h4>${slide.title}</h4>
                 <p class="source">
@@ -250,6 +254,46 @@
     </script>
 
     <script>
+      // Function to lazy load images within a specific container
+      function lazyLoadImages(container) {
+        const lazyImages = container.querySelectorAll("img.lazy-image");
+
+        lazyImages.forEach((img) => {
+          if (img.getAttribute("data-src")) {
+            // Create a new image element to preload the full image
+            const newImage = new Image();
+            newImage.src = img.getAttribute("data-src");
+
+            // Once the full image is loaded, replace the blurred image
+            newImage.onload = () => {
+              // Set the src of the blurred image to the full image
+              img.src = newImage.src;
+              // Add the 'loaded' class to remove the blur effect
+              img.classList.add("loaded");
+            };
+
+            // Remove the data-src attribute to prevent reloading
+            img.removeAttribute("data-src");
+          }
+        });
+      }
+
+      // Add event listeners to load images when an impact item is clicked
+      document.querySelectorAll(".meadia-content").forEach((item) => {
+        item.addEventListener("click", () => {
+          // Get the popup container associated with the clicked impact item
+          const popupId = item.getAttribute("data-popup");
+          const popupContainer = document.getElementById(popupId);
+
+          // Load images only within the clicked popup container
+          if (popupContainer) {
+            lazyLoadImages(popupContainer);
+          }
+        });
+      });
+    </script>
+
+    <script>
       // Select filter buttons and the isotope container
       const meadiaFilters = document.querySelector(".meadia-filters");
       const filterButtons = document.querySelectorAll(".meadia-filters li");
@@ -265,6 +309,8 @@
         isotopeContainer.classList.remove("active"); // Hide the content container
         meadiaItems.forEach((item) => item.classList.remove("active")); // Hide all items
         currentCategory.textContent = "";
+
+        history.pushState({}, "", window.location.pathname);
       }
 
       // Function to apply the selected filter
@@ -305,6 +351,11 @@
 
           // Hide the filter buttons
           meadiaFilters.style.display = "none";
+
+          // Update the URL
+          const filterId = this.id.replace("filter-", "");
+          const newUrl = `${window.location.pathname}#${filterId}`;
+          history.pushState({ filter: filterId }, "", newUrl);
         });
       });
 
@@ -321,9 +372,9 @@
       (function () {
         // Define a color mapping for each filter type
         const filterColors = {
-          "filter-podcast": { bgColor: "rgb(16, 141, 195)" },
-          "filter-blog": { bgColor: "rgb(14, 216, 125)" },
-          "filter-other-media": { bgColor: "rgb(235, 151, 24)" },
+          "filter-podcast": { bgColor: "#5f5f5f" },
+          "filter-blog": { bgColor: "#13a055" },
+          "filter-other-media-appearances": { bgColor: "#7f7f7f" },
         };
 
         // Select all elements with the class 'meadia-content' or 'blog-content'
@@ -333,7 +384,6 @@
         contentAreas.forEach((element) => {
           // Get the filter type from a data attribute or other method
           const filterType = element.dataset.filter;
-          console.log(filterType);
 
           // Set the initial colors based on the filter type
           const { bgColor } = filterColors[filterType];

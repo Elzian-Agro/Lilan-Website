@@ -27,19 +27,6 @@
 
     <!-- Main CSS File -->
     <link href="assets/css/main.css" rel="stylesheet" />
-
-    <style>
-      /* Blur effect for the initial image */
-      .lazy-image {
-        filter: blur(3px); /* Adjust the blur intensity as needed */
-        transition: filter 0.5s ease; /* Smooth transition for the blur effect */
-      }
-
-      /* Remove blur once the full image is loaded */
-      .lazy-image.loaded {
-        filter: blur(0);
-      }
-    </style>
   </head>
 
   <body class="portfolio-page">
@@ -186,7 +173,6 @@
 
     <!-- Vendor JS Files -->
     <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendor/php-email-form/validate.js"></script>
     <script src="assets/vendor/aos/aos.js"></script>
     <script src="assets/vendor/typed.js/typed.umd.js"></script>
     <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
@@ -203,7 +189,7 @@
       // Render impacts
       const impactList = document.getElementById("impact-list");
 
-      impacts.forEach((impact, index) => {
+      impacts.slice().reverse().forEach((impact, index) => {
         let recHTML = `
           <div class="isotope-item ${impact.filter}">
             <div class="impact-content" id="impact-content" data-popup="popup-${index + 1}" data-filter="${
