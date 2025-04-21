@@ -201,7 +201,7 @@ const impacts = [
   {
     filter: "filter-recognition",
     id: "1.4",
-    title: "Commonwealth Youth Award Winner",
+    title: "Commonwealth Youth Award Winner 2022",
     slides: [
       {
         date: "May 16, 2022",
@@ -274,7 +274,7 @@ const impacts = [
   {
     filter: "filter-recognition",
     id: "1.5",
-    title: "Top 10 Youth Entrepreneurs of Global-South",
+    title: "Recognized among the Top 10 Youth Entrepreneurs of Global-South 2022",
     slides: [
       {
         date: "July 5, 2022",
@@ -293,7 +293,7 @@ const impacts = [
   {
     filter: "filter-recognition",
     id: "1.6",
-    title: "Top Meaningful Business Founders",
+    title: "Recognized among the top Meaningful Business Founders 2023",
     slides: [
       {
         date: "November 2023",
@@ -344,7 +344,8 @@ const impacts = [
   {
     filter: "filter-recognition",
     id: "1.7",
-    title: "SLASSCOM National Ingenuity Awards",
+    title:
+      "Sri Lanka Association for Software Services Companies (SLASSCOM) National Ingenuity Award Consecutive Winner in 2022, 2023, 2024",
     slides: [
       {
         date: "November 2023",
@@ -430,7 +431,7 @@ const impacts = [
   {
     filter: "filter-recognition",
     id: "1.8",
-    title: "Founder Institute’s Fastest Growing Companies",
+    title: "Founder of Founder Institute’s Fastest Growing Companies of 2023",
     slides: [
       {
         date: "December 2023",
