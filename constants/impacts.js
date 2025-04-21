@@ -1,358 +1,6 @@
 const impacts = [
   {
     filter: "filter-recognition",
-    id: "1.10",
-    title: "Recognized among Sri Lanka’s Best Brand Leadership Awards 2024",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "ELZIAN AGRO Honored with Prestigious Brand Leadership Award 2024",
-        image: "assets/img/impact/recognition/best-brand-leadership-awards/best-brand-leadership-awards.png",
-        description:
-          "I am thrilled to share that ELZIAN AGRO has been honored with the prestigious Brand Leadership Award 2024! 🎉 This award recognizes organizations that excel in brand building and innovative marketing strategies, and it is endorsed by the World Marketing Congress, CMO Global, and the World Federation of Marketing Professionals.",
-        link: "https://www.linkedin.com/posts/lilanofficial_brandleadershipawards2024-marketingexcellence-activity-7238901417011200000-hE3t/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1hydDucLDd72IAqJZJ8UG3WlpJ8-6Ut7s/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.9",
-    title: "Recognized among Sri Lanka’s Best Employer Brand Awards 2024",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "ELZIAN AGRO Recognized Among Sri Lanka's Best Employer Brand Awards 2024",
-        image: "assets/img/impact/recognition/best-employer-brand-awards/best-employer-brand-awards.png",
-        description:
-          "I am excited to announce that ELZIAN AGRO has been recognized among Sri Lanka’s Best Employer Brand Awards 2024, endorsed by CHRO Asia (a Global Platform for the Human Resource heads) and certified by the World Federation of HR Professionals.",
-        link: "https://www.linkedin.com/posts/lilanofficial_employerbrandawards-humanresources-leadership-activity-7238736947815276544-rOHe?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1Ao5WAau3HgBrce4Q31aSAdDlOrfLuSwS/view",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.8",
-    title: "American Field Services (AFS) Award Finalist 2024",
-    slides: [
-      {
-        date: "August 17, 2024",
-        source_name: "AFS Youth Assembly",
-        source_link: "https://www.youthassembly.org/",
-        title: "Announcing the Finalists for the AFS Award for Young Global Citizens",
-        image: "assets/img/impact/recognition/american-field-services/afs-award-finalists.png",
-        description:
-          "The AFS Award for Young Global Citizens recognizes young people for their commitment to improving the global community and whose actions contribute to a more just, peaceful, and tolerant world. The winner will receive a $10,000 prize. The Award will be given to a Youth Assembly delegate who:",
-        link: "https://www.youthassembly.org/2024/08/17/afs-award-finalists-2024/",
-        backup_image: "https://drive.google.com/file/d/1luh0WjcR8zrUPnpSZ0OeTk47J7xmQ6XR/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.7",
-    title: "Founder Institute’s Fastest Growing Companies",
-    slides: [
-      {
-        date: "December 2023",
-        source_name: "Founder Institute",
-        source_link: "https://www.linkedin.com/school/the-founder-institute/posts/",
-        title: "Discover Asia and Australia's fastest-growing startups in our latest FI50 Report!",
-        image: "assets/img/impact/recognition/founder-institute/founder-institute.png",
-        description:
-          "We're highlighting top startups from Asia and Australia in our global portfolio, showcasing their significant growth over the past year.",
-        link: "https://www.linkedin.com/posts/the-founder-institute_meet-our-top-10-startups-from-asia-and-australia-activity-7135713420305195008--lUS/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1q-44cqlhkKaU1YvL8tSruXoZQQ3wOlX_/view?usp=drive_link",
-      },
-      {
-        date: "",
-        source_name: "Founder Institute",
-        source_link: "https://fi.co/50",
-        title: "ELZIAN AGRO",
-        image: "assets/img/impact/recognition/founder-institute/founder-institute-profile.png",
-        description:
-          "Elzian Agro provides smart agronomy solution to farmers that reduces their crop wastage. In 2023 it was honored with multiple national and global awards, including Expo City Dubai.",
-        link: "https://fi.co/50/elzian-agro",
-        backup_image: "https://drive.google.com/file/d/1h2pkwmrQ-IgIcA028fXvw6D0P0OyFgn8/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.6",
-    title: "SLASSCOM National Ingenuity Awards",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "Elzian Agro",
-        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
-        title: "SLASSCOM National Ingenuity Awards 2023",
-        image: "assets/img/impact/recognition/slasscom/elzian-agro.jpg",
-        description:
-          "We are thrilled to share the incredible success of ELZIAN AGRO at the esteemed SLASSCOM National Ingenuity Awards 2023. It was an enchanting evening filled with boundless inspiration, groundbreaking innovation, and well-deserved recognition of exceptional achievements within the tech industry. ELZIAN AGRO has emerged as one of the top Technology Disrupters in various categories. Our unwavering dedication to innovation and relentless pursuit of excellence has been unequivocally acknowledged with highly esteemed accolades:",
-        link: "https://www.linkedin.com/posts/elzianagro_innovation-technology-success-activity-7078303289900990465-8d2O/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1cX8c77zRAqUYes0Ydw9LdMdjRCUnxjAl/view?usp=drive_link",
-      },
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "National Winner of Best Innovative Project in Agritech at the SLASSCOM National Ingenuity Awards 2024 ",
-        image: "assets/img/impact/recognition/slasscom/linkedin.jpg",
-        description:
-          "I am thrilled and proud to announce that ELZIAN AGRO emerged as the National Winner of Best Innovative Project in Agritech at the SLASSCOM National Ingenuity Awards 2024 🌟.",
-        link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-team-activity-7215416791735394304-ScWa/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1wIbkvwKfLhHeW3Hq9bJMB8f_7OIv70UG/view?usp=drive_link",
-      },
-      {
-        date: "July 6, 2023",
-        source_name: "Ceylon Business Reporter",
-        source_link: "https://cbr.lk/",
-        title: "ELZIAN AGRO Shines Bright at SLASSCOM National Ingenuity Awards 2023",
-        image: "assets/img/impact/recognition/slasscom/ceylon-business-reporter.jpg",
-        description:
-          "ELZIAN AGRO, recognized as one of the top Technology Disruptors, garnered high praise and esteemed accolades in various categories, solidifying their position as a leading force in the industry. The company’s commitment to innovation and relentless pursuit of excellence was wholeheartedly acknowledged, with the team being honored in multiple domains.",
-        link: "https://cbr.lk/technology/elzian-agro-shines-bright-at-slasscom-national-ingenuity-awards-2023/",
-        backup_image: "https://drive.google.com/file/d/1nSx3ofEQGD64MkCxanQLxYDdPmcXsaUb/view?usp=drive_link",
-      },
-      {
-        date: "November 2023",
-        source_name: "SLASSCOM",
-        source_link: "https://www.linkedin.com/company/slasscom/posts/",
-        title: "The National Winners of the Prestigious SLASSCOM National Ingenuity Awards!",
-        image: "assets/img/impact/recognition/slasscom/slasscom.jpg",
-        description:
-          "These brilliant minds have redefined innovation and set new benchmarks in the tech industry. Join us in celebrating their remarkable achievements! ",
-        link: "https://www.linkedin.com/posts/slasscom_slasscomingenuityawards-snia-winners-activity-7080412198577049600-F0ct/?utm_source=share&utm_medium=member_android",
-        backup_image: "https://drive.google.com/file/d/1B5qRM1PMdVYKy80onpz6rGjiw4rTR8sQ/view?usp=drive_link",
-      },
-      {
-        date: "July 6, 2023",
-        source_name: "Ceylon Tribune",
-        source_link: "https://ceylontribune.com/",
-        title: "ELZIAN AGRO is Igniting a Technological Revolution in Agriculture",
-        image: "assets/img/impact/recognition/slasscom/ceylontribune.png",
-        description:
-          "ELZIAN AGRO soared to new heights, claiming the prestigious title of National Winner in the category of Best Disruptive Product Innovation. Their transformative product has revolutionized traditional agricultural practices, leaving an indelible mark on the industry. By pushing boundaries and introducing cutting-edge technologies, ELZIAN AGRO has redefined the possibilities within farming. Their groundbreaking solutions have elevated efficiency, productivity, and sustainability to unprecedented levels.",
-        link: "https://ceylontribune.com/?p=233",
-        backup_image: "https://drive.google.com/file/d/1lgLuYmyxx6qkWFYgG_z5oxR_TkESYk7v/view?usp=drive_link",
-      },
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "ELZIAN AGRO has been Honored with Multiple Awards for Our Innovation, Technology, and Overall Success.",
-        image: "assets/img/impact/recognition/slasscom/linkedin_2.jpg",
-        description:
-          "I am thrilled and proud to announce that ELZIAN AGRO has been honored with multiple awards for our innovation, technology, and overall success. This achievement would not have been possible...",
-        link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-team-activity-7078312302239760384-uvzq/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1ansLT9wGYkOFYpNOk8lLV3eo2dx2ysm5/view?usp=drive_link",
-      },
-      {
-        date: "June, 29, 2023",
-        source_name: "Ada Derana",
-        source_link: "http://bizenglish.adaderana.lk/",
-        title: "ELZIAN AGRO Achieves Remarkable Success at SLASSCOM National Ingenuity Awards 2023",
-        image: "assets/img/impact/recognition/slasscom/ada-derana.png",
-        description:
-          "LZIAN AGRO, a true visionary in the agricultural technology sector, has reached unprecedented heights with their exceptional performance at the highly esteemed SLASSCOM National Ingenuity Awards 2023...",
-        link: "http://bizenglish.adaderana.lk/elzian-agro-achieves-remarkable-success-at-slasscom-national-ingenuity-awards-2023/",
-        backup_image: "https://drive.google.com/file/d/1EHo447_c3PWQeoQHFcnKydom6Y_9-KTx/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.5",
-    title: "Top Meaningful Business Founders",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "Meaningful Business",
-        source_link: "https://www.linkedin.com/company/meaningful-business/posts/",
-        title: "Introduce the 2023 Meaningful Business 100",
-        image: "assets/img/impact/recognition/meaningful-business/meaningful-business.png",
-        description:
-          "These leaders are setting the bar for combining profit and purpose, helping to tackle the world’s most pressing social and environmental issues. Your annual source of inspiration is here.",
-        link: "https://www.linkedin.com/posts/meaningful-business_meaningfulbusiness-2023mb100-mb100-activity-7117842154596495360-takh/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1zF9d4SFS_l60cqHr-7RwI5tbjJjK6lYP/view?usp=drive_link",
-      },
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Recognised by Meaningful Business on the 2023",
-        image: "assets/img/impact/recognition/meaningful-business/linkedin.png",
-        description:
-          "The 2023 MB100 are an outstanding group of leaders combining profit and purpose to help achieve the UN Global Goals across five key areas: Durability, Impact, Innovation, Leadership and Scope.",
-        link: "https://www.linkedin.com/posts/lilanofficial_mb100-meetthemb100-2023mb100-activity-7117863318945492992-8DK_/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1E-DqliB4Op4dsrFgEj0uILlUK6jq6_Yk/view?usp=drive_link",
-      },
-      {
-        date: "",
-        source_name: "Meaningful Business",
-        source_link: "https://meaningful.business/",
-        title: "Lilan Dayananda Profile",
-        image: "assets/img/impact/recognition/meaningful-business/meaningful-business-profile.png",
-        description:
-          "Lilan Dayananda is an international award-winning young social tech entrepreneur. For years, his social initiative Elzian Agro has offered customised monitoring information and automation solutions through trending digital technologies to optimise customers’ harvest and productively utilise their resources, improving food security and climate action. ",
-        link: "https://meaningful.business/team/lilan-dayananda/",
-        backup_image: "https://drive.google.com/file/d/1OWl3LVi2vKZJIXaaKMocQ-reEh3zubPY/view?usp=drive_link",
-      },
-      {
-        date: "2023",
-        source_name: "Meaningful Business",
-        source_link: "https://meaningful.business/",
-        title: "The 2023 Meaningful Business 100 (MB100)",
-        image: "assets/img/impact/recognition/meaningful-business/meaningful-business-mb100.png",
-        description:
-          "The 2023 MB100 are an outstanding group of leaders combining profit and purpose. Curated by an expert panel of 29 judges, the winners were chosen from over 800 applications, representing 93 countries, and were scored across five key areas: Durability, Impact, Innovation, Leadership and Scope.",
-        link: "https://meaningful.business/mb100-2023/",
-        backup_image: "https://drive.google.com/file/d/1PqS1tfzNwb1QJ5H9QywQmZWlq0vis7Au/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.4",
-    title: "Top 10 Youth Entrepreneurs of Global-South",
-    slides: [
-      {
-        date: "July 5, 2022",
-        source_name: "South-South Galaxy",
-        source_link: "https://southsouth-galaxy.org/",
-        title:
-          "Top Youth Entrepreneurs Selected for Final Youth4South Entrepreneurship Competition, to be held in Bangkok in September",
-        image: "assets/img/impact/recognition/youth-entrepreneurs/south-south-galaxy.png",
-        description:
-          "More than twenty young entrepreneurs from 15 developing countries came together for the first-round pitching of the Youth4South...",
-        link: "https://southsouth-galaxy.org/news/top-youth-entrepreneurs-selected-for-final-youth4south-entrepreneurship-competition/",
-        backup_image: "https://drive.google.com/file/d/12lv_XmgWE5KoCjCtst22NrioQ2EEDGH7/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.3",
-    title: "Commonwealth Youth Award Winner",
-    slides: [
-      {
-        date: "May 16, 2022",
-        source_name: "Your Commonwealth",
-        source_link: "https://yourcommonwealth.org/",
-        title: "Putting an end to world hunger through smart agronomy solutions",
-        image: "assets/img/impact/recognition/commonwealth/commonwealth.png",
-        description:
-          "Lilan Dayananda is a co-founder and the CEO at Elzian Agro. His organisation has been tackling world hunger through award-winning smart agronomy solutions. These innovations provide soil and weather monitoring systems to farmers who are affected by extreme weather changes and pests and who also have limited resources to service their farms. 25-year- old Commonwealth Correspondent Aminat Awogun from Nigeria spoke with Lilan, who is a 2022 Commonwealth Youth Awards Finalist.",
-        link: "https://yourcommonwealth.org/economic-development/putting-an-end-to-world-hunger-through-smart-agronomy-solutions/",
-        backup_image: "https://drive.google.com/file/d/1gdNG0cQKGM3W2wOHwRMjFM6Bl_TTy26U/view?usp=sharing",
-      },
-      {
-        date: "2022",
-        source_name: "",
-        source_link: "",
-        title: "Commonwealth Youth Awards 2022",
-        image: "assets/img/impact/recognition/commonwealth/commonwealth-award.png",
-        description:
-          "The Commonwealth Youth Awards for Excellence in Development Work aim to recognise the contribution young people aged 15–29 make towards promoting and enhancing democracy and achieving the 17 Sustainable Development Goals (SDGs). It raises the profile of committed and innovative Commonwealth youth who are working hard to address pressing issues such as poverty and conflict.",
-        link: "https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2022-03/OFFICIAL%202022%20Commonwealth%20Youth%20Awards%20Booklet.pdf",
-        backup_image: "https://drive.google.com/file/d/1ukSmsW8QKiepenGDOfHUvNz8Wj34Ih1e/view?usp=drive_link",
-      },
-      {
-        date: "March 01, 2022",
-        source_name: "The Commonwealth",
-        source_link: "https://thecommonwealth.org/",
-        title: "20 finalists announced for Commonwealth Youth Awards 2022",
-        image: "assets/img/impact/recognition/commonwealth/the-commonwealth.png",
-        description:
-          "Twenty extraordinary young people, including inventors, activists and entrepreneurs, from 17 countries have been announced as finalists for this year’s Commonwealth Youth Awards...",
-        link: "https://thecommonwealth.org/news/20-finalists-announced-commonwealth-youth-awards-2022",
-        backup_image: "https://drive.google.com/file/d/1k5gbdvPOHXErUPQr18Rnyr-bs2JBmnV7/view?usp=drive_link",
-      },
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Commonwealth Youth Awards",
-        image: "assets/img/impact/recognition/commonwealth/linkedin.png",
-        description:
-          "I recently had the opportunity to capture a moment with my esteemed Commonwealth Youth Award, a prestigious recognition bestowed upon young individuals aged 15 to 29 who have demonstrated exceptional dedication to enhancing democracy and furthering the cause of the 17 Sustainable Development Goals (SDGs). These awards represent a vital facet of The Commonwealth Secretariat's overarching mission to empower, engage, and inspire young people, all while amplifying their voices and achievements throughout the 56 member states.",
-        link: "https://www.linkedin.com/posts/lilanofficial_commonwealth-youth-commonwealthyouthawards-activity-7117812520861519873-n2Yb/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1wawZXLe3ksNy37Rxu_6Ip55XEHo1_wMm/view?usp=drive_link",
-      },
-      {
-        date: "March 19, 2022",
-        source_name: "International Youth Change Maker - IYCM",
-        source_link: "https://web.facebook.com/IYcmBd",
-        title: "Commonwealth Youth Awards Winner 2022",
-        image: "assets/img/impact/recognition/commonwealth/commonwealth-award-sl.png",
-        description:
-          "As the Co-Founder and CEO of ‘Elzian Agro’ Lilan offers rural farmers smart agronomy solutions to increase crop yield organically and helps them respond to significant changes in soil and weather and potential pest threats through data-based prediction reports. The project has reached more than 50,000 farmers and supports government bodies in Sri Lanka to better understand the importance of modern smart agronomy solutions.",
-        link: "https://web.facebook.com/100064883162038/posts/4751834144927957/",
-        backup_image: "https://drive.google.com/file/d/1URcASfOrGBBb-BKdiyaeSdkYdMQnDnl5/view?usp=sharing",
-      },
-      {
-        date: "February 10, 2022",
-        source_name: "Colombo Gazette",
-        source_link: "https://colombogazette.com/",
-        title: "Sri Lankan shortlisted for Commonwealth Youth Awards 2022",
-        image: "assets/img/impact/recognition/commonwealth/colombo-gazette.png",
-        description:
-          "Twenty extraordinary young people, including inventors, activists and entrepreneurs, from 17 countries have been announced as finalists for this year’s Commonwealth Youth Awards.",
-        link: "https://colombogazette.com/2022/02/10/sri-lankan-shortlisted-for-commonwealth-youth-awards-2022/",
-        backup_image: "https://drive.google.com/file/d/1iQM_qc9QlDdcsLLxjVu868g7aECO_Pir/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.2",
-    title: "New Generation Asia: Social Entrepreneur of the Year",
-    slides: [
-      {
-        date: "August 16, 2024",
-        source_name: "Lanka News Network",
-        source_link: "https://english.lankanewsnetwork.com/",
-        title: "Lilan Dayananda Named Social Entrepreneur of the Year at New Generation Asia Awards",
-        image: "assets/img/impact/recognition/new-generation-asia/lanka-news-network.png",
-        description:
-          "Lilan Dayananda, the dynamic Managing Director and CEO of Elzian Agro, was honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards held at the Shangri-La Hotel...",
-        link: "https://english.lankanewsnetwork.com/?p=1230",
-        backup_image: "https://drive.google.com/file/d/16Qw3A6USD6ahg890BxZJUyeNdrKBZ1D2/view?usp=drive_link",
-      },
-      {
-        date: "August 12, 2024",
-        source_name: "Business News",
-        source_link: "https://www.lankabusinessnews.com/",
-        title: "Lilan Dayananda honored as Social Entrepreneur of the Year at New Generation Asia Awards",
-        image: "assets/img/impact/recognition/new-generation-asia/business-news.png",
-        description:
-          "Lilan Dayananda, the Managing Director and Chief Executive Officer of Elzian Agro, was celebrated as the Social Entrepreneur of the Year at the prestigious Fifth New Generation Asia Awards...",
-        link: "https://www.lankabusinessnews.com/lilan-dayananda-honored-as-social-entrepreneur-of-the-year-at-new-generation-asia-awards/",
-        backup_image: "https://drive.google.com/file/d/1xoyDHbJwwlDrUubPi76SWg71McDHeF5u/view?usp=drive_link",
-      },
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards",
-        image: "assets/img/impact/recognition/new-generation-asia/linkedin.png",
-        description:
-          "I am delighted to announce that I have been honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards, at the Shangri-La Hotel in Colombo.",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-startup-economy-activity-7216735742062944256-aduN/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1MwP6aYIrpe_AYWLqzSXdrPaZBCxkYOYX/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
     id: "1.1",
     title: "Forbes 30 under 30: Social Impact List",
     slides: [
@@ -488,6 +136,414 @@ const impacts = [
           "Lilan Dayananda is a social tech entrepreneur and cofounder and CEO of Elzian Agro, a Sri Lankan startup that uses technologies like IoT devices and AI to help small farmers optimize their harvests and deal with climate change. Their services include weather and soil monitoring systems, pest detection and tracing products on the supply chain. Dayananda's work earned him a nomination for the Queen's Commonwealth Trust Youth Award in 2022, and Elzian Agro's Pest Prediction System was given the Merit Award at the SLASSCOM National Ingenuity Awards 2022.",
         link: "https://www.forbes.com/profile/lilan-dayananda/?list=30under30-asia-social-impact/&sh=47305d8b5e76",
         backup_image: "https://drive.google.com/file/d/11v20zwrVACKavb550IAWLBPJ8d0OIGLN/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.2",
+    title: "Climate Action Leadership Award 2024",
+    slides: [
+      {
+        date: "November 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Climate Action Leadership Award 2024",
+        image:
+          "assets/img/impact/recognition/climate-action-leadership-award/Climate Action Leadership Award 2024.png",
+        description:
+          "I am truly honored to receive the Climate Action Leadership Award 2024 from the Global Climate Action Partnership (GCAP) during the Global Workshop in Foz do Iguaçu, Brazil...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-climatechange-activity-7260618274957111296-ACg5?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/18tfWjk8krOaiYA9hURbklOGqngpWiNtR/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.3",
+    title: "New Generation Asia: Social Entrepreneur of the Year",
+    slides: [
+      {
+        date: "August 16, 2024",
+        source_name: "Lanka News Network",
+        source_link: "https://english.lankanewsnetwork.com/",
+        title: "Lilan Dayananda Named Social Entrepreneur of the Year at New Generation Asia Awards",
+        image: "assets/img/impact/recognition/new-generation-asia/lanka-news-network.png",
+        description:
+          "Lilan Dayananda, the dynamic Managing Director and CEO of Elzian Agro, was honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards held at the Shangri-La Hotel...",
+        link: "https://english.lankanewsnetwork.com/?p=1230",
+        backup_image: "https://drive.google.com/file/d/16Qw3A6USD6ahg890BxZJUyeNdrKBZ1D2/view?usp=drive_link",
+      },
+      {
+        date: "August 12, 2024",
+        source_name: "Business News",
+        source_link: "https://www.lankabusinessnews.com/",
+        title: "Lilan Dayananda honored as Social Entrepreneur of the Year at New Generation Asia Awards",
+        image: "assets/img/impact/recognition/new-generation-asia/business-news.png",
+        description:
+          "Lilan Dayananda, the Managing Director and Chief Executive Officer of Elzian Agro, was celebrated as the Social Entrepreneur of the Year at the prestigious Fifth New Generation Asia Awards...",
+        link: "https://www.lankabusinessnews.com/lilan-dayananda-honored-as-social-entrepreneur-of-the-year-at-new-generation-asia-awards/",
+        backup_image: "https://drive.google.com/file/d/1xoyDHbJwwlDrUubPi76SWg71McDHeF5u/view?usp=drive_link",
+      },
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards",
+        image: "assets/img/impact/recognition/new-generation-asia/linkedin.png",
+        description:
+          "I am delighted to announce that I have been honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards, at the Shangri-La Hotel in Colombo.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-startup-economy-activity-7216735742062944256-aduN/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1MwP6aYIrpe_AYWLqzSXdrPaZBCxkYOYX/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.4",
+    title: "Commonwealth Youth Award Winner",
+    slides: [
+      {
+        date: "May 16, 2022",
+        source_name: "Your Commonwealth",
+        source_link: "https://yourcommonwealth.org/",
+        title: "Putting an end to world hunger through smart agronomy solutions",
+        image: "assets/img/impact/recognition/commonwealth/commonwealth.png",
+        description:
+          "Lilan Dayananda is a co-founder and the CEO at Elzian Agro. His organisation has been tackling world hunger through award-winning smart agronomy solutions. These innovations provide soil and weather monitoring systems to farmers who are affected by extreme weather changes and pests and who also have limited resources to service their farms. 25-year- old Commonwealth Correspondent Aminat Awogun from Nigeria spoke with Lilan, who is a 2022 Commonwealth Youth Awards Finalist.",
+        link: "https://yourcommonwealth.org/economic-development/putting-an-end-to-world-hunger-through-smart-agronomy-solutions/",
+        backup_image: "https://drive.google.com/file/d/1gdNG0cQKGM3W2wOHwRMjFM6Bl_TTy26U/view?usp=sharing",
+      },
+      {
+        date: "2022",
+        source_name: "",
+        source_link: "",
+        title: "Commonwealth Youth Awards 2022",
+        image: "assets/img/impact/recognition/commonwealth/commonwealth-award.png",
+        description:
+          "The Commonwealth Youth Awards for Excellence in Development Work aim to recognise the contribution young people aged 15–29 make towards promoting and enhancing democracy and achieving the 17 Sustainable Development Goals (SDGs). It raises the profile of committed and innovative Commonwealth youth who are working hard to address pressing issues such as poverty and conflict.",
+        link: "https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2022-03/OFFICIAL%202022%20Commonwealth%20Youth%20Awards%20Booklet.pdf",
+        backup_image: "https://drive.google.com/file/d/1ukSmsW8QKiepenGDOfHUvNz8Wj34Ih1e/view?usp=drive_link",
+      },
+      {
+        date: "March 01, 2022",
+        source_name: "The Commonwealth",
+        source_link: "https://thecommonwealth.org/",
+        title: "20 finalists announced for Commonwealth Youth Awards 2022",
+        image: "assets/img/impact/recognition/commonwealth/the-commonwealth.png",
+        description:
+          "Twenty extraordinary young people, including inventors, activists and entrepreneurs, from 17 countries have been announced as finalists for this year’s Commonwealth Youth Awards...",
+        link: "https://thecommonwealth.org/news/20-finalists-announced-commonwealth-youth-awards-2022",
+        backup_image: "https://drive.google.com/file/d/1k5gbdvPOHXErUPQr18Rnyr-bs2JBmnV7/view?usp=drive_link",
+      },
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Commonwealth Youth Awards",
+        image: "assets/img/impact/recognition/commonwealth/linkedin.png",
+        description:
+          "I recently had the opportunity to capture a moment with my esteemed Commonwealth Youth Award, a prestigious recognition bestowed upon young individuals aged 15 to 29 who have demonstrated exceptional dedication to enhancing democracy and furthering the cause of the 17 Sustainable Development Goals (SDGs). These awards represent a vital facet of The Commonwealth Secretariat's overarching mission to empower, engage, and inspire young people, all while amplifying their voices and achievements throughout the 56 member states.",
+        link: "https://www.linkedin.com/posts/lilanofficial_commonwealth-youth-commonwealthyouthawards-activity-7117812520861519873-n2Yb/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1wawZXLe3ksNy37Rxu_6Ip55XEHo1_wMm/view?usp=drive_link",
+      },
+      {
+        date: "March 19, 2022",
+        source_name: "International Youth Change Maker - IYCM",
+        source_link: "https://web.facebook.com/IYcmBd",
+        title: "Commonwealth Youth Awards Winner 2022",
+        image: "assets/img/impact/recognition/commonwealth/commonwealth-award-sl.png",
+        description:
+          "As the Co-Founder and CEO of ‘Elzian Agro’ Lilan offers rural farmers smart agronomy solutions to increase crop yield organically and helps them respond to significant changes in soil and weather and potential pest threats through data-based prediction reports. The project has reached more than 50,000 farmers and supports government bodies in Sri Lanka to better understand the importance of modern smart agronomy solutions.",
+        link: "https://web.facebook.com/100064883162038/posts/4751834144927957/",
+        backup_image: "https://drive.google.com/file/d/1URcASfOrGBBb-BKdiyaeSdkYdMQnDnl5/view?usp=sharing",
+      },
+      {
+        date: "February 10, 2022",
+        source_name: "Colombo Gazette",
+        source_link: "https://colombogazette.com/",
+        title: "Sri Lankan shortlisted for Commonwealth Youth Awards 2022",
+        image: "assets/img/impact/recognition/commonwealth/colombo-gazette.png",
+        description:
+          "Twenty extraordinary young people, including inventors, activists and entrepreneurs, from 17 countries have been announced as finalists for this year’s Commonwealth Youth Awards.",
+        link: "https://colombogazette.com/2022/02/10/sri-lankan-shortlisted-for-commonwealth-youth-awards-2022/",
+        backup_image: "https://drive.google.com/file/d/1iQM_qc9QlDdcsLLxjVu868g7aECO_Pir/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.5",
+    title: "Top 10 Youth Entrepreneurs of Global-South",
+    slides: [
+      {
+        date: "July 5, 2022",
+        source_name: "South-South Galaxy",
+        source_link: "https://southsouth-galaxy.org/",
+        title:
+          "Top Youth Entrepreneurs Selected for Final Youth4South Entrepreneurship Competition, to be held in Bangkok in September",
+        image: "assets/img/impact/recognition/youth-entrepreneurs/south-south-galaxy.png",
+        description:
+          "More than twenty young entrepreneurs from 15 developing countries came together for the first-round pitching of the Youth4South...",
+        link: "https://southsouth-galaxy.org/news/top-youth-entrepreneurs-selected-for-final-youth4south-entrepreneurship-competition/",
+        backup_image: "https://drive.google.com/file/d/12lv_XmgWE5KoCjCtst22NrioQ2EEDGH7/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.6",
+    title: "Top Meaningful Business Founders",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "Meaningful Business",
+        source_link: "https://www.linkedin.com/company/meaningful-business/posts/",
+        title: "Introduce the 2023 Meaningful Business 100",
+        image: "assets/img/impact/recognition/meaningful-business/meaningful-business.png",
+        description:
+          "These leaders are setting the bar for combining profit and purpose, helping to tackle the world’s most pressing social and environmental issues. Your annual source of inspiration is here.",
+        link: "https://www.linkedin.com/posts/meaningful-business_meaningfulbusiness-2023mb100-mb100-activity-7117842154596495360-takh/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1zF9d4SFS_l60cqHr-7RwI5tbjJjK6lYP/view?usp=drive_link",
+      },
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Recognised by Meaningful Business on the 2023",
+        image: "assets/img/impact/recognition/meaningful-business/linkedin.png",
+        description:
+          "The 2023 MB100 are an outstanding group of leaders combining profit and purpose to help achieve the UN Global Goals across five key areas: Durability, Impact, Innovation, Leadership and Scope.",
+        link: "https://www.linkedin.com/posts/lilanofficial_mb100-meetthemb100-2023mb100-activity-7117863318945492992-8DK_/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1E-DqliB4Op4dsrFgEj0uILlUK6jq6_Yk/view?usp=drive_link",
+      },
+      {
+        date: "",
+        source_name: "Meaningful Business",
+        source_link: "https://meaningful.business/",
+        title: "Lilan Dayananda Profile",
+        image: "assets/img/impact/recognition/meaningful-business/meaningful-business-profile.png",
+        description:
+          "Lilan Dayananda is an international award-winning young social tech entrepreneur. For years, his social initiative Elzian Agro has offered customised monitoring information and automation solutions through trending digital technologies to optimise customers’ harvest and productively utilise their resources, improving food security and climate action. ",
+        link: "https://meaningful.business/team/lilan-dayananda/",
+        backup_image: "https://drive.google.com/file/d/1OWl3LVi2vKZJIXaaKMocQ-reEh3zubPY/view?usp=drive_link",
+      },
+      {
+        date: "2023",
+        source_name: "Meaningful Business",
+        source_link: "https://meaningful.business/",
+        title: "The 2023 Meaningful Business 100 (MB100)",
+        image: "assets/img/impact/recognition/meaningful-business/meaningful-business-mb100.png",
+        description:
+          "The 2023 MB100 are an outstanding group of leaders combining profit and purpose. Curated by an expert panel of 29 judges, the winners were chosen from over 800 applications, representing 93 countries, and were scored across five key areas: Durability, Impact, Innovation, Leadership and Scope.",
+        link: "https://meaningful.business/mb100-2023/",
+        backup_image: "https://drive.google.com/file/d/1PqS1tfzNwb1QJ5H9QywQmZWlq0vis7Au/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.7",
+    title: "SLASSCOM National Ingenuity Awards",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "SLASSCOM National Ingenuity Awards 2023",
+        image: "assets/img/impact/recognition/slasscom/elzian-agro.jpg",
+        description:
+          "We are thrilled to share the incredible success of ELZIAN AGRO at the esteemed SLASSCOM National Ingenuity Awards 2023. It was an enchanting evening filled with boundless inspiration, groundbreaking innovation, and well-deserved recognition of exceptional achievements within the tech industry. ELZIAN AGRO has emerged as one of the top Technology Disrupters in various categories. Our unwavering dedication to innovation and relentless pursuit of excellence has been unequivocally acknowledged with highly esteemed accolades:",
+        link: "https://www.linkedin.com/posts/elzianagro_innovation-technology-success-activity-7078303289900990465-8d2O/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1cX8c77zRAqUYes0Ydw9LdMdjRCUnxjAl/view?usp=drive_link",
+      },
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "National Winner of Best Innovative Project in Agritech at the SLASSCOM National Ingenuity Awards 2024 ",
+        image: "assets/img/impact/recognition/slasscom/linkedin.jpg",
+        description:
+          "I am thrilled and proud to announce that ELZIAN AGRO emerged as the National Winner of Best Innovative Project in Agritech at the SLASSCOM National Ingenuity Awards 2024 🌟.",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-team-activity-7215416791735394304-ScWa/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1wIbkvwKfLhHeW3Hq9bJMB8f_7OIv70UG/view?usp=drive_link",
+      },
+      {
+        date: "July 6, 2023",
+        source_name: "Ceylon Business Reporter",
+        source_link: "https://cbr.lk/",
+        title: "ELZIAN AGRO Shines Bright at SLASSCOM National Ingenuity Awards 2023",
+        image: "assets/img/impact/recognition/slasscom/ceylon-business-reporter.jpg",
+        description:
+          "ELZIAN AGRO, recognized as one of the top Technology Disruptors, garnered high praise and esteemed accolades in various categories, solidifying their position as a leading force in the industry. The company’s commitment to innovation and relentless pursuit of excellence was wholeheartedly acknowledged, with the team being honored in multiple domains.",
+        link: "https://cbr.lk/technology/elzian-agro-shines-bright-at-slasscom-national-ingenuity-awards-2023/",
+        backup_image: "https://drive.google.com/file/d/1nSx3ofEQGD64MkCxanQLxYDdPmcXsaUb/view?usp=drive_link",
+      },
+      {
+        date: "November 2023",
+        source_name: "SLASSCOM",
+        source_link: "https://www.linkedin.com/company/slasscom/posts/",
+        title: "The National Winners of the Prestigious SLASSCOM National Ingenuity Awards!",
+        image: "assets/img/impact/recognition/slasscom/slasscom.jpg",
+        description:
+          "These brilliant minds have redefined innovation and set new benchmarks in the tech industry. Join us in celebrating their remarkable achievements! ",
+        link: "https://www.linkedin.com/posts/slasscom_slasscomingenuityawards-snia-winners-activity-7080412198577049600-F0ct/?utm_source=share&utm_medium=member_android",
+        backup_image: "https://drive.google.com/file/d/1B5qRM1PMdVYKy80onpz6rGjiw4rTR8sQ/view?usp=drive_link",
+      },
+      {
+        date: "July 6, 2023",
+        source_name: "Ceylon Tribune",
+        source_link: "https://ceylontribune.com/",
+        title: "ELZIAN AGRO is Igniting a Technological Revolution in Agriculture",
+        image: "assets/img/impact/recognition/slasscom/ceylontribune.png",
+        description:
+          "ELZIAN AGRO soared to new heights, claiming the prestigious title of National Winner in the category of Best Disruptive Product Innovation. Their transformative product has revolutionized traditional agricultural practices, leaving an indelible mark on the industry. By pushing boundaries and introducing cutting-edge technologies, ELZIAN AGRO has redefined the possibilities within farming. Their groundbreaking solutions have elevated efficiency, productivity, and sustainability to unprecedented levels.",
+        link: "https://ceylontribune.com/?p=233",
+        backup_image: "https://drive.google.com/file/d/1lgLuYmyxx6qkWFYgG_z5oxR_TkESYk7v/view?usp=drive_link",
+      },
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "ELZIAN AGRO has been Honored with Multiple Awards for Our Innovation, Technology, and Overall Success.",
+        image: "assets/img/impact/recognition/slasscom/linkedin_2.jpg",
+        description:
+          "I am thrilled and proud to announce that ELZIAN AGRO has been honored with multiple awards for our innovation, technology, and overall success. This achievement would not have been possible...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-team-activity-7078312302239760384-uvzq/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ansLT9wGYkOFYpNOk8lLV3eo2dx2ysm5/view?usp=drive_link",
+      },
+      {
+        date: "June, 29, 2023",
+        source_name: "Ada Derana",
+        source_link: "http://bizenglish.adaderana.lk/",
+        title: "ELZIAN AGRO Achieves Remarkable Success at SLASSCOM National Ingenuity Awards 2023",
+        image: "assets/img/impact/recognition/slasscom/ada-derana.png",
+        description:
+          "LZIAN AGRO, a true visionary in the agricultural technology sector, has reached unprecedented heights with their exceptional performance at the highly esteemed SLASSCOM National Ingenuity Awards 2023...",
+        link: "http://bizenglish.adaderana.lk/elzian-agro-achieves-remarkable-success-at-slasscom-national-ingenuity-awards-2023/",
+        backup_image: "https://drive.google.com/file/d/1EHo447_c3PWQeoQHFcnKydom6Y_9-KTx/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.8",
+    title: "Founder Institute’s Fastest Growing Companies",
+    slides: [
+      {
+        date: "December 2023",
+        source_name: "Founder Institute",
+        source_link: "https://www.linkedin.com/school/the-founder-institute/posts/",
+        title: "Discover Asia and Australia's fastest-growing startups in our latest FI50 Report!",
+        image: "assets/img/impact/recognition/founder-institute/founder-institute.png",
+        description:
+          "We're highlighting top startups from Asia and Australia in our global portfolio, showcasing their significant growth over the past year.",
+        link: "https://www.linkedin.com/posts/the-founder-institute_meet-our-top-10-startups-from-asia-and-australia-activity-7135713420305195008--lUS/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1q-44cqlhkKaU1YvL8tSruXoZQQ3wOlX_/view?usp=drive_link",
+      },
+      {
+        date: "",
+        source_name: "Founder Institute",
+        source_link: "https://fi.co/50",
+        title: "ELZIAN AGRO",
+        image: "assets/img/impact/recognition/founder-institute/founder-institute-profile.png",
+        description:
+          "Elzian Agro provides smart agronomy solution to farmers that reduces their crop wastage. In 2023 it was honored with multiple national and global awards, including Expo City Dubai.",
+        link: "https://fi.co/50/elzian-agro",
+        backup_image: "https://drive.google.com/file/d/1h2pkwmrQ-IgIcA028fXvw6D0P0OyFgn8/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.9",
+    title: "American Field Services (AFS) Award Finalist 2024",
+    slides: [
+      {
+        date: "August 17, 2024",
+        source_name: "AFS Youth Assembly",
+        source_link: "https://www.youthassembly.org/",
+        title: "Announcing the Finalists for the AFS Award for Young Global Citizens",
+        image: "assets/img/impact/recognition/american-field-services/afs-award-finalists.png",
+        description:
+          "The AFS Award for Young Global Citizens recognizes young people for their commitment to improving the global community and whose actions contribute to a more just, peaceful, and tolerant world. The winner will receive a $10,000 prize. The Award will be given to a Youth Assembly delegate who:",
+        link: "https://www.youthassembly.org/2024/08/17/afs-award-finalists-2024/",
+        backup_image: "https://drive.google.com/file/d/1luh0WjcR8zrUPnpSZ0OeTk47J7xmQ6XR/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.10",
+    title: "Recognized among Sri Lanka’s Best Employer Brand Awards 2024",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ELZIAN AGRO Recognized Among Sri Lanka's Best Employer Brand Awards 2024",
+        image: "assets/img/impact/recognition/best-employer-brand-awards/best-employer-brand-awards.png",
+        description:
+          "I am excited to announce that ELZIAN AGRO has been recognized among Sri Lanka’s Best Employer Brand Awards 2024, endorsed by CHRO Asia (a Global Platform for the Human Resource heads) and certified by the World Federation of HR Professionals.",
+        link: "https://www.linkedin.com/posts/lilanofficial_employerbrandawards-humanresources-leadership-activity-7238736947815276544-rOHe?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Ao5WAau3HgBrce4Q31aSAdDlOrfLuSwS/view",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.11",
+    title: "Recognized among Sri Lanka’s Best Brand Leadership Awards 2024",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ELZIAN AGRO Honored with Prestigious Brand Leadership Award 2024",
+        image: "assets/img/impact/recognition/best-brand-leadership-awards/best-brand-leadership-awards.png",
+        description:
+          "I am thrilled to share that ELZIAN AGRO has been honored with the prestigious Brand Leadership Award 2024! 🎉 This award recognizes organizations that excel in brand building and innovative marketing strategies, and it is endorsed by the World Marketing Congress, CMO Global, and the World Federation of Marketing Professionals.",
+        link: "https://www.linkedin.com/posts/lilanofficial_brandleadershipawards2024-marketingexcellence-activity-7238901417011200000-hE3t/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1hydDucLDd72IAqJZJ8UG3WlpJ8-6Ut7s/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.12",
+    title: "Celebration at Ibbagamuwa Central College by Soorya",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "SOORYA",
+        source_link: "https://web.facebook.com/SLSoorya",
+        title: "Celebration at Ibbagamuwa Central College by Soorya",
+        image:
+          "assets/img/impact/recognition/ibbagamuwa-central-college/Ibbagamuwa Central College by Soorya.png",
+        description:
+          "Honoring Lilan Dayananda, co-founder of Elzian Agro, celebrated as a Top 10 Youth Social Entrepreneur by the UN, 2022 Commonwealth Youth Award winner, and Forbes 30 Under 30 in Social Impact!",
+        link: "https://www.facebook.com/photo.php?fbid=863969072548398&set=a.494688512809791&type=3",
+        backup_image: "https://drive.google.com/file/d/1xXCi3_OrvWLGdI50OwQVvPh8JbKEotSe/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.13",
+    title: "Moonshot Awards - Global Connector Winner 2024",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Moonshot Awards - Global Connector Winner 2024",
+        image: "assets/img/impact/recognition/moonshot-awards/Global Connector Winner 2024.png",
+        description:
+          "I had an incredible time last night at the Moonshot Awards in Chelsea, Manhattan! 🌟 The Moonshot Platform does more than just support projects; it is committed to fostering the personal growth of young leaders...",
+        link: "https://www.linkedin.com/posts/lilanofficial_moonshotawards-leadership-entrepreneurship-activity-7271194508740993024-SHlB?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/12jxo9ZjLDcRNNAct3-BvQnD_Gzaowv1u/view?usp=drive_link",
       },
     ],
   },
