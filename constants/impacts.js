@@ -6619,37 +6619,458 @@ const impacts = [
 
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.28",
-    title: "Prof. Francesco Cara",
+    id: "10.1",
+    title:
+      "Meeting Tatsuya Yoshioka (吉岡 達也, Yoshioka Tatsuya), Founder of Peace Boat & Peace Boat Ecoship Project",
     slides: [
       {
         date: "November 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Prof. Francesco Cara",
-        image: "assets/img/impact/meeting-changemakers-vips/Francesco Cara.png",
+        title:
+          "Meeting Tatsuya Yoshioka (吉岡 達也, Yoshioka Tatsuya), Founder of Peace Boat & Peace Boat Ecoship Project",
+        image: "assets/img/impact/meeting-changemakers-vips/Tatsuya Yoshioka.png",
         description:
-          "I had the pleasure of meeting fellow Climate Reality Leader Francesco Cara, and we had a fascinating discussion about innovative approaches to effective climate action, sharing insights on making a tangible impact.",
-        link: "https://www.linkedin.com/posts/lilanofficial_climateaction-ecologicaldesign-sustainablefuture-activity-7258819179397406720-0zcL?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1KJn2VJy4KOF9s5bM3U774bVinJQydrEv/view?usp=drive_link",
+          "It was a pleasure to meet Tatsuya Yoshioka (吉岡 達也, Yoshioka Tatsuya) at a Science Summit of the United Nations General Assembly. Yoshioka is a founding member...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-peace-conflict-activity-7247903798730338305-qe9S?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1NnQZc47Gc2NgfN5Y6ytMcN0qlA7KW7yf/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.27",
-    title: "Dr. Sylvia Earl, Sally Ann Ranney and rest of the changemakers",
+    id: "10.2",
+    title: " Meeting Karim Iliya, Filmmaker, Whale swimming guide",
     slides: [
       {
-        date: "November 2024",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Dr. Sylvia Earl, Sally Ann Ranney and rest of the changemakers",
-        image: "assets/img/impact/meeting-changemakers-vips/Sylvia Earl.png",
+        title: " Meeting Karim Iliya, Filmmaker, Whale swimming guide",
+        image: "assets/img/impact/meeting-changemakers-vips/Karim Iliya.png",
         description:
-          "It was a pleasure connecting with diverse, impactful leaders during KINETIK's Islands Shaping the Future: Innovating for Resilience and Prosperity program...",
-        link: "https://www.linkedin.com/posts/lilanofficial_science-island-innovation-activity-7257823518543814656-wHuY?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/13Lr_nXaCWN60dhxhJ578_ePqqCXO37Dx/view?usp=drive_link",
+          "It was a pleasure to meet the inspiring Karim Iliya during the Moonshot Platform Youth Leadership Camp. Karim Iliya is a Photographer, Filmmaker, Whale swimming guide, and upcoming Space Explorer based in Iceland and Hawaii. Karim is a co-founder of Kogia, and is also part of the dearMoon crew.",
+        link: "https://www.linkedin.com/posts/lilanofficial_change-movement-leadership-activity-7226379675936145408-AOWJ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1FIo3RnkSR9oRajJ3Zw4DFNcN6Pbu7U2W/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.3",
+    title: "Meeting Yemi Akinyemi Dele (Yemi A.D.), Founder of Moonshot Platform",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Yemi Akinyemi Dele (Yemi A.D.), Founder of Moonshot Platform",
+        image: "assets/img/impact/meeting-changemakers-vips/Yemi Akinyemi Dele.png",
+        description:
+          "It was a pleasure to meet inspiring Yemi A.D. during the Moonshot Platform Youth Leadership Camp. Yemi is a versatile and accomplished creator and social innovator with over two decades of experience. His expertise spans choreography, direction, and production, making him one of the most in-demand talents in the industry.",
+        link: "https://www.linkedin.com/posts/lilanofficial_change-movement-leadership-activity-7225247385088618496-obKv?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1RMseNE6P2S_g4S1_KD6PsJpMez_DzscV/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.4",
+    title:
+      "Meeting Dr./Prof./Senator Ondřej Šimetka, Associate professor at the Faculty of Medicine, University of Ostrava",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Meeting Dr./Prof./Senator Ondřej Šimetka, Associate professor at the Faculty of Medicine, University of Ostrava",
+        image: "assets/img/impact/meeting-changemakers-vips/Ondřej Šimetka.png",
+        description:
+          "It was a pleasure to meet Dr. Ondřej Šimetka during the Moonshot Program in Czechia. He is a gynecologist and obstetrician, head of the clinic at the University Hospital Ostrava, and an associate professor at the Faculty of Medicine, University of Ostrava.",
+        link: "https://www.linkedin.com/posts/lilanofficial_team-class-moonshot-activity-7221034505296343041-8ORQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1h6QOklpHBRogRq_LXyqAkjUT708P2A-6/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.5",
+    title: "Meeting Prof. Ivan Paul Grixti, Senior Lecturer at the University of Malta",
+    slides: [
+      {
+        date: "July 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Prof. Ivan Paul Grixti, Senior Lecturer at the University of Malta",
+        image: "assets/img/impact/meeting-changemakers-vips/Ivan Paul Grixti.png",
+        description:
+          "I had the pleasure of meeting Ivan Paul Grixti , Senior Lecturer at the University of Malta, during my recent visit. His humility and support were invaluable to my co-director and me during an informal meetup near the Parliament of Malta. He also guided us to the National Archives of Malta.",
+        link: "https://www.linkedin.com/posts/lilanofficial_networking-malta-business-activity-7214125445980545024-h_Y_?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1CFn-SRdY-IJR4JZdVCDkbFgT1r_VKBdy/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.6",
+    title: "Meeting the royal family of the House of Lobkowicz at Prague Castle",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting the royal family of the House of Lobkowicz at Prague Castle",
+        image: "assets/img/impact/meeting-changemakers-vips/royal family.png",
+        description:
+          "Absolutely thrilled to have visited the House of Lobkowicz in Prague, Czechia (Czech Republic), yesterday! Visiting the historical palace is one thing but receiving a tour from royalty is a different level altogether! ",
+        link: "https://www.linkedin.com/posts/lilanofficial_culturalheritage-history-artcollections-activity-7219204301791883264-fPrj?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1bbGToZ8RNKHVJvdAu0fFS0fHT5ddpqUK/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.7",
+    title: "Meeting the President of Czech Republic (Czechia)",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting the President of Czech Republic (Czechia)",
+        image: "assets/img/impact/meeting-changemakers-vips/Czech Republic.png",
+        description:
+          "It was an honor to meet His Excellency, President Petr Pavel of the Czech Republic, at the Imperial Hall. His keynote address was truly inspiring, offering valuable insights on becoming an inspirational leader.",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-inspiration-czechrepublic-activity-7219534645523046400-D8Un?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1W_XDh5TMbCxw_H-QxvfbnXdLtvuyL5c9/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.8",
+    title: "Meeting Radhikaraje Gaekward, Indian Royal Family",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Radhikaraje Gaekward, Indian Royal Family",
+        image: "assets/img/impact/meeting-changemakers-vips/Radhikaraje Gaekward.png",
+        description:
+          "It was such a pleasure meeting Radhikaraje Gaekwad during the Moonshot Program in the Czech Republic. She is an Aspen Global Leadership Network Fellow and an honorary doctorate recipient from the University of East London. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_network-culture-diversity-activity-7220121935899156480-xmcR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Hk6trGDAPk0IJMmVmuWIm-i_S0Vgwb8c/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.9",
+    title: "Meeting Zlata Holušová, Founder of the Colours of Ostrava Musical Festival",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Zlata Holušová, Founder of the Colours of Ostrava Musical Festival",
+        image: "assets/img/impact/meeting-changemakers-vips/Zlata Holušová.png",
+        description:
+          "It was such a pleasure to meet Zlata Holušová, the Founder and Director of the Colours of Ostrava Musical Festival. And as much as she likes being part of this musical whirlwind, she likes to return to where there’s peace and quiet and life flows with a more subtle rhythm.",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-colours-festival-activity-7221807267195625472-HFqi/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1KmQKOVwvdnfKH3d4NMt1SuT6khSRUDzg/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.10",
+    title: "Meeting Martin Kupka, Minister of Transport of the Czechia",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Martin Kupka, Minister of Transport of the Czechia",
+        image: "assets/img/impact/meeting-changemakers-vips/Martin Kupka.png",
+        description:
+          "It was such a pleasure to meet Martin Kupka, Minister of Transport of the Czechia (Czech Republic). He is a Czech politician who has been a member of the Chamber of Deputies since 2017. He currently serves as Minister of Transport in the Cabinet of Petr Fiala and previously served as mayor of Líbeznice.",
+        link: "https://www.linkedin.com/posts/lilanofficial_mobility-traveling-state-activity-7222122360093429760-dq36?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Qr28N_A-RuKi31d4gWHRMm_4GDWljB9B/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.11",
+    title: "Meeting Brandon Hightower, Multi-disciplinary artist, Musician, and Dynamic Performer",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Brandon Hightower, Multi-disciplinary artist, Musician, and Dynamic Performer",
+        image: "assets/img/impact/meeting-changemakers-vips/Brandon Hightower.png",
+        description:
+          "It was a pleasure to meet Brandon Hightower, a multi-disciplinary artist, musician, and dynamic performer who ignites spiritual awakening through his live music. Originating from Florida, Brandon is a gifted vocalist renowned for his ability to craft engaging grooves and memorable melodies. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-rock-brandonhightower-activity-7224056542134747136--nkV?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1sOYIjq8jO7Nh6dlUeRnWaucoqwfMu-5d/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.12",
+    title: "Meeting Priyadarshani Joshi and SAndrés Peñaloza Lanza",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Priyadarshani Joshi and SAndrés Peñaloza Lanza",
+        image: "assets/img/impact/meeting-changemakers-vips/Priyadarshani Joshi and SAndrés Peñaloza.png",
+        description:
+          "I gained valuable insights from the Education for Climate Action: Learning to Act for People and Planet workshop at the AFS Youth Assembly at Convene Center, Brookfield Place in New York. Priyadarshani Joshi, PhD, Senior Research Officer for the GEM Report UNESCO at UNESCO, and Andrés Peñaloza Lanza, Global Education Programs Coordinator at AFS Intercultural Programs conducted the workshop.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-learning-activity-7230846842769485824-uVJG?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1O9WcXsBFN16XY6yE5hg4imN5EEgsdctc/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.13",
+    title: "Meeting Daniel Obst, President of AFS Intercultural Programs",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Daniel Obst, President of AFS Intercultural Programs",
+        image: "assets/img/impact/meeting-changemakers-vips/Daniel Obst.png",
+        description:
+          "It was an absolute pleasure to meet Daniel Obst, President and CEO of AFS Intercultural Programs. Daniel is a visionary leader and creative thinker, dedicated to driving a global movement to educate and empower global citizens.",
+        link: "https://www.linkedin.com/posts/lilanofficial_visionary-creative-thinker-activity-7230373476555972609-m9KQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1OE2JeNHABkvNB_8A7lQ_R5AKwBlgxYXF/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    title: "Meeting Anand Verma, Founder & CEO of ExpectAI",
+    id: "10.14",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Anand Verma, Founder & CEO of ExpectAI",
+        image: "assets/img/impact/meeting-changemakers-vips/Anand Verma.png",
+        description:
+          "The session conducted by Anand Verma (Dr.) on the future of AI at Convene Center, Brookfield Place in New York, was insightful. Future generative AI in agriculture will enable businesses to optimize crop yields by analyzing vast datasets on soil, weather, and plant health, leading to more precise farming practices.",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-elzian-elzianagro-activity-7231639967314194432-9ZRG?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1MJdFramTJSRE3irfJ9VTIrC0vFwXtd7H/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.15",
+    title: "Meeting Dr. Helmut Schuster, Co-Author of the Shey Sinope Career Advice Book Series",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Dr. Helmut Schuster, Co-Author of the Shey Sinope Career Advice Book Series",
+        image: "assets/img/impact/meeting-changemakers-vips/Helmut Schuster.png",
+        description:
+          "It was a pleasure to meet Dr. Helmut Schuster at Convene Brookfield Place in Downtown New York. He is the co-author of A Career Carol, an irreverent take on graduation commencement speeches and the expectations of Generation Z. The book offers a wry and insightful perspective on how to successfully navigate a 30-to-40-year professional career. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_knowledge-literature-book-activity-7233597770207522817-Kbxi?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1il2ehpaVDUicHkFvOtt4x8EUQ9WWtNW0/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.16",
+    title: "Meeting Eddie Marsden-Jones, Entrepreneur and IT Consultant",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Eddie Marsden-Jones, Entrepreneur and IT Consultant",
+        image: "assets/img/impact/meeting-changemakers-vips/Eddie Marsden-Jones.png",
+        description:
+          "Amidst a busy schedule, it was a pleasure to explore opportunities for expanding into international markets, specifically targeting Europe and the UAE, alongside Eddie Marsden-Jones in Colombo, Sri Lanka.",
+        link: "https://www.linkedin.com/posts/lilanofficial_technology-tech-europe-activity-7234941427019870209-x-Tf?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1b9txi7se70ds6KVbjEVUgRGv530LIx4B/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.17",
+    title: "Meeting Francesca Gatt, Deputy Permanent Representative of Malta to the UN",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Francesca Gatt, Deputy Permanent Representative of Malta to the UN",
+        image: "assets/img/impact/meeting-changemakers-vips/Francesca Gatt.png",
+        description:
+          "It was an honor to meet Francesca Gatt, Deputy Permanent Representative of Malta to the UN at the United Nations Headquarters in New York.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-elzian-activity-7235960562793242625-5Fz3?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1LfFgXMn2mZz1KdoKMhz1-EjhgsHgAXjv/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.18",
+    title: "Meeting Henk Rogers, Founder of Blue Planet Alliance (BPA)",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Henk Rogers, Founder of Blue Planet Alliance (BPA)",
+        image: "assets/img/impact/meeting-changemakers-vips/Henk Rogers.png",
+        description:
+          "I am proud to be a Blue Planet Alliance Global Ambassador and it was such a pleasure to meet Henk Rogers at Convene Brookfield Place in New York.",
+        link: "https://www.linkedin.com/posts/lilanofficial_blue-planet-alliance-activity-7236417048505958400-vSF9?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1IRacsfP_svH2s01cttlwVkjGHrNYED8E/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.19",
+    title: "Meeting Ron Lawler, Australian Broadcasting Corporation (ABC)",
+    slides: [
+      {
+        date: "January 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Ron Lawler, Australian Broadcasting Corporation (ABC)",
+        image: "assets/img/impact/meeting-changemakers-vips/Ron Lawler.png",
+        description:
+          "It was such a pleasure to meet Ron Lawler (former Initiatives of Change International Council member) again. I first met him during a session conducted by Ravindra Ngo 赖文卓 at Caux.",
+        link: "https://www.linkedin.com/posts/lilanofficial_iofc-firstnations-autralia-activity-7142795187839287296-6Ead?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ngTWX1-LqX_VO3Zwyb3rP_9zFA2CIbmo/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.20",
+    title: "Meeting Prof. Edward P. Joseph, Senior Fellow at The Johns Hopkins University",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Prof. Edward P. Joseph, Senior Fellow at The Johns Hopkins University",
+        image: "assets/img/impact/meeting-changemakers-vips/Edward P. Joseph.png",
+        description:
+          "It was a pleasure to meet Edward P. Joseph, Senior Fellow at The Johns Hopkins University ; Johns Hopkins School of Advanced International Studies (SAIS), during the Generation Democracy Global Summit in Vilnius, Lithuania. As a keynote speaker, he delivered an insightful speech on inclusive democracy.",
+        link: "https://www.linkedin.com/posts/lilanofficial_generationdemocracy-inclusivedemocracy-youthleadership-activity-7241470207192408064-qlgN?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1u7ZpCOY-aPGy4q8hruYGGMTHqUavrH9T/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.21",
+    title: "Meeting Mohamed Keita, and Radvilė Morkūnaitė - Mikulėnienė",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Mohamed Keita, and Radvilė Morkūnaitė - Mikulėnienė",
+        image: "assets/img/impact/meeting-changemakers-vips/Mohamed Keita.png",
+        description:
+          "I had the opportunity of participating in the Impact on Civil Liberties and Human Rights session at the Generation Democracy Global Summit in Vilnius, Lithuania. This session explored the diverse impacts of authoritarian regimes and repression on civil liberties and human rights, providing a platform for discussing strategies to promote and protect these rights globally.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-global-security-activity-7242144787905048577-koKC?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1uNnPOtA_fknL-cVsFbHpOKkgcCBD6qLj/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.22",
+    title: "Meeting Hanno Pevkur, Minister of Defence of the Republic of Estonia",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Hanno Pevkur, Minister of Defence of the Republic of Estonia",
+        image: "assets/img/impact/meeting-changemakers-vips/Hanno Pevkur.png",
+        description:
+          "The keynote remarks from Hanno Pevkur, Minister of Defence of the Republic of Estonia, added tremendous value to the second day of the Generation Democracy Global Summit. I had the opportunity to visit Transparency International and engage in a productive discussion with Ingrida Kalinauskienė, CEO of Transparency International Lithuania.",
+        link: "https://www.linkedin.com/posts/lilanofficial_globaldemocracy-youthleadership-civicengagement-activity-7242968354313887744-tDmO?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Csu354N2a0suisD-5UMevFXSnhjBOcvQ/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.23",
+    title:
+      "Meeting Dr. Sylvia Earle, Explorer in Residence at National Geographic Society and Dr. Sally Ann Ranney",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Meeting Dr. Sylvia Earle, Explorer in Residence at National Geographic Society and Dr. Sally Ann Ranney",
+        image: "assets/img/impact/meeting-changemakers-vips/Sylvia Earle.png",
+        description:
+          "It was an absolute pleasure meeting Dr. Sylvia Earle at KINETIK’s Islands Shaping the Future: Spotlight Interview during the Science Summit at UNGA. Dr. Earle, an esteemed American marine biologist, oceanographer, explorer, author, and lecturer, has been a National Geographic Explorer at Large since 1998.",
+        link: "https://www.linkedin.com/posts/lilanofficial_unga-sciencesummit-missionblue-activity-7245283658813562880-qHf8?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1XRAaoBU9EdPqAh0sCtMXHG0KnxSsHZP1/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.24",
+    title: "Meeting Scott Mastic, Vice President of Programs for International Republican Institute (IRI)",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Meeting Scott Mastic, Vice President of Programs for International Republican Institute (IRI)",
+        image: "assets/img/impact/meeting-changemakers-vips/Scott Mastic.png",
+        description:
+          "The keynote remarks from Hanno Pevkur, Minister of Defence of the Republic of Estonia, were incredibly valuable, and the fireside chat moderated by Scott Mastic was highly engaging and interactive. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_global-youthleadership-democracy-activity-7250687587399409665-D0Wg?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1sRTEjFwsPF934EiciLsYtuiCCEaB3GoR/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.25",
+    title: "Meeting Members of Lithuanian Parliament, Tomas Vytautas Raskevicius and Monika Ošmianskienė",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Members of Lithuanian Parliament, Tomas Vytautas Raskevicius and Monika Ošmianskienė",
+        image: "assets/img/impact/meeting-changemakers-vips/Tomas Vytautas.png",
+        description:
+          'I had the pleasure of participating in the "Cultivating Youth Leaders from All Backgrounds" (Leadership in Diversity) session at the Generation Democracy Global Summit in Vilnius, Lithuania.',
+        link: "https://www.linkedin.com/posts/lilanofficial_global-youthleadership-democracy-activity-7250886936259616770-7g4o?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1oo-bOTY1sBUivDrekqmHldF87Pb5Hl1F/view?usp=drive_link",
       },
     ],
   },
@@ -6675,501 +7096,79 @@ const impacts = [
   },
   {
     filter: "filter-meeting-changemakers-vips",
-    id: "10.25",
-    title: "Meeting Tomas Vytautas Raskevicius and Monika Ošmianskienė",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Tomas Vytautas Raskevicius and Monika Ošmianskienė",
-        image: "assets/img/impact/meeting-changemakers-vips/Tomas Vytautas.png",
-        description:
-          'I had the pleasure of participating in the "Cultivating Youth Leaders from All Backgrounds" (Leadership in Diversity) session at the Generation Democracy Global Summit in Vilnius, Lithuania.',
-        link: "https://www.linkedin.com/posts/lilanofficial_global-youthleadership-democracy-activity-7250886936259616770-7g4o?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1oo-bOTY1sBUivDrekqmHldF87Pb5Hl1F/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.24",
-    title: "Meeting Scott Mastic",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Scott Mastic",
-        image: "assets/img/impact/meeting-changemakers-vips/Scott Mastic.png",
-        description:
-          "The keynote remarks from Hanno Pevkur, Minister of Defence of the Republic of Estonia, were incredibly valuable, and the fireside chat moderated by Scott Mastic was highly engaging and interactive. ",
-        link: "https://www.linkedin.com/posts/lilanofficial_global-youthleadership-democracy-activity-7250687587399409665-D0Wg?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1sRTEjFwsPF934EiciLsYtuiCCEaB3GoR/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.23",
-    title: "Meeting Dr. Sylvia Earle and Dr. Sally Ann Ranney",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Dr. Sylvia Earle and Dr. Sally Ann Ranney",
-        image: "assets/img/impact/meeting-changemakers-vips/Sylvia Earle.png",
-        description:
-          "It was an absolute pleasure meeting Dr. Sylvia Earle at KINETIK’s Islands Shaping the Future: Spotlight Interview during the Science Summit at UNGA. Dr. Earle, an esteemed American marine biologist, oceanographer, explorer, author, and lecturer, has been a National Geographic Explorer at Large since 1998.",
-        link: "https://www.linkedin.com/posts/lilanofficial_unga-sciencesummit-missionblue-activity-7245283658813562880-qHf8?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1XRAaoBU9EdPqAh0sCtMXHG0KnxSsHZP1/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.22",
-    title: "Meeting Hanno Pevkur (Minister of Defence of the Republic of Estonia)",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Hanno Pevkur (Minister of Defence of the Republic of Estonia)",
-        image: "assets/img/impact/meeting-changemakers-vips/Hanno Pevkur.png",
-        description:
-          "The keynote remarks from Hanno Pevkur, Minister of Defence of the Republic of Estonia, added tremendous value to the second day of the Generation Democracy Global Summit. I had the opportunity to visit Transparency International and engage in a productive discussion with Ingrida Kalinauskienė, CEO of Transparency International Lithuania.",
-        link: "https://www.linkedin.com/posts/lilanofficial_globaldemocracy-youthleadership-civicengagement-activity-7242968354313887744-tDmO?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1Csu354N2a0suisD-5UMevFXSnhjBOcvQ/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.21",
-    title: "Meeting Mohamed Keita, and Radvilė Morkūnaitė - Mikulėnienė",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Mohamed Keita, and Radvilė Morkūnaitė - Mikulėnienė",
-        image: "assets/img/impact/meeting-changemakers-vips/Mohamed Keita.png",
-        description:
-          "I had the opportunity of participating in the Impact on Civil Liberties and Human Rights session at the Generation Democracy Global Summit in Vilnius, Lithuania. This session explored the diverse impacts of authoritarian regimes and repression on civil liberties and human rights, providing a platform for discussing strategies to promote and protect these rights globally.",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-global-security-activity-7242144787905048577-koKC?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1uNnPOtA_fknL-cVsFbHpOKkgcCBD6qLj/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.20",
-    title: "Meeting Prof. Edward P. Joseph",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Prof. Edward P. Joseph",
-        image: "assets/img/impact/meeting-changemakers-vips/Edward P. Joseph.png",
-        description:
-          "It was a pleasure to meet Edward P. Joseph, Senior Fellow at The Johns Hopkins University ; Johns Hopkins School of Advanced International Studies (SAIS), during the Generation Democracy Global Summit in Vilnius, Lithuania. As a keynote speaker, he delivered an insightful speech on inclusive democracy.",
-        link: "https://www.linkedin.com/posts/lilanofficial_generationdemocracy-inclusivedemocracy-youthleadership-activity-7241470207192408064-qlgN?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1u7ZpCOY-aPGy4q8hruYGGMTHqUavrH9T/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.19",
-    title: "Meeting Ron Lawler",
-    slides: [
-      {
-        date: "January 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Ron Lawler",
-        image: "assets/img/impact/meeting-changemakers-vips/Ron Lawler.png",
-        description:
-          "It was such a pleasure to meet Ron Lawler (former Initiatives of Change International Council member) again. I first met him during a session conducted by Ravindra Ngo 赖文卓 at Caux.",
-        link: "https://www.linkedin.com/posts/lilanofficial_iofc-firstnations-autralia-activity-7142795187839287296-6Ead?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1ngTWX1-LqX_VO3Zwyb3rP_9zFA2CIbmo/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.18",
-    title: "Meeting Henk Rogers",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Henk Rogers",
-        image: "assets/img/impact/meeting-changemakers-vips/Henk Rogers.png",
-        description:
-          "I am proud to be a Blue Planet Alliance Global Ambassador and it was such a pleasure to meet Henk Rogers at Convene Brookfield Place in New York.",
-        link: "https://www.linkedin.com/posts/lilanofficial_blue-planet-alliance-activity-7236417048505958400-vSF9?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1IRacsfP_svH2s01cttlwVkjGHrNYED8E/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.17",
-    title: "Meeting Francesca Gatt",
-    slides: [
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Francesca Gatt",
-        image: "assets/img/impact/meeting-changemakers-vips/Francesca Gatt.png",
-        description:
-          "It was an honor to meet Francesca Gatt, Deputy Permanent Representative of Malta to the UN at the United Nations Headquarters in New York.",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-elzian-activity-7235960562793242625-5Fz3?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1LfFgXMn2mZz1KdoKMhz1-EjhgsHgAXjv/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.16",
-    title: "Meeting Eddie Marsden-Jones",
-    slides: [
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Eddie Marsden-Jones",
-        image: "assets/img/impact/meeting-changemakers-vips/Eddie Marsden-Jones.png",
-        description:
-          "Amidst a busy schedule, it was a pleasure to explore opportunities for expanding into international markets, specifically targeting Europe and the UAE, alongside Eddie Marsden-Jones in Colombo, Sri Lanka.",
-        link: "https://www.linkedin.com/posts/lilanofficial_technology-tech-europe-activity-7234941427019870209-x-Tf?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1b9txi7se70ds6KVbjEVUgRGv530LIx4B/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.15",
-    title: "Meeting Dr. Helmut Schuster",
-    slides: [
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Dr. Helmut Schuster",
-        image: "assets/img/impact/meeting-changemakers-vips/Helmut Schuster.png",
-        description:
-          "It was a pleasure to meet Dr. Helmut Schuster at Convene Brookfield Place in Downtown New York. He is the co-author of A Career Carol, an irreverent take on graduation commencement speeches and the expectations of Generation Z. The book offers a wry and insightful perspective on how to successfully navigate a 30-to-40-year professional career. ",
-        link: "https://www.linkedin.com/posts/lilanofficial_knowledge-literature-book-activity-7233597770207522817-Kbxi?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1il2ehpaVDUicHkFvOtt4x8EUQ9WWtNW0/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    title: "Meeting Anand Verma",
-    id: "10.14",
-    slides: [
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Anand Verma",
-        image: "assets/img/impact/meeting-changemakers-vips/Anand Verma.png",
-        description:
-          "The session conducted by Anand Verma (Dr.) on the future of AI at Convene Center, Brookfield Place in New York, was insightful. Future generative AI in agriculture will enable businesses to optimize crop yields by analyzing vast datasets on soil, weather, and plant health, leading to more precise farming practices.",
-        link: "https://www.linkedin.com/posts/lilanofficial_ai-elzian-elzianagro-activity-7231639967314194432-9ZRG?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1MJdFramTJSRE3irfJ9VTIrC0vFwXtd7H/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.13",
-    title: "Meeting Daniel Obst",
-    slides: [
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Daniel Obst",
-        image: "assets/img/impact/meeting-changemakers-vips/Daniel Obst.png",
-        description:
-          "It was an absolute pleasure to meet Daniel Obst, President and CEO of AFS Intercultural Programs. Daniel is a visionary leader and creative thinker, dedicated to driving a global movement to educate and empower global citizens.",
-        link: "https://www.linkedin.com/posts/lilanofficial_visionary-creative-thinker-activity-7230373476555972609-m9KQ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1OE2JeNHABkvNB_8A7lQ_R5AKwBlgxYXF/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.12",
-    title: "Meeting Priyadarshani Joshi and SAndrés Peñaloza Lanza",
-    slides: [
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Priyadarshani Joshi and SAndrés Peñaloza Lanza",
-        image: "assets/img/impact/meeting-changemakers-vips/Priyadarshani Joshi and SAndrés Peñaloza.png",
-        description:
-          "I gained valuable insights from the Education for Climate Action: Learning to Act for People and Planet workshop at the AFS Youth Assembly at Convene Center, Brookfield Place in New York. Priyadarshani Joshi, PhD, Senior Research Officer for the GEM Report UNESCO at UNESCO, and Andrés Peñaloza Lanza, Global Education Programs Coordinator at AFS Intercultural Programs conducted the workshop.",
-        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-learning-activity-7230846842769485824-uVJG?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1O9WcXsBFN16XY6yE5hg4imN5EEgsdctc/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.11",
-    title: "Meeting Brandon Hightower",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Brandon Hightower",
-        image: "assets/img/impact/meeting-changemakers-vips/Brandon Hightower.png",
-        description:
-          "It was a pleasure to meet Brandon Hightower, a multi-disciplinary artist, musician, and dynamic performer who ignites spiritual awakening through his live music. Originating from Florida, Brandon is a gifted vocalist renowned for his ability to craft engaging grooves and memorable melodies. ",
-        link: "https://www.linkedin.com/posts/lilanofficial_music-rock-brandonhightower-activity-7224056542134747136--nkV?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1sOYIjq8jO7Nh6dlUeRnWaucoqwfMu-5d/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.10",
-    title: "Meeting Martin Kupka",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Martin Kupka",
-        image: "assets/img/impact/meeting-changemakers-vips/Martin Kupka.png",
-        description:
-          "It was such a pleasure to meet Martin Kupka, Minister of Transport of the Czechia (Czech Republic). He is a Czech politician who has been a member of the Chamber of Deputies since 2017. He currently serves as Minister of Transport in the Cabinet of Petr Fiala and previously served as mayor of Líbeznice.",
-        link: "https://www.linkedin.com/posts/lilanofficial_mobility-traveling-state-activity-7222122360093429760-dq36?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1Qr28N_A-RuKi31d4gWHRMm_4GDWljB9B/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.9",
-    title: "Meeting Zlata Holušová",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Zlata Holušová",
-        image: "assets/img/impact/meeting-changemakers-vips/Zlata Holušová.png",
-        description:
-          "It was such a pleasure to meet Zlata Holušová, the Founder and Director of the Colours of Ostrava Musical Festival. And as much as she likes being part of this musical whirlwind, she likes to return to where there’s peace and quiet and life flows with a more subtle rhythm.",
-        link: "https://www.linkedin.com/posts/lilanofficial_music-colours-festival-activity-7221807267195625472-HFqi/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1KmQKOVwvdnfKH3d4NMt1SuT6khSRUDzg/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.8",
-    title: "Meeting Radhikaraje Gaekward",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Radhikaraje Gaekward",
-        image: "assets/img/impact/meeting-changemakers-vips/Radhikaraje Gaekward.png",
-        description:
-          "It was such a pleasure meeting Radhikaraje Gaekwad during the Moonshot Program in the Czech Republic. She is an Aspen Global Leadership Network Fellow and an honorary doctorate recipient from the University of East London. ",
-        link: "https://www.linkedin.com/posts/lilanofficial_network-culture-diversity-activity-7220121935899156480-xmcR?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1Hk6trGDAPk0IJMmVmuWIm-i_S0Vgwb8c/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.7",
-    title: "Meeting the President of Czech Republic (Czechia)",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting the President of Czech Republic (Czechia)",
-        image: "assets/img/impact/meeting-changemakers-vips/Czech Republic.png",
-        description:
-          "It was an honor to meet His Excellency, President Petr Pavel of the Czech Republic, at the Imperial Hall. His keynote address was truly inspiring, offering valuable insights on becoming an inspirational leader.",
-        link: "https://www.linkedin.com/posts/lilanofficial_leadership-inspiration-czechrepublic-activity-7219534645523046400-D8Un?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1W_XDh5TMbCxw_H-QxvfbnXdLtvuyL5c9/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.6",
-    title: "Meeting the royal family of the House of Lobkowicz at Prague Castle",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting the royal family of the House of Lobkowicz at Prague Castle",
-        image: "assets/img/impact/meeting-changemakers-vips/royal family.png",
-        description:
-          "Absolutely thrilled to have visited the House of Lobkowicz in Prague, Czechia (Czech Republic), yesterday! Visiting the historical palace is one thing but receiving a tour from royalty is a different level altogether! ",
-        link: "https://www.linkedin.com/posts/lilanofficial_culturalheritage-history-artcollections-activity-7219204301791883264-fPrj?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1bbGToZ8RNKHVJvdAu0fFS0fHT5ddpqUK/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.5",
-    title: "Meeting Prof. Ivan Paul Grixti",
-    slides: [
-      {
-        date: "July 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Prof. Ivan Paul Grixti",
-        image: "assets/img/impact/meeting-changemakers-vips/Ivan Paul Grixti.png",
-        description:
-          "I had the pleasure of meeting Ivan Paul Grixti , Senior Lecturer at the University of Malta, during my recent visit. His humility and support were invaluable to my co-director and me during an informal meetup near the Parliament of Malta. He also guided us to the National Archives of Malta.",
-        link: "https://www.linkedin.com/posts/lilanofficial_networking-malta-business-activity-7214125445980545024-h_Y_?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1CFn-SRdY-IJR4JZdVCDkbFgT1r_VKBdy/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.4",
-    title: "Meeting Dr./Prof./Senator Ondřej Šimetka",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Dr./Prof./Senator Ondřej Šimetka",
-        image: "assets/img/impact/meeting-changemakers-vips/Ondřej Šimetka.png",
-        description:
-          "It was a pleasure to meet Dr. Ondřej Šimetka during the Moonshot Program in Czechia. He is a gynecologist and obstetrician, head of the clinic at the University Hospital Ostrava, and an associate professor at the Faculty of Medicine, University of Ostrava.",
-        link: "https://www.linkedin.com/posts/lilanofficial_team-class-moonshot-activity-7221034505296343041-8ORQ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1h6QOklpHBRogRq_LXyqAkjUT708P2A-6/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.3",
-    title: "Meeting Yemi Akinyemi Dele (Yemi A.D.) ",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Yemi Akinyemi Dele (Yemi A.D.) ",
-        image: "assets/img/impact/meeting-changemakers-vips/Yemi Akinyemi Dele.png",
-        description:
-          "It was a pleasure to meet inspiring Yemi A.D. during the Moonshot Platform Youth Leadership Camp. Yemi is a versatile and accomplished creator and social innovator with over two decades of experience. His expertise spans choreography, direction, and production, making him one of the most in-demand talents in the industry.",
-        link: "https://www.linkedin.com/posts/lilanofficial_change-movement-leadership-activity-7225247385088618496-obKv?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1RMseNE6P2S_g4S1_KD6PsJpMez_DzscV/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.2",
-    title: "Meeting Karim Iliya",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Karim Iliya",
-        image: "assets/img/impact/meeting-changemakers-vips/Karim Iliya.png",
-        description:
-          "It was a pleasure to meet the inspiring Karim Iliya during the Moonshot Platform Youth Leadership Camp. Karim Iliya is a Photographer, Filmmaker, Whale swimming guide, and upcoming Space Explorer based in Iceland and Hawaii. Karim is a co-founder of Kogia, and is also part of the dearMoon crew.",
-        link: "https://www.linkedin.com/posts/lilanofficial_change-movement-leadership-activity-7226379675936145408-AOWJ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1FIo3RnkSR9oRajJ3Zw4DFNcN6Pbu7U2W/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-meeting-changemakers-vips",
-    id: "10.1",
-    title: "Meeting Tatsuya Yoshioka (吉岡 達也, Yoshioka Tatsuya)",
+    id: "10.27",
+    title: "Meeting Dr. Sylvia Earl, Sally Ann Ranney and rest of the changemakers",
     slides: [
       {
         date: "November 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Tatsuya Yoshioka: A Leader in Peace and Conflict Resolution at the UN Science Summit",
-        image: "assets/img/impact/meeting-changemakers-vips/Tatsuya Yoshioka.png",
+        title: "Meeting Dr. Sylvia Earl, Sally Ann Ranney and rest of the changemakers",
+        image: "assets/img/impact/meeting-changemakers-vips/Sylvia Earl.png",
         description:
-          "It was a pleasure to meet Tatsuya Yoshioka (吉岡 達也, Yoshioka Tatsuya) at a Science Summit of the United Nations General Assembly. Yoshioka is a founding member...",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-peace-conflict-activity-7247903798730338305-qe9S?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1NnQZc47Gc2NgfN5Y6ytMcN0qlA7KW7yf/view?usp=drive_link",
+          "It was a pleasure connecting with diverse, impactful leaders during KINETIK's Islands Shaping the Future: Innovating for Resilience and Prosperity program...",
+        link: "https://www.linkedin.com/posts/lilanofficial_science-island-innovation-activity-7257823518543814656-wHuY?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/13Lr_nXaCWN60dhxhJ578_ePqqCXO37Dx/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.28",
+    title: "Meeting Prof. Francesco Cara, Professor at Politecnico di Milano",
+    slides: [
+      {
+        date: "November 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Prof. Francesco Cara, Professor at Politecnico di Milano",
+        image: "assets/img/impact/meeting-changemakers-vips/Francesco Cara.png",
+        description:
+          "I had the pleasure of meeting fellow Climate Reality Leader Francesco Cara, and we had a fascinating discussion about innovative approaches to effective climate action, sharing insights on making a tangible impact.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climateaction-ecologicaldesign-sustainablefuture-activity-7258819179397406720-0zcL?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1KJn2VJy4KOF9s5bM3U774bVinJQydrEv/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.29",
+    title:
+      "Meeting His Excellency Bob Rae, President of the United Nations Economic and Social Council (ECOSOC)",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Meeting His Excellency Bob Rae, President of the United Nations Economic and Social Council (ECOSOC)",
+        image: "assets/img/impact/meeting-changemakers-vips/Meeting His Excellency Bob Rae.png",
+        description:
+          "It was an honor to meet His Excellency Bob Rae, President of the United Nations Economic and Social Council (ECOSOC), during the Moonshot Platform Gathering in New York, USA...",
+        link: "https://www.linkedin.com/posts/lilanofficial_un-ecosoc-multilateralism-activity-7319063014161149952-L-4A/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1lMN81ETBS_CX1WmQClnKQZBclgXWxBMU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.30",
+    title: "Felipe Paullier Olivera, the UN Assistant Secretary-General for Youth Affairs",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Felipe Paullier Olivera, the UN Assistant Secretary-General for Youth Affairs",
+        image: "assets/img/impact/meeting-changemakers-vips/Felipe Paullier Olivera.png",
+        description:
+          "During the Moonshot Platform gathering in New York, I had the privilege of engaging in an inspiring conversation with Felipe Paullier Olivera, the UN Assistant Secretary-General for Youth Affairs...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-leadership-un-activity-7319708147021922304-wtRl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1pb1Vhirkw12A7zGzK9aKN9y6yy_1tOg-/view?usp=sharing",
       },
     ],
   },
 
-  {
-    filter: "filter-aerospace-outer-space",
-    id: "11.2",
-    title: 'MELTINGPOT session on the topic "Why Should Artists Fly to Space?"',
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Exploring New Frontiers: Why Artists Should Fly to Space",
-        image: "assets/img/impact/aerospace-outer-space/Exploring New Frontiers.png",
-        description:
-          'I had the opportunity to participate in an insightful plenary session on the topic "Why Should Artists Fly to Space?" at the MELTINGPOT by Colours of Ostrava, conducted by the Moonshot Platform...',
-        link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7224021339634876416-TRXB?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1-QMPb6DB_k64Ug25dUckP006mer66bPX/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-aerospace-outer-space",
-    id: "11.2",
-    title: "Participate in the Stage on Mars ",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "Stage On Mars",
-        source_link: "https://www.linkedin.com/company/stageonmars/posts/",
-        title: "Lilan Dayananda on Mars! 🙏🚀",
-        image: "assets/img/impact/aerospace-outer-space/Lilan Dayananda on Mars.png",
-        description: "",
-        link: "https://www.linkedin.com/posts/stageonmars_mars-stage-director-activity-7219597866028146692-79pI?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1ABa5ZZMxJtGS_eIQD77iLbzlYtFhShQ3/view?usp=drive_link",
-      },
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "An Unforgettable Journey to Mars with Stage On Mars",
-        image: "assets/img/impact/aerospace-outer-space/Journey to Mars.png",
-        description:
-          'I took a trip to Mars with Stage On Mars. There are no words that exist to fully encapsulate my experience; all I can say is, "The next time I’m in Prague, I know where to go!"',
-        link: "https://www.linkedin.com/posts/lilanofficial_mars-stage-director-activity-7219527072128323587-qDEQ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/17VOgiR8VB6qGnT1lxzGE3l2oT8kH-6ml/view?usp=drive_link",
-      },
-    ],
-  },
   {
     filter: "filter-aerospace-outer-space",
     id: "11.1",
@@ -7287,6 +7286,52 @@ const impacts = [
           "Lilan Dayananda, Managing Director and Chief Executive Officer of Elzian Agro, outlined the company’s ambitious vision to enter the Space Agriculture Sector during the 67th Session of the Committee on the Peaceful Uses of Outer Space (COPUOS) in Vienna, Austria.",
         link: "https://newsasia.lk/elzian-agro-explores-future-in-space-agriculture-at-copuos-session/",
         backup_image: "https://drive.google.com/file/d/1UixvR5qL_kZNjPiEJJduIRvKlf7Aq0NA/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-aerospace-outer-space",
+    id: "11.2",
+    title: "Participate in the Stage on Mars ",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "Stage On Mars",
+        source_link: "https://www.linkedin.com/company/stageonmars/posts/",
+        title: "Lilan Dayananda on Mars! 🙏🚀",
+        image: "assets/img/impact/aerospace-outer-space/Lilan Dayananda on Mars.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/stageonmars_mars-stage-director-activity-7219597866028146692-79pI?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ABa5ZZMxJtGS_eIQD77iLbzlYtFhShQ3/view?usp=drive_link",
+      },
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "An Unforgettable Journey to Mars with Stage On Mars",
+        image: "assets/img/impact/aerospace-outer-space/Journey to Mars.png",
+        description:
+          'I took a trip to Mars with Stage On Mars. There are no words that exist to fully encapsulate my experience; all I can say is, "The next time I’m in Prague, I know where to go!"',
+        link: "https://www.linkedin.com/posts/lilanofficial_mars-stage-director-activity-7219527072128323587-qDEQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/17VOgiR8VB6qGnT1lxzGE3l2oT8kH-6ml/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-aerospace-outer-space",
+    id: "11.3",
+    title: 'MELTINGPOT session on the topic "Why Should Artists Fly to Space?"',
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring New Frontiers: Why Artists Should Fly to Space",
+        image: "assets/img/impact/aerospace-outer-space/Exploring New Frontiers.png",
+        description:
+          'I had the opportunity to participate in an insightful plenary session on the topic "Why Should Artists Fly to Space?" at the MELTINGPOT by Colours of Ostrava, conducted by the Moonshot Platform...',
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7224021339634876416-TRXB?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1-QMPb6DB_k64Ug25dUckP006mer66bPX/view?usp=drive_link",
       },
     ],
   },
