@@ -2469,6 +2469,249 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-innovation-social",
+    id: "3.59",
+    title: "Featuring on Founders Lair",
+    slides: [
+      {
+        date: "November 2024",
+        source_name: "Founders Lair",
+        source_link: "https://www.linkedin.com/company/founderslair/posts/",
+        title: "🚀 Top 50 Global #AgriTech Startups: Part 5/5 🌱",
+        image: "assets/img/impact/innovation-social/Top 50 Global AgriTech Startups.png",
+        description:
+          "In the final part of our #StartupHighlight series, we’re excited to showcase the last 10 incredible startups and their founders who are redefining agriculture with cutting-edge technologies for a more sustainable world...",
+        link: "https://www.linkedin.com/posts/founderslair_agritech-startuphighlight-tanzania-activity-7255488308481339392-9ubt/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1QFZOaTfeHSZS15X1lIH5kmF0k-GM_6ie/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.60",
+    title: "Representing Youth Ecopreneurs at UNCCD COP16",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Introducing YECO at COP16!",
+        image: "assets/img/impact/innovation-social/Introducing YECO at COP16!.png",
+        description:
+          "🌍 Introducing YECO at COP16! 12 passionate Youth Ecopreneurs are stepping onto the global stage at COP16 to lead conversations on land and drought resilience, showcasing their innovative land restoration solutions...",
+        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7269606299401609216-UERC/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/104n8qJNV52Q3IYTQzvz6iM-amvMMzGjO/view?usp=drive_link",
+      },
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Sustainability: Insights and Innovation from COP16 Riyadh",
+        image: "assets/img/impact/innovation-social/Insights and Innovation from COP16 Riyadh.png",
+        description:
+          "Yesterday was a whirlwind of impactful connections and learning at COP16 in Riyadh, Saudi Arabia. 🌍✨ I had the privilege of engaging with visionary changemakers and participating in two incredibly insightful sessions...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-innovation-activity-7272495805024890881-wgN2/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1f_ewN68u31epdhvkfwzoXb9yeyxvxsd1/view?usp=drive_link",
+      },
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Fostering Collaboration for Global Land Restoration at COP16 Riyadh",
+        image: "assets/img/impact/innovation-social/Global Land Restoration at COP16 Riyadh.png",
+        description:
+          'I had the incredible opportunity to participate in the Science & Tech Session under the theme "Minds at the Heart of Land Regeneration" at the Business Lounge during COP16 in Riyadh, Saudi Arabia. I was also privileged to meet Dr. Muralee Thummarukudy, Director of the G20 Global Land Initiative, at the Restoration Pavilion.',
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-landregeneration-sustainability-activity-7271963527626518529-wIFY/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/16WynkQTedPb5hmipotlyhnO5fz7mjGYR/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.61",
+    title: "Addressing the Innovation Stage at the Restoration Pavilion in UNCCD COP16",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Showcasing ELZIAN AGRO: Driving Innovation for Sustainable Agriculture at COP16",
+        image:
+          "assets/img/impact/innovation-social/Driving Innovation for Sustainable Agriculture at COP16.png",
+        description:
+          "Excited to announce that I’ll be presenting ELZIAN AGRO today at the Innovation Stage at 2:00 PM! 🌿🚀 If you’re attending the UNCCD COP16, I’d love to connect. Join me at the Restoration Pavilion...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-innovation-activity-7272498843831705600-SqRn/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1uyJGH4JblkOKDnkdehcZgBwQ0tkeAaC5/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.62",
+    title: "Addressing COP16 at the Science & Technology hosted at the Business4Land Lounge",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Kicking Off COP16: Showcasing ELZIAN AGRO and Championing Innovation for Land Regeneration",
+        image: "assets/img/impact/innovation-social/Kicking Off COP16.png",
+        description:
+          "Excited to share my ELZIAN AGRO experience kicking off COP16Riyadh at the Science & Technology Session under the theme Minds at the Heart of Land Regeneration, hosted at the Business4Land Lounge...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-landregeneration-activity-7274494785682350080-jbK8/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1fc-3eMD4uMaBP3_PUUCip9zcOcY5b9o9/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.63",
+    title:
+      "Addressing COP16 at the Session Regarding Business Perspectives on Access to Finance for Startups",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The official Restoration Pavilion COP16 Report",
+        image: "assets/img/impact/innovation-social/Restoration Pavilion COP16 Report.png",
+        description:
+          "Here is the official Restoration Pavilion COP16 Report. It was an honor to participate in an inspiring panel of extraordinary ecopreneurs from the Youth Ecopreneur Programme (YECO), run by the G20 Global Land Initiative and the International Trade Centre...",
+        link: "https://www.linkedin.com/posts/lilanofficial_g20-global-land-initiative-cop16-report-activity-7313159024831516675-mQTY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1qbMsiOT_1u5KwWhzOp9trjDu31tQZx6T/view?usp=drive_link",
+      },
+      {
+        date: "December 2024",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "YECO Entrepreneurs Spotlight Challenges and Opportunities at COP16",
+        image: "assets/img/impact/innovation-social/YECO Entrepreneurs Spotlight.png",
+        description:
+          "In a powerful session at hashtag#COP16Riyadh on ‘Financing the Future of Restoration: Business Perspectives on Access to Finance for start ups’, participants from the 2024 Ye! Youth Ecopreneur Programme (YECO) shared their journeys navigating the financial landscape for land-focused startups.",
+        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7274388661834600448-Ggp6/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/13ip5lTcotET1Cv75ioEAfQGGIRqklOG8/view?usp=drive_link",
+      },
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Ecopreneurs: Financing the Future of Restoration at COP16",
+        image: "assets/img/impact/innovation-social/Financing the Future of Restoration at COP16.png",
+        description:
+          "It was an honor to participate in an inspiring panel of extraordinary ecopreneurs from the Youth Ecopreneur Programme (YECO), run by the G20 Global Land Initiative and the International Trade Centre...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-startup-activity-7276478265219788801-T04g/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1RcvGUgCrKJJCTuhiaoDix37KqFBoBiWR/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.64",
+    title:
+      "Showcasing Elzian-Agro-Aqua Innovation at Asia-Pacific Forum on Sustainable Development (APFSD) 2025",
+    slides: [
+      {
+        date: "March 24, 2025",
+        source_name: "News Asia",
+        source_link: "https://newsasia.lk/",
+        title: "Lilan Dayananda Showcases Elzian-Agro-Aqua Innovation at APFSD 2025",
+        image: "assets/img/impact/innovation-social/Lilan Dayananda Showcases Elzian Agro Aqua.jpg",
+        description:
+          "The 2025 Asia-Pacific Forum on Sustainable Development (APFSD) concluded last month, highlighting the pivotal role of youth in driving sustainable development across the region. Preceding the forum, the Youth Forum 2025 brought together...",
+        link: "https://newsasia.lk/lilan-dayananda-showcases-elzian-agro-aqua-innovation-at-apfsd-2025/",
+        backup_image: "https://drive.google.com/file/d/1tpBz1s91TnCzhtMH6masxPXKIlrPo9so/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.65",
+    title: "Visiting the World’s Largest Innovation Campus (T-Hub)",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting the World’s Largest Innovation Campus (T-Hub)",
+        image: "assets/img/impact/innovation-social/Largest Innovation Campus.png",
+        description:
+          "It was a great experience visiting the World’s Largest Innovation Campus (T-Hub) located in Hyderabad, India. T-Hub is a premier innovation hub and ecosystem enabler that empowers startups, corporations, and other stakeholders to foster innovation and drive economic growth...",
+        link: "https://www.linkedin.com/posts/lilanofficial_digital-technology-democracy-activity-7314937162959896577-cXSr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1XUeAXPyqqZGw16Cr9vfERX1-nopy4881/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.66",
+    title: "Visiting India’s Largest Prototyping Centre (T-Works)",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting India’s Largest Prototyping Centre (T-Works)",
+        image: "assets/img/impact/innovation-social/Largest Prototyping Centre.png",
+        description:
+          "The World Summit Awards (WSA) Global Congress was nothing short of inspiring! The fourth day was hosted at India’s largest prototyping centre (T-Works), the day was packed with powerful sessions and meaningful conversations around innovation, impact, and inclusivity. From enabling impact entrepreneurship to building future-ready ventures, here are some key highlights:",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-impactentrepreneurship-socialinnovation-activity-7316739102857433089-j_zX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1TS-5tcrb9OZcnGOztil0Fn_BTAnR8uc8/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.67",
+    title: "Representing Elzian Agro at ChangeNow",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.instagram.com/g20landinitiative/",
+        title:
+          "YECO Ecopreneurs Take the Stage: Showcasing Bold Solutions for a Climate-Resilient Future at COP16",
+        image: "assets/img/impact/innovation-social/YECO Ecopreneurs Take the Stage.png",
+        description:
+          "Four more YECO entrepreneurs are set to showcase their powerful, planet-positive solutions at the world’s leading event for sustainability and impact. 🌱💡",
+        link: "https://www.instagram.com/p/DIjMHfcJ_Gb/?igsh=MWQxcXN4OXFmZDUydw==",
+        backup_image: "https://drive.google.com/file/d/1cx9_DI8WoGhkfpZ4cjr9BqFXFXov_YBP/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "YECO Stars Shine Bright: Youth Ecopreneurs Set to Lead at ChangeNOW 2025",
+        image: "assets/img/impact/innovation-social/YECO Stars Shine Bright.png",
+        description:
+          "🚀 They’re heading to ChangeNOW 2025 with ITC Ye! Community and G20 Global Land Initiative...",
+        link: "https://www.linkedin.com/posts/ye-community_youth-ecopreneurs-at-changenow-activity-7318654249721098240-rGRs?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1rgKhE0sfuzOdXUPuuj80mOeF9t8LvXIh/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.linkedin.com/company/g20-global-land-initiative/posts/",
+        title: "YECO Stars Shine Bright: Youth Ecopreneurs Set to Lead at ChangeNOW 2025",
+        image: "assets/img/impact/innovation-social/YECO Stars Shine Bright-1.png",
+        description:
+          "🚀 They’re heading to ChangeNOW 2025 with ITC Ye! Community and G20 Global Land Initiative...",
+        link: "https://www.linkedin.com/posts/g20-global-land-initiative_yecos-at-change-now-2025-part-2-activity-7318634350273568769-tmEh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Q3XqXsoEcOobpzzud16Zi73OzYwwUNXv/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "ELZIAN AGRO at ChangeNOW: Showcasing Purpose-Driven Innovation on a Global Stage",
+        image: "assets/img/impact/innovation-social/ELZIAN AGRO at ChangeNOW.png",
+        description:
+          "Our CEO, Lilan Dayananda is representing ELZIAN AGRO at ChangeNOW in Paris, France. ChangeNOW stands as a global stage for entrepreneurship dedicated to driving positive environmental and social impact...",
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:7318737327529291776",
+        backup_image: "https://drive.google.com/file/d/1etNCgxgNTBKPSgBplaWqJdPf3XA31gz3/view?usp=sharing",
+      },
+    ],
+  },
 
   {
     filter: "filter-food-agriculture",
@@ -3097,25 +3340,6 @@ const impacts = [
 
   {
     filter: "filter-renewable-energy",
-    id: "5.2",
-    title:
-      "International Renewable Energy Agency (IRENA) NewGen Startup Accelerator Rising Star for Sustainable Future",
-    slides: [
-      {
-        date: "January 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "The conclusion of COP28 UAE",
-        image: "assets/img/impact/renewable-energy/COP28-UAE.png",
-        description:
-          "The conclusion of COP28 UAE in the UAE stands as a timely reminder of the formidable climate challenges ahead, ones that have already touched us all. Amidst this awareness, however, lie significant victories that merit recognition.",
-        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-cop28-activity-7142878878489821184-MPbl/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/191Im2rfNCIOVhmSANk994ZGw2qTPidGh/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-renewable-energy",
     id: "5.1",
     title: "International Renewable Energy Agency (IRENA) The #NewGen Accelerator",
     slides: [
@@ -3141,6 +3365,25 @@ const impacts = [
           "The NewGen Accelerator hosts 22 clean-tech and renewable energy start-ups from various corners of the World, marking the beginning of its first cohort. ",
         link: "https://www.linkedin.com/posts/irena_newgen-newgen-newgen-activity-7107685006101090304-bUYl?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1IA64Co45QiLNgQv6q63si2bjCO-g8Bqa/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
+    id: "5.2",
+    title:
+      "International Renewable Energy Agency (IRENA) NewGen Startup Accelerator Rising Star for Sustainable Future",
+    slides: [
+      {
+        date: "January 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The conclusion of COP28 UAE",
+        image: "assets/img/impact/renewable-energy/COP28-UAE.png",
+        description:
+          "The conclusion of COP28 UAE in the UAE stands as a timely reminder of the formidable climate challenges ahead, ones that have already touched us all. Amidst this awareness, however, lie significant victories that merit recognition.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-cop28-activity-7142878878489821184-MPbl/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/191Im2rfNCIOVhmSANk994ZGw2qTPidGh/view?usp=drive_link",
       },
     ],
   },
