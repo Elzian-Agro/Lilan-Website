@@ -2588,7 +2588,7 @@ const impacts = [
         title: "YECO Entrepreneurs Spotlight Challenges and Opportunities at COP16",
         image: "assets/img/impact/innovation-social/YECO Entrepreneurs Spotlight.png",
         description:
-          "In a powerful session at hashtag#COP16Riyadh on ‘Financing the Future of Restoration: Business Perspectives on Access to Finance for start ups’, participants from the 2024 Ye! Youth Ecopreneur Programme (YECO) shared their journeys navigating the financial landscape for land-focused startups.",
+          "In a powerful session at #COP16Riyadh on ‘Financing the Future of Restoration: Business Perspectives on Access to Finance for start ups’, participants from the 2024 Ye! Youth Ecopreneur Programme (YECO) shared their journeys navigating the financial landscape for land-focused startups.",
         link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7274388661834600448-Ggp6/?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/13ip5lTcotET1Cv75ioEAfQGGIRqklOG8/view?usp=drive_link",
       },
@@ -2715,133 +2715,452 @@ const impacts = [
 
   {
     filter: "filter-food-agriculture",
-    id: "4.27",
-    title: "Featuring on the MOSAICUE Magazine: Nutrition & Food Security Edition",
+    id: "4.1",
+    title: "Addressing the FAO Global Conference on Sustainable Livestock Transformation",
     slides: [
       {
-        date: "October 2024",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "Presenting MOSAICUE Magazine to Dr. Chelsea Clinton: A Call to Action on Climate Change, Nutrition, and Healthcare",
-        image: "assets/img/impact/food-agriculture-forestry/Featuring on the MOSAICUE Magazine.png",
+          "Youth Perspectives in Action: Insights from the FAO Global Conference on Sustainable Livestock Transformation",
+        image: "assets/img/impact/food-agriculture-forestry/youth-perspectives.png",
         description:
-          "It was an incredible honor to present MOSAICUE Magazine to Dr. Chelsea Clinton during the Clinton Global Initiative Annual Meeting...",
-        link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7251063029629366272-Id9d?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1WC62GMcZ-j_UbaGEM93yLTaNULtSEznv/view?usp=drive_link",
+          "It was such a pleasure to contribute to this, representing youth perspectives. The release of the Proceedings from the FAO Global Conference on Sustainable Livestock Transformation! 🌿🐄🐓🐖🐃🐪🐑🐐🦆🐫🦙🐣🐝🌾🌿 This in-depth document provides a thorough overview of the conference, highlights from the global youth dialogue, and showcases inspiring success stories in sustainable livestock practices. It's a must-read for anyone committed to advancing sustainable livestock management.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-youth-activity-7226435931652734976-K7cT/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1mEumpPMUWAlOqe3HkPIi9cpaMfWH5XhS/view?usp=drive_link",
       },
-    ],
-  },
-  {
-    filter: "filter-food-agriculture",
-    id: "4.26",
-    title: "Participating in the Food Forum during the 79th United Nations General Assembly",
-    slides: [
       {
-        date: "October 2024",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Addressing Global Food Security: Insights from the Food Forum at the UN General Assembly",
-        image: "assets/img/impact/food-agriculture-forestry/Global Food Security.png",
+        title:
+          "Empowering Youth Voices: Advocating for Sustainable Livestock Transformation at FAO Headquarters",
+        image: "assets/img/impact/food-agriculture-forestry/empowering-youth-voices.png",
         description:
-          "I had the pleasure of attending the Food Forum at Rockefeller Plaza in New York, held during the 79th United Nations General Assembly. The global food security crisis is intensifying due to a confluence...",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-fao-activity-7247668774630252545-oG3x?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1c2bLejDXWTVuRna6xSB3oMgbZrxQluD0/view?usp=drive_link",
+          "I am deeply honored to have received an invitation to participate in the inaugural Global Youth Dialogue on Sustainable Livestock Transformation. This momentous event took place in parallel with the FAO Global Conference on Sustainable Livestock Transformation at the illustrious FAO headquarters of the United Nations in Rome, Italy. I am privileged to have been given the platform to advocate for the voices of youth and to share innovative ideas on this critical topic.",
+        link: "https://www.linkedin.com/posts/lilanofficial_i-am-deeply-honored-to-have-received-an-invitation-activity-7113953023562846208-i0i4/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1v8QLFo6nlVV9NIrBG_yHoDjubS9q9do-/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-food-agriculture",
-    id: "4.25",
-    title: "Participating in the Regenerative Agriculture Networking",
+    id: "4.2",
+    title: "Addressing the FAO Global Conference on Sustainable Agricultural Mechanization (GAMC)",
     slides: [
       {
-        date: "October 2024",
+        date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Reflections from the Regenerative Agriculture Networking Event in New York",
-        image: "assets/img/impact/food-agriculture-forestry/Regenerative Agriculture Networking.png",
+        title:
+          "Championing Innovation: Participation in the Inaugural Global Conference on Sustainable Agricultural Mechanization",
+        image: "assets/img/impact/food-agriculture-forestry/championing-innovation.png",
         description:
-          "I had the privilege of attending the Regenerative Agriculture Networking event in New York, USA, thanks to the kind invitation from my CGI mentor, Hugh Locke. During the gathering, we explored the current challenges and opportunities within regenerative agriculture from a global perspective.",
-        link: "https://www.linkedin.com/posts/lilanofficial_regenerativeagriculture-sustainability-socialimpact-activity-7243885798142418944-Q1Wg?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/17N9BzcOQAAcuxmZ29wDAuUKorr0Dd2zj/view?usp=drive_link",
+          "I am deeply honored to have received an invitation to participate in the first-ever Global Conference on Sustainable Agricultural Mechanization (GAMC), with the theme “Efficiency, Inclusiveness and Resilience” at the FAO headquarters of the United Nations in Rome, Italy.",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-agriculture-mechanization-activity-7114649865845964800-shBn?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1MIdGVhsE6RKAxv62uz3sjOG6AJgs5N32/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-food-agriculture",
-    id: "4.24",
-    title: "Exploring Future in Space Agriculture at COPUOS Session",
+    id: "4.3",
+    title: "Food and Agriculture Organization (FAO) Committee on World Food Security",
     slides: [
       {
-        date: "Aug 16, 2024",
-        source_name: "Lanka Talks",
-        source_link: "https://lankatalks.com/",
-        title: "Elzian Agro Explores Future in Space Agriculture at COPUOS Session",
-        image: "assets/img/impact/food-agriculture-forestry/lankatalks-agro.png",
-        description:
-          "Lilan Dayananda, Managing Director and Chief Executive Officer of Elzian Agro, outlined the company’s ambitious vision to enter the Space Agriculture Sector during the 67th Session of the Committee on the Peaceful Uses of Outer Space (COPUOS) in Vienna, Austria. The session, held in 2024, continues to address space-related legal issues, promote sustainable space exploration, and enhance global collaboration in space science and technology. COPUOS plays a crucial role in developing international space law and fostering dialogue among nations on space governance.",
-        link: "https://lankatalks.com/post/elzian-agro-explores-future-in-space-agriculture-at-copuos-session",
-        backup_image: "https://drive.google.com/file/d/1sJtJwosvA7EDxE9-FL0jgjIK2u7PSYDq/view?usp=drive_link",
+        date: "February 2021",
+        source_name: "COMMITTEE ON WORLD FOOD SECURITY",
+        source_link: "",
+        title: "Food and Agriculture Organization (FAO) Committee on World Food Security",
+        image: "assets/img/impact/food-agriculture-forestry/fao-cb3426t.png",
+        description: "",
+        link: "https://www.fao.org/3/cb3426t/cb3426t.pdf",
+        backup_image: "https://drive.google.com/file/d/1FRjCoiGUWcnJdpTN8nFj7x5RNMXAVcXS/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-food-agriculture",
-    id: "4.23",
-    title: "Exploring Agricultural Innovation at National Museum of Agriculture in Ostrava",
+    id: "4.4",
+    title:
+      "The Healthy and Environment-friendly Youth (HEY) Global Parliament - Minister of Agriculture and Food Security",
     slides: [
       {
-        date: "Aug 17, 2024",
+        date: "November 2022",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Leading Climate Action: Lilan Dayananda Appointed Minister of Agriculture and Food Security at Global HEY Parliament",
+        image: "assets/img/impact/food-agriculture-forestry/leading-climate-action.png",
+        description:
+          "The Healthy and Environment-friendly Youth (HEY) Global Parliament - Minister of Agriculture and Food Security – Lilan Dayananda.",
+        link: "https://www.linkedin.com/posts/lilanofficial_development-food-agriculture-activity-6972726955674673152-xskB?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1cybUx4mo83iNa9W7pZUezlU3k2Wj9VcD/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.5",
+    title: "The Sustainable Agriculture & Agricultural Technology Summit Panelist",
+    slides: [
+      {
+        date: "September 1, 2022",
+        source_name: "Logy Talks",
+        source_link: "https://www.logytalks.com/",
+        title: "Sustainable Agriculture & Agricultural Technology Summit",
+        image: "assets/img/impact/food-agriculture-forestry/logytalks.png",
+        description:
+          "As a part of our monthly summits, join us this upcoming September 1st for the Sustainable Agriculture and Agricultural Technology Summit to address the challenges, future directions, latest updates, insights, perspectives, and the best practices for sustainable agriculture! The Sustainable Agriculture and Agricultural Technology Summit will gather key industry players around the world to discuss current issues and emerging opportunities through the lens of science and technology.",
+        link: "https://www.logytalks.com/summit/the-sustainable-agriculture-and-agricultural-technology-summit",
+        backup_image: "https://drive.google.com/file/d/1P0pN0D8O-OhuVhsDQHyyodmNjj0IGIn5/view?usp=drive_link",
+      },
+      {
+        date: "November 2022",
+        source_name: "Logy Talks",
+        source_link: "https://www.linkedin.com/company/logytalks/posts/",
+        title: "Welcome our guest speaker Lilan Dayananda Co-founder & CEO @ ELZIAN AGRO",
+        image: "assets/img/impact/food-agriculture-forestry/logytalks-linkedin.png",
+        description:
+          "We are glad to welcome our guest speaker Lilan Dayananda Co-founder & CEO @ELZIANAGRO, and Commonwealth Youth Awardee for Excellence in Development Work 2022, at our upcoming summit “The Sustainable Agriculture and Agricultural Technology Summit”, his session’s topic will be about the “Impact of Analog Forestry and Precision Agriculture for Sustainable Agriculture”.",
+        link: "https://www.linkedin.com/posts/logytalks_logytalks-summit-webinar-activity-6965351571513581569-22ic/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1raICHgvai27vxRSLAlPZYDMg6wjHQt7B/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.6",
+    title:
+      "The Global Youth Dialogue on Sustainable Livestock Transformation and the Global Conference on Sustainable Agricultural Mechanization",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "The Global Youth Dialogue on Sustainable Livestock Transformation and the Global Conference on Sustainable Agricultural Mechanization were insightful at the FAO headquarters in Rome (Italy).",
+        image: "assets/img/impact/food-agriculture-forestry/global-youth-dialogue.png",
+        description: "Looking forward to the World Food Forum...",
+        link: "https://www.linkedin.com/posts/lilanofficial_the-global-youth-dialogue-on-sustainable-activity-7115979716955668480-_3MU?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/18xJ_M9RDubSO2Ci0S-Y82GOLGbdQSB7z/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.8",
+    title:
+      "Lilan's initiative (ELZIAN AGRO) on Food & Agriculture Organization (FAO) Digital Village Initiative Knowledge Exchange Platform",
+    slides: [
+      {
+        date: "",
+        source_name: "Food and Agriculture Organization of the United Nations",
+        source_link: "https://dvi-ke.fao.org/index.php",
+        title: "Elzian-Agro-Mate Farmland Automation System",
+        image: "assets/img/impact/food-agriculture-forestry/fao-agro-mate.png",
+        description:
+          "Elzian-Agro-Mate is an automation system with many sensors, including hardware and software, that serves as a supervisor managing irrigation and other associated agriculture operations...",
+        link: "https://dvi-ke.fao.org/digital_solutions_details.php?id=19",
+        backup_image: "https://drive.google.com/file/d/1HUOFqk3AglJF36iDi8ErBIdNYmNZYL0O/view?usp=sharing",
+      },
+      {
+        date: "",
+        source_name: "Food and Agriculture Organization of the United Nations",
+        source_link: "https://dvi-ke.fao.org/index.php",
+        title: "Elzian-Agro-Earth Restoration Lifeforce System",
+        image: "assets/img/impact/food-agriculture-forestry/lifeforce-system.png",
+        description:
+          "Driven by photosynthesis, Contracted Primary Ecosystem Services (C-PES) are the basis for recording and regulating living wealth generation of “tree-farming” in re-establishing traditional agroecological agrarian systems...",
+        link: "https://dvi-ke.fao.org/digital_solutions_details.php?id=20",
+        backup_image: "https://drive.google.com/file/d/10LOkneGhQ5w-GgWOtBlXK6J9WSt992be/view?usp=sharing",
+      },
+      {
+        date: "",
+        source_name: "Food and Agriculture Organization of the United Nations",
+        source_link: "https://dvi-ke.fao.org/index.php",
+        title: "Agro Eye Farmland Monitoring System",
+        image: "assets/img/impact/food-agriculture-forestry/monitoring-system.png",
+        description:
+          "Agro Eye Farmland Monitoring System is a high-precision outdoor environmental weather and soil-monitoring system used mainly to monitor industrial and agricultural meteorological environments...",
+        link: "https://dvi-ke.fao.org/digital_solutions_details.php?id=18",
+        backup_image: "https://drive.google.com/file/d/1cBugHF2BEFJWHExYEp9Ss5ocQIxjE044/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.9",
+    title: "Supporting World Bank Group to initiate Precision Agriculture Projects",
+    slides: [
+      {
+        date: "April 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Productive Discussion on Sri Lankan Agriculture with Parmesh Shah",
+        image: "assets/img/impact/food-agriculture-forestry/discussion-with-parmesh.png",
+        description:
+          "I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions in the context of Sri Lankan agriculture. I would like to extend my appreciation to Sunil Madan, MPA for arranging the meeting.",
+        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1j6RAOp70Rp41I0IqHrJwN30OnYZ9c66L/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.10",
+    title: "Addressing the Commonwealth and the year of the Youth Project",
+    slides: [
+      {
+        date: "April 2024",
+        source_name: "Joseph A.",
+        source_link: "https://www.linkedin.com/in/joseph-a-662016285/",
+        title: "Officially kick off our partnership with The Commonwealth and the year of the youth project",
+        image: "assets/img/impact/food-agriculture-forestry/kick-off-partnership.png",
+        description:
+          "We’ve worked for months to put together a world class line up designed to inspire, equip, and unleash young people to participate in the world’s most important industries. ",
+        link: "https://www.linkedin.com/posts/joseph-a-662016285_agriculture-sustainability-digitalagriculture-activity-7176184384708849664-MEUd?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ALGt614jvf50Vp6klIpIylMPVQqieR07/view?usp=drive_link",
+      },
+      {
+        date: "April 2024",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "Nurturing Agricultures for a Sustainable Future",
+        image: "assets/img/impact/food-agriculture-forestry/nurturing-agricultures.png",
+        description:
+          "Our Managing Director Lilan Dayananda will deliver a speech today at the interactive Agrivine webinar on unleashing youth potential in Agriculture.",
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:7176551534116106241",
+        backup_image: "https://drive.google.com/file/d/12GHH49xR08iPq2n-Z0O_DKnLLgFHmmr1/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.10",
+    title:
+      "Facilitating an event regarding climate-smart, data-driven precision agriculture for IDB at the Food Harvest Expo",
+    slides: [
+      {
+        date: "April 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "The reality check on Sri Lankan agriculture intersects with the myriad outcomes of international trade",
+        image: "assets/img/impact/food-agriculture-forestry/agriculture-intersects.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-food-tech-activity-7180118115521904640-E1Aq?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Ku1DiXvB2khk8wGI0xrJRv3C97ubqakr/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.11",
+    title:
+      "TechRound has recognized ELZIAN AGRO (founded by Lilan) as one of the top 10 Sri Lankan startups that are worth keeping an eye on",
+    slides: [
+      {
+        date: "March 20, 2024",
+        source_name: "Tech Round",
+        source_link: "https://techround.co.uk/",
+        title: "10 Startups In Sri Lanka To Watch",
+        image: "assets/img/impact/food-agriculture-forestry/techround-startup.png",
+        description:
+          "Sri Lanka, known for its incredible culture, amazing nature and kind people is also home to hundreds of startups. Here, we take a closer look at ten startups in Sri Lanka that are worth keeping an eye on.",
+        link: "https://techround.co.uk/startups/10-startups-in-sri-lanka-to-watch/",
+        backup_image: "https://drive.google.com/file/d/1K9xMj6kzPe-s5wu81qczI9Jz6IDppcbR/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.12",
+    title: "Addressing the Pitch2Fork event by the U.S. Soybean Export Council (USSEC)",
+    slides: [
+      {
+        date: "June 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Attend the Pitch2Fork Event in Dubai",
+        image: "assets/img/impact/food-agriculture-forestry/Pitch2Fork.png",
+        description:
+          "It was a pleasure to attend the recent Pitch2Fork event in Dubai, UAE, where I had the opportunity to meet distinguished individuals such as Henry Gordon-Smith, CEO of Agritecture; Khalid Roumieh, CEO of Tech.Tracer ; and Roberto Vitón, Managing Director of Valoral Advisors.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-protein-activity-7194743457200947200-pgd1?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/14rgNraICywiJiF93kRKFZaHcxxJICuG4/view?usp=drive_link",
+      },
+      {
+        date: "June 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Pitch2Fork event in Dubai",
+        image: "assets/img/impact/food-agriculture-forestry/Pitch2Fork-dubai.png",
+        description:
+          "The Pitch2Fork event in Dubai culminated in resounding success, featuring distinguished speakers who shared invaluable insights.",
+        link: "https://www.linkedin.com/posts/lilanofficial_pitch2fork-food-agriculture-activity-7193273074526359553-VvV2?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/17wsAFY4H1Eh2DZYRYWx6cI6no4ymeqMG/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.12",
+    title:
+      "Fostering Food and Agriculture Innovation with AHK Sri Lanka, Part of the German Chamber Network Supported by BMWK",
+    slides: [
+      {
+        date: "June 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Meeting with Marie Antonia von Schönburg, Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka",
+        image: "assets/img/impact/food-agriculture-forestry/meet-marie.png",
+        description:
+          "It was a pleasure to have had the opportunity to meet Marie Antonia von Schönburg, Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka...",
+        link: "https://www.linkedin.com/posts/lilanofficial_delegation-germany-srilanka-activity-7194530994920562689-Y1xs?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1I0ARj8XIGEo-WsPRTxUq23SCv-h8XkMo/view?usp=drive_link",
+      },
+      {
+        date: "June 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Anuga Partners Forum: Driving Global Collaboration and Innovation for a Sustainable and Fair Food System",
+        image: "assets/img/impact/food-agriculture-forestry/food-growing.png",
+        description:
+          "In a time when the world of nutrition is becoming increasingly global, and the importance of sustainability and healthy food is growing, it is crucial that we connect with one another to collectively find solutions. The latest Anuga Partners Forum hosted by Koelnmesse GmbH focused on the Anuga Food Tech India.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7194982140239888384-Yr2U?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1uYLMD8DkSy8_7RUNyJEpKSrQnHnDbjvn/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.13",
+    title: "Lilan's social venture (Elzian Agro) as the finals of Food Tech Congress Challengers 2024",
+    slides: [
+      {
+        date: "June 2024",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "We are the Finalissts of Foood Tech Challengers 2024",
+        image: "assets/img/impact/food-agriculture-forestry/food-challengers.png",
+        description:
+          "Big news! We're rocketing to the finals of Food Tech Challengers 2024! 🚀 Mark your calendars for May 28-29, 2024 (Warsaw, Poland) and come support us at the event as we will pitch on stage!",
+        link: "https://www.linkedin.com/posts/elzianagro_ftc2024-food-agriculture-activity-7194706426177466368-idki?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1p3_JAjn0N04IRmdv5QTofTw58vIx4nCS/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.14",
+    title:
+      "Anuga Partners Forum: Strengthening Elzian Agro's Partnership with EDB, Focused on Anuga Food Tech India",
+    slides: [
+      {
+        date: "June 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Anuga Partners Forum",
+        image: "assets/img/impact/food-agriculture-forestry/anuga-partners-forum.png",
+        description:
+          "During the latest Anuga Partners Forum, hosted by Koelnmesse GmbH and focused on Anuga Food Tech India, I had the pleasure of meeting Dr. Kingsley Bernard, Chairman and Chief Executive Officer of the Export Development Board (EDB). I took the opportunity to express my appreciation for his continuous support towards ELZIAN AGRO.",
+        link: "https://www.linkedin.com/posts/lilanofficial_export-food-agriculture-activity-7197981542634176512-djp_?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Rw1utVcczQEO1b8eAZToFZh1pVsWCZyh/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.15",
+    title: "Lilan's initiative (ELZIAN AGRO) Named Finalist in World Bank Youth Innovation Challenge",
+    slides: [
+      {
+        date: "May 24, 2024",
         source_name: "Profit Magazine",
         source_link: "https://profitmagazine.lk/",
-        title:
-          "Lilan Dayananda Explores Agricultural Innovation at National Museum of Agriculture in Ostrava",
-        image: "assets/img/impact/food-agriculture-forestry/profitmagazine-museum.png",
+        title: "Elzian Agro Named Finalist in World Bank Youth Innovation Challenge",
+        image: "assets/img/impact/food-agriculture-forestry/innovation-challenge.png",
         description:
-          "Lilan Dayananda, the Managing Director and CEO of Elzian Agro, visited the National Museum of Agriculture in Ostrava, Czech Republic during the Moonshot Young Leaders Camp. Lilan was one of the youth social entrepreneurs who were selected for the Leadership Camp. This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges.",
-        link: "https://profitmagazine.lk/lilan-dayananda-explores-agricultural-innovation-at-national-museum-of-agriculture-in-ostrava/",
-        backup_image: "https://drive.google.com/file/d/1_EYNqNXmJX5cQOwzGwq3zxb1eVsilzsE/view?usp=drive_link",
+          "Elzian Agro, a precision agriculture company based in Sri Lanka, was selected as a finalist in the World Bank Youth Innovation Challenge under the category of water solutions for a new climate reality. Elzian Agro was selected among the top 40 finalists in the World Bank Youth Innovation Challenge. Their excellent innovation was chosen from over 1,600 registrations from 95 countries and more than 300 outstanding applications from 63 countries.",
+        link: "https://profitmagazine.lk/elzian-agro-named-finalist-in-world-bank-youth-innovation-challenge/",
+        backup_image: "https://drive.google.com/file/d/1Ba9-oJwM_a6llQqt1FyeatuEtq0NoS_6/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-food-agriculture",
-    id: "4.22",
-    title:
-      "Observing and participating in the process of the Youth Statement on Sustainable Livestock Transformation",
+    id: "4.16",
+    title: "Contributing to the food security through the Centre for Diplomatic Advancement",
     slides: [
       {
-        date: "August 2024",
+        date: "June 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "Observing and participating in the process of the Youth Statement on Sustainable Livestock Transformation",
-        image: "assets/img/impact/food-agriculture-forestry/youth-statement.png",
+          "Bridging Technology and Diplomacy: Precision Agriculture and Inclusive Collaboration for Global Food Security",
+        image: "assets/img/impact/food-agriculture-forestry/precision-agro.png",
         description:
-          "Observing and participating in the process of the Youth Statement on Sustainable Livestock Transformation at FAO in Rome, Italy. The sustainable transformation of livestock systems is imperative for achieving global food security, environmental sustainability, and economic stability. Youth involvement is not just beneficial but essential in this transition. ",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-youth-activity-7225268028211388416-6RqQ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/17WkxUiLWxRQJ-N8_NgN6ApZ5tl7SAGy1/view?usp=drive_link",
+          "Food insecurity, affecting millions globally, is not just about a lack of food but also encompasses issues of access, knowledge, and support. Precision agriculture, which utilizes advanced technologies like climate-smart farming, data-driven techniques, and sustainable practices, can revolutionize food production by making it more efficient and resilient. However, technological solutions alone are insufficient.",
+        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-democracy-food-activity-7200943955910250496-IYGS?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ixcuAA0ObXe5xtkl2PUlGZvDnbyajrU0/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-food-agriculture",
-    id: "4.21",
+    id: "4.17",
+    title: "Synergizing with the Founder Institute Food Ecosystem Entrepreneurs",
+    slides: [
+      {
+        date: "July 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Founder Institute Food Ecosystems Accelerator",
+        image: "assets/img/impact/food-agriculture-forestry/food-ecosystems-accelerator.png",
+        description:
+          "The Founder Institute Food Ecosystems Accelerator provided an incredible opportunity to network with like-minded entrepreneurs on a global scale. As proud graduates of Founder Institute, we continuously leverage our synergies and optimize our growth through strategic affiliations. It’s always a pleasure to meet with Khalid Roumieh in person whenever we're in Dubai to discuss the progress of our ventures.",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-networking-startup-activity-7207865987461763073-HPw1?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1-MDBLmmk5yzaDny3W8Vo1ooRK_do3-I2/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.18",
+    title: "Signing agreements with Koperattivi Malta for Maltan Food Security",
+    slides: [
+      {
+        date: "July 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting with Koperattivi Malta",
+        image: "assets/img/impact/food-agriculture-forestry/meet-malta.png",
+        description:
+          " I had the pleasure of meeting with Koperattivi Malta to discuss the economic potential of cooperatives in facilitating a sustainable transition to regenerative and precision agriculture for food security. I would like to express my appreciation to the Koperattivi Malta Team for their professional engagement and proactive interaction during our initial meeting.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7214649124418203648-XIK-?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1UU_dSWdQVuoD6z7n3sX8HM-mKwlr1nyD/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.19",
     title:
-      "Participate in the FOODTECH high-level meeting at the United Nations Industrial Development Organization (UNIDO)",
+      "Visiting & Demonstrating about Precision Agriculture at the National Museum of Agriculture in Ostrava, Czech Republic",
     slides: [
       {
         date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Participate in the FOODTECH high-level meeting at the United Nations Industrial Development Organization",
-        image: "assets/img/impact/food-agriculture-forestry/FOODTECH.png",
+        title: "Visit the National Museum of Agriculture in Ostrava, Czech Republic",
+        image: "assets/img/impact/food-agriculture-forestry/national-museum.png",
         description:
-          "It was a pleasant experience to participate in the FOODTECH high-level meeting at the United Nations Industrial Development Organization (UNIDO) in Vienna, Austria.",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-tech-activity-7221954034960678912-L8hr/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1tkKs1PqoVM7USpvaWHMK-cMCK379VPzJ/view?usp=drive_link",
+          "It was a nice experience to visit the National Museum of Agriculture in Ostrava, Czech Republic. It offers expositions focused on food and agriculture machines. The third area of focus is Ostrava in the wider view of the region of northern Moravia and Bohemian Silesia. I also explained what we innovate at ELZIAN AGRO.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7220437738787856384-JTJQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1YmlyEyMbuf6flzGzb3bCySQkEWtI-zqF/view?usp=drive_link",
       },
     ],
   },
@@ -2888,452 +3207,169 @@ const impacts = [
   },
   {
     filter: "filter-food-agriculture",
-    id: "4.19",
+    id: "4.21",
     title:
-      "Visiting & Demonstrating about Precision Agriculture at the National Museum of Agriculture in Ostrava, Czech Republic",
+      "Participate in the FOODTECH high-level meeting at the United Nations Industrial Development Organization (UNIDO)",
     slides: [
       {
         date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Visit the National Museum of Agriculture in Ostrava, Czech Republic",
-        image: "assets/img/impact/food-agriculture-forestry/national-museum.png",
+        title:
+          "Participate in the FOODTECH high-level meeting at the United Nations Industrial Development Organization",
+        image: "assets/img/impact/food-agriculture-forestry/FOODTECH.png",
         description:
-          "It was a nice experience to visit the National Museum of Agriculture in Ostrava, Czech Republic. It offers expositions focused on food and agriculture machines. The third area of focus is Ostrava in the wider view of the region of northern Moravia and Bohemian Silesia. I also explained what we innovate at ELZIAN AGRO.",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7220437738787856384-JTJQ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1YmlyEyMbuf6flzGzb3bCySQkEWtI-zqF/view?usp=drive_link",
+          "It was a pleasant experience to participate in the FOODTECH high-level meeting at the United Nations Industrial Development Organization (UNIDO) in Vienna, Austria.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-tech-activity-7221954034960678912-L8hr/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1tkKs1PqoVM7USpvaWHMK-cMCK379VPzJ/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-food-agriculture",
-    id: "4.18",
-    title: "Signing agreements with Koperattivi Malta for Maltan Food Security",
+    id: "4.22",
+    title:
+      "Observing and participating in the process of the Youth Statement on Sustainable Livestock Transformation",
     slides: [
       {
-        date: "July 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting with Koperattivi Malta",
-        image: "assets/img/impact/food-agriculture-forestry/meet-malta.png",
-        description:
-          " I had the pleasure of meeting with Koperattivi Malta to discuss the economic potential of cooperatives in facilitating a sustainable transition to regenerative and precision agriculture for food security. I would like to express my appreciation to the Koperattivi Malta Team for their professional engagement and proactive interaction during our initial meeting.",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7214649124418203648-XIK-?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1UU_dSWdQVuoD6z7n3sX8HM-mKwlr1nyD/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-food-agriculture",
-    id: "4.17",
-    title: "Synergizing with the Founder Institute Food Ecosystem Entrepreneurs",
-    slides: [
-      {
-        date: "July 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "The Founder Institute Food Ecosystems Accelerator",
-        image: "assets/img/impact/food-agriculture-forestry/food-ecosystems-accelerator.png",
-        description:
-          "The Founder Institute Food Ecosystems Accelerator provided an incredible opportunity to network with like-minded entrepreneurs on a global scale. As proud graduates of Founder Institute, we continuously leverage our synergies and optimize our growth through strategic affiliations. It’s always a pleasure to meet with Khalid Roumieh in person whenever we're in Dubai to discuss the progress of our ventures.",
-        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-networking-startup-activity-7207865987461763073-HPw1?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1-MDBLmmk5yzaDny3W8Vo1ooRK_do3-I2/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-food-agriculture",
-    id: "4.16",
-    title: "Contributing to the food security through the Centre for Diplomatic Advancement",
-    slides: [
-      {
-        date: "June 2024",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "Bridging Technology and Diplomacy: Precision Agriculture and Inclusive Collaboration for Global Food Security",
-        image: "assets/img/impact/food-agriculture-forestry/precision-agro.png",
+          "Observing and participating in the process of the Youth Statement on Sustainable Livestock Transformation",
+        image: "assets/img/impact/food-agriculture-forestry/youth-statement.png",
         description:
-          "Food insecurity, affecting millions globally, is not just about a lack of food but also encompasses issues of access, knowledge, and support. Precision agriculture, which utilizes advanced technologies like climate-smart farming, data-driven techniques, and sustainable practices, can revolutionize food production by making it more efficient and resilient. However, technological solutions alone are insufficient.",
-        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-democracy-food-activity-7200943955910250496-IYGS?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1ixcuAA0ObXe5xtkl2PUlGZvDnbyajrU0/view?usp=drive_link",
+          "Observing and participating in the process of the Youth Statement on Sustainable Livestock Transformation at FAO in Rome, Italy. The sustainable transformation of livestock systems is imperative for achieving global food security, environmental sustainability, and economic stability. Youth involvement is not just beneficial but essential in this transition. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-youth-activity-7225268028211388416-6RqQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/17WkxUiLWxRQJ-N8_NgN6ApZ5tl7SAGy1/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-food-agriculture",
-    id: "4.15",
-    title: "Lilan's initiative (ELZIAN AGRO) Named Finalist in World Bank Youth Innovation Challenge",
+    id: "4.23",
+    title: "Exploring Agricultural Innovation at National Museum of Agriculture in Ostrava",
     slides: [
       {
-        date: "May 24, 2024",
+        date: "Aug 17, 2024",
         source_name: "Profit Magazine",
         source_link: "https://profitmagazine.lk/",
-        title: "Elzian Agro Named Finalist in World Bank Youth Innovation Challenge",
-        image: "assets/img/impact/food-agriculture-forestry/innovation-challenge.png",
+        title:
+          "Lilan Dayananda Explores Agricultural Innovation at National Museum of Agriculture in Ostrava",
+        image: "assets/img/impact/food-agriculture-forestry/profitmagazine-museum.png",
         description:
-          "Elzian Agro, a precision agriculture company based in Sri Lanka, was selected as a finalist in the World Bank Youth Innovation Challenge under the category of water solutions for a new climate reality. Elzian Agro was selected among the top 40 finalists in the World Bank Youth Innovation Challenge. Their excellent innovation was chosen from over 1,600 registrations from 95 countries and more than 300 outstanding applications from 63 countries.",
-        link: "https://profitmagazine.lk/elzian-agro-named-finalist-in-world-bank-youth-innovation-challenge/",
-        backup_image: "https://drive.google.com/file/d/1Ba9-oJwM_a6llQqt1FyeatuEtq0NoS_6/view?usp=drive_link",
+          "Lilan Dayananda, the Managing Director and CEO of Elzian Agro, visited the National Museum of Agriculture in Ostrava, Czech Republic during the Moonshot Young Leaders Camp. Lilan was one of the youth social entrepreneurs who were selected for the Leadership Camp. This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges.",
+        link: "https://profitmagazine.lk/lilan-dayananda-explores-agricultural-innovation-at-national-museum-of-agriculture-in-ostrava/",
+        backup_image: "https://drive.google.com/file/d/1_EYNqNXmJX5cQOwzGwq3zxb1eVsilzsE/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-food-agriculture",
-    id: "4.14",
-    title:
-      "Anuga Partners Forum: Strengthening Elzian Agro's Partnership with EDB, Focused on Anuga Food Tech India",
+    id: "4.24",
+    title: "Exploring Future in Space Agriculture at COPUOS Session",
     slides: [
       {
-        date: "June 2024",
+        date: "Aug 16, 2024",
+        source_name: "Lanka Talks",
+        source_link: "https://lankatalks.com/",
+        title: "Elzian Agro Explores Future in Space Agriculture at COPUOS Session",
+        image: "assets/img/impact/food-agriculture-forestry/lankatalks-agro.png",
+        description:
+          "Lilan Dayananda, Managing Director and Chief Executive Officer of Elzian Agro, outlined the company’s ambitious vision to enter the Space Agriculture Sector during the 67th Session of the Committee on the Peaceful Uses of Outer Space (COPUOS) in Vienna, Austria. The session, held in 2024, continues to address space-related legal issues, promote sustainable space exploration, and enhance global collaboration in space science and technology. COPUOS plays a crucial role in developing international space law and fostering dialogue among nations on space governance.",
+        link: "https://lankatalks.com/post/elzian-agro-explores-future-in-space-agriculture-at-copuos-session",
+        backup_image: "https://drive.google.com/file/d/1sJtJwosvA7EDxE9-FL0jgjIK2u7PSYDq/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.25",
+    title: "Participating in the Regenerative Agriculture Networking",
+    slides: [
+      {
+        date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Anuga Partners Forum",
-        image: "assets/img/impact/food-agriculture-forestry/anuga-partners-forum.png",
+        title: "Reflections from the Regenerative Agriculture Networking Event in New York",
+        image: "assets/img/impact/food-agriculture-forestry/Regenerative Agriculture Networking.png",
         description:
-          "During the latest Anuga Partners Forum, hosted by Koelnmesse GmbH and focused on Anuga Food Tech India, I had the pleasure of meeting Dr. Kingsley Bernard, Chairman and Chief Executive Officer of the Export Development Board (EDB). I took the opportunity to express my appreciation for his continuous support towards ELZIAN AGRO.",
-        link: "https://www.linkedin.com/posts/lilanofficial_export-food-agriculture-activity-7197981542634176512-djp_?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1Rw1utVcczQEO1b8eAZToFZh1pVsWCZyh/view?usp=drive_link",
+          "I had the privilege of attending the Regenerative Agriculture Networking event in New York, USA, thanks to the kind invitation from my CGI mentor, Hugh Locke. During the gathering, we explored the current challenges and opportunities within regenerative agriculture from a global perspective.",
+        link: "https://www.linkedin.com/posts/lilanofficial_regenerativeagriculture-sustainability-socialimpact-activity-7243885798142418944-Q1Wg?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/17N9BzcOQAAcuxmZ29wDAuUKorr0Dd2zj/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-food-agriculture",
-    id: "4.13",
-    title: "Lilan's social venture (Elzian Agro) as the finals of Food Tech Congress Challengers 2024",
+    id: "4.26",
+    title: "Participating in the Food Forum during the 79th United Nations General Assembly",
     slides: [
       {
-        date: "June 2024",
-        source_name: "Elzian Agro",
-        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
-        title: "We are the Finalissts of Foood Tech Challengers 2024",
-        image: "assets/img/impact/food-agriculture-forestry/food-challengers.png",
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Addressing Global Food Security: Insights from the Food Forum at the UN General Assembly",
+        image: "assets/img/impact/food-agriculture-forestry/Global Food Security.png",
         description:
-          "Big news! We're rocketing to the finals of Food Tech Challengers 2024! 🚀 Mark your calendars for May 28-29, 2024 (Warsaw, Poland) and come support us at the event as we will pitch on stage!",
-        link: "https://www.linkedin.com/posts/elzianagro_ftc2024-food-agriculture-activity-7194706426177466368-idki?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1p3_JAjn0N04IRmdv5QTofTw58vIx4nCS/view?usp=drive_link",
+          "I had the pleasure of attending the Food Forum at Rockefeller Plaza in New York, held during the 79th United Nations General Assembly. The global food security crisis is intensifying due to a confluence...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-fao-activity-7247668774630252545-oG3x?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1c2bLejDXWTVuRna6xSB3oMgbZrxQluD0/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-food-agriculture",
-    id: "4.12",
-    title:
-      "Fostering Food and Agriculture Innovation with AHK Sri Lanka, Part of the German Chamber Network Supported by BMWK",
+    id: "4.27",
+    title: "Featuring on the MOSAICUE Magazine: Nutrition & Food Security Edition",
     slides: [
       {
-        date: "June 2024",
+        date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "Meeting with Marie Antonia von Schönburg, Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka",
-        image: "assets/img/impact/food-agriculture-forestry/meet-marie.png",
+          "Presenting MOSAICUE Magazine to Dr. Chelsea Clinton: A Call to Action on Climate Change, Nutrition, and Healthcare",
+        image: "assets/img/impact/food-agriculture-forestry/Featuring on the MOSAICUE Magazine.png",
         description:
-          "It was a pleasure to have had the opportunity to meet Marie Antonia von Schönburg, Chief Delegate of the Delegation of German Industry and Commerce in Sri Lanka...",
-        link: "https://www.linkedin.com/posts/lilanofficial_delegation-germany-srilanka-activity-7194530994920562689-Y1xs?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1I0ARj8XIGEo-WsPRTxUq23SCv-h8XkMo/view?usp=drive_link",
+          "It was an incredible honor to present MOSAICUE Magazine to Dr. Chelsea Clinton during the Clinton Global Initiative Annual Meeting...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7251063029629366272-Id9d?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1WC62GMcZ-j_UbaGEM93yLTaNULtSEznv/view?usp=drive_link",
       },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.28",
+    title: "Featuring on the Founders Lair Agritech",
+    slides: [
       {
-        date: "June 2024",
+        date: "November 2024",
+        source_name: "Founders Lair",
+        source_link: "https://www.linkedin.com/company/founderslair/posts/",
+        title: "🚀 Top 50 Global #AgriTech Startups: Part 5/5 🌱",
+        image: "assets/img/impact/food-agriculture-forestry/Top 50 Global AgriTech Startups.png",
+        description:
+          "In the final part of our #StartupHighlight series, we’re excited to showcase the last 10 incredible startups and their founders who are redefining agriculture with cutting-edge technologies for a more sustainable world...",
+        link: "https://www.linkedin.com/posts/founderslair_agritech-startuphighlight-tanzania-activity-7255488308481339392-9ubt?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1jQEEFbNGInYdLRjxnGL71O92blJMXaEw/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.29",
+    title: "Participating the Food and Fashion event at Regen House",
+    slides: [
+      {
+        date: "December 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Anuga Partners Forum: Driving Global Collaboration and Innovation for a Sustainable and Fair Food System",
-        image: "assets/img/impact/food-agriculture-forestry/food-growing.png",
+        title: "Cultivating Connection: Igniting Regenerative Dialogue at REGEN HOUSE",
+        image: "assets/img/impact/food-agriculture-forestry/Cultivating Connection.png",
         description:
-          "In a time when the world of nutrition is becoming increasingly global, and the importance of sustainability and healthy food is growing, it is crucial that we connect with one another to collectively find solutions. The latest Anuga Partners Forum hosted by Koelnmesse GmbH focused on the Anuga Food Tech India.",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7194982140239888384-Yr2U?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1uYLMD8DkSy8_7RUNyJEpKSrQnHnDbjvn/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-food-agriculture",
-    id: "4.12",
-    title: "Addressing the Pitch2Fork event by the U.S. Soybean Export Council (USSEC)",
-    slides: [
-      {
-        date: "June 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Attend the Pitch2Fork Event in Dubai",
-        image: "assets/img/impact/food-agriculture-forestry/Pitch2Fork.png",
-        description:
-          "It was a pleasure to attend the recent Pitch2Fork event in Dubai, UAE, where I had the opportunity to meet distinguished individuals such as Henry Gordon-Smith, CEO of Agritecture; Khalid Roumieh, CEO of Tech.Tracer ; and Roberto Vitón, Managing Director of Valoral Advisors.",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-protein-activity-7194743457200947200-pgd1?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/14rgNraICywiJiF93kRKFZaHcxxJICuG4/view?usp=drive_link",
-      },
-      {
-        date: "June 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "The Pitch2Fork event in Dubai",
-        image: "assets/img/impact/food-agriculture-forestry/Pitch2Fork-dubai.png",
-        description:
-          "The Pitch2Fork event in Dubai culminated in resounding success, featuring distinguished speakers who shared invaluable insights.",
-        link: "https://www.linkedin.com/posts/lilanofficial_pitch2fork-food-agriculture-activity-7193273074526359553-VvV2?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/17wsAFY4H1Eh2DZYRYWx6cI6no4ymeqMG/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-food-agriculture",
-    id: "4.11",
-    title:
-      "TechRound has recognized ELZIAN AGRO (founded by Lilan) as one of the top 10 Sri Lankan startups that are worth keeping an eye on",
-    slides: [
-      {
-        date: "March 20, 2024",
-        source_name: "Tech Round",
-        source_link: "https://techround.co.uk/",
-        title: "10 Startups In Sri Lanka To Watch",
-        image: "assets/img/impact/food-agriculture-forestry/techround-startup.png",
-        description:
-          "Sri Lanka, known for its incredible culture, amazing nature and kind people is also home to hundreds of startups. Here, we take a closer look at ten startups in Sri Lanka that are worth keeping an eye on.",
-        link: "https://techround.co.uk/startups/10-startups-in-sri-lanka-to-watch/",
-        backup_image: "https://drive.google.com/file/d/1K9xMj6kzPe-s5wu81qczI9Jz6IDppcbR/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-food-agriculture",
-    id: "4.10",
-    title:
-      "Facilitating an event regarding climate-smart, data-driven precision agriculture for IDB at the Food Harvest Expo",
-    slides: [
-      {
-        date: "April 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "The reality check on Sri Lankan agriculture intersects with the myriad outcomes of international trade",
-        image: "assets/img/impact/food-agriculture-forestry/agriculture-intersects.png",
-        description: "",
-        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-food-tech-activity-7180118115521904640-E1Aq?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1Ku1DiXvB2khk8wGI0xrJRv3C97ubqakr/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-food-agriculture",
-    id: "4.10",
-    title: "Addressing the Commonwealth and the year of the Youth Project",
-    slides: [
-      {
-        date: "April 2024",
-        source_name: "Joseph A.",
-        source_link: "https://www.linkedin.com/in/joseph-a-662016285/",
-        title: "Officially kick off our partnership with The Commonwealth and the year of the youth project",
-        image: "assets/img/impact/food-agriculture-forestry/kick-off-partnership.png",
-        description:
-          "We’ve worked for months to put together a world class line up designed to inspire, equip, and unleash young people to participate in the world’s most important industries. ",
-        link: "https://www.linkedin.com/posts/joseph-a-662016285_agriculture-sustainability-digitalagriculture-activity-7176184384708849664-MEUd?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1ALGt614jvf50Vp6klIpIylMPVQqieR07/view?usp=drive_link",
-      },
-      {
-        date: "April 2024",
-        source_name: "Elzian Agro",
-        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
-        title: "Nurturing Agricultures for a Sustainable Future",
-        image: "assets/img/impact/food-agriculture-forestry/nurturing-agricultures.png",
-        description:
-          "Our Managing Director Lilan Dayananda will deliver a speech today at the interactive Agrivine webinar on unleashing youth potential in Agriculture.",
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:7176551534116106241",
-        backup_image: "https://drive.google.com/file/d/12GHH49xR08iPq2n-Z0O_DKnLLgFHmmr1/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-food-agriculture",
-    id: "4.9",
-    title: "Supporting World Bank Group to initiate Precision Agriculture Projects",
-    slides: [
-      {
-        date: "April 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Productive Discussion on Sri Lankan Agriculture with Parmesh Shah",
-        image: "assets/img/impact/food-agriculture-forestry/discussion-with-parmesh.png",
-        description:
-          "I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions in the context of Sri Lankan agriculture. I would like to extend my appreciation to Sunil Madan, MPA for arranging the meeting.",
-        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1j6RAOp70Rp41I0IqHrJwN30OnYZ9c66L/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-food-agriculture",
-    id: "4.8",
-    title:
-      "Lilan's initiative (ELZIAN AGRO) on Food & Agriculture Organization (FAO) Digital Village Initiative Knowledge Exchange Platform",
-    slides: [
-      {
-        date: "",
-        source_name: "Food and Agriculture Organization of the United Nations",
-        source_link: "https://alphaportal.in/beta/fao/index.php",
-        title: "ELZIAN-AGRO-MATE FARMLAND AUTOMATION SYSTEM",
-        image: "assets/img/impact/food-agriculture-forestry/fao-agro-mate.png",
-        description:
-          "Elzian-Agro-Mate is an automation system with many sensors consisting of a combination of hardware and software that serves as a supervisor in charge of irrigation and other associated operations of agriculture, it is an automated irrigation system that continually measures the moisture level in the soil. The Automated irrigation system may use to irrigate farmland with different irrigation needs. While the system is primarily intended for agricultural irrigation, it may use for automated plant watering, fertilizer, and pesticide spraying automation.",
-        link: "https://alphaportal.in/beta/fao/digital_solutions_details.php?id=19",
-        backup_image: "https://drive.google.com/file/d/1OhAengc8033hgRxWHojj4jVXujmjpMNa/view?usp=drive_link",
-      },
-      {
-        date: "",
-        source_name: "Food and Agriculture Organization of the United Nations",
-        source_link: "https://alphaportal.in/beta/fao/index.php",
-        title: "ELZIAN-AGRO EARTH RESTORATION LIFEFORCE SYSTEM",
-        image: "assets/img/impact/food-agriculture-forestry/lifeforce-system.png",
-        description:
-          "Energized by the photosynthesis process, contracted - primary ecosystem services (C-PES ) lays the foundations of recording and regulating living wealth generation of ‘tree-farming’ in the context of re-establishing traditional agrarian systems (agroecological systems). Our LifeForce project is capable of demonstrating to the observer our alternate vision for placing new value into existing agro-economies, both digital and fiat-backed (blockchain-secured). Unlocking PES values is done by growing 40+ pan-tropical tree species, whose biomass accretion curves are verified by our Photosynthetic Biomass verification application (PBV app).",
-        link: "https://alphaportal.in/beta/fao/digital_solutions_details.php?id=20",
-        backup_image: "https://drive.google.com/file/d/1EgmuhnO4nxk7VG9J-dv5E7XMVhjzB-VE/view?usp=drive_link",
-      },
-      {
-        date: "",
-        source_name: "Food and Agriculture Organization of the United Nations",
-        source_link: "https://alphaportal.in/beta/fao/index.php",
-        title: "AGRO EYE FARMLAND MONITORING SYSTEM",
-        image: "assets/img/impact/food-agriculture-forestry/monitoring-system.png",
-        description:
-          "Elzian-Agro-Eye system is a high-precision outdoor environmental weather and soil monitoring system that is mainly used for industrial and agricultural meteorological environment monitoring. Its support structure is composed of a high-strength pole and three beams through expansion screws, which can effectively resist strong winds. Various weather sensors are installed on the beam, which can accurately measure the current environment’s temperature and humidity, wind speed, wind direction, rainfall, solar radiation, illumination, atmospheric pressure, rainfall, soil moisture/NPK level, soil conductivity.",
-        link: "https://alphaportal.in/beta/fao/digital_solutions_details.php?id=18",
-        backup_image: "https://drive.google.com/file/d/1FuPGI4kT3UHyw_fPfex6iRVGr75jgoRk/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-food-agriculture",
-    id: "4.6",
-    title:
-      "The Global Youth Dialogue on Sustainable Livestock Transformation and the Global Conference on Sustainable Agricultural Mechanization",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "The Global Youth Dialogue on Sustainable Livestock Transformation and the Global Conference on Sustainable Agricultural Mechanization were insightful at the FAO headquarters in Rome (Italy).",
-        image: "assets/img/impact/food-agriculture-forestry/global-youth-dialogue.png",
-        description: "Looking forward to the World Food Forum...",
-        link: "https://www.linkedin.com/posts/lilanofficial_the-global-youth-dialogue-on-sustainable-activity-7115979716955668480-_3MU?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/18xJ_M9RDubSO2Ci0S-Y82GOLGbdQSB7z/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-food-agriculture",
-    id: "4.5",
-    title: "The Sustainable Agriculture & Agricultural Technology Summit Panelist",
-    slides: [
-      {
-        date: "September 1, 2022",
-        source_name: "Logy Talks",
-        source_link: "https://www.logytalks.com/",
-        title: "Sustainable Agriculture & Agricultural Technology Summit",
-        image: "assets/img/impact/food-agriculture-forestry/logytalks.png",
-        description:
-          "As a part of our monthly summits, join us this upcoming September 1st for the Sustainable Agriculture and Agricultural Technology Summit to address the challenges, future directions, latest updates, insights, perspectives, and the best practices for sustainable agriculture! The Sustainable Agriculture and Agricultural Technology Summit will gather key industry players around the world to discuss current issues and emerging opportunities through the lens of science and technology.",
-        link: "https://www.logytalks.com/summit/the-sustainable-agriculture-and-agricultural-technology-summit",
-        backup_image: "https://drive.google.com/file/d/1P0pN0D8O-OhuVhsDQHyyodmNjj0IGIn5/view?usp=drive_link",
-      },
-      {
-        date: "November 2022",
-        source_name: "Logy Talks",
-        source_link: "https://www.linkedin.com/company/logytalks/posts/",
-        title: "Welcome our guest speaker Lilan Dayananda Co-founder & CEO @ ELZIAN AGRO",
-        image: "assets/img/impact/food-agriculture-forestry/logytalks-linkedin.png",
-        description:
-          "We are glad to welcome our guest speaker Lilan Dayananda Co-founder & CEO @ELZIANAGRO, and Commonwealth Youth Awardee for Excellence in Development Work 2022, at our upcoming summit “The Sustainable Agriculture and Agricultural Technology Summit”, his session’s topic will be about the “Impact of Analog Forestry and Precision Agriculture for Sustainable Agriculture”.",
-        link: "https://www.linkedin.com/posts/logytalks_logytalks-summit-webinar-activity-6965351571513581569-22ic/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1raICHgvai27vxRSLAlPZYDMg6wjHQt7B/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-food-agriculture",
-    id: "4.4",
-    title:
-      "The Healthy and Environment-friendly Youth (HEY) Global Parliament - Minister of Agriculture and Food Security",
-    slides: [
-      {
-        date: "November 2022",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Leading Climate Action: Lilan Dayananda Appointed Minister of Agriculture and Food Security at Global HEY Parliament",
-        image: "assets/img/impact/food-agriculture-forestry/leading-climate-action.png",
-        description:
-          "The Healthy and Environment-friendly Youth (HEY) Global Parliament - Minister of Agriculture and Food Security – Lilan Dayananda.",
-        link: "https://www.linkedin.com/posts/lilanofficial_development-food-agriculture-activity-6972726955674673152-xskB?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1cybUx4mo83iNa9W7pZUezlU3k2Wj9VcD/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-food-agriculture",
-    id: "4.3",
-    title: "Food and Agriculture Organization (FAO) Committee on World Food Security",
-    slides: [
-      {
-        date: "February 2021",
-        source_name: "COMMITTEE ON WORLD FOOD SECURITY",
-        source_link: "",
-        title: "Food and Agriculture Organization (FAO) Committee on World Food Security",
-        image: "assets/img/impact/food-agriculture-forestry/fao-cb3426t.png",
-        description: "",
-        link: "https://www.fao.org/3/cb3426t/cb3426t.pdf",
-        backup_image: "https://drive.google.com/file/d/1FRjCoiGUWcnJdpTN8nFj7x5RNMXAVcXS/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-food-agriculture",
-    id: "4.2",
-    title: "Addressing the FAO Global Conference on Sustainable Agricultural Mechanization (GAMC)",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Championing Innovation: Participation in the Inaugural Global Conference on Sustainable Agricultural Mechanization",
-        image: "assets/img/impact/food-agriculture-forestry/championing-innovation.png",
-        description:
-          "I am deeply honored to have received an invitation to participate in the first-ever Global Conference on Sustainable Agricultural Mechanization (GAMC), with the theme “Efficiency, Inclusiveness and Resilience” at the FAO headquarters of the United Nations in Rome, Italy.",
-        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-agriculture-mechanization-activity-7114649865845964800-shBn?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1MIdGVhsE6RKAxv62uz3sjOG6AJgs5N32/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-food-agriculture",
-    id: "4.1",
-    title: "Addressing the FAO Global Conference on Sustainable Livestock Transformation",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Youth Perspectives in Action: Insights from the FAO Global Conference on Sustainable Livestock Transformation",
-        image: "assets/img/impact/food-agriculture-forestry/youth-perspectives.png",
-        description:
-          "It was such a pleasure to contribute to this, representing youth perspectives. The release of the Proceedings from the FAO Global Conference on Sustainable Livestock Transformation! 🌿🐄🐓🐖🐃🐪🐑🐐🦆🐫🦙🐣🐝🌾🌿 This in-depth document provides a thorough overview of the conference, highlights from the global youth dialogue, and showcases inspiring success stories in sustainable livestock practices. It's a must-read for anyone committed to advancing sustainable livestock management.",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-youth-activity-7226435931652734976-K7cT/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1mEumpPMUWAlOqe3HkPIi9cpaMfWH5XhS/view?usp=drive_link",
-      },
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Empowering Youth Voices: Advocating for Sustainable Livestock Transformation at FAO Headquarters",
-        image: "assets/img/impact/food-agriculture-forestry/empowering-youth-voices.png",
-        description:
-          "I am deeply honored to have received an invitation to participate in the inaugural Global Youth Dialogue on Sustainable Livestock Transformation. This momentous event took place in parallel with the FAO Global Conference on Sustainable Livestock Transformation at the illustrious FAO headquarters of the United Nations in Rome, Italy. I am privileged to have been given the platform to advocate for the voices of youth and to share innovative ideas on this critical topic.",
-        link: "https://www.linkedin.com/posts/lilanofficial_i-am-deeply-honored-to-have-received-an-invitation-activity-7113953023562846208-i0i4/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1v8QLFo6nlVV9NIrBG_yHoDjubS9q9do-/view?usp=drive_link",
+          "It was a pleasure to participate in the Food and Fashion event at Regen House in New York. The session was conducted by the Wholechain team. Regenerative agriculture is not just about food...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-fasion-activity-7268477788007866368-nRfk/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1lmU_0DTRPPRNF8hAuG-CnpFVVWoWlUtM/view?usp=sharing",
       },
     ],
   },
@@ -6050,388 +6086,129 @@ const impacts = [
 
   {
     filter: "filter-youth-women-empowerment",
-    id: "9.26",
-    title: "Addressing the students of Ibbagamuwa Central College",
-    slides: [
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Returning to Inspire: A Youth Empowerment Talk at Ibbagamuwa Central College",
-        image: "assets/img/impact/youth-women-empowerment/Youth Empowerment Talk.png",
-        description:
-          "After nine years, I had the privilege of returning to my alma mater, Ibbagamuwa Central College, to speak on youth empowerment. Invited by Sun Match Company, popularly known as “SOORYA,” ...",
-        link: "https://www.linkedin.com/posts/lilanofficial_school-youth-purpose-activity-7236748147635470338-qXIL?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1p5MbwaI3pVFvyN1gyk2qSzSEvWGqqek_/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.25",
-    title: "Women Inclusion at the United People Global (UPG) ",
-    slides: [
-      {
-        date: "April 2024",
-        source_name: "United People Global",
-        source_link: "https://www.youtube.com/@UnitedPeopleGlobal",
-        title: "United Voices",
-        image: "assets/img/impact/youth-women-empowerment/united-people-global.png",
-        description: "What's Going On? UPG Champion Invite...",
-        link: "https://www.youtube.com/watch?v=WjIME9s70Xk",
-        backup_image: "https://drive.google.com/file/d/1oAePzkix5NlBGaWnWt5t9Q-UrNvToN7t/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.23",
-    title: "Participating in Youth-Driven Innovation in Global Education Workshop",
-    slides: [
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Empowering the Future: Youth-Driven Innovation in Global Education",
-        image: "assets/img/impact/youth-women-empowerment/Empowering the Future.png",
-        description:
-          "The workshop on the Youth-Driven Innovation in Global Education by Amanda Abrom (Director of the Global Schools Program, United Nations SDSN) and Nene Onyedi Ibezim (Project Officer, Global Schools, UN SDSN) at the AFS Youth Assembly in New York, USA was interactive.",
-        link: "https://www.linkedin.com/posts/lilanofficial_the-workshop-on-the-youth-driven-innovation-activity-7231913597650485248-p4Ok?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1fFngU3yuYkN5WG6TURaunKkljGM4ZdAX/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.22",
-    title: "Moonshot Young Leaders Camp",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participation in the Moonshot Young Leaders Camp: A Journey of Empowerment and Inspiration",
-        image: "assets/img/impact/youth-women-empowerment/Moonshot Young Leaders.png",
-        description:
-          "I had the opportunity to participate in the Moonshot Young Leaders Camp at the Moonshot Platform. This exceptional program provided a series of inspirational, empowering, and mindful sessions...",
-        link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7221391951764283392-MQks?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1M3PZCFmzAOyO1lIZDe9rTG5vq7_biLMM/view?usp=drive_link",
-      },
-      {
-        date: "July 2024",
-        source_name: "Moonshot Platform",
-        source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
-        title: "Introducing some of the Young Leaders",
-        image: "assets/img/impact/youth-women-empowerment/moonshot-platform.png",
-        description:
-          "Introducing you to some of the Young Leaders joining us at this year's Moonshot Young Leaders Camp...",
-        link: "https://www.linkedin.com/posts/moonshot-platform_youngleaders-socialimpact-sdgs-activity-7213889108237049858-ejvR?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1roFbcTOqQ5vHRBjW2IKwk8QYCeUpvOUt/view?usp=drive_link",
-      },
-      {
-        date: "August 18, 2024",
-        source_name: "Biz Report",
-        source_link: "https://english.bizreport.lk/",
-        title: "Lilan Dayananda Selected for Moonshot Young Leaders Camp in Czechia",
-        image: "assets/img/impact/youth-women-empowerment/Moonshot Young Leaders Camp.png",
-        description:
-          "Lilan Dayananda, the dynamic Managing Director and CEO of Elzian Agro, has been selected to participate in the prestigious Moonshot Young Leaders Camp. This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges. During the program, Lilan also met the President Petr Pavel of the Czech Republic, the royal family of the House of Lobkowicz at Prague Castle, Senator Ondřej Šimetka and Martin Kupka, Minister of Transport of Czechia.",
-        link: "https://english.bizreport.lk/lilan-dayananda-selected-for-moonshot-young-leaders-camp-in-czechia/",
-        backup_image: "https://drive.google.com/file/d/10EiZu9BHUFxsmPZsDgPyDWMtK3KMMlZT/view?usp=drive_link",
-      },
-      {
-        date: "August 17, 2024",
-        source_name: "Business Cafe",
-        source_link: "https://www.businesscafe.lk/",
-        title: "Lilan Dayananda Selected for Moonshot Young Leaders Camp in Czechia",
-        image: "assets/img/impact/youth-women-empowerment/Business Cafe Leaders.png",
-        description:
-          "This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges.",
-        link: "https://www.businesscafe.lk/business-news/food-beverage/item/16085-lilan-dayananda-selected-for-moonshot-young-leaders-camp-in-czechia",
-        backup_image: "https://drive.google.com/file/d/1H-LH3Ix0sSPfl1lrgfWeXozkKOYb7Ben/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.21",
-    title: "Youth Networking at Charleroi",
-    slides: [
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Maximizing Time: The Power of Networking and Multitasking for Success",
-        image: "assets/img/impact/youth-women-empowerment/Maximizing Time.png",
-        description:
-          "Time is our most valuable resource, and its proper utilization can be the key to success. Recently, I found myself at a time-consuming gathering near Charleroi Airport in Belgium. In such scenarios, I always prioritize two things: networking and multitasking.",
-        link: "https://www.linkedin.com/posts/lilanofficial_time-resource-youth-activity-7228828240641937408-y-y6?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1Epquljgb7IlhCwvgEX4iiHXI0EKfHinN/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.20",
-    title: "New Generation Asian Youth WINSPIRATION 3.0",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in WINSPIRATION 3.0",
-        image: "assets/img/impact/youth-women-empowerment/WINSPIRATION 3.0.png",
-        description:
-          "Participating in WINSPIRATION 3.0 was an enriching experience. This initiative was designed to empower Asian youth by providing a platform that extended beyond traditional volunteerism...",
-        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-youth-empowerment-activity-7216184409421414400-jLjq?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1TsQ1Q74HerG0dthnqnynHoERO4C3bv8Q/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.19",
-    title:
-      "Empower Youth through Ye! Community Learn and Connect Session organized by the International Trade Centre (ITC)",
-    slides: [
-      {
-        date: "July 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Addressing the Ye! Community",
-        image: "assets/img/impact/youth-women-empowerment/address-ye-community.png",
-        description:
-          "It was a pleasure to contribute as a speaker for the recent Ye! Community Learn and Connect Session. These sessions, conducted every three months on the last Wednesday, are affiliated with the International Trade Centre and the Ye! Community.",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-entrepreneurship-startups-activity-7211735366033137665-y7eh?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1BzNwV3KbkKy2WRybZOeqhnReJaf5TBha/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.18",
-    title:
-      'Addressing the WSIS Forum High-Level Event, WSA session, titled "Youth Engagement Around WSIS Action Lines”',
-    slides: [
-      {
-        date: "June 2024",
-        source_name: "WSA",
-        source_link: "https://www.linkedin.com/company/world-summit-awards/posts/",
-        title: "Empowering Youth at the WSIS Forum: Shaping the Future of ICT and Digital Entrepreneurship",
-        image: "assets/img/impact/youth-women-empowerment/WSIS Forum.png",
-        description:
-          'Hear from WSA Youth Ambassadors at the World Summit on the Information Society Forum in the "Youth Engagement Around WSIS Action Lines" session. 🌐',
-        link: "https://www.linkedin.com/posts/world-summit-awards_wsis-technology-networks-activity-7201107444255637505-ndlZ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/16F9y1h88FG8j1cb3ToLdkbLiSgrRCR2Z/view?usp=drive_link",
-      },
-      {
-        date: "June 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Honored to Contribute to the WSA Session at the WSIS Forum High-Level Event in Geneva",
-        image: "assets/img/impact/youth-women-empowerment/WSA Session.png",
-        description:
-          "It is a pleasure to contribute to the WSA session at the World Summit on the Information Society (WSIS Process) Forum High-Level Event in Geneva, Switzerland, co-hosted by the International...",
-        link: "https://www.linkedin.com/posts/lilanofficial_wsa-wsis-itu-activity-7200804008263917570-oDjz?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1lymDwP07tpb7HjaH9F_QDoOUplApRNKz/view?usp=drive_link",
-      },
-      {
-        date: "May 2024",
-        source_name: "WSIS+20 Forum High-Level Event 2024",
-        source_link: "https://www.itu.int/net4/wsis/forum/2024/",
-        title: "Youth Engagement Around WSIS Action Lines",
-        image: "assets/img/impact/youth-women-empowerment/WSIS Action Lines.png",
-        description:
-          'The WSIS Action Lines, outline steps to leverage information and communication technologies (ICTs) for sustainable development. The WSA  session titled "Youth Engagement Around WSIS Action Lines" focuses on the critical role young people play in advancing the Tunis agenda, specifically around action line C7.',
-        link: "https://www.itu.int/net4/wsis/forum/2024/Agenda/Session/185",
-        backup_image: "https://drive.google.com/file/d/14sjfzvO0nDqKFEi4Y03vClzd0FUJ5Fyz/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.17",
-    title:
-      "Addressing the Sparkle a Business Idea Knowledge Sharing Session of the Faculty of Management Studies, Rajarata University of Sri Lanka",
-    slides: [
-      {
-        date: "November 2022",
-        source_name: "Elzian Agro",
-        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
-        title: "Why 'Pivot' is Essential for Entrepreneurs: Navigating Market Shifts and Economic Hardships",
-        image: "assets/img/impact/youth-women-empowerment/Pivot.png",
-        description:
-          'There\'s a reason the word "Pivot" is so strongly associated with entrepreneurs. Founders need to be able to see where market...',
-        link: "https://www.linkedin.com/posts/elzianagro_entrepreneurs-founders-change-activity-6953595609719136256-pA6x?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1XSr07XpyohHt8rVb8qcRFissbGZtaqhT/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.16",
-    title: "Addressing the Inventors Club - Wayamba University of Sri Lanka",
-    slides: [
-      {
-        date: "March 5, 2022",
-        source_name: "Inventors Club - Wayamba University of Sri Lanka",
-        source_link: "https://web.facebook.com/InventorsClubWUSL",
-        title: "Our heartfelt gratitude for our speakers✍️",
-        image: "assets/img/impact/youth-women-empowerment/Inventors Club - Wayamba University.png",
-        description: "Thank you for your participation...",
-        link: "https://web.facebook.com/100076041701168/posts/136228258904110/",
-        backup_image: "https://drive.google.com/file/d/1ZgNzBONwr6vHdiTWQc3r52Ye1w72perl/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.15",
-    title: "Youth of New Generation - Winspiration 3.0",
-    slides: [
-      {
-        date: "June 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in the Commencement of Winspiration 3.0",
-        image: "assets/img/impact/youth-women-empowerment/Commencement of Winspiration 3.0.png",
-        description:
-          "I had the pleasure of participating in the commencement of Winspiration 3.0, the flagship mentorship program led by Youth of New Generation Sri Lanka (NGSL). The inaugural session featured several key industry leaders, including Snr. Prof. H.D. Karunaratne, Vice Chancellor of the University of Colombo, as the Chief Guest.",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-psychology-empowerment-activity-7197644799154274305-Zr1y?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1VvA92jihiBEuHE6nDBIh98_wFDDd9ym9/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.14",
-    title: "Addressing the Global Leadership Summit 2024",
-    slides: [
-      {
-        date: "June 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Global Leadership Summit",
-        image: "assets/img/impact/youth-women-empowerment/Global Leadership Summit.png",
-        description:
-          "It is such a pleasure to address the Global Leadership Summit representing ELZIAN AGRO, which is taking place this coming week in partnership with - ForbesBLK, United Nations Association of the United States of America, UNDP , Youth4Climate, World Health Organization...",
-        link: "https://www.linkedin.com/posts/lilanofficial_socialimpact-sdgs-youth-activity-7194714123773906944-hjFp?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1y8PNHTErEsn5EfSm8lp4bI6OjK0C4HEA/view?usp=drive_link",
-      },
-      {
-        date: "June 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Addressing the Global Leadership Summit",
-        image: "assets/img/impact/youth-women-empowerment/Addressing the Global Leadership Summit.png",
-        description:
-          "Looking forward to addressing the Global Leadership Summit. The Global Leadership Summit stands as a premier gathering of global changemakers, uniting young professionals, CEOs, experts, thought leaders, and innovators from various sectors...",
-        link: "https://www.linkedin.com/posts/lilanofficial_socialimpact-sdgs-youth-activity-7195256454302351360-mB9p?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1wmrfIvi64JrTG018WoA3rcCcnEDA4jyI/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.13",
-    title: "Collaboration with the Improving Economies for Stronger Communities (IESC)",
-    slides: [
-      {
-        date: "May 2024",
-        source_name: "Elzian Agro",
-        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
-        title:
-          "ELZIAN AGRO Meets with Christopher Addison of IESC to Discuss Climate-Smart Precision Agriculture Solutions",
-        image: "assets/img/impact/youth-women-empowerment/Meets with Christopher.png",
-        description:
-          "IESC - Improving Economies for Stronger Communities (formerly International Executive Service Corps) is a non-profit organization that has been operating for 60 years, focusing on implementing projects for USAID and USDA that promote private sector growth and create economic opportunities for communities in developing countries.",
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:7184059281929912321/",
-        backup_image: "https://drive.google.com/file/d/1F_WxDVCqiP8sOfzsEtcLCUnvyFfH1Z56/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.12",
-    title:
-      "Addressing the Commonwealth and the year of the Youth Project to empower youth inclusion in Sustainable Development Practices",
-    slides: [
-      {
-        date: "April 2024",
-        source_name: "Joseph A.",
-        source_link: "https://www.linkedin.com/in/joseph-a-662016285/",
-        title: "Launching Our Partnership with The Commonwealth: Empowering Youth for Future Industries",
-        image: "assets/img/impact/youth-women-empowerment/Partnership with The Commonwealth.png",
-        description:
-          "We officially kick off our partnership with The Commonwealth and the year of the youth project. ",
-        link: "https://www.linkedin.com/posts/joseph-a-662016285_agriculture-sustainability-digitalagriculture-activity-7176184384708849664-MEUd?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/13fB-y3VMwNOynO3_JVke1qMlO1eB69AZ/view?usp=drive_link",
-      },
-      {
-        date: "April 2024",
-        source_name: "Elzian Agro",
-        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
-        title: "Nurturing Agripreners for a Sustainable Future",
-        image: "assets/img/impact/youth-women-empowerment/nurturing-agricultures.png",
-        description:
-          "Our Managing Director Lilan Dayananda will deliver a speech today at the interactive Agrivine webinar on unleashing youth potential in Agriculture.",
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:7176551534116106241",
-        backup_image: "https://drive.google.com/file/d/1SmcI7r67xy_8pcLhVTHFKodpdbjern7G/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.11",
-    title: "United Nations Economic and Social Council (ECOSOC) Youth Forum",
-    slides: [
-      {
-        date: "May 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Invited to the 2024 ECOSOC Youth Forum: Advocating for Sustainable Solutions and Youth Empowerment",
-        image: "assets/img/impact/youth-women-empowerment/ECOSOC Youth Forum.png",
-        description:
-          "It is an honour to announce that I have been invited to attend the 2024 United Nations Economic and Social Council (ECOSOC) Youth Forum, scheduled to take place at the UN Headquarters in New York...",
-        link: "https://www.linkedin.com/posts/lilanofficial_climateaction-agriculture-youth-activity-7183239588470030337-giql?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1VNmulkV6Nex0I1RuACl1-wNHHjlrFwTj/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.10",
-    title: "Supporting the World Bank Group to initiate projects for Rural Development and Youth Empowerment",
-    slides: [
-      {
-        date: "April 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Strategic Meeting with Parmesh Shah on Advancing Sri Lankan Agriculture",
-        image: "assets/img/impact/youth-women-empowerment/Meeting with Parmesh.png",
-        description:
-          "I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions in the context of Sri Lankan agriculture...",
-        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/15LhYozMH1K_1jfekl0T5fcJjKI0KRW8E/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.9",
-    title: "Global Thinkers Forum & Global Thinkers Mentors",
+    id: "9.1",
+    title: "Resolution Project Guide/Mentor",
     slides: [
       {
         date: "",
-        source_name: "Global Thinkers Mentors",
-        source_link: "https://globalthinkersmentors.org/",
-        title: "Lilan Udayanga Dayananda",
-        image: "assets/img/impact/youth-women-empowerment/Global Thinkers Mentors Profile.png",
+        source_name: "Resolution Project",
+        source_link: "https://resolutionproject.org/",
+        title: "Lilan Dayananda",
+        image: "assets/img/impact/youth-women-empowerment/resolution-project-profile.png",
         description:
-          "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the UN...",
-        link: "https://globalthinkersmentors.org/lilan-udayanga-dayananda",
-        backup_image: "https://drive.google.com/file/d/1We8W5pVHMv9E6PQw0NwHjWa6jZkjSdzd/view?usp=drive_link",
+          "Lilan Dayananda is an international award-winning youth social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South by the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
+        link: "https://resolutionproject.org/team/lilan-dayananda/",
+        backup_image: "https://drive.google.com/file/d/1gM1550DeliJLa8tafgo3C8wt3EzNFI5k/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.2",
+    title: "Youth Empowerment in Climate Action Platform (YECAP) AGYLE Training Program (YATP)",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Empowering Youth Voices in Climate Negotiations: My Transformative Journey with the YECAP AGYLE Training Program",
+        image: "assets/img/impact/youth-women-empowerment/Youth Voices.png",
+        description:
+          "My participation in the Youth Empowerment in Climate Action Platform (YECAP) AGYLE Training Program (YATP) has been an exceptional and transformative experience...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-leaders-technology-activity-7066428443525066752-uDQi?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/13ycWjnYFEdptZDmoaxocS0KA5XjAVOqZ/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.3",
+    title: "Global Youth Dialogue on Adaptation",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Global Youth Mobilization for Climate Adaptation: Regional Forums Leading to COP28 Youth Dialogue",
+        image: "assets/img/impact/youth-women-empowerment/Global Youth Mobilization.png",
+        description:
+          "Moving across six regions of the world, the forums will rally young people around the adaptation agenda ahead of the annual global Youth Dialogue on Adaptation, the landmark convening for the youth adaptation movement leading into COP28.",
+        link: "https://www.linkedin.com/posts/lilanofficial_moving-across-six-regions-of-the-world-the-activity-7052670484013842432-Gqd0?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1xQ28kzdm8SIeg2RebtueMKwhdvCvL8gP/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.4",
+    title: "Youth for Treaty on the Prohibition of Nuclear Weapons (TPNW)",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Mobilizing Global Youth for Nuclear Disarmament: The 2nd Annual Youth MSP for the Treaty on the Prohibition of Nuclear Weapons",
+        image: "assets/img/impact/youth-women-empowerment/Mobilizing Global Youth.png",
+        description:
+          "Youth for Treaty on the Prohibition of Nuclear Weapons (TPNW) are excited to present the 2nd annual Youth MSP for the Treaty...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-for-treaty-on-the-prohibition-of-nuclear-activity-7051977271905038336-ODMw?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1WbdtXga8jNWFC9hPwIw0GbYeEJvOyGwH/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.5",
+    title: "Youth Leader Camp",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Embracing the Journey: Ready for Youth Leader Camp 2023",
+        image: "assets/img/impact/youth-women-empowerment/Youth Leader Camp 2023.png",
+        description: "I'm ready for the Youth Leader Camp 2023...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-leaders-activity-7049596258902028289-lhT4?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1roU8STkGn5TKIv68YKCFIUo0dn-g9t6X/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.6",
+    title: "Local Conference of Youth (LCOY18)",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Uniting for Climate Action: The Impact and Legacy of LCOY18 in Advancing Sri Lanka's Green Goals",
+        image: "assets/img/impact/youth-women-empowerment/Uniting for Climate Action.png",
+        description:
+          "The Local Conference of Youth (LCOY18) stands as a significant milestone in the pursuit of progress, aiming to unite, empower, and engage young individuals, climate...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop28-coy18-climate-activity-7123951670778052609-AkJB?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ne6Nj95M6D5JHlWH4nBXpfdCJehVKz7U/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.7",
+    title: "Official Member of the Adjudication Panel for the Commonwealth Youth Awards",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Certificate of appreciation for my adjudication of the Commonwealth Youth Awards 2023",
+        image: "assets/img/impact/youth-women-empowerment/Commonwealth Youth Awards 2023.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/lilanofficial_certificate-of-appreciation-for-my-adjudication-activity-7028436934259593216-SMdr?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ZcTY0raSrEI0JD7qYz6QptvDvRmQxIQQ/view?usp=drive_link",
       },
     ],
   },
@@ -6490,129 +6267,424 @@ const impacts = [
   },
   {
     filter: "filter-youth-women-empowerment",
-    id: "9.7",
-    title: "Official Member of the Adjudication Panel for the Commonwealth Youth Awards",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Certificate of appreciation for my adjudication of the Commonwealth Youth Awards 2023",
-        image: "assets/img/impact/youth-women-empowerment/Commonwealth Youth Awards 2023.png",
-        description: "",
-        link: "https://www.linkedin.com/posts/lilanofficial_certificate-of-appreciation-for-my-adjudication-activity-7028436934259593216-SMdr?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1ZcTY0raSrEI0JD7qYz6QptvDvRmQxIQQ/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.6",
-    title: "Local Conference of Youth (LCOY18)",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Uniting for Climate Action: The Impact and Legacy of LCOY18 in Advancing Sri Lanka's Green Goals",
-        image: "assets/img/impact/youth-women-empowerment/Uniting for Climate Action.png",
-        description:
-          "The Local Conference of Youth (LCOY18) stands as a significant milestone in the pursuit of progress, aiming to unite, empower, and engage young individuals, climate...",
-        link: "https://www.linkedin.com/posts/lilanofficial_cop28-coy18-climate-activity-7123951670778052609-AkJB?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1ne6Nj95M6D5JHlWH4nBXpfdCJehVKz7U/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.5",
-    title: "Youth Leader Camp",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Embracing the Journey: Ready for Youth Leader Camp 2023",
-        image: "assets/img/impact/youth-women-empowerment/Youth Leader Camp 2023.png",
-        description: "I'm ready for the Youth Leader Camp 2023...",
-        link: "https://www.linkedin.com/posts/lilanofficial_leadership-leaders-activity-7049596258902028289-lhT4?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1roU8STkGn5TKIv68YKCFIUo0dn-g9t6X/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.4",
-    title: "Youth for Treaty on the Prohibition of Nuclear Weapons (TPNW)",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Mobilizing Global Youth for Nuclear Disarmament: The 2nd Annual Youth MSP for the Treaty on the Prohibition of Nuclear Weapons",
-        image: "assets/img/impact/youth-women-empowerment/Mobilizing Global Youth.png",
-        description:
-          "Youth for Treaty on the Prohibition of Nuclear Weapons (TPNW) are excited to present the 2nd annual Youth MSP for the Treaty...",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-for-treaty-on-the-prohibition-of-nuclear-activity-7051977271905038336-ODMw?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1WbdtXga8jNWFC9hPwIw0GbYeEJvOyGwH/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.3",
-    title: "Global Youth Dialogue on Adaptation",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Global Youth Mobilization for Climate Adaptation: Regional Forums Leading to COP28 Youth Dialogue",
-        image: "assets/img/impact/youth-women-empowerment/Global Youth Mobilization.png",
-        description:
-          "Moving across six regions of the world, the forums will rally young people around the adaptation agenda ahead of the annual global Youth Dialogue on Adaptation, the landmark convening for the youth adaptation movement leading into COP28.",
-        link: "https://www.linkedin.com/posts/lilanofficial_moving-across-six-regions-of-the-world-the-activity-7052670484013842432-Gqd0?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1xQ28kzdm8SIeg2RebtueMKwhdvCvL8gP/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.2",
-    title: "Youth Empowerment in Climate Action Platform (YECAP) AGYLE Training Program (YATP)",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Empowering Youth Voices in Climate Negotiations: My Transformative Journey with the YECAP AGYLE Training Program",
-        image: "assets/img/impact/youth-women-empowerment/Youth Voices.png",
-        description:
-          "My participation in the Youth Empowerment in Climate Action Platform (YECAP) AGYLE Training Program (YATP) has been an exceptional and transformative experience...",
-        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-leaders-technology-activity-7066428443525066752-uDQi?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/13ycWjnYFEdptZDmoaxocS0KA5XjAVOqZ/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-youth-women-empowerment",
-    id: "9.1",
-    title: "Resolution Project Guide/Mentor",
+    id: "9.9",
+    title: "Global Thinkers Forum & Global Thinkers Mentors",
     slides: [
       {
         date: "",
-        source_name: "Resolution Project",
-        source_link: "https://resolutionproject.org/",
-        title: "Lilan Dayananda",
-        image: "assets/img/impact/youth-women-empowerment/resolution-project-profile.png",
+        source_name: "Global Thinkers Mentors",
+        source_link: "https://globalthinkersmentors.org/",
+        title: "Lilan Udayanga Dayananda",
+        image: "assets/img/impact/youth-women-empowerment/Global Thinkers Mentors Profile.png",
         description:
-          "Lilan Dayananda is an international award-winning youth social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South by the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
-        link: "https://resolutionproject.org/team/lilan-dayananda/",
-        backup_image: "https://drive.google.com/file/d/1gM1550DeliJLa8tafgo3C8wt3EzNFI5k/view?usp=drive_link",
+          "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the UN...",
+        link: "https://globalthinkersmentors.org/lilan-udayanga-dayananda",
+        backup_image: "https://drive.google.com/file/d/1We8W5pVHMv9E6PQw0NwHjWa6jZkjSdzd/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.10",
+    title: "Supporting the World Bank Group to initiate projects for Rural Development and Youth Empowerment",
+    slides: [
+      {
+        date: "April 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Strategic Meeting with Parmesh Shah on Advancing Sri Lankan Agriculture",
+        image: "assets/img/impact/youth-women-empowerment/Meeting with Parmesh.png",
+        description:
+          "I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions in the context of Sri Lankan agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/15LhYozMH1K_1jfekl0T5fcJjKI0KRW8E/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.11",
+    title: "United Nations Economic and Social Council (ECOSOC) Youth Forum",
+    slides: [
+      {
+        date: "May 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Invited to the 2024 ECOSOC Youth Forum: Advocating for Sustainable Solutions and Youth Empowerment",
+        image: "assets/img/impact/youth-women-empowerment/ECOSOC Youth Forum.png",
+        description:
+          "It is an honour to announce that I have been invited to attend the 2024 United Nations Economic and Social Council (ECOSOC) Youth Forum, scheduled to take place at the UN Headquarters in New York...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climateaction-agriculture-youth-activity-7183239588470030337-giql?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1VNmulkV6Nex0I1RuACl1-wNHHjlrFwTj/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.12",
+    title:
+      "Addressing the Commonwealth and the year of the Youth Project to empower youth inclusion in Sustainable Development Practices",
+    slides: [
+      {
+        date: "April 2024",
+        source_name: "Joseph A.",
+        source_link: "https://www.linkedin.com/in/joseph-a-662016285/",
+        title: "Launching Our Partnership with The Commonwealth: Empowering Youth for Future Industries",
+        image: "assets/img/impact/youth-women-empowerment/Partnership with The Commonwealth.png",
+        description:
+          "We officially kick off our partnership with The Commonwealth and the year of the youth project. ",
+        link: "https://www.linkedin.com/posts/joseph-a-662016285_agriculture-sustainability-digitalagriculture-activity-7176184384708849664-MEUd?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/13fB-y3VMwNOynO3_JVke1qMlO1eB69AZ/view?usp=drive_link",
+      },
+      {
+        date: "April 2024",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "Nurturing Agripreners for a Sustainable Future",
+        image: "assets/img/impact/youth-women-empowerment/nurturing-agricultures.png",
+        description:
+          "Our Managing Director Lilan Dayananda will deliver a speech today at the interactive Agrivine webinar on unleashing youth potential in Agriculture.",
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:7176551534116106241",
+        backup_image: "https://drive.google.com/file/d/1SmcI7r67xy_8pcLhVTHFKodpdbjern7G/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.13",
+    title: "Collaboration with the Improving Economies for Stronger Communities (IESC)",
+    slides: [
+      {
+        date: "May 2024",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title:
+          "ELZIAN AGRO Meets with Christopher Addison of IESC to Discuss Climate-Smart Precision Agriculture Solutions",
+        image: "assets/img/impact/youth-women-empowerment/Meets with Christopher.png",
+        description:
+          "IESC - Improving Economies for Stronger Communities (formerly International Executive Service Corps) is a non-profit organization that has been operating for 60 years, focusing on implementing projects for USAID and USDA that promote private sector growth and create economic opportunities for communities in developing countries.",
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:7184059281929912321/",
+        backup_image: "https://drive.google.com/file/d/1F_WxDVCqiP8sOfzsEtcLCUnvyFfH1Z56/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.14",
+    title: "Addressing the Global Leadership Summit 2024",
+    slides: [
+      {
+        date: "June 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Global Leadership Summit",
+        image: "assets/img/impact/youth-women-empowerment/Global Leadership Summit.png",
+        description:
+          "It is such a pleasure to address the Global Leadership Summit representing ELZIAN AGRO, which is taking place this coming week in partnership with - ForbesBLK, United Nations Association of the United States of America, UNDP , Youth4Climate, World Health Organization...",
+        link: "https://www.linkedin.com/posts/lilanofficial_socialimpact-sdgs-youth-activity-7194714123773906944-hjFp?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1y8PNHTErEsn5EfSm8lp4bI6OjK0C4HEA/view?usp=drive_link",
+      },
+      {
+        date: "June 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Addressing the Global Leadership Summit",
+        image: "assets/img/impact/youth-women-empowerment/Addressing the Global Leadership Summit.png",
+        description:
+          "Looking forward to addressing the Global Leadership Summit. The Global Leadership Summit stands as a premier gathering of global changemakers, uniting young professionals, CEOs, experts, thought leaders, and innovators from various sectors...",
+        link: "https://www.linkedin.com/posts/lilanofficial_socialimpact-sdgs-youth-activity-7195256454302351360-mB9p?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1wmrfIvi64JrTG018WoA3rcCcnEDA4jyI/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.15",
+    title: "Youth of New Generation - Winspiration 3.0",
+    slides: [
+      {
+        date: "June 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the Commencement of Winspiration 3.0",
+        image: "assets/img/impact/youth-women-empowerment/Commencement of Winspiration 3.0.png",
+        description:
+          "I had the pleasure of participating in the commencement of Winspiration 3.0, the flagship mentorship program led by Youth of New Generation Sri Lanka (NGSL). The inaugural session featured several key industry leaders, including Snr. Prof. H.D. Karunaratne, Vice Chancellor of the University of Colombo, as the Chief Guest.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-psychology-empowerment-activity-7197644799154274305-Zr1y?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1VvA92jihiBEuHE6nDBIh98_wFDDd9ym9/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.16",
+    title: "Addressing the Inventors Club - Wayamba University of Sri Lanka",
+    slides: [
+      {
+        date: "March 5, 2022",
+        source_name: "Inventors Club - Wayamba University of Sri Lanka",
+        source_link: "https://web.facebook.com/InventorsClubWUSL",
+        title: "Our heartfelt gratitude for our speakers✍️",
+        image: "assets/img/impact/youth-women-empowerment/Inventors Club - Wayamba University.png",
+        description: "Thank you for your participation...",
+        link: "https://web.facebook.com/100076041701168/posts/136228258904110/",
+        backup_image: "https://drive.google.com/file/d/1ZgNzBONwr6vHdiTWQc3r52Ye1w72perl/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.17",
+    title:
+      "Addressing the Sparkle a Business Idea Knowledge Sharing Session of the Faculty of Management Studies, Rajarata University of Sri Lanka",
+    slides: [
+      {
+        date: "November 2022",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "Why 'Pivot' is Essential for Entrepreneurs: Navigating Market Shifts and Economic Hardships",
+        image: "assets/img/impact/youth-women-empowerment/Pivot.png",
+        description:
+          'There\'s a reason the word "Pivot" is so strongly associated with entrepreneurs. Founders need to be able to see where market...',
+        link: "https://www.linkedin.com/posts/elzianagro_entrepreneurs-founders-change-activity-6953595609719136256-pA6x?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1XSr07XpyohHt8rVb8qcRFissbGZtaqhT/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.18",
+    title:
+      'Addressing the WSIS Forum High-Level Event, WSA session, titled "Youth Engagement Around WSIS Action Lines”',
+    slides: [
+      {
+        date: "June 2024",
+        source_name: "WSA",
+        source_link: "https://www.linkedin.com/company/world-summit-awards/posts/",
+        title: "Empowering Youth at the WSIS Forum: Shaping the Future of ICT and Digital Entrepreneurship",
+        image: "assets/img/impact/youth-women-empowerment/WSIS Forum.png",
+        description:
+          'Hear from WSA Youth Ambassadors at the World Summit on the Information Society Forum in the "Youth Engagement Around WSIS Action Lines" session. 🌐',
+        link: "https://www.linkedin.com/posts/world-summit-awards_wsis-technology-networks-activity-7201107444255637505-ndlZ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/16F9y1h88FG8j1cb3ToLdkbLiSgrRCR2Z/view?usp=drive_link",
+      },
+      {
+        date: "June 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Contribute to the WSA Session at the WSIS Forum High-Level Event in Geneva",
+        image: "assets/img/impact/youth-women-empowerment/WSA Session.png",
+        description:
+          "It is a pleasure to contribute to the WSA session at the World Summit on the Information Society (WSIS Process) Forum High-Level Event in Geneva, Switzerland, co-hosted by the International...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-wsis-itu-activity-7200804008263917570-oDjz?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1lymDwP07tpb7HjaH9F_QDoOUplApRNKz/view?usp=drive_link",
+      },
+      {
+        date: "May 2024",
+        source_name: "WSIS+20 Forum High-Level Event 2024",
+        source_link: "https://www.itu.int/net4/wsis/forum/2024/",
+        title: "Youth Engagement Around WSIS Action Lines",
+        image: "assets/img/impact/youth-women-empowerment/WSIS Action Lines.png",
+        description:
+          'The WSIS Action Lines, outline steps to leverage information and communication technologies (ICTs) for sustainable development. The WSA  session titled "Youth Engagement Around WSIS Action Lines" focuses on the critical role young people play in advancing the Tunis agenda, specifically around action line C7.',
+        link: "https://www.itu.int/net4/wsis/forum/2024/Agenda/Session/185",
+        backup_image: "https://drive.google.com/file/d/14sjfzvO0nDqKFEi4Y03vClzd0FUJ5Fyz/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.19",
+    title:
+      "Empower Youth through Ye! Community Learn and Connect Session organized by the International Trade Centre (ITC)",
+    slides: [
+      {
+        date: "July 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Addressing the Ye! Community",
+        image: "assets/img/impact/youth-women-empowerment/address-ye-community.png",
+        description:
+          "It was a pleasure to contribute as a speaker for the recent Ye! Community Learn and Connect Session. These sessions, conducted every three months on the last Wednesday, are affiliated with the International Trade Centre and the Ye! Community.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-entrepreneurship-startups-activity-7211735366033137665-y7eh?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1BzNwV3KbkKy2WRybZOeqhnReJaf5TBha/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.20",
+    title: "New Generation Asian Youth WINSPIRATION 3.0",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in WINSPIRATION 3.0",
+        image: "assets/img/impact/youth-women-empowerment/WINSPIRATION 3.0.png",
+        description:
+          "Participating in WINSPIRATION 3.0 was an enriching experience. This initiative was designed to empower Asian youth by providing a platform that extended beyond traditional volunteerism...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-youth-empowerment-activity-7216184409421414400-jLjq?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1TsQ1Q74HerG0dthnqnynHoERO4C3bv8Q/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.21",
+    title: "Youth Networking at Charleroi",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Maximizing Time: The Power of Networking and Multitasking for Success",
+        image: "assets/img/impact/youth-women-empowerment/Maximizing Time.png",
+        description:
+          "Time is our most valuable resource, and its proper utilization can be the key to success. Recently, I found myself at a time-consuming gathering near Charleroi Airport in Belgium. In such scenarios, I always prioritize two things: networking and multitasking.",
+        link: "https://www.linkedin.com/posts/lilanofficial_time-resource-youth-activity-7228828240641937408-y-y6?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Epquljgb7IlhCwvgEX4iiHXI0EKfHinN/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.22",
+    title: "Moonshot Young Leaders Camp",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participation in the Moonshot Young Leaders Camp: A Journey of Empowerment and Inspiration",
+        image: "assets/img/impact/youth-women-empowerment/Moonshot Young Leaders.png",
+        description:
+          "I had the opportunity to participate in the Moonshot Young Leaders Camp at the Moonshot Platform. This exceptional program provided a series of inspirational, empowering, and mindful sessions...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7221391951764283392-MQks?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1M3PZCFmzAOyO1lIZDe9rTG5vq7_biLMM/view?usp=drive_link",
+      },
+      {
+        date: "July 2024",
+        source_name: "Moonshot Platform",
+        source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
+        title: "Introducing some of the Young Leaders",
+        image: "assets/img/impact/youth-women-empowerment/moonshot-platform.png",
+        description:
+          "Introducing you to some of the Young Leaders joining us at this year's Moonshot Young Leaders Camp...",
+        link: "https://www.linkedin.com/posts/moonshot-platform_youngleaders-socialimpact-sdgs-activity-7213889108237049858-ejvR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1roFbcTOqQ5vHRBjW2IKwk8QYCeUpvOUt/view?usp=drive_link",
+      },
+      {
+        date: "August 18, 2024",
+        source_name: "Biz Report",
+        source_link: "https://english.bizreport.lk/",
+        title: "Lilan Dayananda Selected for Moonshot Young Leaders Camp in Czechia",
+        image: "assets/img/impact/youth-women-empowerment/Moonshot Young Leaders Camp.png",
+        description:
+          "Lilan Dayananda, the dynamic Managing Director and CEO of Elzian Agro, has been selected to participate in the prestigious Moonshot Young Leaders Camp. This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges. During the program, Lilan also met the President Petr Pavel of the Czech Republic, the royal family of the House of Lobkowicz at Prague Castle, Senator Ondřej Šimetka and Martin Kupka, Minister of Transport of Czechia.",
+        link: "https://english.bizreport.lk/lilan-dayananda-selected-for-moonshot-young-leaders-camp-in-czechia/",
+        backup_image: "https://drive.google.com/file/d/10EiZu9BHUFxsmPZsDgPyDWMtK3KMMlZT/view?usp=drive_link",
+      },
+      {
+        date: "August 17, 2024",
+        source_name: "Business Cafe",
+        source_link: "https://www.businesscafe.lk/",
+        title: "Lilan Dayananda Selected for Moonshot Young Leaders Camp in Czechia",
+        image: "assets/img/impact/youth-women-empowerment/Business Cafe Leaders.png",
+        description:
+          "This transformative event brought together 100 purpose-driven young leaders and expert mentors from around the globe, fostering innovation and collaboration to tackle complex global challenges.",
+        link: "https://www.businesscafe.lk/business-news/food-beverage/item/16085-lilan-dayananda-selected-for-moonshot-young-leaders-camp-in-czechia",
+        backup_image: "https://drive.google.com/file/d/1H-LH3Ix0sSPfl1lrgfWeXozkKOYb7Ben/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.23",
+    title: "Participating in Youth-Driven Innovation in Global Education Workshop",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering the Future: Youth-Driven Innovation in Global Education",
+        image: "assets/img/impact/youth-women-empowerment/Empowering the Future.png",
+        description:
+          "The workshop on the Youth-Driven Innovation in Global Education by Amanda Abrom (Director of the Global Schools Program, United Nations SDSN) and Nene Onyedi Ibezim (Project Officer, Global Schools, UN SDSN) at the AFS Youth Assembly in New York, USA was interactive.",
+        link: "https://www.linkedin.com/posts/lilanofficial_the-workshop-on-the-youth-driven-innovation-activity-7231913597650485248-p4Ok?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1fFngU3yuYkN5WG6TURaunKkljGM4ZdAX/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.25",
+    title: "Women Inclusion at the United People Global (UPG) ",
+    slides: [
+      {
+        date: "April 2024",
+        source_name: "United People Global",
+        source_link: "https://www.youtube.com/@UnitedPeopleGlobal",
+        title: "United Voices",
+        image: "assets/img/impact/youth-women-empowerment/united-people-global.png",
+        description: "What's Going On? UPG Champion Invite...",
+        link: "https://www.youtube.com/watch?v=WjIME9s70Xk",
+        backup_image: "https://drive.google.com/file/d/1oAePzkix5NlBGaWnWt5t9Q-UrNvToN7t/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.26",
+    title: "Addressing the students of Ibbagamuwa Central College",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Returning to Inspire: A Youth Empowerment Talk at Ibbagamuwa Central College",
+        image: "assets/img/impact/youth-women-empowerment/Youth Empowerment Talk.png",
+        description:
+          "After nine years, I had the privilege of returning to my alma mater, Ibbagamuwa Central College, to speak on youth empowerment. Invited by Sun Match Company, popularly known as “SOORYA,” ...",
+        link: "https://www.linkedin.com/posts/lilanofficial_school-youth-purpose-activity-7236748147635470338-qXIL?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1p5MbwaI3pVFvyN1gyk2qSzSEvWGqqek_/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.27",
+    title: "Mentoring for the Youths United For Earth (YUFE)",
+    slides: [
+      {
+        date: "November 2024",
+        source_name: "Malini Elango",
+        source_link: "https://www.linkedin.com/in/malini-elango-91a6121a0/",
+        title: "Cheers to all the mentors who go out of their way to guide, support, and inspire others 🥂",
+        image: "assets/img/impact/youth-women-empowerment/Cheers to all the mentors.png",
+        description:
+          "Recently, I had the opportunity to be selected as a mentee for the 𝗬𝗨𝗙𝗘 𝗦𝘂𝘀𝘁𝗮𝗶𝗻𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗠𝗲𝗻𝘁𝗼𝗿𝘀𝗵𝗶𝗽 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲 🪴 which bridges ambitious young individuals with experienced industry leaders...",
+        link: "https://www.linkedin.com/posts/malini-elango-91a6121a0_cheers-to-all-the-mentors-who-go-out-of-their-activity-7263871753792176128-5q3y?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1zWMXlM2lmnMNN9q3kIf-X3twRWlAtQmK/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.28",
+    title: "Inspiring conversation with the UN Assistant Secretary-General for Youth Affairs",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Voices for Change at Moonshot Platform",
+        image: "assets/img/impact/youth-women-empowerment/Change at Moonshot Platform.png",
+        description:
+          "During the Moonshot Platform gathering in New York, I had the privilege of engaging in an inspiring conversation with Felipe Paullier Olivera, the UN Assistant Secretary-General for Youth Affairs. He emphasized the critical importance of amplifying youth voices...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-leadership-un-activity-7319708147021922304-wtRl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gHIXazMSTTtV7y4UIBEANsc8oIs8CQ3f/view?usp=sharing",
       },
     ],
   },
