@@ -1079,6 +1079,17 @@ const impacts = [
     title: "The International Association of Horticultural Producers (AIPH) Youth Jury Member",
     slides: [
       {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "AIPH World Green City Awards Return: Celebrating Nature-Driven Urban Futures",
+        image: "assets/img/impact/membership/AIPH World Green City Awards Return.png",
+        description:
+          "I’m excited to share that the International Association for Horticultural Producers (AIPH) World Green City Awards, the first and only global awards focused on cities where plants and nature are at the heart of urban design has returned for its third edition...",
+        link: "https://www.linkedin.com/posts/lilanofficial_development-urban-sustainable-activity-7321149073338560513-IQvl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1hdz_ArpR_h2bk1FSlY-uqYM24k03kcbM/view?usp=sharing",
+      },
+      {
         date: "June 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -2710,6 +2721,17 @@ const impacts = [
         link: "https://www.linkedin.com/feed/update/urn:li:activity:7318737327529291776",
         backup_image: "https://drive.google.com/file/d/1etNCgxgNTBKPSgBplaWqJdPf3XA31gz3/view?usp=sharing",
       },
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ELZIAN AGRO at ChangeNOW Paris: Advancing Global Impact Through Bold Partnerships",
+        image: "assets/img/impact/innovation-social/ELZIAN AGRO at ChangeNOW Paris.png",
+        description:
+          "Today, I’m at ChangeNOW in Paris, France; a gathering of 1,000 groundbreaking solutions and visionary leaders driving real climate action. Day 1 was nothing short of transformative...",
+        link: "https://www.linkedin.com/posts/lilanofficial_parisagreement-changenowhubs-changenow2025-activity-7321255023395393536-h41S?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/12uof71a2y6IZ8GamvbgPkqKG2t9wanBt/view?usp=sharing",
+      },
     ],
   },
 
@@ -3370,6 +3392,237 @@ const impacts = [
           "It was a pleasure to participate in the Food and Fashion event at Regen House in New York. The session was conducted by the Wholechain team. Regenerative agriculture is not just about food...",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-fasion-activity-7268477788007866368-nRfk/?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1lmU_0DTRPPRNF8hAuG-CnpFVVWoWlUtM/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.30",
+    title:
+      "Participating the United Nations Convention to Combat Desertification (UNCCD) COP16, G20 Global Land Initiative Restoration Pavilion",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Youth Ecopreneurs at COP16: Financing the Future of Land Restoration",
+        image: "assets/img/impact/food-agriculture-forestry/Youth Ecopreneurs at COP16.png",
+        description:
+          "In a powerful session at #COP16Riyadh on ‘Financing the Future of Restoration: Business Perspectives on Access to Finance for start ups’, participants from the 2024 Ye! Youth Ecopreneur Programme (YECO) shared their journeys navigating the financial landscape for land-focused startups...",
+        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7274388661834600448-Ggp6?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1noX4z-jeM1HtEZr95kDt9_phv_YtLSu0/view?usp=sharing",
+      },
+      {
+        date: "December 2024",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Youth Innovation Takes Center Stage at COP16 Riyadh 🌱",
+        image: "assets/img/impact/food-agriculture-forestry/Youth Innovation Takes Center Stage.png",
+        description:
+          "Youth leaders are shaping the future with bold ideas and action! 🌍 Week 2 of #COP16Riyadh is in full swing, showcasing innovative pitches, meaningful collaborations, and a shared commitment to restoring our land...",
+        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7272581503539204097-oZPM?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1FJVzk8WwVTqWutM8bWfFTsZhwS4eNG9t/view?usp=sharing",
+      },
+      {
+        date: "December 2024",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Ecopreneurs Lead the Way: Stories of Resilience and Restoration at COP16",
+        image: "assets/img/impact/food-agriculture-forestry/Ecopreneurs Lead the Way.png",
+        description:
+          "At #COP16Riyadh, we explored the innovative perspectives of inspiring ecopreneurs driving sustainable change! 🌍✨",
+        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7274438188398440448-cgzs?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1pkWQksQir4Mmx7ogN5bPeNzi5AVLK9d4/view?usp=sharing",
+      },
+      {
+        date: "December 2024",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Introducing YECO at COP16!",
+        image: "assets/img/impact/food-agriculture-forestry/Introducing YECO at COP16!.png",
+        description:
+          "12 passionate Youth Ecopreneurs are stepping onto the global stage at COP16 to lead conversations on land and drought resilience, showcasing their innovative land restoration solutions...",
+        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7269606299401609216-UERC?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1T-Ua4pYzO0tJF3K-ZfSa7Wqf0gg8y1nn/view?usp=sharing",
+      },
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Uniting for Impact: Advancing Biosaline Agriculture at COP16",
+        image: "assets/img/impact/food-agriculture-forestry/Uniting for Impact.png",
+        description:
+          "Yesterday at COP16 was an eventful and impactful day alongside the International Trade Centre, ITC Ye! Community, G20 Global Land Initiative, and the United Nations Convention to Combat Desertification...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-innovation-activity-7272980463370084352-wwby?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1LejU1CXhhwNjIbw_LS8dlsMeO5tiBZfh/view?usp=sharing",
+      },
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Minds for Land Regeneration: Inspiring Moments at COP16",
+        image: "assets/img/impact/food-agriculture-forestry/Inspiring Moments at COP16.png",
+        description:
+          'Today, I had the incredible opportunity to participate in the Science & Tech Session under the theme "Minds at the Heart of Land Regeneration" at the Business Lounge during COP16 in Riyadh, Saudi Arabia...',
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-landregeneration-sustainability-activity-7271963527626518529-wIFY?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1_7cVV46DZ9FzVWmG7bp0VXzC2Gfeav-s/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.31",
+    title: "Addressing COP16 at the Science & Technology hosted at the Business4Land Lounge",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Kicking Off COP16 with Innovation: ELZIAN AGRO at the Business4Land Lounge",
+        image: "assets/img/impact/food-agriculture-forestry/ELZIAN AGRO at the Business4Land Lounge.png",
+        description:
+          "Excited to share my ELZIAN AGRO experience kicking off COP16Riyadh at the Science & Technology Session under the theme Minds at the Heart of Land Regeneration, hosted at the Business4Land...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-landregeneration-activity-7274494785682350080-jbK8/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ZKkJv5P7TShBHFUyBhliwmir_Xh9tlNy/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.32",
+    title: "Addressing COP16 at the G20 Global Land Initiative’s Restoration Pavilion",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Youth Ecopreneurs at COP16: Financing the Future of Land Restoration",
+        image: "assets/img/impact/food-agriculture-forestry/Youth Ecopreneurs at COP16.png",
+        description:
+          "In a powerful session at #COP16Riyadh on ‘Financing the Future of Restoration: Business Perspectives on Access to Finance for start ups’, participants from the 2024 Ye! Youth Ecopreneur Programme (YECO) shared their journeys navigating the financial landscape for land-focused startups...",
+        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7274388661834600448-Ggp6?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1noX4z-jeM1HtEZr95kDt9_phv_YtLSu0/view?usp=sharing",
+      },
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Restoration: YECO Ecopreneurs Tackle Financing at COP16",
+        image: "assets/img/impact/food-agriculture-forestry/Empowering Restoration.png",
+        description:
+          "It was an honor to participate in an inspiring panel of extraordinary ecopreneurs from the Youth Ecopreneur Programme (YECO), run by the G20 Global Land Initiative and the International Trade Centre...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-startup-activity-7276478265219788801-T04g?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ztK_FY5I_IRCE1a3hJfuIqkP7u-SLUoR/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.33",
+    title: "Addressing the Innovation Stage at COP16",
+    slides: [
+      {
+        date: "January 2025",
+        source_name: "Lukwesa Burak",
+        source_link: "https://www.linkedin.com/in/lukwesaburak/",
+        title: "Honoured to Exchange Ideas with Climate Innovators at COP16 – Lilan Dayananda",
+        image: "assets/img/impact/food-agriculture-forestry/Honoured to Exchange Ideas.png",
+        description:
+          "It was an honour to learn about and share work being done by yourself and other climate change innovators.",
+        link: "https://www.linkedin.com/posts/lukwesaburak_cop16-sustainability-startup-activity-7282938691629551616-Knsn?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/15VBWV74odfRebFFzUOzSnkMo3zbwX4Ip/view?usp=sharing",
+      },
+      {
+        date: "January 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Showcasing ELZIAN AGRO Innovation for Sustainable Agriculture at COP16",
+        image: "assets/img/impact/food-agriculture-forestry/Sustainable Agriculture at COP16.png",
+        description:
+          "Thrilled to have presented ELZIAN AGRO on the Innovation Stage! 🌱✨ The session, expertly moderated by Lukwesa Burak, delved into how innovation is transforming sustainable agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-startup-activity-7278020634670985216-0rrV?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1HcsjY8nxpuzdc8O3TEk3vyYdnTQIWnQW/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.34",
+    title: "FAO Digital Villages Initiative in Asia and the Pacific",
+    slides: [
+      {
+        date: "",
+        source_name: "FAO of the United Nations",
+        source_link: "https://www.fao.org/home/en/",
+        title: "Digital Villages Initiative in Asia and the Pacific",
+        image: "assets/img/impact/food-agriculture-forestry/Digital Villages Initiative.png",
+        description:
+          "Lilan Dayananda, CEO of Elzian Agro, is a social tech entrepreneur and Commonwealth Youth Awardee. A UNESCO-listed social entrepreneur, he empowers Sri Lankan farmers with advanced precision agriculture solutions...",
+        link: "https://www.fao.org/digital-villages-initiative/asia-pacific/agritech-founders/search-result/en",
+        backup_image: "https://drive.google.com/file/d/1c6Mh12grPCoHt5Rl3HAtusTsaZbMT5-b/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.35",
+    title: "Representing Elzian Agro at ChangeNow to Promote Precision Agriculture",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.instagram.com/g20landinitiative/",
+        title:
+          "YECO Ecopreneurs Take the Stage: Showcasing Bold Solutions for a Climate-Resilient Future at COP16",
+        image: "assets/img/impact/food-agriculture-forestry/YECO Ecopreneurs Take the Stage.png",
+        description:
+          "Four more YECO entrepreneurs are set to showcase their powerful, planet-positive solutions at the world’s leading event for sustainability and impact. 🌱💡",
+        link: "https://www.instagram.com/p/DIjMHfcJ_Gb/?igsh=MWQxcXN4OXFmZDUydw==",
+        backup_image: "https://drive.google.com/file/d/1AabGxehUpRmmuUOpkVQhZ0XDkmHvOTGX/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "YECO Stars Shine Bright: Youth Ecopreneurs Set to Lead at ChangeNOW 2025",
+        image: "assets/img/impact/food-agriculture-forestry/YECO Stars Shine Bright.png",
+        description:
+          "🚀 They’re heading to ChangeNOW 2025 with ITC Ye! Community and G20 Global Land Initiative...",
+        link: "https://www.linkedin.com/posts/ye-community_youth-ecopreneurs-at-changenow-activity-7318654249721098240-rGRs?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dkxeQ2TVaVJlPGwcIc3XINLFb9PUCkkl/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.linkedin.com/company/g20-global-land-initiative/posts/",
+        title: "YECO Stars Shine Bright: Youth Ecopreneurs Set to Lead at ChangeNOW 2025",
+        image: "assets/img/impact/food-agriculture-forestry/YECO Stars Shine Bright-1.png",
+        description:
+          "🚀 They’re heading to ChangeNOW 2025 with ITC Ye! Community and G20 Global Land Initiative...",
+        link: "https://www.linkedin.com/posts/g20-global-land-initiative_yecos-at-change-now-2025-part-2-activity-7318634350273568769-tmEh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Qo8s2bu6K34GMFQ--usY2egD_nRD-RXS/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "ELZIAN AGRO at ChangeNOW: Showcasing Purpose-Driven Innovation on a Global Stage",
+        image: "assets/img/impact/food-agriculture-forestry/ELZIAN AGRO at ChangeNOW.png",
+        description:
+          "Our CEO, Lilan Dayananda is representing ELZIAN AGRO at ChangeNOW in Paris, France. ChangeNOW stands as a global stage for entrepreneurship dedicated to driving positive environmental and social impact...",
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:7318737327529291776",
+        backup_image: "https://drive.google.com/file/d/1au3LObYdubNPKeiki3tnKiPHbJRBZTWD/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ELZIAN AGRO at ChangeNOW Paris: Advancing Global Impact Through Bold Partnerships",
+        image: "assets/img/impact/food-agriculture-forestry/ELZIAN AGRO at ChangeNOW Paris.png",
+        description:
+          "Today, I’m at ChangeNOW in Paris, France; a gathering of 1,000 groundbreaking solutions and visionary leaders driving real climate action. Day 1 was nothing short of transformative.",
+        link: "https://www.linkedin.com/posts/lilanofficial_parisagreement-changenowhubs-changenow2025-activity-7321255023395393536-h41S?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gq-K7QCTkVGOecxq7yYMWUoUy_eAk03F/view?usp=sharing",
       },
     ],
   },
@@ -5457,6 +5710,157 @@ const impacts = [
           "The Generation Democracy Global Summit in Vilnius offered an incredible opportunity to connect with its affiliates. Daryna Onyshko led an insightful session on the Community of Democracies (CoD).",
         link: "https://www.linkedin.com/posts/lilanofficial_global-youthleadership-democracy-activity-7257217080289054722-9Qws?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1RnRgrE_A0S3GEhAbRHC-LtBQR5c1vqFV/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.48",
+    title:
+      "Participating in the declaration at the International Republican Institute’s Generation Democracy Global Summit",
+    slides: [
+      {
+        date: "November 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Leading the Charge: Adopting the 8th Global Summit Declaration in Lithuania",
+        image: "assets/img/impact/public-policy/Youth Leading the Charge.png",
+        description:
+          "I’m honored to have participated in the adoption of the 8th Global Summit Declaration at the International Republican Institute’s Generation Democracy Global Summit in Lithuania...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youthleadership-generationdemocracy-civicengagement-activity-7266034565121470464-Noow?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1f7GyIdLeFxg2Z4pcZ5P9dt9yn9iGjdRp/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.49",
+    title: "Exploring Czech Philharmonic Performances",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "An Evening of Legacy and Culture: Czech Philharmonic at Carnegie Hall with Moonshot Community",
+        image: "assets/img/impact/public-policy/An Evening of Legacy and Culture.png",
+        description:
+          "Today, I had the exciting opportunity to attend a performance by the Czech Philharmonic at Carnegie Hall in New York, alongside the Moonshot Community...",
+        link: "https://www.linkedin.com/posts/lilanofficial_czechphilharmonic-carnegiehall-czechculture-activity-7270652804468211712-8mwR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1IRFMuqaKYfhijsolU3et2muQz5MJhMdn/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.50",
+    title: "Participating in the Obama Foundation Democracy Forum",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Championing Pluralism at the Obama Foundation Democracy Forum in Chicago",
+        image: "assets/img/impact/public-policy/Championing Pluralism.png",
+        description:
+          "I had an incredible experience at the Obama Foundation Democracy Forum in Chicago, where leaders from around the world gathered to discuss pluralism as a means to strengthen democracy...",
+        link: "https://www.linkedin.com/posts/lilanofficial_obamafoundation-democracy-forum-activity-7275107064635432960-6e_h?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1-yNTta6ZNRuT27nkLMB8YX-rgjAzftfd/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.51",
+    title: "Contributing to Digital Democracy at the the WSA Global Congress",
+    slides: [
+      {
+        date: "March 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping Digital Futures: Join the WSA Global Congress & Digital Sangam 2025 in Hyderabad",
+        image: "assets/img/impact/public-policy/Shaping Digital Futures.png",
+        description:
+          "The digital world is a reflection of our choices; how we manage data, uphold sovereignty, and define ethical boundaries. Are we building systems that empower individuals...",
+        link: "https://www.linkedin.com/posts/lilanofficial_the-digital-world-is-a-reflection-of-our-activity-7313442875562676224-WssX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1sDuqm1GGr0Qt-o42XdW7Mjirb75Gq8AP/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.52",
+    title: "Addressing the WSA Global Congress based on Digital Democracy",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSA Global Congress Day 2: Advancing Digital Equity and Inclusive Innovation in Hyderabad",
+        image: "assets/img/impact/public-policy/WSA Global Congress Day 2.png",
+        description:
+          "The second day of the World Summit Awards (WSA) Global Congress in Hyderabad, India was filled with insightful discussions on building digital futures rooted in equity and inclusion...",
+        link: "https://www.linkedin.com/posts/lilanofficial_digital-wsa-itu-activity-7315270865678409728-Fv5H?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1DFvd0vIeLlAIaMC5Sh9Y5C0Ck3gafPmr/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.53",
+    title: "Participating in the WSA Global Congress based on Digital Democracy",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSA Youth Ambassadors Lead the Charge for Digital Impact at Global Congress 2025",
+        image: "assets/img/impact/public-policy/Digital Impact at Global Congress 2025.png",
+        description:
+          "Cheers to the incredible WSA Youth Ambassadors who shaped the future at the WSA Global Congress 2025 in Hyderabad, India! 🌍✨",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-global-congress-activity-7319047519911522306-T-ku?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ZMlWPDDVTYVB2PkPQyD86SrYIEb93SaH/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Digital Futures: My Journey at WSA Global Congress 2025",
+        image: "assets/img/impact/public-policy/Empowering Digital Futures.png",
+        description:
+          "As a Jury Member and a proud WSA Youth Ambassador, I had the incredible opportunity to participate in the WSA Global Congress 2025, a gathering that brought together some of the brightest minds...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-global-congress-activity-7317604182402781187-scy_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1SbMtor60CooelFLhmeszacd10_wb0kpF/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Digital Innovation at WSA Global Congress 2025 - Hyderabad, India",
+        image: "assets/img/impact/public-policy/Exploring Digital Innovation.png",
+        description:
+          "Third day of the World Summit Awards Global Congress was an inspiring journey through Digital Sangam, where we explored cutting-edge digital solutions from Telangana, India, and across the globe. 🌍💡",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-digital-innovation-activity-7315922521361432579-F8OS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAER_FOQBgw4eOXu14W-xhpRf6DYxwhIqJaI",
+        backup_image: "https://drive.google.com/file/d/13ckcs0EhOkI5gPF94uiUwHkVfrXqhUQ0/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.54",
+    title:
+      "A discussion on the vital role of the UN Economic and Social Council (ECOSOC) in coordinating with other United Nations agencies",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Meet ECOSOC President Bob Rae at Moonshot Platform Gathering in NYC",
+        image: "assets/img/impact/public-policy/Honored to Meet ECOSOC President Bob Rae.png",
+        description:
+          "It was an honor to meet His Excellency Bob Rae, President of the United Nations Economic and Social Council (ECOSOC), during the Moonshot Platform Gathering in New York, USA.",
+        link: "https://www.linkedin.com/posts/lilanofficial_un-ecosoc-multilateralism-activity-7319063014161149952-L-4A?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1NVuNaf2C2HLOcsxHY9KExXce-CjLOn4n/view?usp=sharing",
       },
     ],
   },
