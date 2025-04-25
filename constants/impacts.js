@@ -3373,6 +3373,237 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.30",
+    title:
+      "Participating the United Nations Convention to Combat Desertification (UNCCD) COP16, G20 Global Land Initiative Restoration Pavilion",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Youth Ecopreneurs at COP16: Financing the Future of Land Restoration",
+        image: "assets/img/impact/food-agriculture-forestry/Youth Ecopreneurs at COP16.png",
+        description:
+          "In a powerful session at #COP16Riyadh on ‘Financing the Future of Restoration: Business Perspectives on Access to Finance for start ups’, participants from the 2024 Ye! Youth Ecopreneur Programme (YECO) shared their journeys navigating the financial landscape for land-focused startups...",
+        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7274388661834600448-Ggp6?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1noX4z-jeM1HtEZr95kDt9_phv_YtLSu0/view?usp=sharing",
+      },
+      {
+        date: "December 2024",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Youth Innovation Takes Center Stage at COP16 Riyadh 🌱",
+        image: "assets/img/impact/food-agriculture-forestry/Youth Innovation Takes Center Stage.png",
+        description:
+          "Youth leaders are shaping the future with bold ideas and action! 🌍 Week 2 of #COP16Riyadh is in full swing, showcasing innovative pitches, meaningful collaborations, and a shared commitment to restoring our land...",
+        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7272581503539204097-oZPM?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1FJVzk8WwVTqWutM8bWfFTsZhwS4eNG9t/view?usp=sharing",
+      },
+      {
+        date: "December 2024",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Ecopreneurs Lead the Way: Stories of Resilience and Restoration at COP16",
+        image: "assets/img/impact/food-agriculture-forestry/Ecopreneurs Lead the Way.png",
+        description:
+          "At #COP16Riyadh, we explored the innovative perspectives of inspiring ecopreneurs driving sustainable change! 🌍✨",
+        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7274438188398440448-cgzs?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1pkWQksQir4Mmx7ogN5bPeNzi5AVLK9d4/view?usp=sharing",
+      },
+      {
+        date: "December 2024",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Introducing YECO at COP16!",
+        image: "assets/img/impact/food-agriculture-forestry/Introducing YECO at COP16!.png",
+        description:
+          "12 passionate Youth Ecopreneurs are stepping onto the global stage at COP16 to lead conversations on land and drought resilience, showcasing their innovative land restoration solutions...",
+        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7269606299401609216-UERC?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1T-Ua4pYzO0tJF3K-ZfSa7Wqf0gg8y1nn/view?usp=sharing",
+      },
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Uniting for Impact: Advancing Biosaline Agriculture at COP16",
+        image: "assets/img/impact/food-agriculture-forestry/Uniting for Impact.png",
+        description:
+          "Yesterday at COP16 was an eventful and impactful day alongside the International Trade Centre, ITC Ye! Community, G20 Global Land Initiative, and the United Nations Convention to Combat Desertification...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-innovation-activity-7272980463370084352-wwby?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1LejU1CXhhwNjIbw_LS8dlsMeO5tiBZfh/view?usp=sharing",
+      },
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Minds for Land Regeneration: Inspiring Moments at COP16",
+        image: "assets/img/impact/food-agriculture-forestry/Inspiring Moments at COP16.png",
+        description:
+          'Today, I had the incredible opportunity to participate in the Science & Tech Session under the theme "Minds at the Heart of Land Regeneration" at the Business Lounge during COP16 in Riyadh, Saudi Arabia...',
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-landregeneration-sustainability-activity-7271963527626518529-wIFY?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1_7cVV46DZ9FzVWmG7bp0VXzC2Gfeav-s/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.31",
+    title: "Addressing COP16 at the Science & Technology hosted at the Business4Land Lounge",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Kicking Off COP16 with Innovation: ELZIAN AGRO at the Business4Land Lounge",
+        image: "assets/img/impact/food-agriculture-forestry/ELZIAN AGRO at the Business4Land Lounge.png",
+        description:
+          "Excited to share my ELZIAN AGRO experience kicking off COP16Riyadh at the Science & Technology Session under the theme Minds at the Heart of Land Regeneration, hosted at the Business4Land...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-landregeneration-activity-7274494785682350080-jbK8/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ZKkJv5P7TShBHFUyBhliwmir_Xh9tlNy/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.32",
+    title: "Addressing COP16 at the G20 Global Land Initiative’s Restoration Pavilion",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Youth Ecopreneurs at COP16: Financing the Future of Land Restoration",
+        image: "assets/img/impact/food-agriculture-forestry/Youth Ecopreneurs at COP16.png",
+        description:
+          "In a powerful session at #COP16Riyadh on ‘Financing the Future of Restoration: Business Perspectives on Access to Finance for start ups’, participants from the 2024 Ye! Youth Ecopreneur Programme (YECO) shared their journeys navigating the financial landscape for land-focused startups...",
+        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7274388661834600448-Ggp6?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1noX4z-jeM1HtEZr95kDt9_phv_YtLSu0/view?usp=sharing",
+      },
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Restoration: YECO Ecopreneurs Tackle Financing at COP16",
+        image: "assets/img/impact/food-agriculture-forestry/Empowering Restoration.png",
+        description:
+          "It was an honor to participate in an inspiring panel of extraordinary ecopreneurs from the Youth Ecopreneur Programme (YECO), run by the G20 Global Land Initiative and the International Trade Centre...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-startup-activity-7276478265219788801-T04g?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ztK_FY5I_IRCE1a3hJfuIqkP7u-SLUoR/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.33",
+    title: "Addressing the Innovation Stage at COP16",
+    slides: [
+      {
+        date: "January 2025",
+        source_name: "Lukwesa Burak",
+        source_link: "https://www.linkedin.com/in/lukwesaburak/",
+        title: "Honoured to Exchange Ideas with Climate Innovators at COP16 – Lilan Dayananda",
+        image: "assets/img/impact/food-agriculture-forestry/Honoured to Exchange Ideas.png",
+        description:
+          "It was an honour to learn about and share work being done by yourself and other climate change innovators.",
+        link: "https://www.linkedin.com/posts/lukwesaburak_cop16-sustainability-startup-activity-7282938691629551616-Knsn?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/15VBWV74odfRebFFzUOzSnkMo3zbwX4Ip/view?usp=sharing",
+      },
+      {
+        date: "January 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Showcasing ELZIAN AGRO Innovation for Sustainable Agriculture at COP16",
+        image: "assets/img/impact/food-agriculture-forestry/Sustainable Agriculture at COP16.png",
+        description:
+          "Thrilled to have presented ELZIAN AGRO on the Innovation Stage! 🌱✨ The session, expertly moderated by Lukwesa Burak, delved into how innovation is transforming sustainable agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-startup-activity-7278020634670985216-0rrV?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1HcsjY8nxpuzdc8O3TEk3vyYdnTQIWnQW/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.34",
+    title: "FAO Digital Villages Initiative in Asia and the Pacific",
+    slides: [
+      {
+        date: "",
+        source_name: "FAO of the United Nations",
+        source_link: "https://www.fao.org/home/en/",
+        title: "Digital Villages Initiative in Asia and the Pacific",
+        image: "assets/img/impact/food-agriculture-forestry/Digital Villages Initiative.png",
+        description:
+          "Lilan Dayananda, CEO of Elzian Agro, is a social tech entrepreneur and Commonwealth Youth Awardee. A UNESCO-listed social entrepreneur, he empowers Sri Lankan farmers with advanced precision agriculture solutions...",
+        link: "https://www.fao.org/digital-villages-initiative/asia-pacific/agritech-founders/search-result/en",
+        backup_image: "https://drive.google.com/file/d/1c6Mh12grPCoHt5Rl3HAtusTsaZbMT5-b/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.35",
+    title: "Representing Elzian Agro at ChangeNow to Promote Precision Agriculture",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.instagram.com/g20landinitiative/",
+        title:
+          "YECO Ecopreneurs Take the Stage: Showcasing Bold Solutions for a Climate-Resilient Future at COP16",
+        image: "assets/img/impact/food-agriculture-forestry/YECO Ecopreneurs Take the Stage.png",
+        description:
+          "Four more YECO entrepreneurs are set to showcase their powerful, planet-positive solutions at the world’s leading event for sustainability and impact. 🌱💡",
+        link: "https://www.instagram.com/p/DIjMHfcJ_Gb/?igsh=MWQxcXN4OXFmZDUydw==",
+        backup_image: "https://drive.google.com/file/d/1AabGxehUpRmmuUOpkVQhZ0XDkmHvOTGX/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "YECO Stars Shine Bright: Youth Ecopreneurs Set to Lead at ChangeNOW 2025",
+        image: "assets/img/impact/food-agriculture-forestry/YECO Stars Shine Bright.png",
+        description:
+          "🚀 They’re heading to ChangeNOW 2025 with ITC Ye! Community and G20 Global Land Initiative...",
+        link: "https://www.linkedin.com/posts/ye-community_youth-ecopreneurs-at-changenow-activity-7318654249721098240-rGRs?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dkxeQ2TVaVJlPGwcIc3XINLFb9PUCkkl/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.linkedin.com/company/g20-global-land-initiative/posts/",
+        title: "YECO Stars Shine Bright: Youth Ecopreneurs Set to Lead at ChangeNOW 2025",
+        image: "assets/img/impact/food-agriculture-forestry/YECO Stars Shine Bright-1.png",
+        description:
+          "🚀 They’re heading to ChangeNOW 2025 with ITC Ye! Community and G20 Global Land Initiative...",
+        link: "https://www.linkedin.com/posts/g20-global-land-initiative_yecos-at-change-now-2025-part-2-activity-7318634350273568769-tmEh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Qo8s2bu6K34GMFQ--usY2egD_nRD-RXS/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "ELZIAN AGRO at ChangeNOW: Showcasing Purpose-Driven Innovation on a Global Stage",
+        image: "assets/img/impact/food-agriculture-forestry/ELZIAN AGRO at ChangeNOW.png",
+        description:
+          "Our CEO, Lilan Dayananda is representing ELZIAN AGRO at ChangeNOW in Paris, France. ChangeNOW stands as a global stage for entrepreneurship dedicated to driving positive environmental and social impact...",
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:7318737327529291776",
+        backup_image: "https://drive.google.com/file/d/1au3LObYdubNPKeiki3tnKiPHbJRBZTWD/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ELZIAN AGRO at ChangeNOW Paris: Advancing Global Impact Through Bold Partnerships",
+        image: "assets/img/impact/food-agriculture-forestry/ELZIAN AGRO at ChangeNOW Paris.png",
+        description:
+          "Today, I’m at ChangeNOW in Paris, France; a gathering of 1,000 groundbreaking solutions and visionary leaders driving real climate action. Day 1 was nothing short of transformative.",
+        link: "https://www.linkedin.com/posts/lilanofficial_parisagreement-changenowhubs-changenow2025-activity-7321255023395393536-h41S?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gq-K7QCTkVGOecxq7yYMWUoUy_eAk03F/view?usp=sharing",
+      },
+    ],
+  },
 
   {
     filter: "filter-renewable-energy",
