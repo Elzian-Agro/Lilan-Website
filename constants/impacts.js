@@ -5691,6 +5691,157 @@ const impacts = [
       },
     ],
   },
+  {
+    filter: "filter-public-policy",
+    id: "7.48",
+    title:
+      "Participating in the declaration at the International Republican Institute’s Generation Democracy Global Summit",
+    slides: [
+      {
+        date: "November 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Leading the Charge: Adopting the 8th Global Summit Declaration in Lithuania",
+        image: "assets/img/impact/public-policy/Youth Leading the Charge.png",
+        description:
+          "I’m honored to have participated in the adoption of the 8th Global Summit Declaration at the International Republican Institute’s Generation Democracy Global Summit in Lithuania...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youthleadership-generationdemocracy-civicengagement-activity-7266034565121470464-Noow?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1f7GyIdLeFxg2Z4pcZ5P9dt9yn9iGjdRp/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.49",
+    title: "Exploring Czech Philharmonic Performances",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "An Evening of Legacy and Culture: Czech Philharmonic at Carnegie Hall with Moonshot Community",
+        image: "assets/img/impact/public-policy/An Evening of Legacy and Culture.png",
+        description:
+          "Today, I had the exciting opportunity to attend a performance by the Czech Philharmonic at Carnegie Hall in New York, alongside the Moonshot Community...",
+        link: "https://www.linkedin.com/posts/lilanofficial_czechphilharmonic-carnegiehall-czechculture-activity-7270652804468211712-8mwR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1IRFMuqaKYfhijsolU3et2muQz5MJhMdn/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.50",
+    title: "Participating in the Obama Foundation Democracy Forum",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Championing Pluralism at the Obama Foundation Democracy Forum in Chicago",
+        image: "assets/img/impact/public-policy/Championing Pluralism.png",
+        description:
+          "I had an incredible experience at the Obama Foundation Democracy Forum in Chicago, where leaders from around the world gathered to discuss pluralism as a means to strengthen democracy...",
+        link: "https://www.linkedin.com/posts/lilanofficial_obamafoundation-democracy-forum-activity-7275107064635432960-6e_h?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1-yNTta6ZNRuT27nkLMB8YX-rgjAzftfd/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.51",
+    title: "Contributing to Digital Democracy at the the WSA Global Congress",
+    slides: [
+      {
+        date: "March 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping Digital Futures: Join the WSA Global Congress & Digital Sangam 2025 in Hyderabad",
+        image: "assets/img/impact/public-policy/Shaping Digital Futures.png",
+        description:
+          "The digital world is a reflection of our choices; how we manage data, uphold sovereignty, and define ethical boundaries. Are we building systems that empower individuals...",
+        link: "https://www.linkedin.com/posts/lilanofficial_the-digital-world-is-a-reflection-of-our-activity-7313442875562676224-WssX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1sDuqm1GGr0Qt-o42XdW7Mjirb75Gq8AP/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.52",
+    title: "Addressing the WSA Global Congress based on Digital Democracy",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSA Global Congress Day 2: Advancing Digital Equity and Inclusive Innovation in Hyderabad",
+        image: "assets/img/impact/public-policy/WSA Global Congress Day 2.png",
+        description:
+          "The second day of the World Summit Awards (WSA) Global Congress in Hyderabad, India was filled with insightful discussions on building digital futures rooted in equity and inclusion...",
+        link: "https://www.linkedin.com/posts/lilanofficial_digital-wsa-itu-activity-7315270865678409728-Fv5H?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1DFvd0vIeLlAIaMC5Sh9Y5C0Ck3gafPmr/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.53",
+    title: "Participating in the WSA Global Congress based on Digital Democracy",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSA Youth Ambassadors Lead the Charge for Digital Impact at Global Congress 2025",
+        image: "assets/img/impact/public-policy/Digital Impact at Global Congress 2025.png",
+        description:
+          "Cheers to the incredible WSA Youth Ambassadors who shaped the future at the WSA Global Congress 2025 in Hyderabad, India! 🌍✨",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-global-congress-activity-7319047519911522306-T-ku?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ZMlWPDDVTYVB2PkPQyD86SrYIEb93SaH/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Digital Futures: My Journey at WSA Global Congress 2025",
+        image: "assets/img/impact/public-policy/Empowering Digital Futures.png",
+        description:
+          "As a Jury Member and a proud WSA Youth Ambassador, I had the incredible opportunity to participate in the WSA Global Congress 2025, a gathering that brought together some of the brightest minds...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-global-congress-activity-7317604182402781187-scy_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1SbMtor60CooelFLhmeszacd10_wb0kpF/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Digital Innovation at WSA Global Congress 2025 - Hyderabad, India",
+        image: "assets/img/impact/public-policy/Exploring Digital Innovation.png",
+        description:
+          "Third day of the World Summit Awards Global Congress was an inspiring journey through Digital Sangam, where we explored cutting-edge digital solutions from Telangana, India, and across the globe. 🌍💡",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-digital-innovation-activity-7315922521361432579-F8OS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAER_FOQBgw4eOXu14W-xhpRf6DYxwhIqJaI",
+        backup_image: "https://drive.google.com/file/d/13ckcs0EhOkI5gPF94uiUwHkVfrXqhUQ0/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.54",
+    title:
+      "A discussion on the vital role of the UN Economic and Social Council (ECOSOC) in coordinating with other United Nations agencies",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Meet ECOSOC President Bob Rae at Moonshot Platform Gathering in NYC",
+        image: "assets/img/impact/public-policy/Honored to Meet ECOSOC President Bob Rae.png",
+        description:
+          "It was an honor to meet His Excellency Bob Rae, President of the United Nations Economic and Social Council (ECOSOC), during the Moonshot Platform Gathering in New York, USA.",
+        link: "https://www.linkedin.com/posts/lilanofficial_un-ecosoc-multilateralism-activity-7319063014161149952-L-4A?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1NVuNaf2C2HLOcsxHY9KExXce-CjLOn4n/view?usp=sharing",
+      },
+    ],
+  },
 
   {
     filter: "filter-leadership-economic",
