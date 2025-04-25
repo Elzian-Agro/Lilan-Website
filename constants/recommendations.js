@@ -1,5 +1,45 @@
 const recommendations = [
   {
+    date: "February 26, 2025",
+    name: "Akhil Neelam",
+    position: "Co-founder and Director of Centre for Gender And Politics (CGAP)",
+    relationship: "Akhil worked with Lilan but on different teams",
+    image: "assets/img/recommendation/avatar.png",
+    linkedin: "https://www.linkedin.com/in/akhilneelam/",
+    recommendation:
+      "I had the pleasure of meeting Lilan at the APFSD Youth Forum in Bangkok, where his exceptional networking abilities and genuine passion for social impact immediately stood out. \n\n What impressed me most was Lilan's remarkable ability to connect people and ideas. Within hours of our first conversation about gender equality and technology in South Asia, he had thoughtfully introduced me to several professionals in my field, demonstrating his talent for recognizing synergies and creating value through relationships.\n\n Lilan embodies the rare combination of technological expertise, entrepreneurial drive, and social consciousness. His productivity and effectiveness in navigating complex innovation ecosystems while maintaining a focus on real-world impact are truly admirable.",
+  },
+  {
+    date: "February 4, 2025",
+    name: "Lakshan Attanayake",
+    position: "Lecturer in Accounting at Unitec Institute of Technology",
+    relationship: "Lakshan was Lilan’s teacher",
+    image: "assets/img/recommendation/Lakshan Attanayake.jpg",
+    linkedin: "https://www.linkedin.com/in/lakshan-attanayake-57559013a/",
+    recommendation:
+      "I am pleased to recommend Lilan Dayananda, a distinguished graduate of the Department of Accountancy at the University of Kelaniya. Lilan demonstrated outstanding leadership as the Chairperson of the official Career Fair in 2019, where he successfully organized and managed the event, providing valuable opportunities for students to connect with potential employers.\n\n As the Founding President of the Adventure Club, Lilan showcased his initiative and ability to inspire his peers, organizing various activities that fostered teamwork and personal growth. His role in the Debate Team of the Accountancy Department highlighted his excellent communication and critical thinking skills, contributing to several notable victories. Additionally, Lilan served as the Private Sector Coordinator of the Accountancy Students' Association in 2018, effectively bridging the gap between students and the private sector and facilitating professional development opportunities.\n\n Lilan is a highly motivated and capable individual whose leadership and dedication will undoubtedly make him an invaluable asset to any organization.",
+  },
+  {
+    date: "January 26, 2025",
+    name: "Chathura Prasad",
+    position: "Quality Assurance Executive at Silvermill Natural Beverages",
+    relationship: "Chathura worked with Lilan on the same team",
+    image: "assets/img/recommendation/Chathura Prasad.jpg",
+    linkedin: "https://www.linkedin.com/in/chathuraprasad95/",
+    recommendation:
+      "Lilan is very dedicated and talented fellow. I have met him in best speaker contest organized by Gavel Club of Kelaniya University and also at gavel conference. I wish him all the best for his carrier in entrepreneurship ❤️",
+  },
+  {
+    date: "November 12, 2024",
+    name: "Sofia Klymchuk",
+    position: "AI Policy Lawyer at Ministry of Digital Transformation of Ukraine",
+    relationship: "Sofia worked with Lilan but on different teams",
+    image: "assets/img/recommendation/Sofia Klymchuk.jpg",
+    linkedin: "https://www.linkedin.com/in/sofia-klymchuk/",
+    recommendation:
+      "Exceptional entrepreneurship and leadership skills in sustainable development! Was happy to collaborate with you!",
+  },
+  {
     date: "October 18, 2024",
     name: "Bilgudei Gankhulug",
     position: "Social Entrepreneur",
