@@ -1079,6 +1079,17 @@ const impacts = [
     title: "The International Association of Horticultural Producers (AIPH) Youth Jury Member",
     slides: [
       {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "AIPH World Green City Awards Return: Celebrating Nature-Driven Urban Futures",
+        image: "assets/img/impact/membership/AIPH World Green City Awards Return.png",
+        description:
+          "I’m excited to share that the International Association for Horticultural Producers (AIPH) World Green City Awards, the first and only global awards focused on cities where plants and nature are at the heart of urban design has returned for its third edition...",
+        link: "https://www.linkedin.com/posts/lilanofficial_development-urban-sustainable-activity-7321149073338560513-IQvl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1hdz_ArpR_h2bk1FSlY-uqYM24k03kcbM/view?usp=sharing",
+      },
+      {
         date: "June 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -2709,6 +2720,17 @@ const impacts = [
           "Our CEO, Lilan Dayananda is representing ELZIAN AGRO at ChangeNOW in Paris, France. ChangeNOW stands as a global stage for entrepreneurship dedicated to driving positive environmental and social impact...",
         link: "https://www.linkedin.com/feed/update/urn:li:activity:7318737327529291776",
         backup_image: "https://drive.google.com/file/d/1etNCgxgNTBKPSgBplaWqJdPf3XA31gz3/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ELZIAN AGRO at ChangeNOW Paris: Advancing Global Impact Through Bold Partnerships",
+        image: "assets/img/impact/innovation-social/ELZIAN AGRO at ChangeNOW Paris.png",
+        description:
+          "Today, I’m at ChangeNOW in Paris, France; a gathering of 1,000 groundbreaking solutions and visionary leaders driving real climate action. Day 1 was nothing short of transformative...",
+        link: "https://www.linkedin.com/posts/lilanofficial_parisagreement-changenowhubs-changenow2025-activity-7321255023395393536-h41S?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/12uof71a2y6IZ8GamvbgPkqKG2t9wanBt/view?usp=sharing",
       },
     ],
   },
