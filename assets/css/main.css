@@ -1552,6 +1552,12 @@ section,
   margin: 0;
 }
 
+.recommendation .testimonial-item h5 {
+  font-size: 0.7em;
+  color: #838181;
+  margin: 0;
+}
+
 .recommendation .testimonial-item .rc-read-more-btn {
   background-color: #0cc851;
   border-radius: 100px;
@@ -1683,9 +1689,15 @@ section,
   margin: 0;
 }
 
+.recommendation .popup-testimonial-item h6 {
+  font-size: 0.7em;
+  color: #838181;
+  margin: 0;
+}
+
 .recommendation .popup-testimonial-item p {
   font-size: 1em;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 @media (max-width: 900px) {
