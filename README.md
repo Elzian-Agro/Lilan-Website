@@ -23,7 +23,7 @@ To add new recommendations:
 
 To add media content:
 
-1. Open the Google Doc: Access the impact content in this <a href="https://docs.google.com/document/d/1nHU6uJx3ca-LuLP5SdMuew-i1e3MTo_xXb4OhWJMsCs/edit?usp=sharing" target="_blank">Google Document</a>  (Links that are not updated in the website are shown in red).
+1. Open the Google Doc: Access the other media content in this <a href="https://docs.google.com/document/d/1nHU6uJx3ca-LuLP5SdMuew-i1e3MTo_xXb4OhWJMsCs/edit?usp=sharing" target="_blank">Google Document</a>  (Links that are not updated in the website are shown in red).
 2. Update media.js: Add any relevant other-media content to the media.js file using the correct ID format.
 3. Podcast & Blog: For podcast and blog updates, refer to the <a href="https://agro.elzian.com/" target="_blank">Elzian Agro</a> Podcast and Blog
 4. After a new media is updated, the red color changes to the default color in the document.
