@@ -27,6 +27,16 @@
 
     <!-- Main CSS File -->
     <link href="assets/css/main.css" rel="stylesheet" />
+
+    <style>
+      .lazy-img {
+        filter: blur(10px);
+        transition: filter 0.3s ease;
+      }
+      .lazy-img:not([data-src]) {
+        filter: blur(0);
+      }
+    </style>
   </head>
 
   <body class="portfolio-page">
@@ -152,7 +162,11 @@
               </p>
               <button class="rc-read-more-btn" data-popup="popup-${index + 1}">Read more</button><br/><br/>
               <div class="profile">
-                <img src="${rec.image}" class="testimonial-img" alt="recommendation" />
+                <img 
+                  src="assets/img/recommendation/avatar.png" 
+                  data-src="${rec.image}" 
+                  class="testimonial-img lazy-img" 
+                  alt="recommendation" />
                 <h3>${rec.name}</h3>
                 <h4>${rec.position}</h4>
               </div>
@@ -165,7 +179,11 @@
               <div class="popup-testimonial-item">
                 <div class="popup-profile-item">
                   <div>
-                    <img src="${rec.image}" class="popup-testimonial-img" alt="recommendation" />
+                  <img 
+                    src="assets/img/recommendation/avatar.png" 
+                    data-src="${rec.image}" 
+                    class="popup-testimonial-img lazy-img" 
+                    alt="recommendation" />
                   </div>
 
                   <div class="popup-testimonial-text">
@@ -191,6 +209,20 @@
         `;
 
         recommendationList.insertAdjacentHTML("beforeend", recHTML);
+      });
+    </script>
+
+    <script>
+      window.addEventListener("load", () => {
+        const lazyImages = document.querySelectorAll("img.lazy-img");
+
+        lazyImages.forEach((img) => {
+          const actualSrc = img.getAttribute("data-src");
+          if (actualSrc) {
+            img.src = actualSrc;
+            img.removeAttribute("data-src");
+          }
+        });
       });
     </script>
   </body>

@@ -315,34 +315,40 @@ document.addEventListener("DOMContentLoaded", () => {
   const openPopup = (popupId) => {
     const popup = document.getElementById(popupId);
     if (popup) {
-      popup.classList.add("show"); // Show the popup with fade-in
+      popup.classList.add("show");
     }
   };
 
-  // Get all the "Read more" buttons
-  const readMoreButtons = document.querySelectorAll(".rc-read-more-btn");
+  // Function to close a specific popup
+  const closePopup = (popup) => {
+    popup.classList.remove("show");
+  };
 
-  readMoreButtons.forEach((button) => {
+  // Attach event listeners to all "Read More" buttons
+  document.querySelectorAll(".rc-read-more-btn").forEach((button) => {
     button.addEventListener("click", () => {
       const popupId = button.getAttribute("data-popup");
       openPopup(popupId);
     });
   });
 
-  // Get all the close buttons
-  const closeButtons = document.querySelectorAll(".popup-close-btn");
-
-  closeButtons.forEach((button) => {
-    button.addEventListener("click", () => {
-      // Reload the page on close
-      location.reload();
+  // Attach event listeners to all close buttons inside popups
+  document.querySelectorAll(".popup-close-btn").forEach((button) => {
+    button.addEventListener("click", (e) => {
+      const popup = button.closest(".rc-popup");
+      if (popup) {
+        closePopup(popup);
+      }
+      e.stopPropagation(); // Prevent event bubbling
     });
   });
 
-  // Close popup if clicking outside of the popup content
-  document.addEventListener("click", (event) => {
-    if (!event.target.closest(".rc-popup-content") && event.target.closest(".rc-popup")) {
-      location.reload(); // Reload the page if clicking outside
-    }
+  // Close popup if clicking outside content
+  document.querySelectorAll(".rc-popup").forEach((popup) => {
+    popup.addEventListener("click", (event) => {
+      if (!event.target.closest(".rc-popup-content")) {
+        closePopup(popup);
+      }
+    });
   });
 });
