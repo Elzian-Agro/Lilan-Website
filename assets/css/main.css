@@ -1578,7 +1578,6 @@ section,
 }
 
 .recommendation .rc-popup {
-  display: none; /* Hide the popup initially */
   position: fixed;
   top: -30px;
   left: 0;
@@ -1588,18 +1587,20 @@ section,
   align-items: center;
   justify-content: center;
   z-index: 1000;
+
   opacity: 0;
-  transition: opacity 0.3s ease; /* Fade transition */
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
 }
 
 .recommendation .rc-popup.show {
-  display: block;
   opacity: 1;
+  visibility: visible;
 }
 
 .recommendation .rc-popup-content {
   max-width: 800px;
-  margin: 0px auto;
+  margin: 0 auto;
   background: #000000;
   padding: 20px;
   border-radius: 8px;
