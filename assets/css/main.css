@@ -1604,7 +1604,7 @@ section,
   background: #000000;
   padding: 20px;
   border-radius: 8px;
-  height: 80%;
+  max-height: 90%;
   overflow-y: auto;
 }
 
