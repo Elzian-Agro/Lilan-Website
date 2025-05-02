@@ -27,16 +27,6 @@
 
     <!-- Main CSS File -->
     <link href="assets/css/main.css" rel="stylesheet" />
-
-    <style>
-      .lazy-img {
-        filter: blur(10px);
-        transition: filter 0.3s ease;
-      }
-      .lazy-img:not([data-src]) {
-        filter: blur(0);
-      }
-    </style>
   </head>
 
   <body class="portfolio-page">
@@ -169,6 +159,7 @@
                   alt="recommendation" />
                 <h3>${rec.name}</h3>
                 <h4>${rec.position}</h4>
+                <h5>${rec.company}</h5>
               </div>
             </div>
           </div>
@@ -194,6 +185,7 @@
                       }" target="_blank"><i class="bi bi-linkedin"></i></a></span>
                     </h2>
                     <h3>${rec.position}</h3>
+                    <h6>${rec.company}</h6></br>
                     <h4>${rec.relationship}</h4>
                     <h5>${rec.date}</h5>
                     <p>
