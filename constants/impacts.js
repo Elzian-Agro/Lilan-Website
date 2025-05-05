@@ -1,513 +1,19 @@
 const impacts = [
   {
     filter: "filter-recognition",
-    id: "1.1",
-    title: "Forbes 30 under 30: Social Impact List",
+    id: "1.13",
+    title: "Moonshot Awards - Global Connector Winner 2024",
     slides: [
       {
-        date: "May, 29, 2024",
-        source_name: "Ada Derana",
-        source_link: "https://bizenglish.adaderana.lk/",
-        title: "Sri Lankan Entrepreneur Lilan Dayananda in Forbes “30 Under 30 Asia” List",
-        image: "assets/img/impact/recognition/forbes/ada-derana.png",
-        description:
-          "Sri Lankan entrepreneur Lilan Dayananda is among 300 young entrepreneurs, leaders, influencers, and trailblazers across the Asia-Pacific region selected by Forbes for its ninth edition of the “30 Under 30 Asia” list. All individuals on the list are under 30 and are leading the transformation of industries while finding innovative ways to navigate new business realities. Now in its ninth year, the Asia list is part of the global expansion of the Forbes 30 Under 30 franchise, which started over a decade ago.",
-        link: "https://bizenglish.adaderana.lk/sri-lankan-entrepreneur-lilan-dayananda-in-forbes-30-under-30-asia-list/",
-        backup_image: "https://drive.google.com/file/d/1X0nkvvdulZQHl4UxZF3nsl8AGyh-UMe7/view?usp=drive_link",
-      },
-      {
-        date: "July 2024",
-        source_name: "Our Economics",
-        source_link: "https://www.linkedin.com/company/our-economics/posts/?feedView=all",
-        title: "Sri Lankan entrepreneur Lilan Dayananda featured in Forbes 30 Under 30 list",
-        image: "assets/img/impact/recognition/forbes/our-economics.png",
-        description:
-          'Sri Lanka entrepreneur Lilan Dayananda who is the co-founder and CEO of Elzian Agro has been featured in the 9th edition of Forbes\' "30 Under 30 Asia" list under the social impact category. 🇱🇰 👏',
-        link: "https://www.linkedin.com/posts/our-economics_oureconomics-forbes-activity-7211230358384640000-5ZJG/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/15BxtWuXoDmCEpJM9T5YtDhpynYGwDtSJ/view?usp=drive_link",
-      },
-      {
-        date: "May 29, 2024",
-        source_name: "Sunday Times",
-        source_link: "https://sundaytimes.lk/online/",
-        title: "Sri Lanka’s Lilan Dayananda in Forbes “30 Under 30 Asia” List",
-        image: "assets/img/impact/recognition/forbes/sunday-times.png",
-        description:
-          'Sri Lankan entrepreneur Lilan Dayananda has been honored by Forbes as one of the 300 young entrepreneurs, leaders, influencers, and trailblazers across the Asia-Pacific region in its ninth annual "30 Under 30 Asia" list. This prestigious list, featuring individuals under the age of 30, highlights those driving industry transformations and pioneering innovative solutions to adapt to evolving business landscapes. Now in its ninth year, the Asia list is an extension of the Forbes 30 Under 30 franchise, which began more than a decade ago.',
-        link: "https://sundaytimes.lk/online/business/Sri-Lankas-Lilan-Dayananda-in-Forbes-30-Under-30-Asia-List/10-1145847",
-        backup_image: "https://drive.google.com/file/d/13zH8le658N4QriMrAMcdbs3SAgKSVXu-/view?usp=drive_link",
-      },
-      {
-        date: "May 23, 2024",
-        source_name: "Ceylon Tribune",
-        source_link: "https://ceylontribune.com/",
-        title: "Sri Lankan Entrepreneur Lilan Dayananda Honored in Forbes ‘30 Under 30 Asia’ List",
-        image: "assets/img/impact/recognition/forbes/ceylon-tribune.png",
-        description:
-          "Sri Lankan entrepreneur Lilan Dayananda has been honored with a coveted spot on Forbes Magazine’s “30 Under 30 Asia” list in the social impact sector. This prestigious list, now in its ninth year, recognizes young leaders under 30 who are driving innovation and adapting to the evolving business landscape. The Asia list is an extension of the renowned Forbes 30 Under 30 franchise, which has been celebrating young talent for over ten years.",
-        link: "https://ceylontribune.com/?p=895",
-        backup_image: "https://drive.google.com/file/d/1pLGNdspgJyEvUf8Xzkqs3SzIp_tst9Mv/view?usp=drive_link",
-      },
-      {
-        date: "May 28, 2024",
-        source_name: "Lanka Puwath",
-        source_link: "https://english.lankapuvath.lk/",
-        title: "Sri Lankan Entrepreneur Lilan Dayananda Honored in Forbes ‘30 Under 30 Asia’ List",
-        image: "assets/img/impact/recognition/forbes/lanka-puwath.png",
-        description:
-          "Sri Lankan entrepreneur Lilan Dayananda has been honored with a coveted spot on Forbes Magazine’s “30 Under 30 Asia” list in the social impact sector. This prestigious list, now in its ninth year, recognizes young leaders under 30 who are driving innovation and adapting to the evolving business landscape. The Asia list is an extension of the renowned Forbes 30 Under 30 franchise, which has been celebrating young talent for over ten years.",
-        link: "https://english.lankapuvath.lk/2024/05/28/lilan-dayananda/",
-        backup_image: "https://drive.google.com/file/d/1Kw4H05GO-yBwS-ye9ePLh23gt_3XHwI3/view?usp=drive_link",
-      },
-      {
-        date: "May 23, 2024",
-        source_name: "Business Cafe",
-        source_link: "https://businesscafe.lk/",
-        title: "Forbes '30 Under 30 Asia' list celebrates Sri Lankan Entrepreneur Lilan Dayananda",
-        image: "assets/img/impact/recognition/forbes/business-cafe.png",
-        description:
-          "Now in its ninth year, this esteemed list highlights young visionaries under 30 who are revolutionizing their industries and pioneering innovative strategies to meet the demands of a dynamic business environment.",
-        link: "https://businesscafe.lk/business-news/food-beverage/item/15460-forbes-30-under-30-asia-list-celebrates-sri-lankan-entrepreneur-lilan-dayananda",
-        backup_image: "https://drive.google.com/file/d/11NH6eIjr2D3e-3lQry6-bpAFQKWilg9I/view?usp=drive_link",
-      },
-      {
-        date: "Jun 02, 2024",
-        source_name: "The Morning",
-        source_link: "https://www.themorning.lk/",
-        title: "Lilan Dayananda: Making a difference through agritech",
-        image: "assets/img/impact/recognition/forbes/the-morning.png",
-        description:
-          "Youth having the power to change the world is a commonly-held belief. And every year Forbes magazine recognises youth who are out there making a difference through its 30 Under 30 list. The 30 Under 30 Asia list for 2024 saw two Sri Lankans recognised and this week The Sunday Morning Brunch chatted with one of them – tech entrepreneur Lilan Dayananda.",
-        link: "https://www.themorning.lk/articles/MJd1syvb8TIK7DviAyo6",
-        backup_image: "https://drive.google.com/file/d/1zbwv6b7idbEP1zH5m43TaOX6Iz_QiKNP/view?usp=drive_link",
-      },
-      {
-        date: "May 24, 2024",
-        source_name: "News Asia",
-        source_link: "https://newsasia.lk/",
-        title: "Sri Lankan Entrepreneur Lilan Dayananda makes Forbes’ “30 Under 30 Asia” List",
-        image: "assets/img/impact/recognition/forbes/news-asia.png",
-        description:
-          "Lilan Dayananda, a  Sri Lankan entrepreneur, has earned a distinguished place on Forbes Magazine’s “30 Under 30 Asia” list in the social impact category. This list, now in its ninth edition, celebrates young innovators under 30 who are transforming their industries and creating forward-thinking solutions to navigate changing business landscapes. The Asia list is part of the broader Forbes 30 Under 30 franchise, which has been highlighting young achievers for over a decade.",
-        link: "https://newsasia.lk/sri-lankan-entrepreneur-lilan-dayananda-makes-forbes-30-under-30-asia-list/",
-        backup_image: "https://drive.google.com/file/d/1Z_oHbfDvsO19ktvQKGd6SJOcCKOLwuZm/view?usp=drive_link",
-      },
-      {
-        date: "May 20, 2024",
-        source_name: "Pulse Today",
-        source_link: "https://www.instagram.com/pulsetoday/",
-        title: "Sri Lankan Entrepreneur Lilan Dayananda Featured in Forbes 30 Under 30 List",
-        image: "assets/img/impact/recognition/forbes/instagram.png",
-        description:
-          'Sri Lanka entrepreneur Lilan Dayananda who is the co-founder and CEO of Elzian Agro has been featured in the 9th edition of Forbes\' "30 Under 30 Asia" list under the social impact category. His company is a Sri Lankan startup that uses technologies like IoT devices and AI to help small farmers optimize their harvests and deal with climate change. Their services include weather and soil monitoring systems, pest detection and tracing products on the supply chain.',
-        link: "https://www.instagram.com/p/C7Ly5MNB7CX/?utm_source=ig_web_copy_link",
-        backup_image: "https://drive.google.com/file/d/169z3ItcS2nHE9t9lamsWUOvIm4LSD47l/view?usp=drive_link",
-      },
-      {
-        date: "June 2024",
-        source_name: "Linkedin",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Honored with the distinction of being selected for the Forbes 30 Under 30: Social Impact List",
-        image: "assets/img/impact/recognition/forbes/linkedin.png",
-        description:
-          "I am delighted to share with you all that I have been honored with the distinction of being selected for the Forbes 30 Under 30: Social Impact List.In its 9th year now, the Asia list is a continuation...",
-        link: "https://www.linkedin.com/posts/lilanofficial_forbesunder30-forbesu30asia-sdgs-activity-7196917504961646592-N6jv/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1H_tF5FNV8KDe_6O897M93fr53r5JrhYR/view?usp=drive_link",
-      },
-      {
-        date: "",
-        source_name: "Forbes",
-        source_link: "https://www.forbes.com/",
-        title: "Lilan Dayananda",
-        image: "assets/img/impact/recognition/forbes/forbes.png",
-        description:
-          "Lilan Dayananda is a social tech entrepreneur and cofounder and CEO of Elzian Agro, a Sri Lankan startup that uses technologies like IoT devices and AI to help small farmers optimize their harvests and deal with climate change. Their services include weather and soil monitoring systems, pest detection and tracing products on the supply chain. Dayananda's work earned him a nomination for the Queen's Commonwealth Trust Youth Award in 2022, and Elzian Agro's Pest Prediction System was given the Merit Award at the SLASSCOM National Ingenuity Awards 2022",
-        link: "https://www.forbes.com/30-under-30/2024/asia/social-impact?profile=lilan-dayananda",
-        backup_image: "https://drive.google.com/file/d/1_yiWmMrIftWnVbM83ecf01Xu5jpJLJaY/view?usp=drive_link",
-      },
-      {
-        date: "",
-        source_name: "Forbes",
-        source_link: "https://www.forbes.com/",
-        title: "Lilan Dayananda",
-        image: "assets/img/impact/recognition/forbes/forbes-profile.png",
-        description:
-          "Lilan Dayananda is a social tech entrepreneur and cofounder and CEO of Elzian Agro, a Sri Lankan startup that uses technologies like IoT devices and AI to help small farmers optimize their harvests and deal with climate change. Their services include weather and soil monitoring systems, pest detection and tracing products on the supply chain. Dayananda's work earned him a nomination for the Queen's Commonwealth Trust Youth Award in 2022, and Elzian Agro's Pest Prediction System was given the Merit Award at the SLASSCOM National Ingenuity Awards 2022.",
-        link: "https://www.forbes.com/profile/lilan-dayananda/?list=30under30-asia-social-impact/&sh=47305d8b5e76",
-        backup_image: "https://drive.google.com/file/d/11v20zwrVACKavb550IAWLBPJ8d0OIGLN/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.2",
-    title: "Climate Action Leadership Award 2024",
-    slides: [
-      {
-        date: "November 2024",
+        date: "December 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Climate Action Leadership Award 2024",
-        image:
-          "assets/img/impact/recognition/climate-action-leadership-award/Climate Action Leadership Award 2024.png",
+        title: "Moonshot Awards - Global Connector Winner 2024",
+        image: "assets/img/impact/recognition/moonshot-awards/Global Connector Winner 2024.png",
         description:
-          "I am truly honored to receive the Climate Action Leadership Award 2024 from the Global Climate Action Partnership (GCAP) during the Global Workshop in Foz do Iguaçu, Brazil...",
-        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-climatechange-activity-7260618274957111296-ACg5?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/18tfWjk8krOaiYA9hURbklOGqngpWiNtR/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.3",
-    title: "New Generation Asia: Social Entrepreneur of the Year",
-    slides: [
-      {
-        date: "August 16, 2024",
-        source_name: "Lanka News Network",
-        source_link: "https://english.lankanewsnetwork.com/",
-        title: "Lilan Dayananda Named Social Entrepreneur of the Year at New Generation Asia Awards",
-        image: "assets/img/impact/recognition/new-generation-asia/lanka-news-network.png",
-        description:
-          "Lilan Dayananda, the dynamic Managing Director and CEO of Elzian Agro, was honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards held at the Shangri-La Hotel...",
-        link: "https://english.lankanewsnetwork.com/?p=1230",
-        backup_image: "https://drive.google.com/file/d/16Qw3A6USD6ahg890BxZJUyeNdrKBZ1D2/view?usp=drive_link",
-      },
-      {
-        date: "August 12, 2024",
-        source_name: "Business News",
-        source_link: "https://www.lankabusinessnews.com/",
-        title: "Lilan Dayananda honored as Social Entrepreneur of the Year at New Generation Asia Awards",
-        image: "assets/img/impact/recognition/new-generation-asia/business-news.png",
-        description:
-          "Lilan Dayananda, the Managing Director and Chief Executive Officer of Elzian Agro, was celebrated as the Social Entrepreneur of the Year at the prestigious Fifth New Generation Asia Awards...",
-        link: "https://www.lankabusinessnews.com/lilan-dayananda-honored-as-social-entrepreneur-of-the-year-at-new-generation-asia-awards/",
-        backup_image: "https://drive.google.com/file/d/1xoyDHbJwwlDrUubPi76SWg71McDHeF5u/view?usp=drive_link",
-      },
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards",
-        image: "assets/img/impact/recognition/new-generation-asia/linkedin.png",
-        description:
-          "I am delighted to announce that I have been honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards, at the Shangri-La Hotel in Colombo.",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-startup-economy-activity-7216735742062944256-aduN/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1MwP6aYIrpe_AYWLqzSXdrPaZBCxkYOYX/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.4",
-    title: "Commonwealth Youth Award Winner 2022",
-    slides: [
-      {
-        date: "May 16, 2022",
-        source_name: "Your Commonwealth",
-        source_link: "https://yourcommonwealth.org/",
-        title: "Putting an end to world hunger through smart agronomy solutions",
-        image: "assets/img/impact/recognition/commonwealth/commonwealth.png",
-        description:
-          "Lilan Dayananda is a co-founder and the CEO at Elzian Agro. His organisation has been tackling world hunger through award-winning smart agronomy solutions. These innovations provide soil and weather monitoring systems to farmers who are affected by extreme weather changes and pests and who also have limited resources to service their farms. 25-year- old Commonwealth Correspondent Aminat Awogun from Nigeria spoke with Lilan, who is a 2022 Commonwealth Youth Awards Finalist.",
-        link: "https://yourcommonwealth.org/economic-development/putting-an-end-to-world-hunger-through-smart-agronomy-solutions/",
-        backup_image: "https://drive.google.com/file/d/1gdNG0cQKGM3W2wOHwRMjFM6Bl_TTy26U/view?usp=sharing",
-      },
-      {
-        date: "2022",
-        source_name: "",
-        source_link: "",
-        title: "Commonwealth Youth Awards 2022",
-        image: "assets/img/impact/recognition/commonwealth/commonwealth-award.png",
-        description:
-          "The Commonwealth Youth Awards for Excellence in Development Work aim to recognise the contribution young people aged 15–29 make towards promoting and enhancing democracy and achieving the 17 Sustainable Development Goals (SDGs). It raises the profile of committed and innovative Commonwealth youth who are working hard to address pressing issues such as poverty and conflict.",
-        link: "https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2022-03/OFFICIAL%202022%20Commonwealth%20Youth%20Awards%20Booklet.pdf",
-        backup_image: "https://drive.google.com/file/d/1ukSmsW8QKiepenGDOfHUvNz8Wj34Ih1e/view?usp=drive_link",
-      },
-      {
-        date: "March 01, 2022",
-        source_name: "The Commonwealth",
-        source_link: "https://thecommonwealth.org/",
-        title: "20 finalists announced for Commonwealth Youth Awards 2022",
-        image: "assets/img/impact/recognition/commonwealth/the-commonwealth.png",
-        description:
-          "Twenty extraordinary young people, including inventors, activists and entrepreneurs, from 17 countries have been announced as finalists for this year’s Commonwealth Youth Awards...",
-        link: "https://thecommonwealth.org/news/20-finalists-announced-commonwealth-youth-awards-2022",
-        backup_image: "https://drive.google.com/file/d/1k5gbdvPOHXErUPQr18Rnyr-bs2JBmnV7/view?usp=drive_link",
-      },
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Commonwealth Youth Awards",
-        image: "assets/img/impact/recognition/commonwealth/linkedin.png",
-        description:
-          "I recently had the opportunity to capture a moment with my esteemed Commonwealth Youth Award, a prestigious recognition bestowed upon young individuals aged 15 to 29 who have demonstrated exceptional dedication to enhancing democracy and furthering the cause of the 17 Sustainable Development Goals (SDGs). These awards represent a vital facet of The Commonwealth Secretariat's overarching mission to empower, engage, and inspire young people, all while amplifying their voices and achievements throughout the 56 member states.",
-        link: "https://www.linkedin.com/posts/lilanofficial_commonwealth-youth-commonwealthyouthawards-activity-7117812520861519873-n2Yb/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1wawZXLe3ksNy37Rxu_6Ip55XEHo1_wMm/view?usp=drive_link",
-      },
-      {
-        date: "March 19, 2022",
-        source_name: "International Youth Change Maker - IYCM",
-        source_link: "https://web.facebook.com/IYcmBd",
-        title: "Commonwealth Youth Awards Winner 2022",
-        image: "assets/img/impact/recognition/commonwealth/commonwealth-award-sl.png",
-        description:
-          "As the Co-Founder and CEO of ‘Elzian Agro’ Lilan offers rural farmers smart agronomy solutions to increase crop yield organically and helps them respond to significant changes in soil and weather and potential pest threats through data-based prediction reports. The project has reached more than 50,000 farmers and supports government bodies in Sri Lanka to better understand the importance of modern smart agronomy solutions.",
-        link: "https://web.facebook.com/100064883162038/posts/4751834144927957/",
-        backup_image: "https://drive.google.com/file/d/1URcASfOrGBBb-BKdiyaeSdkYdMQnDnl5/view?usp=sharing",
-      },
-      {
-        date: "February 10, 2022",
-        source_name: "Colombo Gazette",
-        source_link: "https://colombogazette.com/",
-        title: "Sri Lankan shortlisted for Commonwealth Youth Awards 2022",
-        image: "assets/img/impact/recognition/commonwealth/colombo-gazette.png",
-        description:
-          "Twenty extraordinary young people, including inventors, activists and entrepreneurs, from 17 countries have been announced as finalists for this year’s Commonwealth Youth Awards.",
-        link: "https://colombogazette.com/2022/02/10/sri-lankan-shortlisted-for-commonwealth-youth-awards-2022/",
-        backup_image: "https://drive.google.com/file/d/1iQM_qc9QlDdcsLLxjVu868g7aECO_Pir/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.5",
-    title: "Recognized among the Top 10 Youth Entrepreneurs of Global-South 2022",
-    slides: [
-      {
-        date: "July 5, 2022",
-        source_name: "South-South Galaxy",
-        source_link: "https://southsouth-galaxy.org/",
-        title:
-          "Top Youth Entrepreneurs Selected for Final Youth4South Entrepreneurship Competition, to be held in Bangkok in September",
-        image: "assets/img/impact/recognition/youth-entrepreneurs/south-south-galaxy.png",
-        description:
-          "More than twenty young entrepreneurs from 15 developing countries came together for the first-round pitching of the Youth4South...",
-        link: "https://southsouth-galaxy.org/news/top-youth-entrepreneurs-selected-for-final-youth4south-entrepreneurship-competition/",
-        backup_image: "https://drive.google.com/file/d/12lv_XmgWE5KoCjCtst22NrioQ2EEDGH7/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.6",
-    title: "Recognized among the top Meaningful Business Founders 2023",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "Meaningful Business",
-        source_link: "https://www.linkedin.com/company/meaningful-business/posts/",
-        title: "Introduce the 2023 Meaningful Business 100",
-        image: "assets/img/impact/recognition/meaningful-business/meaningful-business.png",
-        description:
-          "These leaders are setting the bar for combining profit and purpose, helping to tackle the world’s most pressing social and environmental issues. Your annual source of inspiration is here.",
-        link: "https://www.linkedin.com/posts/meaningful-business_meaningfulbusiness-2023mb100-mb100-activity-7117842154596495360-takh/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1zF9d4SFS_l60cqHr-7RwI5tbjJjK6lYP/view?usp=drive_link",
-      },
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Recognised by Meaningful Business on the 2023",
-        image: "assets/img/impact/recognition/meaningful-business/linkedin.png",
-        description:
-          "The 2023 MB100 are an outstanding group of leaders combining profit and purpose to help achieve the UN Global Goals across five key areas: Durability, Impact, Innovation, Leadership and Scope.",
-        link: "https://www.linkedin.com/posts/lilanofficial_mb100-meetthemb100-2023mb100-activity-7117863318945492992-8DK_/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1E-DqliB4Op4dsrFgEj0uILlUK6jq6_Yk/view?usp=drive_link",
-      },
-      {
-        date: "",
-        source_name: "Meaningful Business",
-        source_link: "https://meaningful.business/",
-        title: "Lilan Dayananda Profile",
-        image: "assets/img/impact/recognition/meaningful-business/meaningful-business-profile.png",
-        description:
-          "Lilan Dayananda is an international award-winning young social tech entrepreneur. For years, his social initiative Elzian Agro has offered customised monitoring information and automation solutions through trending digital technologies to optimise customers’ harvest and productively utilise their resources, improving food security and climate action. ",
-        link: "https://meaningful.business/team/lilan-dayananda/",
-        backup_image: "https://drive.google.com/file/d/1OWl3LVi2vKZJIXaaKMocQ-reEh3zubPY/view?usp=drive_link",
-      },
-      {
-        date: "2023",
-        source_name: "Meaningful Business",
-        source_link: "https://meaningful.business/",
-        title: "The 2023 Meaningful Business 100 (MB100)",
-        image: "assets/img/impact/recognition/meaningful-business/meaningful-business-mb100.png",
-        description:
-          "The 2023 MB100 are an outstanding group of leaders combining profit and purpose. Curated by an expert panel of 29 judges, the winners were chosen from over 800 applications, representing 93 countries, and were scored across five key areas: Durability, Impact, Innovation, Leadership and Scope.",
-        link: "https://meaningful.business/mb100-2023/",
-        backup_image: "https://drive.google.com/file/d/1PqS1tfzNwb1QJ5H9QywQmZWlq0vis7Au/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.7",
-    title:
-      "Sri Lanka Association for Software Services Companies (SLASSCOM) National Ingenuity Award Consecutive Winner in 2022, 2023, 2024",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "Elzian Agro",
-        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
-        title: "SLASSCOM National Ingenuity Awards 2023",
-        image: "assets/img/impact/recognition/slasscom/elzian-agro.jpg",
-        description:
-          "We are thrilled to share the incredible success of ELZIAN AGRO at the esteemed SLASSCOM National Ingenuity Awards 2023. It was an enchanting evening filled with boundless inspiration, groundbreaking innovation, and well-deserved recognition of exceptional achievements within the tech industry. ELZIAN AGRO has emerged as one of the top Technology Disrupters in various categories. Our unwavering dedication to innovation and relentless pursuit of excellence has been unequivocally acknowledged with highly esteemed accolades:",
-        link: "https://www.linkedin.com/posts/elzianagro_innovation-technology-success-activity-7078303289900990465-8d2O/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1cX8c77zRAqUYes0Ydw9LdMdjRCUnxjAl/view?usp=drive_link",
-      },
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "National Winner of Best Innovative Project in Agritech at the SLASSCOM National Ingenuity Awards 2024 ",
-        image: "assets/img/impact/recognition/slasscom/linkedin.jpg",
-        description:
-          "I am thrilled and proud to announce that ELZIAN AGRO emerged as the National Winner of Best Innovative Project in Agritech at the SLASSCOM National Ingenuity Awards 2024 🌟.",
-        link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-team-activity-7215416791735394304-ScWa/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1wIbkvwKfLhHeW3Hq9bJMB8f_7OIv70UG/view?usp=drive_link",
-      },
-      {
-        date: "July 6, 2023",
-        source_name: "Ceylon Business Reporter",
-        source_link: "https://cbr.lk/",
-        title: "ELZIAN AGRO Shines Bright at SLASSCOM National Ingenuity Awards 2023",
-        image: "assets/img/impact/recognition/slasscom/ceylon-business-reporter.jpg",
-        description:
-          "ELZIAN AGRO, recognized as one of the top Technology Disruptors, garnered high praise and esteemed accolades in various categories, solidifying their position as a leading force in the industry. The company’s commitment to innovation and relentless pursuit of excellence was wholeheartedly acknowledged, with the team being honored in multiple domains.",
-        link: "https://cbr.lk/technology/elzian-agro-shines-bright-at-slasscom-national-ingenuity-awards-2023/",
-        backup_image: "https://drive.google.com/file/d/1nSx3ofEQGD64MkCxanQLxYDdPmcXsaUb/view?usp=drive_link",
-      },
-      {
-        date: "November 2023",
-        source_name: "SLASSCOM",
-        source_link: "https://www.linkedin.com/company/slasscom/posts/",
-        title: "The National Winners of the Prestigious SLASSCOM National Ingenuity Awards!",
-        image: "assets/img/impact/recognition/slasscom/slasscom.jpg",
-        description:
-          "These brilliant minds have redefined innovation and set new benchmarks in the tech industry. Join us in celebrating their remarkable achievements! ",
-        link: "https://www.linkedin.com/posts/slasscom_slasscomingenuityawards-snia-winners-activity-7080412198577049600-F0ct/?utm_source=share&utm_medium=member_android",
-        backup_image: "https://drive.google.com/file/d/1B5qRM1PMdVYKy80onpz6rGjiw4rTR8sQ/view?usp=drive_link",
-      },
-      {
-        date: "July 6, 2023",
-        source_name: "Ceylon Tribune",
-        source_link: "https://ceylontribune.com/",
-        title: "ELZIAN AGRO is Igniting a Technological Revolution in Agriculture",
-        image: "assets/img/impact/recognition/slasscom/ceylontribune.png",
-        description:
-          "ELZIAN AGRO soared to new heights, claiming the prestigious title of National Winner in the category of Best Disruptive Product Innovation. Their transformative product has revolutionized traditional agricultural practices, leaving an indelible mark on the industry. By pushing boundaries and introducing cutting-edge technologies, ELZIAN AGRO has redefined the possibilities within farming. Their groundbreaking solutions have elevated efficiency, productivity, and sustainability to unprecedented levels.",
-        link: "https://ceylontribune.com/?p=233",
-        backup_image: "https://drive.google.com/file/d/1lgLuYmyxx6qkWFYgG_z5oxR_TkESYk7v/view?usp=drive_link",
-      },
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "ELZIAN AGRO has been Honored with Multiple Awards for Our Innovation, Technology, and Overall Success.",
-        image: "assets/img/impact/recognition/slasscom/linkedin_2.jpg",
-        description:
-          "I am thrilled and proud to announce that ELZIAN AGRO has been honored with multiple awards for our innovation, technology, and overall success. This achievement would not have been possible...",
-        link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-team-activity-7078312302239760384-uvzq/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1ansLT9wGYkOFYpNOk8lLV3eo2dx2ysm5/view?usp=drive_link",
-      },
-      {
-        date: "June, 29, 2023",
-        source_name: "Ada Derana",
-        source_link: "http://bizenglish.adaderana.lk/",
-        title: "ELZIAN AGRO Achieves Remarkable Success at SLASSCOM National Ingenuity Awards 2023",
-        image: "assets/img/impact/recognition/slasscom/ada-derana.png",
-        description:
-          "LZIAN AGRO, a true visionary in the agricultural technology sector, has reached unprecedented heights with their exceptional performance at the highly esteemed SLASSCOM National Ingenuity Awards 2023...",
-        link: "http://bizenglish.adaderana.lk/elzian-agro-achieves-remarkable-success-at-slasscom-national-ingenuity-awards-2023/",
-        backup_image: "https://drive.google.com/file/d/1EHo447_c3PWQeoQHFcnKydom6Y_9-KTx/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.8",
-    title: "Founder of Founder Institute’s Fastest Growing Companies of 2023",
-    slides: [
-      {
-        date: "December 2023",
-        source_name: "Founder Institute",
-        source_link: "https://www.linkedin.com/school/the-founder-institute/posts/",
-        title: "Discover Asia and Australia's fastest-growing startups in our latest FI50 Report!",
-        image: "assets/img/impact/recognition/founder-institute/founder-institute.png",
-        description:
-          "We're highlighting top startups from Asia and Australia in our global portfolio, showcasing their significant growth over the past year.",
-        link: "https://www.linkedin.com/posts/the-founder-institute_meet-our-top-10-startups-from-asia-and-australia-activity-7135713420305195008--lUS/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1q-44cqlhkKaU1YvL8tSruXoZQQ3wOlX_/view?usp=drive_link",
-      },
-      {
-        date: "",
-        source_name: "Founder Institute",
-        source_link: "https://fi.co/50",
-        title: "ELZIAN AGRO",
-        image: "assets/img/impact/recognition/founder-institute/founder-institute-profile.png",
-        description:
-          "Elzian Agro provides smart agronomy solution to farmers that reduces their crop wastage. In 2023 it was honored with multiple national and global awards, including Expo City Dubai.",
-        link: "https://fi.co/50/elzian-agro",
-        backup_image: "https://drive.google.com/file/d/1h2pkwmrQ-IgIcA028fXvw6D0P0OyFgn8/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.9",
-    title: "American Field Services (AFS) Award Finalist 2024",
-    slides: [
-      {
-        date: "August 17, 2024",
-        source_name: "AFS Youth Assembly",
-        source_link: "https://www.youthassembly.org/",
-        title: "Announcing the Finalists for the AFS Award for Young Global Citizens",
-        image: "assets/img/impact/recognition/american-field-services/afs-award-finalists.png",
-        description:
-          "The AFS Award for Young Global Citizens recognizes young people for their commitment to improving the global community and whose actions contribute to a more just, peaceful, and tolerant world. The winner will receive a $10,000 prize. The Award will be given to a Youth Assembly delegate who:",
-        link: "https://www.youthassembly.org/2024/08/17/afs-award-finalists-2024/",
-        backup_image: "https://drive.google.com/file/d/1luh0WjcR8zrUPnpSZ0OeTk47J7xmQ6XR/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.10",
-    title: "Recognized among Sri Lanka’s Best Employer Brand Awards 2024",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "ELZIAN AGRO Recognized Among Sri Lanka's Best Employer Brand Awards 2024",
-        image: "assets/img/impact/recognition/best-employer-brand-awards/best-employer-brand-awards.png",
-        description:
-          "I am excited to announce that ELZIAN AGRO has been recognized among Sri Lanka’s Best Employer Brand Awards 2024, endorsed by CHRO Asia (a Global Platform for the Human Resource heads) and certified by the World Federation of HR Professionals.",
-        link: "https://www.linkedin.com/posts/lilanofficial_employerbrandawards-humanresources-leadership-activity-7238736947815276544-rOHe?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1Ao5WAau3HgBrce4Q31aSAdDlOrfLuSwS/view",
-      },
-    ],
-  },
-  {
-    filter: "filter-recognition",
-    id: "1.11",
-    title: "Recognized among Sri Lanka’s Best Brand Leadership Awards 2024",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "ELZIAN AGRO Honored with Prestigious Brand Leadership Award 2024",
-        image: "assets/img/impact/recognition/best-brand-leadership-awards/best-brand-leadership-awards.png",
-        description:
-          "I am thrilled to share that ELZIAN AGRO has been honored with the prestigious Brand Leadership Award 2024! 🎉 This award recognizes organizations that excel in brand building and innovative marketing strategies, and it is endorsed by the World Marketing Congress, CMO Global, and the World Federation of Marketing Professionals.",
-        link: "https://www.linkedin.com/posts/lilanofficial_brandleadershipawards2024-marketingexcellence-activity-7238901417011200000-hE3t/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1hydDucLDd72IAqJZJ8UG3WlpJ8-6Ut7s/view?usp=sharing",
+          "I had an incredible time last night at the Moonshot Awards in Chelsea, Manhattan! 🌟 The Moonshot Platform does more than just support projects; it is committed to fostering the personal growth of young leaders...",
+        link: "https://www.linkedin.com/posts/lilanofficial_moonshotawards-leadership-entrepreneurship-activity-7271194508740993024-SHlB?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/12jxo9ZjLDcRNNAct3-BvQnD_Gzaowv1u/view?usp=drive_link",
       },
     ],
   },
@@ -532,678 +38,638 @@ const impacts = [
   },
   {
     filter: "filter-recognition",
-    id: "1.13",
-    title: "Moonshot Awards - Global Connector Winner 2024",
+    id: "1.11",
+    title: "Recognized among Sri Lanka’s Best Brand Leadership Awards 2024",
     slides: [
       {
-        date: "December 2024",
+        date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Moonshot Awards - Global Connector Winner 2024",
-        image: "assets/img/impact/recognition/moonshot-awards/Global Connector Winner 2024.png",
+        title: "ELZIAN AGRO Honored with Prestigious Brand Leadership Award 2024",
+        image: "assets/img/impact/recognition/best-brand-leadership-awards/best-brand-leadership-awards.png",
         description:
-          "I had an incredible time last night at the Moonshot Awards in Chelsea, Manhattan! 🌟 The Moonshot Platform does more than just support projects; it is committed to fostering the personal growth of young leaders...",
-        link: "https://www.linkedin.com/posts/lilanofficial_moonshotawards-leadership-entrepreneurship-activity-7271194508740993024-SHlB?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/12jxo9ZjLDcRNNAct3-BvQnD_Gzaowv1u/view?usp=drive_link",
+          "I am thrilled to share that ELZIAN AGRO has been honored with the prestigious Brand Leadership Award 2024! 🎉 This award recognizes organizations that excel in brand building and innovative marketing strategies, and it is endorsed by the World Marketing Congress, CMO Global, and the World Federation of Marketing Professionals.",
+        link: "https://www.linkedin.com/posts/lilanofficial_brandleadershipawards2024-marketingexcellence-activity-7238901417011200000-hE3t/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1hydDucLDd72IAqJZJ8UG3WlpJ8-6Ut7s/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.10",
+    title: "Recognized among Sri Lanka’s Best Employer Brand Awards 2024",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ELZIAN AGRO Recognized Among Sri Lanka's Best Employer Brand Awards 2024",
+        image: "assets/img/impact/recognition/best-employer-brand-awards/best-employer-brand-awards.png",
+        description:
+          "I am excited to announce that ELZIAN AGRO has been recognized among Sri Lanka’s Best Employer Brand Awards 2024, endorsed by CHRO Asia (a Global Platform for the Human Resource heads) and certified by the World Federation of HR Professionals.",
+        link: "https://www.linkedin.com/posts/lilanofficial_employerbrandawards-humanresources-leadership-activity-7238736947815276544-rOHe?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Ao5WAau3HgBrce4Q31aSAdDlOrfLuSwS/view",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.9",
+    title: "American Field Services (AFS) Award Finalist 2024",
+    slides: [
+      {
+        date: "August 17, 2024",
+        source_name: "AFS Youth Assembly",
+        source_link: "https://www.youthassembly.org/",
+        title: "Announcing the Finalists for the AFS Award for Young Global Citizens",
+        image: "assets/img/impact/recognition/american-field-services/afs-award-finalists.png",
+        description:
+          "The AFS Award for Young Global Citizens recognizes young people for their commitment to improving the global community and whose actions contribute to a more just, peaceful, and tolerant world. The winner will receive a $10,000 prize. The Award will be given to a Youth Assembly delegate who:",
+        link: "https://www.youthassembly.org/2024/08/17/afs-award-finalists-2024/",
+        backup_image: "https://drive.google.com/file/d/1luh0WjcR8zrUPnpSZ0OeTk47J7xmQ6XR/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.8",
+    title: "Founder of Founder Institute’s Fastest Growing Companies of 2023",
+    slides: [
+      {
+        date: "",
+        source_name: "Founder Institute",
+        source_link: "https://fi.co/50",
+        title: "ELZIAN AGRO",
+        image: "assets/img/impact/recognition/founder-institute/founder-institute-profile.png",
+        description:
+          "Elzian Agro provides smart agronomy solution to farmers that reduces their crop wastage. In 2023 it was honored with multiple national and global awards, including Expo City Dubai.",
+        link: "https://fi.co/50/elzian-agro",
+        backup_image: "https://drive.google.com/file/d/1h2pkwmrQ-IgIcA028fXvw6D0P0OyFgn8/view?usp=sharing",
+      },
+      {
+        date: "December 2023",
+        source_name: "Founder Institute",
+        source_link: "https://www.linkedin.com/school/the-founder-institute/posts/",
+        title: "Discover Asia and Australia's fastest-growing startups in our latest FI50 Report!",
+        image: "assets/img/impact/recognition/founder-institute/founder-institute.png",
+        description:
+          "We're highlighting top startups from Asia and Australia in our global portfolio, showcasing their significant growth over the past year.",
+        link: "https://www.linkedin.com/posts/the-founder-institute_meet-our-top-10-startups-from-asia-and-australia-activity-7135713420305195008--lUS/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1q-44cqlhkKaU1YvL8tSruXoZQQ3wOlX_/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.7",
+    title:
+      "Sri Lanka Association for Software Services Companies (SLASSCOM) National Ingenuity Award Consecutive Winner in 2022, 2023, 2024",
+    slides: [
+      {
+        date: "June, 29, 2023",
+        source_name: "Ada Derana",
+        source_link: "http://bizenglish.adaderana.lk/",
+        title: "ELZIAN AGRO Achieves Remarkable Success at SLASSCOM National Ingenuity Awards 2023",
+        image: "assets/img/impact/recognition/slasscom/ada-derana.png",
+        description:
+          "LZIAN AGRO, a true visionary in the agricultural technology sector, has reached unprecedented heights with their exceptional performance at the highly esteemed SLASSCOM National Ingenuity Awards 2023...",
+        link: "http://bizenglish.adaderana.lk/elzian-agro-achieves-remarkable-success-at-slasscom-national-ingenuity-awards-2023/",
+        backup_image: "https://drive.google.com/file/d/1EHo447_c3PWQeoQHFcnKydom6Y_9-KTx/view?usp=drive_link",
+      },
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "ELZIAN AGRO has been Honored with Multiple Awards for Our Innovation, Technology, and Overall Success.",
+        image: "assets/img/impact/recognition/slasscom/linkedin_2.jpg",
+        description:
+          "I am thrilled and proud to announce that ELZIAN AGRO has been honored with multiple awards for our innovation, technology, and overall success. This achievement would not have been possible...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-team-activity-7078312302239760384-uvzq/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ansLT9wGYkOFYpNOk8lLV3eo2dx2ysm5/view?usp=drive_link",
+      },
+      {
+        date: "July 6, 2023",
+        source_name: "Ceylon Tribune",
+        source_link: "https://ceylontribune.com/",
+        title: "ELZIAN AGRO is Igniting a Technological Revolution in Agriculture",
+        image: "assets/img/impact/recognition/slasscom/ceylontribune.png",
+        description:
+          "ELZIAN AGRO soared to new heights, claiming the prestigious title of National Winner in the category of Best Disruptive Product Innovation. Their transformative product has revolutionized traditional agricultural practices, leaving an indelible mark on the industry. By pushing boundaries and introducing cutting-edge technologies, ELZIAN AGRO has redefined the possibilities within farming. Their groundbreaking solutions have elevated efficiency, productivity, and sustainability to unprecedented levels.",
+        link: "https://ceylontribune.com/?p=233",
+        backup_image: "https://drive.google.com/file/d/1lgLuYmyxx6qkWFYgG_z5oxR_TkESYk7v/view?usp=drive_link",
+      },
+      {
+        date: "November 2023",
+        source_name: "SLASSCOM",
+        source_link: "https://www.linkedin.com/company/slasscom/posts/",
+        title: "The National Winners of the Prestigious SLASSCOM National Ingenuity Awards!",
+        image: "assets/img/impact/recognition/slasscom/slasscom.jpg",
+        description:
+          "These brilliant minds have redefined innovation and set new benchmarks in the tech industry. Join us in celebrating their remarkable achievements! ",
+        link: "https://www.linkedin.com/posts/slasscom_slasscomingenuityawards-snia-winners-activity-7080412198577049600-F0ct/?utm_source=share&utm_medium=member_android",
+        backup_image: "https://drive.google.com/file/d/1B5qRM1PMdVYKy80onpz6rGjiw4rTR8sQ/view?usp=drive_link",
+      },
+      {
+        date: "July 6, 2023",
+        source_name: "Ceylon Business Reporter",
+        source_link: "https://cbr.lk/",
+        title: "ELZIAN AGRO Shines Bright at SLASSCOM National Ingenuity Awards 2023",
+        image: "assets/img/impact/recognition/slasscom/ceylon-business-reporter.jpg",
+        description:
+          "ELZIAN AGRO, recognized as one of the top Technology Disruptors, garnered high praise and esteemed accolades in various categories, solidifying their position as a leading force in the industry. The company’s commitment to innovation and relentless pursuit of excellence was wholeheartedly acknowledged, with the team being honored in multiple domains.",
+        link: "https://cbr.lk/technology/elzian-agro-shines-bright-at-slasscom-national-ingenuity-awards-2023/",
+        backup_image: "https://drive.google.com/file/d/1nSx3ofEQGD64MkCxanQLxYDdPmcXsaUb/view?usp=drive_link",
+      },
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "National Winner of Best Innovative Project in Agritech at the SLASSCOM National Ingenuity Awards 2024 ",
+        image: "assets/img/impact/recognition/slasscom/linkedin.jpg",
+        description:
+          "I am thrilled and proud to announce that ELZIAN AGRO emerged as the National Winner of Best Innovative Project in Agritech at the SLASSCOM National Ingenuity Awards 2024 🌟.",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-team-activity-7215416791735394304-ScWa/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1wIbkvwKfLhHeW3Hq9bJMB8f_7OIv70UG/view?usp=drive_link",
+      },
+      {
+        date: "November 2023",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "SLASSCOM National Ingenuity Awards 2023",
+        image: "assets/img/impact/recognition/slasscom/elzian-agro.jpg",
+        description:
+          "We are thrilled to share the incredible success of ELZIAN AGRO at the esteemed SLASSCOM National Ingenuity Awards 2023. It was an enchanting evening filled with boundless inspiration, groundbreaking innovation, and well-deserved recognition of exceptional achievements within the tech industry. ELZIAN AGRO has emerged as one of the top Technology Disrupters in various categories. Our unwavering dedication to innovation and relentless pursuit of excellence has been unequivocally acknowledged with highly esteemed accolades:",
+        link: "https://www.linkedin.com/posts/elzianagro_innovation-technology-success-activity-7078303289900990465-8d2O/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1cX8c77zRAqUYes0Ydw9LdMdjRCUnxjAl/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.6",
+    title: "Recognized among the top Meaningful Business Founders 2023",
+    slides: [
+      {
+        date: "2023",
+        source_name: "Meaningful Business",
+        source_link: "https://meaningful.business/",
+        title: "The 2023 Meaningful Business 100 (MB100)",
+        image: "assets/img/impact/recognition/meaningful-business/meaningful-business-mb100.png",
+        description:
+          "The 2023 MB100 are an outstanding group of leaders combining profit and purpose. Curated by an expert panel of 29 judges, the winners were chosen from over 800 applications, representing 93 countries, and were scored across five key areas: Durability, Impact, Innovation, Leadership and Scope.",
+        link: "https://meaningful.business/mb100-2023/",
+        backup_image: "https://drive.google.com/file/d/1PqS1tfzNwb1QJ5H9QywQmZWlq0vis7Au/view?usp=drive_link",
+      },
+      {
+        date: "",
+        source_name: "Meaningful Business",
+        source_link: "https://meaningful.business/",
+        title: "Lilan Dayananda Profile",
+        image: "assets/img/impact/recognition/meaningful-business/meaningful-business-profile.png",
+        description:
+          "Lilan Dayananda is an international award-winning young social tech entrepreneur. For years, his social initiative Elzian Agro has offered customised monitoring information and automation solutions through trending digital technologies to optimise customers’ harvest and productively utilise their resources, improving food security and climate action. ",
+        link: "https://meaningful.business/team/lilan-dayananda/",
+        backup_image: "https://drive.google.com/file/d/1OWl3LVi2vKZJIXaaKMocQ-reEh3zubPY/view?usp=drive_link",
+      },
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Recognised by Meaningful Business on the 2023",
+        image: "assets/img/impact/recognition/meaningful-business/linkedin.png",
+        description:
+          "The 2023 MB100 are an outstanding group of leaders combining profit and purpose to help achieve the UN Global Goals across five key areas: Durability, Impact, Innovation, Leadership and Scope.",
+        link: "https://www.linkedin.com/posts/lilanofficial_mb100-meetthemb100-2023mb100-activity-7117863318945492992-8DK_/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1E-DqliB4Op4dsrFgEj0uILlUK6jq6_Yk/view?usp=drive_link",
+      },
+      {
+        date: "November 2023",
+        source_name: "Meaningful Business",
+        source_link: "https://www.linkedin.com/company/meaningful-business/posts/",
+        title: "Introduce the 2023 Meaningful Business 100",
+        image: "assets/img/impact/recognition/meaningful-business/meaningful-business.png",
+        description:
+          "These leaders are setting the bar for combining profit and purpose, helping to tackle the world’s most pressing social and environmental issues. Your annual source of inspiration is here.",
+        link: "https://www.linkedin.com/posts/meaningful-business_meaningfulbusiness-2023mb100-mb100-activity-7117842154596495360-takh/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1zF9d4SFS_l60cqHr-7RwI5tbjJjK6lYP/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.5",
+    title: "Recognized among the Top 10 Youth Entrepreneurs of Global-South 2022",
+    slides: [
+      {
+        date: "July 5, 2022",
+        source_name: "South-South Galaxy",
+        source_link: "https://southsouth-galaxy.org/",
+        title:
+          "Top Youth Entrepreneurs Selected for Final Youth4South Entrepreneurship Competition, to be held in Bangkok in September",
+        image: "assets/img/impact/recognition/youth-entrepreneurs/south-south-galaxy.png",
+        description:
+          "More than twenty young entrepreneurs from 15 developing countries came together for the first-round pitching of the Youth4South...",
+        link: "https://southsouth-galaxy.org/news/top-youth-entrepreneurs-selected-for-final-youth4south-entrepreneurship-competition/",
+        backup_image: "https://drive.google.com/file/d/12lv_XmgWE5KoCjCtst22NrioQ2EEDGH7/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.4",
+    title: "Commonwealth Youth Award Winner 2022",
+    slides: [
+      {
+        date: "February 10, 2022",
+        source_name: "Colombo Gazette",
+        source_link: "https://colombogazette.com/",
+        title: "Sri Lankan shortlisted for Commonwealth Youth Awards 2022",
+        image: "assets/img/impact/recognition/commonwealth/colombo-gazette.png",
+        description:
+          "Twenty extraordinary young people, including inventors, activists and entrepreneurs, from 17 countries have been announced as finalists for this year’s Commonwealth Youth Awards.",
+        link: "https://colombogazette.com/2022/02/10/sri-lankan-shortlisted-for-commonwealth-youth-awards-2022/",
+        backup_image: "https://drive.google.com/file/d/1iQM_qc9QlDdcsLLxjVu868g7aECO_Pir/view?usp=drive_link",
+      },
+      {
+        date: "March 19, 2022",
+        source_name: "International Youth Change Maker - IYCM",
+        source_link: "https://web.facebook.com/IYcmBd",
+        title: "Commonwealth Youth Awards Winner 2022",
+        image: "assets/img/impact/recognition/commonwealth/commonwealth-award-sl.png",
+        description:
+          "As the Co-Founder and CEO of ‘Elzian Agro’ Lilan offers rural farmers smart agronomy solutions to increase crop yield organically and helps them respond to significant changes in soil and weather and potential pest threats through data-based prediction reports. The project has reached more than 50,000 farmers and supports government bodies in Sri Lanka to better understand the importance of modern smart agronomy solutions.",
+        link: "https://web.facebook.com/100064883162038/posts/4751834144927957/",
+        backup_image: "https://drive.google.com/file/d/1URcASfOrGBBb-BKdiyaeSdkYdMQnDnl5/view?usp=sharing",
+      },
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Commonwealth Youth Awards",
+        image: "assets/img/impact/recognition/commonwealth/linkedin.png",
+        description:
+          "I recently had the opportunity to capture a moment with my esteemed Commonwealth Youth Award, a prestigious recognition bestowed upon young individuals aged 15 to 29 who have demonstrated exceptional dedication to enhancing democracy and furthering the cause of the 17 Sustainable Development Goals (SDGs). These awards represent a vital facet of The Commonwealth Secretariat's overarching mission to empower, engage, and inspire young people, all while amplifying their voices and achievements throughout the 56 member states.",
+        link: "https://www.linkedin.com/posts/lilanofficial_commonwealth-youth-commonwealthyouthawards-activity-7117812520861519873-n2Yb/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1wawZXLe3ksNy37Rxu_6Ip55XEHo1_wMm/view?usp=drive_link",
+      },
+      {
+        date: "March 01, 2022",
+        source_name: "The Commonwealth",
+        source_link: "https://thecommonwealth.org/",
+        title: "20 finalists announced for Commonwealth Youth Awards 2022",
+        image: "assets/img/impact/recognition/commonwealth/the-commonwealth.png",
+        description:
+          "Twenty extraordinary young people, including inventors, activists and entrepreneurs, from 17 countries have been announced as finalists for this year’s Commonwealth Youth Awards...",
+        link: "https://thecommonwealth.org/news/20-finalists-announced-commonwealth-youth-awards-2022",
+        backup_image: "https://drive.google.com/file/d/1k5gbdvPOHXErUPQr18Rnyr-bs2JBmnV7/view?usp=drive_link",
+      },
+      {
+        date: "2022",
+        source_name: "",
+        source_link: "",
+        title: "Commonwealth Youth Awards 2022",
+        image: "assets/img/impact/recognition/commonwealth/commonwealth-award.png",
+        description:
+          "The Commonwealth Youth Awards for Excellence in Development Work aim to recognise the contribution young people aged 15–29 make towards promoting and enhancing democracy and achieving the 17 Sustainable Development Goals (SDGs). It raises the profile of committed and innovative Commonwealth youth who are working hard to address pressing issues such as poverty and conflict.",
+        link: "https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2022-03/OFFICIAL%202022%20Commonwealth%20Youth%20Awards%20Booklet.pdf",
+        backup_image: "https://drive.google.com/file/d/1ukSmsW8QKiepenGDOfHUvNz8Wj34Ih1e/view?usp=drive_link",
+      },
+      {
+        date: "May 16, 2022",
+        source_name: "Your Commonwealth",
+        source_link: "https://yourcommonwealth.org/",
+        title: "Putting an end to world hunger through smart agronomy solutions",
+        image: "assets/img/impact/recognition/commonwealth/commonwealth.png",
+        description:
+          "Lilan Dayananda is a co-founder and the CEO at Elzian Agro. His organisation has been tackling world hunger through award-winning smart agronomy solutions. These innovations provide soil and weather monitoring systems to farmers who are affected by extreme weather changes and pests and who also have limited resources to service their farms. 25-year- old Commonwealth Correspondent Aminat Awogun from Nigeria spoke with Lilan, who is a 2022 Commonwealth Youth Awards Finalist.",
+        link: "https://yourcommonwealth.org/economic-development/putting-an-end-to-world-hunger-through-smart-agronomy-solutions/",
+        backup_image: "https://drive.google.com/file/d/1gdNG0cQKGM3W2wOHwRMjFM6Bl_TTy26U/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.3",
+    title: "New Generation Asia: Social Entrepreneur of the Year",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards",
+        image: "assets/img/impact/recognition/new-generation-asia/linkedin.png",
+        description:
+          "I am delighted to announce that I have been honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards, at the Shangri-La Hotel in Colombo.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-startup-economy-activity-7216735742062944256-aduN/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1MwP6aYIrpe_AYWLqzSXdrPaZBCxkYOYX/view?usp=drive_link",
+      },
+      {
+        date: "August 12, 2024",
+        source_name: "Business News",
+        source_link: "https://www.lankabusinessnews.com/",
+        title: "Lilan Dayananda honored as Social Entrepreneur of the Year at New Generation Asia Awards",
+        image: "assets/img/impact/recognition/new-generation-asia/business-news.png",
+        description:
+          "Lilan Dayananda, the Managing Director and Chief Executive Officer of Elzian Agro, was celebrated as the Social Entrepreneur of the Year at the prestigious Fifth New Generation Asia Awards...",
+        link: "https://www.lankabusinessnews.com/lilan-dayananda-honored-as-social-entrepreneur-of-the-year-at-new-generation-asia-awards/",
+        backup_image: "https://drive.google.com/file/d/1xoyDHbJwwlDrUubPi76SWg71McDHeF5u/view?usp=drive_link",
+      },
+      {
+        date: "August 16, 2024",
+        source_name: "Lanka News Network",
+        source_link: "https://english.lankanewsnetwork.com/",
+        title: "Lilan Dayananda Named Social Entrepreneur of the Year at New Generation Asia Awards",
+        image: "assets/img/impact/recognition/new-generation-asia/lanka-news-network.png",
+        description:
+          "Lilan Dayananda, the dynamic Managing Director and CEO of Elzian Agro, was honored as the Social Entrepreneur of the Year at the Fifth New Generation Asia Awards held at the Shangri-La Hotel...",
+        link: "https://english.lankanewsnetwork.com/?p=1230",
+        backup_image: "https://drive.google.com/file/d/16Qw3A6USD6ahg890BxZJUyeNdrKBZ1D2/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.2",
+    title: "Climate Action Leadership Award 2024",
+    slides: [
+      {
+        date: "November 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Climate Action Leadership Award 2024",
+        image:
+          "assets/img/impact/recognition/climate-action-leadership-award/Climate Action Leadership Award 2024.png",
+        description:
+          "I am truly honored to receive the Climate Action Leadership Award 2024 from the Global Climate Action Partnership (GCAP) during the Global Workshop in Foz do Iguaçu, Brazil...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-climatechange-activity-7260618274957111296-ACg5?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/18tfWjk8krOaiYA9hURbklOGqngpWiNtR/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.1",
+    title: "Forbes 30 under 30: Social Impact List",
+    slides: [
+      {
+        date: "",
+        source_name: "Forbes",
+        source_link: "https://www.forbes.com/",
+        title: "Lilan Dayananda",
+        image: "assets/img/impact/recognition/forbes/forbes-profile.png",
+        description:
+          "Lilan Dayananda is a social tech entrepreneur and cofounder and CEO of Elzian Agro, a Sri Lankan startup that uses technologies like IoT devices and AI to help small farmers optimize their harvests and deal with climate change. Their services include weather and soil monitoring systems, pest detection and tracing products on the supply chain. Dayananda's work earned him a nomination for the Queen's Commonwealth Trust Youth Award in 2022, and Elzian Agro's Pest Prediction System was given the Merit Award at the SLASSCOM National Ingenuity Awards 2022.",
+        link: "https://www.forbes.com/profile/lilan-dayananda/?list=30under30-asia-social-impact/&sh=47305d8b5e76",
+        backup_image: "https://drive.google.com/file/d/11v20zwrVACKavb550IAWLBPJ8d0OIGLN/view?usp=drive_link",
+      },
+      {
+        date: "",
+        source_name: "Forbes",
+        source_link: "https://www.forbes.com/",
+        title: "Lilan Dayananda",
+        image: "assets/img/impact/recognition/forbes/forbes.png",
+        description:
+          "Lilan Dayananda is a social tech entrepreneur and cofounder and CEO of Elzian Agro, a Sri Lankan startup that uses technologies like IoT devices and AI to help small farmers optimize their harvests and deal with climate change. Their services include weather and soil monitoring systems, pest detection and tracing products on the supply chain. Dayananda's work earned him a nomination for the Queen's Commonwealth Trust Youth Award in 2022, and Elzian Agro's Pest Prediction System was given the Merit Award at the SLASSCOM National Ingenuity Awards 2022",
+        link: "https://www.forbes.com/30-under-30/2024/asia/social-impact?profile=lilan-dayananda",
+        backup_image: "https://drive.google.com/file/d/1_yiWmMrIftWnVbM83ecf01Xu5jpJLJaY/view?usp=drive_link",
+      },
+      {
+        date: "June 2024",
+        source_name: "Linkedin",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Honored with the distinction of being selected for the Forbes 30 Under 30: Social Impact List",
+        image: "assets/img/impact/recognition/forbes/linkedin.png",
+        description:
+          "I am delighted to share with you all that I have been honored with the distinction of being selected for the Forbes 30 Under 30: Social Impact List.In its 9th year now, the Asia list is a continuation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_forbesunder30-forbesu30asia-sdgs-activity-7196917504961646592-N6jv/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1H_tF5FNV8KDe_6O897M93fr53r5JrhYR/view?usp=drive_link",
+      },
+      {
+        date: "May 20, 2024",
+        source_name: "Pulse Today",
+        source_link: "https://www.instagram.com/pulsetoday/",
+        title: "Sri Lankan Entrepreneur Lilan Dayananda Featured in Forbes 30 Under 30 List",
+        image: "assets/img/impact/recognition/forbes/instagram.png",
+        description:
+          'Sri Lanka entrepreneur Lilan Dayananda who is the co-founder and CEO of Elzian Agro has been featured in the 9th edition of Forbes\' "30 Under 30 Asia" list under the social impact category. His company is a Sri Lankan startup that uses technologies like IoT devices and AI to help small farmers optimize their harvests and deal with climate change. Their services include weather and soil monitoring systems, pest detection and tracing products on the supply chain.',
+        link: "https://www.instagram.com/p/C7Ly5MNB7CX/?utm_source=ig_web_copy_link",
+        backup_image: "https://drive.google.com/file/d/169z3ItcS2nHE9t9lamsWUOvIm4LSD47l/view?usp=drive_link",
+      },
+      {
+        date: "May 24, 2024",
+        source_name: "News Asia",
+        source_link: "https://newsasia.lk/",
+        title: "Sri Lankan Entrepreneur Lilan Dayananda makes Forbes’ “30 Under 30 Asia” List",
+        image: "assets/img/impact/recognition/forbes/news-asia.png",
+        description:
+          "Lilan Dayananda, a  Sri Lankan entrepreneur, has earned a distinguished place on Forbes Magazine’s “30 Under 30 Asia” list in the social impact category. This list, now in its ninth edition, celebrates young innovators under 30 who are transforming their industries and creating forward-thinking solutions to navigate changing business landscapes. The Asia list is part of the broader Forbes 30 Under 30 franchise, which has been highlighting young achievers for over a decade.",
+        link: "https://newsasia.lk/sri-lankan-entrepreneur-lilan-dayananda-makes-forbes-30-under-30-asia-list/",
+        backup_image: "https://drive.google.com/file/d/1Z_oHbfDvsO19ktvQKGd6SJOcCKOLwuZm/view?usp=drive_link",
+      },
+      {
+        date: "Jun 02, 2024",
+        source_name: "The Morning",
+        source_link: "https://www.themorning.lk/",
+        title: "Lilan Dayananda: Making a difference through agritech",
+        image: "assets/img/impact/recognition/forbes/the-morning.png",
+        description:
+          "Youth having the power to change the world is a commonly-held belief. And every year Forbes magazine recognises youth who are out there making a difference through its 30 Under 30 list. The 30 Under 30 Asia list for 2024 saw two Sri Lankans recognised and this week The Sunday Morning Brunch chatted with one of them – tech entrepreneur Lilan Dayananda.",
+        link: "https://www.themorning.lk/articles/MJd1syvb8TIK7DviAyo6",
+        backup_image: "https://drive.google.com/file/d/1zbwv6b7idbEP1zH5m43TaOX6Iz_QiKNP/view?usp=drive_link",
+      },
+      {
+        date: "May 23, 2024",
+        source_name: "Business Cafe",
+        source_link: "https://businesscafe.lk/",
+        title: "Forbes '30 Under 30 Asia' list celebrates Sri Lankan Entrepreneur Lilan Dayananda",
+        image: "assets/img/impact/recognition/forbes/business-cafe.png",
+        description:
+          "Now in its ninth year, this esteemed list highlights young visionaries under 30 who are revolutionizing their industries and pioneering innovative strategies to meet the demands of a dynamic business environment.",
+        link: "https://businesscafe.lk/business-news/food-beverage/item/15460-forbes-30-under-30-asia-list-celebrates-sri-lankan-entrepreneur-lilan-dayananda",
+        backup_image: "https://drive.google.com/file/d/11NH6eIjr2D3e-3lQry6-bpAFQKWilg9I/view?usp=drive_link",
+      },
+      {
+        date: "May 28, 2024",
+        source_name: "Lanka Puwath",
+        source_link: "https://english.lankapuvath.lk/",
+        title: "Sri Lankan Entrepreneur Lilan Dayananda Honored in Forbes ‘30 Under 30 Asia’ List",
+        image: "assets/img/impact/recognition/forbes/lanka-puwath.png",
+        description:
+          "Sri Lankan entrepreneur Lilan Dayananda has been honored with a coveted spot on Forbes Magazine’s “30 Under 30 Asia” list in the social impact sector. This prestigious list, now in its ninth year, recognizes young leaders under 30 who are driving innovation and adapting to the evolving business landscape. The Asia list is an extension of the renowned Forbes 30 Under 30 franchise, which has been celebrating young talent for over ten years.",
+        link: "https://english.lankapuvath.lk/2024/05/28/lilan-dayananda/",
+        backup_image: "https://drive.google.com/file/d/1Kw4H05GO-yBwS-ye9ePLh23gt_3XHwI3/view?usp=drive_link",
+      },
+      {
+        date: "May 23, 2024",
+        source_name: "Ceylon Tribune",
+        source_link: "https://ceylontribune.com/",
+        title: "Sri Lankan Entrepreneur Lilan Dayananda Honored in Forbes ‘30 Under 30 Asia’ List",
+        image: "assets/img/impact/recognition/forbes/ceylon-tribune.png",
+        description:
+          "Sri Lankan entrepreneur Lilan Dayananda has been honored with a coveted spot on Forbes Magazine’s “30 Under 30 Asia” list in the social impact sector. This prestigious list, now in its ninth year, recognizes young leaders under 30 who are driving innovation and adapting to the evolving business landscape. The Asia list is an extension of the renowned Forbes 30 Under 30 franchise, which has been celebrating young talent for over ten years.",
+        link: "https://ceylontribune.com/?p=895",
+        backup_image: "https://drive.google.com/file/d/1pLGNdspgJyEvUf8Xzkqs3SzIp_tst9Mv/view?usp=drive_link",
+      },
+      {
+        date: "May 29, 2024",
+        source_name: "Sunday Times",
+        source_link: "https://sundaytimes.lk/online/",
+        title: "Sri Lanka’s Lilan Dayananda in Forbes “30 Under 30 Asia” List",
+        image: "assets/img/impact/recognition/forbes/sunday-times.png",
+        description:
+          'Sri Lankan entrepreneur Lilan Dayananda has been honored by Forbes as one of the 300 young entrepreneurs, leaders, influencers, and trailblazers across the Asia-Pacific region in its ninth annual "30 Under 30 Asia" list. This prestigious list, featuring individuals under the age of 30, highlights those driving industry transformations and pioneering innovative solutions to adapt to evolving business landscapes. Now in its ninth year, the Asia list is an extension of the Forbes 30 Under 30 franchise, which began more than a decade ago.',
+        link: "https://sundaytimes.lk/online/business/Sri-Lankas-Lilan-Dayananda-in-Forbes-30-Under-30-Asia-List/10-1145847",
+        backup_image: "https://drive.google.com/file/d/13zH8le658N4QriMrAMcdbs3SAgKSVXu-/view?usp=drive_link",
+      },
+      {
+        date: "July 2024",
+        source_name: "Our Economics",
+        source_link: "https://www.linkedin.com/company/our-economics/posts/?feedView=all",
+        title: "Sri Lankan entrepreneur Lilan Dayananda featured in Forbes 30 Under 30 list",
+        image: "assets/img/impact/recognition/forbes/our-economics.png",
+        description:
+          'Sri Lanka entrepreneur Lilan Dayananda who is the co-founder and CEO of Elzian Agro has been featured in the 9th edition of Forbes\' "30 Under 30 Asia" list under the social impact category. 🇱🇰 👏',
+        link: "https://www.linkedin.com/posts/our-economics_oureconomics-forbes-activity-7211230358384640000-5ZJG/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/15BxtWuXoDmCEpJM9T5YtDhpynYGwDtSJ/view?usp=drive_link",
+      },
+      {
+        date: "May, 29, 2024",
+        source_name: "Ada Derana",
+        source_link: "https://bizenglish.adaderana.lk/",
+        title: "Sri Lankan Entrepreneur Lilan Dayananda in Forbes “30 Under 30 Asia” List",
+        image: "assets/img/impact/recognition/forbes/ada-derana.png",
+        description:
+          "Sri Lankan entrepreneur Lilan Dayananda is among 300 young entrepreneurs, leaders, influencers, and trailblazers across the Asia-Pacific region selected by Forbes for its ninth edition of the “30 Under 30 Asia” list. All individuals on the list are under 30 and are leading the transformation of industries while finding innovative ways to navigate new business realities. Now in its ninth year, the Asia list is part of the global expansion of the Forbes 30 Under 30 franchise, which started over a decade ago.",
+        link: "https://bizenglish.adaderana.lk/sri-lankan-entrepreneur-lilan-dayananda-in-forbes-30-under-30-asia-list/",
+        backup_image: "https://drive.google.com/file/d/1X0nkvvdulZQHl4UxZF3nsl8AGyh-UMe7/view?usp=drive_link",
       },
     ],
   },
 
   {
     filter: "filter-membership",
-    id: "2.1",
-    title: "The Council for Inclusive Capitalism Member & Steward",
+    id: "2.28",
+    title: "WYSE International: Global Change Maker",
     slides: [
-      {
-        date: "November 2022",
-        source_name: "Council for Inclusive Capitalism",
-        source_link: "https://www.linkedin.com/company/council-for-inclusive-capitalism/posts/",
-        title: "Welcome New Council Members",
-        image: "assets/img/impact/membership/council-inclusive-capitalism.png",
-        description:
-          "Today we welcome 7 more forward-thinking business leaders to the Council. We are encouraged by their dedication to conducting business in ways that lead to a more inclusive and sustainable economy. Join us in welcoming.",
-        link: "https://www.linkedin.com/posts/council-for-inclusive-capitalism_today-we-welcome-7-more-forward-thinking-activity-6946215103197310976-W6Vk/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1-nmUxsHkWXPeifWq4dSsbDWltTg88uKX/view?usp=drive_link",
-      },
       {
         date: "",
-        source_name: "Inclusive Capitalism",
-        source_link: "https://www.inclusivecapitalism.com/",
-        title: "Lilan Dayananda | ELZIAN AGRO | CEO",
-        image: "assets/img/impact/membership/inclusive-capitalism.png",
+        source_name: "WYSE International",
+        source_link: "https://www.wyse-ngo.org/",
+        title: "Karunarathnalage Lilan Udayanga Dayananda, Sri Lanka",
+        image: "assets/img/impact/membership/WYSE-international.png",
         description:
-          "Lilan Dayananda is a social tech entrepreneur and a co-founder and the CEO of ELZIAN AGRO. He is a Commonwealth Youth Awardee for Excellence in Development Works in 2022 which was presented by The Commonwealth and nominated for Queen’s Commonwealth Trust Youth Award 2022. He is a special degree holder in Business Management from the University of Kelaniya and a Certified Organic Agribusiness Practitioner. He is a successful graduate of Silicon Valley based Founder Institute’s accelerator program. For years, his initiative organization has come up with award-winning innovative solutions that can apply to Precision Agriculture. His aim through his startup ELZIAN AGRO is to provide effective sustainable solutions to end hunger in all its forms.",
-        link: "https://www.inclusivecapitalism.com/member/lilan-dayananda/",
-        backup_image: "https://drive.google.com/file/d/1CkobLCg8DpGbemg50aqgSruz1M9lL3-_/view?usp=drive_link",
+          "Lilan Dayananda is an international award-winning young social tech entrepreneur who is among the latest top ten Social Entrepreneurs of the Global South according to the United Nations. Lilan was recognized among the top meaningful business founders in 2023 by Ernst & Young (EY), Hogan Lovells Global Law Firms, and Babson College. For years, his social initiatives have come up with innovative solutions that can apply to climate action and biodiversity restoration. One of his social ventures (founded by him) has the world’s first scientifically validated methodology to quantify the human contribution to Primary Ecosystem Services.",
+        link: "https://www.wyse-ngo.org/wyse-global-change-makers-sdg-13/2024/7/18/karunarathnalage-lilan-udayanga-dayananda-sri-lanka",
+        backup_image: "https://drive.google.com/file/d/1stjHgu9XV01wM0MSKNUHjDLm0kuzR3fh/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-membership",
-    id: "2.2",
-    title: "Resolution Project Guide & Mentor Team",
+    id: "2.27",
+    title: "Moonshot Young Leader",
     slides: [
       {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Celebrating Youth Leadership and Social Impact: Highlights from the Enactus World Cup in Astana with the Resolution Project",
-        image: "assets/img/impact/membership/resolution-project-likedin.png",
+        date: "July 2024",
+        source_name: "Moonshot Platform",
+        source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
+        title: "Introducing some of the Young Leaders",
+        image: "assets/img/impact/membership/moonshot-platform.png",
         description:
-          "As a Resolution Project Guide, it is a pleasure to see a successful Enactus World Cup in Astana, Kazakhstan. Congratulations to all the winners and finalists!",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-leadership-entrepreneurship-activity-7252830061488136192-joGW?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1ybMHKAincrPUcMV10sZOSNY88AYCWnBH/view?usp=drive_link",
+          "Introducing you to some of the Young Leaders joining us at this year's Moonshot Young Leaders Camp...",
+        link: "https://www.linkedin.com/posts/moonshot-platform_youngleaders-socialimpact-sdgs-activity-7213889108237049858-ejvR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1J8FlENnyxT2Wyg0qOIyO7qTqfQ8-6LDZ/view?usp=drive_link",
       },
       {
-        date: "",
-        source_name: "Resolution Project",
-        source_link: "https://resolutionproject.org/",
-        title: "Lilan Dayananda",
-        image: "assets/img/impact/membership/resolution-project.png",
-        description:
-          "Lilan Dayananda is an international award-winning youth social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South by the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
-        link: "https://resolutionproject.org/team/lilan-dayananda/",
-        backup_image: "https://drive.google.com/file/d/1_yb-W4q9segG6Q_LQKsbfN9nJqjTQsfm/view?usp=drive_link",
+        date: "July 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Proud to Be a Moonshot Young Leader",
+        image: "assets/img/impact/membership/moonshot-young-leader.png",
+        description: "It is such a pleasure to be a Moonshot Young Leader.",
+        link: "https://www.linkedin.com/posts/lilanofficial_startup-entrepreneurship-business-activity-7214291806371426306-pPuE/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1XNkMChZ4B-DYYINRVdTL4XiwtdlzMbKK/view?usp=sharing",
       },
     ],
   },
   {
     filter: "filter-membership",
-    id: "2.3",
-    title: "Island Innovation Ambassador",
-    slides: [
-      {
-        date: "2022",
-        source_name: "Island Innovation",
-        source_link: "https://islandinnovation.co/",
-        title: "About Lilan Dayananda",
-        image: "assets/img/impact/membership/island-innovation.png",
-        description:
-          "Lilan is from Sri Lanka. He is a detail-oriented and efficient Tech Entrepreneur with extensive experience in Commerce & Business Management. Certified Organic Agribusiness Practitioner and an exporter. Degree holder in Bachelor of Business Management (Special) Degree in Accountancy. Founder of a few University Clubs and Associations. Professional Video Editor and Graphic Designer. Lilan’s start-ups offer real-time smart agronomy solutions through information technology, the internet of things (IoT), automation, machine learning, artificial intelligence, drone technologies, mobile applications, and web applications. Former Media Planner at Mindshare & GroupM. Former Finance & Accounting Data Analyst at Accenture.",
-        link: "https://islandinnovation.co/ambassadors/lilan-dayananda/",
-        backup_image: "https://drive.google.com/file/d/1De8q_dTZ951NR-nNw1z7XZd2R-qLitAT/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.4",
-    title: "Meaningful Business Member",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Empowering Purpose-Driven Leaders: My Inspiring Experience with the Meaningful Business Community in NYC",
-        image: "assets/img/impact/membership/meaningful-business-linkedin-2.png",
-        description:
-          "It was a pleasure connecting with the Meaningful Business community in New York at Lighthouse, one of the city’s most sustainable restaurants.",
-        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-leadership-sustainable-activity-7257584987615436801-BD95/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1dhSzU0TUf-CQ8lifYo9FfXtfRNgi9Wog/view?usp=drive_link",
-      },
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meaningful Business Member",
-        image: "assets/img/impact/membership/meaningful-business-linkedin.png",
-        description:
-          "Pleased to have joined @Meaningful Business as a member, alongside other leaders tackling the world's most pressing issues. It is a curated network designed to connect peers globally, strengthen social businesses and amplify positive impact, all in support of the @United Nations Global Goals.",
-        link: "https://www.linkedin.com/posts/lilanofficial_business-network-leaders-activity-7056419759705239552-rjGW/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1JSn3zsKijZINHgYOjenlEUOOTnFJmwmv/view?usp=drive_link",
-      },
-      {
-        date: "",
-        source_name: "Meaningful Business",
-        source_link: "https://meaningful.business/",
-        title: "Lilan Dayananda",
-        image: "assets/img/impact/membership/meaningful-business-profile.png",
-        description:
-          "Lilan Dayananda is an international award-winning young social tech entrepreneur. For years, his social initiative Elzian Agro has offered customised monitoring information and automation solutions through trending digital technologies to optimise customers’ harvest and productively utilise their resources, improving food security and climate action. ",
-        link: "https://meaningful.business/team/lilan-dayananda/",
-        backup_image: "https://drive.google.com/file/d/1jaW6UQyPaFMhinvGmIbh8wZpsICUR46w/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.5",
-    title: "The World Business Dialogue Ambassador",
+    id: "2.26",
+    title: "One Young World Leader Board",
     slides: [
       {
         date: "November 2022",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Ambassador Certificate",
-        image: "assets/img/impact/membership/ambassador-certificate.png",
+        title: "Honored to Be Ranked number 1 at the One Young World Manchester Summit 2022",
+        image: "assets/img/impact/membership/OYW-manchester-summit.png",
         description:
-          "The “Organisations forum Wirtschaftskongress” (OfW) was founded in 1984 to build a bridge between academic theory and business practice. Since then, an annually changing team of Cologne students has organized an international business conference as its main product here in Cologne. The intention was to connect entrepreneurs, scientists, and ambitious students through an intensive, intergenerational exchange.",
-        link: "https://www.linkedin.com/posts/lilanofficial_team-teamwork-work-activity-6950877215412617216-7bYL/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1vp_5t86ygDX_EecRslO_Bg_x9o5ZsG_U/view?usp=drive_link",
+          "It was a pleasure to be ranked number 1 at OYW Manchester Summit 2022! Thank you to One Young World for allowing me to be a part of this extraordinary, global gathering of young leaders...",
+        link: "https://www.linkedin.com/posts/lilanofficial_it-was-a-pleasure-to-be-ranked-number-1-at-activity-6976216251329126400-Wryt/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1xWZ77TPTAU6oN-aoRRXsx5nCthCaBG_e/view?usp=drive_link",
       },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.25",
+    title: "Climate Reality Project Member",
+    slides: [
       {
-        date: "November 2022",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "23rd World Business Dialogue",
-        image: "assets/img/impact/membership/world-business-dialogue.png",
+        title: "Honor of participating in The Climate Reality Project Leadership Corps training",
+        image: "assets/img/impact/membership/climate-reality-linkedin.png",
         description:
-          "The “Organisations forum Wirtschaftskongress” (OfW) was founded in 1984 to build a bridge between academic theory and business practice. Since then, an annually changing team of Cologne students has organized an international business conference as its main product here in Cologne. The intention was to connect entrepreneurs, scientists, and ambitious students through an intensive, intergenerational exchange.",
-        link: "https://www.linkedin.com/posts/lilanofficial_experience-conference-wbd-activity-6918251338711666688-uHwi/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1e-tBnMCfSAqZGtr1pyLDKrG_aUcbq8rE/view?usp=drive_link",
+          "Today, I had the honor of participating in The Climate Reality Project Leadership Corps training at the Rome Convention Center La Nuvola, Italy. It was a valuable opportunity to train with former U.S. Vice President Al Gore and to join a community of dedicated changemakers committed to advancing equitable climate solutions.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-un-activity-7213148927116685312-0JZ4/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1t3XUiw94D1bQWkG00u9j_1Sfh4qH2uuU/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-membership",
-    id: "2.6",
-    title: "Max Thabiso Edkins Climate Ambassador",
+    id: "2.24",
+    title: "Generation Democracy Member",
     slides: [
       {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "MAX THABISO EDKINS Climate Ambassador Prrogram Certificate",
-        image: "assets/img/impact/membership/climate-ambassador-prrogram-certificate.png",
+        date: "June 3, 2024",
+        source_name: "Generation Democracy",
+        source_link: "https://x.com/IRIGenDem",
+        title: "Generation Democracy Success Story: Lilan Dayananda Empowers Through Innovation",
+        image: "assets/img/impact/membership/generation-democracy-instagram.png",
         description:
-          "I have successfully completed the 2022 Max Thabiso Edkins Climate Ambassador Program from The World Bank , GYCN - Global Youth Climate Network and Connect4Climate",
-        link: "https://www.linkedin.com/posts/lilanofficial_i-have-successfully-completed-the-2022-max-activity-6995218144957005824-jNDI/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1Tm1pJrurzQo9P-jYYpyeTFtE7FpJPo3B/view?usp=drive_link",
+          "Lilan Dayananda, a social tech entrepreneur from Sri Lanka and a member of @IRIglobal Generation Democracy Network, is making waves in the agricultural sector. As the co-founder...",
+        link: "https://x.com/IRIGenDem/status/1797538632934285513",
+        backup_image: "https://drive.google.com/file/d/1IJsFilePUWQi4rxNEOvAEUild9OwnMEZ/view?usp=drive_link",
       },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.7",
-    title: "UNESCO Inclusive Policy Lab",
-    slides: [
       {
-        date: "",
-        source_name: "UNESCO Inclusive Policy Lab",
-        source_link: "https://en.unesco.org/inclusivepolicylab/",
-        title: "UNESCO Inclusive Policy Lab - Public profile",
-        image: "assets/img/impact/membership/UNESCO-public-profile.png",
+        date: "June 3, 2024",
+        source_name: "gendem.iri",
+        source_link: "https://www.instagram.com/gendem.iri/",
+        title: "Generation Democracy Success Story: Lilan Dayananda Empowers Through Innovation",
+        source_name: "gendem.iri",
+        image: "assets/img/impact/membership/gendem.iri.png",
         description:
-          "Lilan Dayananda is a social tech entrepreneur and co-founder and CEO of ELZIAN AGRO. He is a Commonwealth Youth Awardee for excellence in development works in 2022 and was nominated for Queen’s Commonwealth Trust Youth Award 2022. Lilan is among the top 10 Social Entrepreneurs of the Global South Development Expo. He is a successful graduate of the Silicon Valley based Founder Institute’s accelerator program. For years, his initiative organization has come up with award-winning innovative solutions that can apply to Precision Agriculture.",
-        link: "https://en.unesco.org/inclusivepolicylab/user/8900",
-        backup_image: "https://drive.google.com/file/d/1i-eL80C_p9v47MUZoNe0aEOPkTmN7x8k/view?usp=drive_link",
+          "Lilan Dayananda, a social tech entrepreneur from Sri Lanka and a member of the @iriglobal Generation Democracy Network, is making waves in the agricultural sector. As the co-founder...",
+        link: "https://www.instagram.com/p/C7vwGZnKNVm/",
+        source_name: "gendem.iri",
+        backup_image: "https://drive.google.com/file/d/1e5ZOK4Yz-TdrgFrTjbN_p5TE-NVmpLw8/view?usp=drive_link",
       },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.8",
-    title: "Youth Power Member",
-    slides: [
       {
-        date: "",
-        source_name: "Youth Power",
-        source_link: "https://www.youthpower.org/",
-        title: "Youth Power Profile",
-        image: "assets/img/impact/membership/youth-power-member.png",
-        description: "",
-        link: "https://www.youthpower.org/members-list?search_api_fulltext=lilan&field_users_type=5739&sort_by=created&sort_order=DESC",
-        backup_image: "https://drive.google.com/file/d/1UhtwqSlmpngwuWkz0Ggp5hgZiIHKBwAB/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.9",
-    title: "Naturalists",
-    slides: [
-      {
-        date: "",
-        source_name: "Naturalists",
-        source_link: "https://wenaturalists.com/",
-        title: "Naturalists Profile",
-        image: "assets/img/impact/membership/naturalists-profile.png",
+        date: "September 2024",
+        source_name: "Generation Democracy",
+        source_link: "https://www.linkedin.com/company/generationdemocracy/posts/",
+        title: "Lilan Dayananda: A Young Visionary Revolutionizing Agriculture",
+        image: "assets/img/impact/membership/generation-democracy.png",
         description:
-          "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
-        link: "https://wenaturalists.com/profile/lilandayananda",
-        backup_image: "https://drive.google.com/file/d/1FFtazjW3BKanQbWQX0jwOzCx8I0HYpjZ/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.10",
-    title: "Sustainability Leader at  ESG Connect by Greenly",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Joined ESG Connect by Greenly",
-        image: "assets/img/impact/membership/ESG-connect-greenly.png",
-        description:
-          "I’m happy to announce that I have joined ESG Connect by Greenly - a global community of sustainability leaders united in their mission to shape a greener future. The number of Chief Sustainability Officers, Chief Impact Officers, and Sustainability Managers at corporations is skyrocketing 🚀.",
-        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-community-network-activity-7067572302372110336-qNqf/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1miWqx4tcX33F6DG1cel0rpqVle6f9iTF/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.11",
-    title: "The Asian Network",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "Ravindra Ngo 赖文卓 ",
-        source_link: "https://www.linkedin.com/in/ravindra-ngo/",
-        title: "The Asian Network - Online Conference",
-        image: "assets/img/impact/membership/the-asian-network.png",
-        description:
-          "The Asian Network is excited to host a high level online conference supported by ERIA: Economic Research Institute for ASEAN and East Asia & ADB Southeast Asia Development Solutions (SEADS) ",
-        link: "https://www.linkedin.com/posts/ravindra-ngo_harmony-asia-geopolitics-activity-7105384184889659393-QiJE/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1uJi6_U36GEQGbclkXfc0rkPwMClJ_lON/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.12",
-    title: "FXB International Climate Facilitator & Advocate",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "FXB International Climate Advocates Program",
-        image: "assets/img/impact/membership/climate-advocates-program.png",
-        description: "",
-        link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7068052986857472000-FN2t/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1FUNigCJvCv_8CXCJyJeykKljWLvR3R02/view?usp=drive_link",
-      },
-      {
-        date: "",
-        source_name: "FXB Climate Advocates",
-        source_link: "https://www.fxbclimateadvocates.org/",
-        title: "LifeForce Earth Restoration Project",
-        image: "assets/img/impact/membership/fxb-climate-advocates.png",
-        description:
-          "The agricultural sector in Sri Lanka, which incorporates both organic and conventional farming, confronts the problem of determining essential soil components accurately. Notably, organic cultivators, who harness natural techniques like compost and crop rotation, find it challenging due to a lack of specific soil composition details. This deficiency compromises the efficient use of resources, particularly in fertilizer application, and inhibits the valuation of their produce's environmental benefits, referred to as Primary Ecosystem Services (PES) [1].",
-        link: "https://www.fxbclimateadvocates.org/copy-of-malika-gizzat-1",
-        backup_image: "https://drive.google.com/file/d/1laH-C1x8pAFiCsFHfyW5FpGxI5VNhOWQ/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.13",
-    title: "WSA Youth Ambassador",
-    slides: [
-      {
-        date: "April 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participate in the WSA Global Congress 2025",
-        image: "assets/img/impact/membership/WSA Global Congress 2025.png",
-        description:
-          "As a Jury Member and a proud WSA Youth Ambassador, I had the incredible opportunity to participate in the WSA Global Congress 2025, a gathering that brought together some of the brightest minds and most passionate changemakers from across the globe...",
-        link: "https://www.linkedin.com/posts/lilanofficial_wsa-global-congress-activity-7317604182402781187-scy_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/131SldRu_rIGxskx8v4jdfcqkUeMsCmuG/view?usp=drive_link",
-      },
-      {
-        date: "June 2024",
-        source_name: "WSA",
-        source_link: "https://www.linkedin.com/company/world-summit-awards/posts/",
-        title: "World Summit on the Information Security",
-        image: "assets/img/impact/membership/wsa.png",
-        description:
-          'Hear from WSA Youth Ambassadors at the World Summit on the Information Society Forum in the "Youth Engagement Around WSIS Action Lines" session. 🌐',
-        link: "https://www.linkedin.com/posts/world-summit-awards_wsis-technology-networks-activity-7201107444255637505-ndlZ/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1Jlxj37_pWsBkuA3Yw9DQA-iwW0MixJjR/view?usp=drive_link",
-      },
-      {
-        date: "January 2024",
-        source_name: "WSA",
-        source_link: "https://www.linkedin.com/company/world-summit-awards/posts/",
-        title: "Announcing 127 New WSA Youth Ambassadors: Leaders in Innovation and Social Impact",
-        image: "assets/img/impact/membership/wsa-celebrate.png",
-        description:
-          "Celebrate with us as we announce the appointment of 127 dynamic leaders as WSA Youth Ambassadors! These ambassadors, carefully chosen from a pool of 727 global applications, represent...",
-        link: "https://www.linkedin.com/posts/world-summit-awards_wsa-youth-ambassadors-activity-7145775372054298624-lRS1?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1pIBHHDelpEy6_8v8StrqDAR2-P2G9X2B/view?usp=drive_link",
-      },
-      {
-        date: "December 2023",
-        source_name: "WSA",
-        source_link: "https://wsa-global.org/",
-        title: "Get to know our newest youth ambassadors",
-        image: "assets/img/impact/membership/newest-youth-ambassadors.png",
-        description:
-          "This year WSA held the first ever open call for WSA Youth Ambassadors. The call was open from July until August, and during the short application time WSA received 727 high-quality applications from all over the world. The selection process was long and thorough, and after 2 preselection rounds, 127 new WSA Youth Ambassadors were appointed.",
-        link: "https://wsa-global.org/2023/11/07/get-to-know-our-newest-youth-ambassadors/",
-        backup_image: "https://drive.google.com/file/d/1qkl1nQR0lJphOXpUeOnusz-KKdxrkDAE/view?usp=drive_link",
-      },
-      {
-        date: "December 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Honored to Be Chosen as a WSA Youth Ambassador for Sri Lanka",
-        image: "assets/img/impact/membership/wsa-linkedin.png",
-        description:
-          "I am absolutely thrilled to share that I have been chosen as a WSA Youth Ambassador in Sri Lanka. For those unfamiliar, WSA which stands for the World Summit Awards, represents a distinctive awards system with a profound purpose: the selection and promotion of local digital innovations aimed at enhancing society. What sets WSA apart is its unique blend of ongoing international events, a rich array of activities, and an extensive network that encompasses startups, social entrepreneurs, mentors, distinguished jurors, influential speakers, experts, government leaders, esteemed academia, and members of civil society. WSA essentially serves as a global platform that showcases cutting-edge examples of how information and communication technologies can have a profoundly positive impact on society as a whole.",
-        link: "https://www.linkedin.com/posts/lilanofficial_wsa-wsayouthambassador-youth-activity-7128778758567710720-JnY9/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1Xg5lyOu7cfCFesyoXkKHjyqrDjikxJsz/view?usp=drive_link",
-      },
-      {
-        date: "",
-        source_name: "WSA",
-        source_link: "https://wsa-global.org/",
-        title: "WSA Profile",
-        image: "assets/img/impact/membership/wsa-lilan-profile.png",
-        description:
-          "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
-        link: "https://wsa-global.org/person/lilan-dayananda/",
-        backup_image: "https://drive.google.com/file/d/1HlRmH9bg_2wgMIWLLpy15CBtpEJwGcPA/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.14",
-    title: "MIT SOLVE",
-    slides: [
-      {
-        date: "April 2024",
-        source_name: "MIT SOLVE",
-        source_link: "https://solve.mit.edu/",
-        title: "Mit Solve Publications",
-        image: "assets/img/impact/membership/mit-solve.png",
-        description:
-          "We utilize limited resources (water, fertilizer, labour, land) at an optimum level through climate-smart, data-driven precision agriculture solutions.",
-        link: "https://solve.mit.edu/users/-102339",
-        backup_image: "https://drive.google.com/file/d/1CHHbJmq0IN28JYd6h2yGB7OjDhyRR3-E/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.15",
-    title: "United People Global (UPG)",
-    slides: [
-      {
-        date: "April 2024",
-        source_name: "United People Global",
-        source_link: "https://www.youtube.com/@UnitedPeopleGlobal",
-        title: "United Voices",
-        image: "assets/img/impact/membership/united-people-global.png",
-        description: "What's Going On? UPG Champion Invite...",
-        link: "https://www.youtube.com/watch?v=WjIME9s70Xk",
-        backup_image: "https://drive.google.com/file/d/1CYJUqjU49RsO0nRFVc8E-fIYWpAH1ird/view?usp=drive_link",
-      },
-      {
-        date: "November 17, 2023",
-        source_name: "United People Global",
-        source_link: "https://x.com/unitedpeople36",
-        title: "Celebrating UPG Sustainability Mini-Training",
-        image: "assets/img/impact/membership/united-people-global-x.png",
-        description:
-          "Celebrating another UPGSustainability Mini-Training for citizens! See images from Colombo in a session led by UPGSustainability Leader Lilan Dayananda!",
-        link: "https://twitter.com/unitedpeople36/status/1725461332852416866",
-        backup_image: "https://drive.google.com/file/d/1psBJkT1hLGRwTxdukO4cmsrMrqcLNQ2l/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.15.1",
-    title: "United People Global (UPG) Sustainability Leaders",
-    slides: [
-      {
-        date: "Jan 31, 2024",
-        source_name: "FOX4",
-        source_link: "https://fox4kc.com/",
-        title:
-          "Six UPG Sustainability Leaders from South Asia compete for votes to reach Hurricane Island, USA",
-        image: "assets/img/impact/membership/fox4kc.png",
-        description:
-          "Six UPG Sustainability Leaders from across South Asia compete for your vote to win a place on the Journey To Hurricane Island (USA). Voters will win prizes!",
-        link: "https://fox4kc.com/business/press-releases/ein-presswire/683778177/six-upg-sustainability-leaders-from-south-asia-compete-for-votes-to-reach-hurricane-island-usa/",
-        backup_image: "https://drive.google.com/file/d/115QUxkk4XDhavepdLGH5FbDO6ogza_Jy/view?usp=drive_link",
-      },
-      {
-        date: "January 31, 2024",
-        source_name: "Einpresswire",
-        source_link: "https://www.einpresswire.com/",
-        title:
-          "Six UPG Sustainability Leaders from South Asia compete for votes to reach Hurricane Island, USA",
-        image: "assets/img/impact/membership/einpresswire.png",
-        description:
-          "Six UPG Sustainability Leaders from across South Asia compete for your vote to win a place on the Journey To Hurricane Island (USA). Voters will win prizes!",
-        link: "https://www.einpresswire.com/article/683778177/six-upg-sustainability-leaders-from-south-asia-compete-for-votes-to-reach-hurricane-island-usa",
-        backup_image: "https://drive.google.com/file/d/1TVKnMNEYltbVzJL3TGw9RuJPCisZiSSp/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.16",
-    title: "Blue Planet Alliance Ambassador",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "Blue Planet Alliance",
-        source_link: "https://www.linkedin.com/company/blue-planet-alliance/posts/",
-        title: "Lilan Dayananda - Global Ambassador & Young Entrepreneur",
-        image: "assets/img/impact/membership/blue-planet-alliance.png",
-        description:
-          "Lilan Dayananda is a BPA Global Ambassador — and young entrepreneur — from Sri Lanka. His startup uses technologies like IoT devices and AI to help small farmers in his country optimize harvests and better navigate climate change.",
-        link: "https://www.linkedin.com/posts/blue-planet-alliance_lilan-dayananda-is-a-bpa-global-ambassador-activity-7222216060400250887-JAJO/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/16carGePbFCa0HSYy-cAAx8MTx9HjYx7J/view?usp=drive_link",
-      },
-      {
-        date: "",
-        source_name: "Blue Planet Alliance",
-        source_link: "https://blueplanetalliance.org/",
-        title: "Blue Planet ALLIANCE Global Ambassador Program ",
-        image: "assets/img/impact/membership/blue-planet-alliance-official.png",
-        description:
-          "The Blue Planet Global Ambassador Program was launched during the 2022 Our Oceans Conference in Palau to honor and empower young people from the ages of 16 to 30 to help spread our mission globally. Through the program, Blue Planet Alliance is building a network of youth advocates dedicated to engaging in global activism to make their communities — and the world as a whole — a better place. Specifically, our Ambassadors are helping us in our mission to lead every island nation — and countries across the globe — transition away from dirty energy and to 100% renewable energy by 2045.",
-        link: "https://blueplanetalliance.org/globalambassadorprogram",
-        backup_image: "https://drive.google.com/file/d/1VtR7VjNdxNjMrxMVh0bSbTTBWq3ElGIv/view?usp=drive_link",
-      },
-      {
-        date: "",
-        source_name: "Blue Planet Alliance",
-        source_link: "https://blueplanetalliance.org/",
-        title: "Using AI to Help Farmers Grow Their Businesses",
-        image: "assets/img/impact/membership/blue-planet-alliance-article.png",
-        description:
-          "Blue Planet Alliance Global Ambassador Lilan Dayananda from Sri Lanka was honored with the distinction of being selected for the Forbes 30 Under 30: Social Impact List. In its ninth year, the Asia list continues the global expansion of the Forbes 30 Under 30 franchise, which started over a decade ago.",
-        link: "https://blueplanetalliance.org/news/using-ai-to-help-farmers-grow-their-businesses",
-        backup_image: "https://drive.google.com/file/d/17LwT5zt8Dt-grpVDEiGHD_y56DQEzSDb/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.17",
-    title: "Global Peace Ambassador",
-    slides: [
-      {
-        date: "",
-        source_name: "Global Peace Chain",
-        source_link: "https://www.globalpeacechain.org/",
-        title: "Karunarathnalage Lilan Udayanga Dayananda",
-        image: "assets/img/impact/membership/global-peace-chain.png",
-        description:
-          "I am a final year undergraduate (student) of the University of Kelaniya following the Bachelor of Business Management (Special) Degree in Accountancy. I am working on my internship as an intern at Accenture in the Finance and Accounting department while pursuing my academic education at my university. I am a detail-oriented, efficient, and organized undergraduate with extensive experience in extracurricular activities related to career development and volunteering.",
-        link: "https://www.globalpeacechain.org/team_members/karunarathnalage-lilan-udayanga-dayananda/",
-        backup_image: "https://drive.google.com/file/d/1rHPJMJnHwLH9-bMQfoE6oxEZ8xgc8Ooo/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.18",
-    title: "My Body Is My Body (MBIMB)",
-    slides: [
-      {
-        date: "March 2024",
-        source_name: "My Body Is My Body (MBIMB)",
-        source_link: "https://mbimb.org/",
-        title: "MBIMB Profile",
-        image: "assets/img/impact/membership/mbimb.png",
-        description: "",
-        link: "https://mbimb.org/members/lilan_dayananda/",
-        backup_image: "https://drive.google.com/file/d/1CIcHxnCTpz4HNPkf8BslvkJFtfaXNb2L/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.19",
-    title: "Theirworld Global Youth Ambassador",
-    slides: [
-      {
-        date: "January 2024",
-        source_name: "Sertifier",
-        source_link: "https://sertifier.com/",
-        title: "GYA Membership - June 2023 - 2025",
-        image: "assets/img/impact/membership/theirworld.png",
-        description: "This badge recognises membership of Theirworld's Global Youth Ambassador programme. ",
-        link: "https://verified.sertifier.com/en/verify/48505403543188/",
-        backup_image: "https://drive.google.com/file/d/1yb1vuSxNHdkoquHXUNvUFDABjROfbp1n/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.20",
-    title: "The International Association of Horticultural Producers (AIPH) Youth Jury Member",
-    slides: [
-      {
-        date: "April 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "AIPH World Green City Awards Return: Celebrating Nature-Driven Urban Futures",
-        image: "assets/img/impact/membership/AIPH World Green City Awards Return.png",
-        description:
-          "I’m excited to share that the International Association for Horticultural Producers (AIPH) World Green City Awards, the first and only global awards focused on cities where plants and nature are at the heart of urban design has returned for its third edition...",
-        link: "https://www.linkedin.com/posts/lilanofficial_development-urban-sustainable-activity-7321149073338560513-IQvl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1hdz_ArpR_h2bk1FSlY-uqYM24k03kcbM/view?usp=sharing",
-      },
-      {
-        date: "June 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in the AIPH Youth Award Deliberations",
-        image: "assets/img/impact/membership/AIPH-youth-award.png",
-        description:
-          "As a Youth Jury Member, I had the privilege of actively participating in the AIPH Youth Award deliberations during the 2024 edition of the esteemed AIPH World Green City Awards. Collaborating closely with esteemed colleagues Laura Barron , Hanieh Moghani , Colin Fernandes , Andressa Reis , Blaise Binama, Ph.D , Justin Ho Guo Shun , Bruna Pacheco de Campos , Dominique Bird , Bonney Emmanuel Baffoe , Ferdinand Combary , Leena Joshi , Muntasyir Al Wafi , Raluca MIHAI , Vathanak Soeun , Widson Ambaisi , our shared goal was to identify the entry that possessed the greatest potential to inspire and meet the evolving needs of the youth, fostering a future characterized by security and wellness.",
-        link: "https://www.linkedin.com/posts/lilanofficial_aiph-green-award-activity-7196898811905007617-ZFme/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1XNmLTzk9E4T5-ZlIcWGM3zujw5V51fg7/view?usp=drive_link",
-      },
-      {
-        date: "January 29, 2024",
-        source_name: "AIPH",
-        source_link: "https://aiph.org/",
-        title:
-          "AIPH and GYBN proudly announce list of Youth Jury members for the AIPH World Green City Awards 2024",
-        image: "assets/img/impact/membership/youth-jury-wgca.png",
-        description:
-          "In partnership with the Global Youth Biodiversity Network (GYBN), AIPH is proud to unveil the 15 members of the Youth Jury who will select the shortlist and winner of the first AIPH Youth Award...",
-        link: "https://aiph.org/latest-news/youth-jury-wgca-2024/",
-        backup_image: "https://drive.google.com/file/d/1LNByRrjFH8izsFd0rinXH9-hhig9ol7C/view?usp=drive_link",
-      },
-      {
-        date: "January 2024",
-        source_name: "AIPH",
-        source_link: "https://aiph.org/",
-        title: "Youth Jury 2024",
-        image: "assets/img/impact/membership/youth-jury.png",
-        description:
-          "The Youth Jury, who will decide the AIPH Youth Award in the 2024 edition of the AIPH World Green City Awards, boasts 15 dynamic members from around the world, all with a passion for urban greening.",
-        link: "https://aiph.org/green-city/green-city-awards/youth-jury/",
-        backup_image: "https://drive.google.com/file/d/136jxChiGHNr43VPzTbsXxmJbvoYy8HXV/view?usp=drive_link",
-      },
-      {
-        date: "April 2024",
-        source_name: "AIPH Green City",
-        source_link: "https://www.linkedin.com/showcase/aiph-green-city/posts/",
-        title: "Introducing the AIPH Youth Jury",
-        image: "assets/img/impact/membership/youth-jury-introduce.png",
-        description:
-          "Meet the final five members of the Youth Jury, Muntasyir Al Wafi, Raluca MIHAI, Laura Barron, Karunarathnalage Lilan Dayananda, and Bruna Pacheco de Campos.",
-        link: "https://www.linkedin.com/posts/aiph-green-city_aiphworldgreencityawards-wgca2024-youthaward-activity-7164242060449939456-ifMo?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1fXZFfudxWuJKsV9HoV806rh9_CFx1zOv/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.21",
-    title: "Global Thinkers Forum & Global Thinkers Mentors",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "Global Thinkers Forum",
-        source_link: "https://www.linkedin.com/company/global-thinkers-forum/posts/",
-        title:
-          "Empowering Future Innovators: Meet Lilan Dayananda, Sri Lanka's Rising Social Tech Entrepreneur",
-        image: "assets/img/impact/membership/global-thinker-likedin.png",
-        description:
-          "Meet our 2024 mentee from SriLanka Lilan Dayananda! He is an international award-winning young social tech entrepreneur.",
-        link: "https://www.linkedin.com/posts/global-thinkers-forum_srilanka-mentor-gtf-activity-7247178445196083200-C4dd?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1xP0-abGuSA5h9naIv8kWQbFgmcTeO722/view?usp=drive_link",
-      },
-      {
-        date: "",
-        source_name: "Global Thinkers",
-        source_link: "https://globalthinkersmentors.org/",
-        title: "Lilan Udayanga Dayananda",
-        image: "assets/img/impact/membership/global-thinker-smentors.png",
-        description:
-          "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the UN.",
-        link: "https://globalthinkersmentors.org/lilan-udayanga-dayananda",
-        backup_image: "https://drive.google.com/file/d/1gt_MWiW8Eb3sVqPSE6-TrArdLBzuyY8f/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.22",
-    title: "Clinton Global Initiative",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Selected for the inaugural class of the Clinton Global Initiative (CGI) Fellowship!",
-        image: "assets/img/impact/membership/clinton-global-initiative.png",
-        description:
-          "As part of the Clinton Foundation's commitment to nurturing the next generation of leaders, the CGI Fellowship supports emerging social entrepreneurs, helping us enhance our leadership skills, connect with peers, and refine our ideas into actionable solutions.",
-        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-startup-social-activity-7216447969246527488-lydr/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1KCY835OfS4DoXGUtMjE3_zLhQvOsXwVd/view?usp=drive_link",
-      },
-      {
-        date: "Aug 20, 2024",
-        source_name: "Sunday Times",
-        source_link: "https://sundaytimes.lk/online/",
-        title:
-          "Sri Lankan Youth Entrepreneur Lilan Dayananda Selected for Prestigious Clinton Global Initiative Fellowship",
-        image: "assets/img/impact/membership/clinto-global-sunday-times.png",
-        description:
-          "Lilan Dayananda, a prominent youth entrepreneur from Sri Lanka, has been named among the 25 emerging leaders and entrepreneurs selected for the inaugural cohort of the Clinton Global Initiative...",
-        link: "https://sundaytimes.lk/online/business/Sri-Lankan-Youth-Entrepreneur-Lilan-Dayananda-Selected-for-Prestigious-Clinton-Global-Initiative-Fellowship/10-1146618",
-        backup_image: "https://drive.google.com/file/d/1WNo37PIjNOtJxVV80IB_X__oe5zU8yDo/view?usp=drive_link",
-      },
-      {
-        date: "May 29, 2024",
-        source_name: "Clinton Foundation",
-        source_link: "https://www.clintonfoundation.org/",
-        title: "2024 Class of Clinton Global Initiative Fellows Announced",
-        image: "assets/img/impact/membership/clinton-foundation.png",
-        description:
-          "25 leaders from across Africa, Asia, Europe, and the Americas commit to take action on climate change, health equity, women and girls’ equality, and more...",
-        link: "https://www.clintonfoundation.org/press-and-news/clinton-global-initiative-fellowship/2024-class-of-clinton-global-initiative-fellows-announced/",
-        backup_image: "https://drive.google.com/file/d/1BtZ0Ei9xhoRLwClOfPAJzvPMMCH8-kAJ/view?usp=drive_link",
+          "Lilan Dayananda is a trailblazing social entrepreneur from Sri Lanka who is at the forefront of tackling global food security through innovative agricultural solutions. As the co-founder and CEO of ELZIAN AGRO, he is leading the charge in climate-smart, data-driven precision agriculture. ",
+        link: "https://www.linkedin.com/posts/generationdemocracy_gendem-globalsummit-climateaction-activity-7230547634376110080-KZaU/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1mb74KBYpsh9owyRUuuO4lJKjOo2jA9ao/view?usp=drive_link",
       },
     ],
   },
@@ -1228,998 +694,1151 @@ const impacts = [
   },
   {
     filter: "filter-membership",
-    id: "2.24",
-    title: "Generation Democracy Member",
+    id: "2.22",
+    title: "Clinton Global Initiative",
     slides: [
       {
-        date: "September 2024",
-        source_name: "Generation Democracy",
-        source_link: "https://www.linkedin.com/company/generationdemocracy/posts/",
-        title: "Lilan Dayananda: A Young Visionary Revolutionizing Agriculture",
-        image: "assets/img/impact/membership/generation-democracy.png",
+        date: "May 29, 2024",
+        source_name: "Clinton Foundation",
+        source_link: "https://www.clintonfoundation.org/",
+        title: "2024 Class of Clinton Global Initiative Fellows Announced",
+        image: "assets/img/impact/membership/clinton-foundation.png",
         description:
-          "Lilan Dayananda is a trailblazing social entrepreneur from Sri Lanka who is at the forefront of tackling global food security through innovative agricultural solutions. As the co-founder and CEO of ELZIAN AGRO, he is leading the charge in climate-smart, data-driven precision agriculture. ",
-        link: "https://www.linkedin.com/posts/generationdemocracy_gendem-globalsummit-climateaction-activity-7230547634376110080-KZaU/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1mb74KBYpsh9owyRUuuO4lJKjOo2jA9ao/view?usp=drive_link",
+          "25 leaders from across Africa, Asia, Europe, and the Americas commit to take action on climate change, health equity, women and girls’ equality, and more...",
+        link: "https://www.clintonfoundation.org/press-and-news/clinton-global-initiative-fellowship/2024-class-of-clinton-global-initiative-fellows-announced/",
+        backup_image: "https://drive.google.com/file/d/1BtZ0Ei9xhoRLwClOfPAJzvPMMCH8-kAJ/view?usp=drive_link",
       },
       {
-        date: "June 3, 2024",
-        source_name: "gendem.iri",
-        source_link: "https://www.instagram.com/gendem.iri/",
-        title: "Generation Democracy Success Story: Lilan Dayananda Empowers Through Innovation",
-        source_name: "gendem.iri",
-        image: "assets/img/impact/membership/gendem.iri.png",
+        date: "Aug 20, 2024",
+        source_name: "Sunday Times",
+        source_link: "https://sundaytimes.lk/online/",
+        title:
+          "Sri Lankan Youth Entrepreneur Lilan Dayananda Selected for Prestigious Clinton Global Initiative Fellowship",
+        image: "assets/img/impact/membership/clinto-global-sunday-times.png",
         description:
-          "Lilan Dayananda, a social tech entrepreneur from Sri Lanka and a member of the @iriglobal Generation Democracy Network, is making waves in the agricultural sector. As the co-founder...",
-        link: "https://www.instagram.com/p/C7vwGZnKNVm/",
-        source_name: "gendem.iri",
-        backup_image: "https://drive.google.com/file/d/1e5ZOK4Yz-TdrgFrTjbN_p5TE-NVmpLw8/view?usp=drive_link",
+          "Lilan Dayananda, a prominent youth entrepreneur from Sri Lanka, has been named among the 25 emerging leaders and entrepreneurs selected for the inaugural cohort of the Clinton Global Initiative...",
+        link: "https://sundaytimes.lk/online/business/Sri-Lankan-Youth-Entrepreneur-Lilan-Dayananda-Selected-for-Prestigious-Clinton-Global-Initiative-Fellowship/10-1146618",
+        backup_image: "https://drive.google.com/file/d/1WNo37PIjNOtJxVV80IB_X__oe5zU8yDo/view?usp=drive_link",
       },
       {
-        date: "June 3, 2024",
-        source_name: "Generation Democracy",
-        source_link: "https://x.com/IRIGenDem",
-        title: "Generation Democracy Success Story: Lilan Dayananda Empowers Through Innovation",
-        image: "assets/img/impact/membership/generation-democracy-instagram.png",
-        description:
-          "Lilan Dayananda, a social tech entrepreneur from Sri Lanka and a member of @IRIglobal Generation Democracy Network, is making waves in the agricultural sector. As the co-founder...",
-        link: "https://x.com/IRIGenDem/status/1797538632934285513",
-        backup_image: "https://drive.google.com/file/d/1IJsFilePUWQi4rxNEOvAEUild9OwnMEZ/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.25",
-    title: "Climate Reality Project Member",
-    slides: [
-      {
-        date: "July 2024",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Honor of participating in The Climate Reality Project Leadership Corps training",
-        image: "assets/img/impact/membership/climate-reality-linkedin.png",
+        title: "Selected for the inaugural class of the Clinton Global Initiative (CGI) Fellowship!",
+        image: "assets/img/impact/membership/clinton-global-initiative.png",
         description:
-          "Today, I had the honor of participating in The Climate Reality Project Leadership Corps training at the Rome Convention Center La Nuvola, Italy. It was a valuable opportunity to train with former U.S. Vice President Al Gore and to join a community of dedicated changemakers committed to advancing equitable climate solutions.",
-        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-un-activity-7213148927116685312-0JZ4/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1t3XUiw94D1bQWkG00u9j_1Sfh4qH2uuU/view?usp=drive_link",
+          "As part of the Clinton Foundation's commitment to nurturing the next generation of leaders, the CGI Fellowship supports emerging social entrepreneurs, helping us enhance our leadership skills, connect with peers, and refine our ideas into actionable solutions.",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-startup-social-activity-7216447969246527488-lydr/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1KCY835OfS4DoXGUtMjE3_zLhQvOsXwVd/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-membership",
-    id: "2.26",
-    title: "One Young World Leader Board",
-    slides: [
-      {
-        date: "November 2022",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Honored to Be Ranked number 1 at the One Young World Manchester Summit 2022",
-        image: "assets/img/impact/membership/OYW-manchester-summit.png",
-        description:
-          "It was a pleasure to be ranked number 1 at OYW Manchester Summit 2022! Thank you to One Young World for allowing me to be a part of this extraordinary, global gathering of young leaders...",
-        link: "https://www.linkedin.com/posts/lilanofficial_it-was-a-pleasure-to-be-ranked-number-1-at-activity-6976216251329126400-Wryt/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1xWZ77TPTAU6oN-aoRRXsx5nCthCaBG_e/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.27",
-    title: "Moonshot Young Leader",
-    slides: [
-      {
-        date: "July 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Proud to Be a Moonshot Young Leader",
-        image: "assets/img/impact/membership/moonshot-young-leader.png",
-        description: "It is such a pleasure to be a Moonshot Young Leader.",
-        link: "https://www.linkedin.com/posts/lilanofficial_startup-entrepreneurship-business-activity-7214291806371426306-pPuE/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1XNkMChZ4B-DYYINRVdTL4XiwtdlzMbKK/view?usp=sharing",
-      },
-      {
-        date: "July 2024",
-        source_name: "Moonshot Platform",
-        source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
-        title: "Introducing some of the Young Leaders",
-        image: "assets/img/impact/membership/moonshot-platform.png",
-        description:
-          "Introducing you to some of the Young Leaders joining us at this year's Moonshot Young Leaders Camp...",
-        link: "https://www.linkedin.com/posts/moonshot-platform_youngleaders-socialimpact-sdgs-activity-7213889108237049858-ejvR?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1J8FlENnyxT2Wyg0qOIyO7qTqfQ8-6LDZ/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.28",
-    title: "WYSE International: Global Change Maker",
+    id: "2.21",
+    title: "Global Thinkers Forum & Global Thinkers Mentors",
     slides: [
       {
         date: "",
-        source_name: "WYSE International",
-        source_link: "https://www.wyse-ngo.org/",
-        title: "Karunarathnalage Lilan Udayanga Dayananda, Sri Lanka",
-        image: "assets/img/impact/membership/WYSE-international.png",
+        source_name: "Global Thinkers",
+        source_link: "https://globalthinkersmentors.org/",
+        title: "Lilan Udayanga Dayananda",
+        image: "assets/img/impact/membership/global-thinker-smentors.png",
         description:
-          "Lilan Dayananda is an international award-winning young social tech entrepreneur who is among the latest top ten Social Entrepreneurs of the Global South according to the United Nations. Lilan was recognized among the top meaningful business founders in 2023 by Ernst & Young (EY), Hogan Lovells Global Law Firms, and Babson College. For years, his social initiatives have come up with innovative solutions that can apply to climate action and biodiversity restoration. One of his social ventures (founded by him) has the world’s first scientifically validated methodology to quantify the human contribution to Primary Ecosystem Services.",
-        link: "https://www.wyse-ngo.org/wyse-global-change-makers-sdg-13/2024/7/18/karunarathnalage-lilan-udayanga-dayananda-sri-lanka",
-        backup_image: "https://drive.google.com/file/d/1stjHgu9XV01wM0MSKNUHjDLm0kuzR3fh/view?usp=drive_link",
+          "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the UN.",
+        link: "https://globalthinkersmentors.org/lilan-udayanga-dayananda",
+        backup_image: "https://drive.google.com/file/d/1gt_MWiW8Eb3sVqPSE6-TrArdLBzuyY8f/view?usp=drive_link",
+      },
+      {
+        date: "October 2024",
+        source_name: "Global Thinkers Forum",
+        source_link: "https://www.linkedin.com/company/global-thinkers-forum/posts/",
+        title:
+          "Empowering Future Innovators: Meet Lilan Dayananda, Sri Lanka's Rising Social Tech Entrepreneur",
+        image: "assets/img/impact/membership/global-thinker-likedin.png",
+        description:
+          "Meet our 2024 mentee from SriLanka Lilan Dayananda! He is an international award-winning young social tech entrepreneur.",
+        link: "https://www.linkedin.com/posts/global-thinkers-forum_srilanka-mentor-gtf-activity-7247178445196083200-C4dd?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1xP0-abGuSA5h9naIv8kWQbFgmcTeO722/view?usp=drive_link",
       },
     ],
   },
-
   {
-    filter: "filter-innovation-social",
-    id: "3.1",
-    title: "Founder & Managing Director of Elzian Agro Incorporation",
+    filter: "filter-membership",
+    id: "2.20",
+    title: "The International Association of Horticultural Producers (AIPH) Youth Jury Member",
+    slides: [
+      {
+        date: "April 2024",
+        source_name: "AIPH Green City",
+        source_link: "https://www.linkedin.com/showcase/aiph-green-city/posts/",
+        title: "Introducing the AIPH Youth Jury",
+        image: "assets/img/impact/membership/youth-jury-introduce.png",
+        description:
+          "Meet the final five members of the Youth Jury, Muntasyir Al Wafi, Raluca MIHAI, Laura Barron, Karunarathnalage Lilan Dayananda, and Bruna Pacheco de Campos.",
+        link: "https://www.linkedin.com/posts/aiph-green-city_aiphworldgreencityawards-wgca2024-youthaward-activity-7164242060449939456-ifMo?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1fXZFfudxWuJKsV9HoV806rh9_CFx1zOv/view?usp=drive_link",
+      },
+      {
+        date: "January 2024",
+        source_name: "AIPH",
+        source_link: "https://aiph.org/",
+        title: "Youth Jury 2024",
+        image: "assets/img/impact/membership/youth-jury.png",
+        description:
+          "The Youth Jury, who will decide the AIPH Youth Award in the 2024 edition of the AIPH World Green City Awards, boasts 15 dynamic members from around the world, all with a passion for urban greening.",
+        link: "https://aiph.org/green-city/green-city-awards/youth-jury/",
+        backup_image: "https://drive.google.com/file/d/136jxChiGHNr43VPzTbsXxmJbvoYy8HXV/view?usp=drive_link",
+      },
+      {
+        date: "January 29, 2024",
+        source_name: "AIPH",
+        source_link: "https://aiph.org/",
+        title:
+          "AIPH and GYBN proudly announce list of Youth Jury members for the AIPH World Green City Awards 2024",
+        image: "assets/img/impact/membership/youth-jury-wgca.png",
+        description:
+          "In partnership with the Global Youth Biodiversity Network (GYBN), AIPH is proud to unveil the 15 members of the Youth Jury who will select the shortlist and winner of the first AIPH Youth Award...",
+        link: "https://aiph.org/latest-news/youth-jury-wgca-2024/",
+        backup_image: "https://drive.google.com/file/d/1LNByRrjFH8izsFd0rinXH9-hhig9ol7C/view?usp=drive_link",
+      },
+      {
+        date: "June 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the AIPH Youth Award Deliberations",
+        image: "assets/img/impact/membership/AIPH-youth-award.png",
+        description:
+          "As a Youth Jury Member, I had the privilege of actively participating in the AIPH Youth Award deliberations during the 2024 edition of the esteemed AIPH World Green City Awards. Collaborating closely with esteemed colleagues Laura Barron , Hanieh Moghani , Colin Fernandes , Andressa Reis , Blaise Binama, Ph.D , Justin Ho Guo Shun , Bruna Pacheco de Campos , Dominique Bird , Bonney Emmanuel Baffoe , Ferdinand Combary , Leena Joshi , Muntasyir Al Wafi , Raluca MIHAI , Vathanak Soeun , Widson Ambaisi , our shared goal was to identify the entry that possessed the greatest potential to inspire and meet the evolving needs of the youth, fostering a future characterized by security and wellness.",
+        link: "https://www.linkedin.com/posts/lilanofficial_aiph-green-award-activity-7196898811905007617-ZFme/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1XNmLTzk9E4T5-ZlIcWGM3zujw5V51fg7/view?usp=drive_link",
+      },
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "AIPH World Green City Awards Return: Celebrating Nature-Driven Urban Futures",
+        image: "assets/img/impact/membership/AIPH World Green City Awards Return.png",
+        description:
+          "I’m excited to share that the International Association for Horticultural Producers (AIPH) World Green City Awards, the first and only global awards focused on cities where plants and nature are at the heart of urban design has returned for its third edition...",
+        link: "https://www.linkedin.com/posts/lilanofficial_development-urban-sustainable-activity-7321149073338560513-IQvl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1hdz_ArpR_h2bk1FSlY-uqYM24k03kcbM/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.19",
+    title: "Theirworld Global Youth Ambassador",
+    slides: [
+      {
+        date: "January 2024",
+        source_name: "Sertifier",
+        source_link: "https://sertifier.com/",
+        title: "GYA Membership - June 2023 - 2025",
+        image: "assets/img/impact/membership/theirworld.png",
+        description: "This badge recognises membership of Theirworld's Global Youth Ambassador programme. ",
+        link: "https://verified.sertifier.com/en/verify/48505403543188/",
+        backup_image: "https://drive.google.com/file/d/1yb1vuSxNHdkoquHXUNvUFDABjROfbp1n/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.18",
+    title: "My Body Is My Body (MBIMB)",
+    slides: [
+      {
+        date: "March 2024",
+        source_name: "My Body Is My Body (MBIMB)",
+        source_link: "https://mbimb.org/",
+        title: "MBIMB Profile",
+        image: "assets/img/impact/membership/mbimb.png",
+        description: "",
+        link: "https://mbimb.org/members/lilan_dayananda/",
+        backup_image: "https://drive.google.com/file/d/1CIcHxnCTpz4HNPkf8BslvkJFtfaXNb2L/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.17",
+    title: "Global Peace Ambassador",
+    slides: [
+      {
+        date: "",
+        source_name: "Global Peace Chain",
+        source_link: "https://www.globalpeacechain.org/",
+        title: "Karunarathnalage Lilan Udayanga Dayananda",
+        image: "assets/img/impact/membership/global-peace-chain.png",
+        description:
+          "I am a final year undergraduate (student) of the University of Kelaniya following the Bachelor of Business Management (Special) Degree in Accountancy. I am working on my internship as an intern at Accenture in the Finance and Accounting department while pursuing my academic education at my university. I am a detail-oriented, efficient, and organized undergraduate with extensive experience in extracurricular activities related to career development and volunteering.",
+        link: "https://www.globalpeacechain.org/team_members/karunarathnalage-lilan-udayanga-dayananda/",
+        backup_image: "https://drive.google.com/file/d/1rHPJMJnHwLH9-bMQfoE6oxEZ8xgc8Ooo/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.16",
+    title: "Blue Planet Alliance Ambassador",
+    slides: [
+      {
+        date: "",
+        source_name: "Blue Planet Alliance",
+        source_link: "https://blueplanetalliance.org/",
+        title: "Using AI to Help Farmers Grow Their Businesses",
+        image: "assets/img/impact/membership/blue-planet-alliance-article.png",
+        description:
+          "Blue Planet Alliance Global Ambassador Lilan Dayananda from Sri Lanka was honored with the distinction of being selected for the Forbes 30 Under 30: Social Impact List. In its ninth year, the Asia list continues the global expansion of the Forbes 30 Under 30 franchise, which started over a decade ago.",
+        link: "https://blueplanetalliance.org/news/using-ai-to-help-farmers-grow-their-businesses",
+        backup_image: "https://drive.google.com/file/d/17LwT5zt8Dt-grpVDEiGHD_y56DQEzSDb/view?usp=drive_link",
+      },
+      {
+        date: "",
+        source_name: "Blue Planet Alliance",
+        source_link: "https://blueplanetalliance.org/",
+        title: "Blue Planet ALLIANCE Global Ambassador Program ",
+        image: "assets/img/impact/membership/blue-planet-alliance-official.png",
+        description:
+          "The Blue Planet Global Ambassador Program was launched during the 2022 Our Oceans Conference in Palau to honor and empower young people from the ages of 16 to 30 to help spread our mission globally. Through the program, Blue Planet Alliance is building a network of youth advocates dedicated to engaging in global activism to make their communities — and the world as a whole — a better place. Specifically, our Ambassadors are helping us in our mission to lead every island nation — and countries across the globe — transition away from dirty energy and to 100% renewable energy by 2045.",
+        link: "https://blueplanetalliance.org/globalambassadorprogram",
+        backup_image: "https://drive.google.com/file/d/1VtR7VjNdxNjMrxMVh0bSbTTBWq3ElGIv/view?usp=drive_link",
+      },
+      {
+        date: "August 2024",
+        source_name: "Blue Planet Alliance",
+        source_link: "https://www.linkedin.com/company/blue-planet-alliance/posts/",
+        title: "Lilan Dayananda - Global Ambassador & Young Entrepreneur",
+        image: "assets/img/impact/membership/blue-planet-alliance.png",
+        description:
+          "Lilan Dayananda is a BPA Global Ambassador — and young entrepreneur — from Sri Lanka. His startup uses technologies like IoT devices and AI to help small farmers in his country optimize harvests and better navigate climate change.",
+        link: "https://www.linkedin.com/posts/blue-planet-alliance_lilan-dayananda-is-a-bpa-global-ambassador-activity-7222216060400250887-JAJO/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/16carGePbFCa0HSYy-cAAx8MTx9HjYx7J/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.15.1",
+    title: "United People Global (UPG) Sustainability Leaders",
+    slides: [
+      {
+        date: "January 31, 2024",
+        source_name: "Einpresswire",
+        source_link: "https://www.einpresswire.com/",
+        title:
+          "Six UPG Sustainability Leaders from South Asia compete for votes to reach Hurricane Island, USA",
+        image: "assets/img/impact/membership/einpresswire.png",
+        description:
+          "Six UPG Sustainability Leaders from across South Asia compete for your vote to win a place on the Journey To Hurricane Island (USA). Voters will win prizes!",
+        link: "https://www.einpresswire.com/article/683778177/six-upg-sustainability-leaders-from-south-asia-compete-for-votes-to-reach-hurricane-island-usa",
+        backup_image: "https://drive.google.com/file/d/1TVKnMNEYltbVzJL3TGw9RuJPCisZiSSp/view?usp=drive_link",
+      },
+      {
+        date: "Jan 31, 2024",
+        source_name: "FOX4",
+        source_link: "https://fox4kc.com/",
+        title:
+          "Six UPG Sustainability Leaders from South Asia compete for votes to reach Hurricane Island, USA",
+        image: "assets/img/impact/membership/fox4kc.png",
+        description:
+          "Six UPG Sustainability Leaders from across South Asia compete for your vote to win a place on the Journey To Hurricane Island (USA). Voters will win prizes!",
+        link: "https://fox4kc.com/business/press-releases/ein-presswire/683778177/six-upg-sustainability-leaders-from-south-asia-compete-for-votes-to-reach-hurricane-island-usa/",
+        backup_image: "https://drive.google.com/file/d/115QUxkk4XDhavepdLGH5FbDO6ogza_Jy/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.15",
+    title: "United People Global (UPG)",
+    slides: [
+      {
+        date: "November 17, 2023",
+        source_name: "United People Global",
+        source_link: "https://x.com/unitedpeople36",
+        title: "Celebrating UPG Sustainability Mini-Training",
+        image: "assets/img/impact/membership/united-people-global-x.png",
+        description:
+          "Celebrating another UPGSustainability Mini-Training for citizens! See images from Colombo in a session led by UPGSustainability Leader Lilan Dayananda!",
+        link: "https://twitter.com/unitedpeople36/status/1725461332852416866",
+        backup_image: "https://drive.google.com/file/d/1psBJkT1hLGRwTxdukO4cmsrMrqcLNQ2l/view?usp=drive_link",
+      },
+      {
+        date: "April 2024",
+        source_name: "United People Global",
+        source_link: "https://www.youtube.com/@UnitedPeopleGlobal",
+        title: "United Voices",
+        image: "assets/img/impact/membership/united-people-global.png",
+        description: "What's Going On? UPG Champion Invite...",
+        link: "https://www.youtube.com/watch?v=WjIME9s70Xk",
+        backup_image: "https://drive.google.com/file/d/1CYJUqjU49RsO0nRFVc8E-fIYWpAH1ird/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.14",
+    title: "MIT SOLVE",
+    slides: [
+      {
+        date: "April 2024",
+        source_name: "MIT SOLVE",
+        source_link: "https://solve.mit.edu/",
+        title: "Mit Solve Publications",
+        image: "assets/img/impact/membership/mit-solve.png",
+        description:
+          "We utilize limited resources (water, fertilizer, labour, land) at an optimum level through climate-smart, data-driven precision agriculture solutions.",
+        link: "https://solve.mit.edu/users/-102339",
+        backup_image: "https://drive.google.com/file/d/1CHHbJmq0IN28JYd6h2yGB7OjDhyRR3-E/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.13",
+    title: "WSA Youth Ambassador",
+    slides: [
+      {
+        date: "",
+        source_name: "WSA",
+        source_link: "https://wsa-global.org/",
+        title: "WSA Profile",
+        image: "assets/img/impact/membership/wsa-lilan-profile.png",
+        description:
+          "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
+        link: "https://wsa-global.org/person/lilan-dayananda/",
+        backup_image: "https://drive.google.com/file/d/1HlRmH9bg_2wgMIWLLpy15CBtpEJwGcPA/view?usp=drive_link",
+      },
+      {
+        date: "December 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Be Chosen as a WSA Youth Ambassador for Sri Lanka",
+        image: "assets/img/impact/membership/wsa-linkedin.png",
+        description:
+          "I am absolutely thrilled to share that I have been chosen as a WSA Youth Ambassador in Sri Lanka. For those unfamiliar, WSA which stands for the World Summit Awards, represents a distinctive awards system with a profound purpose: the selection and promotion of local digital innovations aimed at enhancing society. What sets WSA apart is its unique blend of ongoing international events, a rich array of activities, and an extensive network that encompasses startups, social entrepreneurs, mentors, distinguished jurors, influential speakers, experts, government leaders, esteemed academia, and members of civil society. WSA essentially serves as a global platform that showcases cutting-edge examples of how information and communication technologies can have a profoundly positive impact on society as a whole.",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-wsayouthambassador-youth-activity-7128778758567710720-JnY9/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Xg5lyOu7cfCFesyoXkKHjyqrDjikxJsz/view?usp=drive_link",
+      },
+      {
+        date: "December 2023",
+        source_name: "WSA",
+        source_link: "https://wsa-global.org/",
+        title: "Get to know our newest youth ambassadors",
+        image: "assets/img/impact/membership/newest-youth-ambassadors.png",
+        description:
+          "This year WSA held the first ever open call for WSA Youth Ambassadors. The call was open from July until August, and during the short application time WSA received 727 high-quality applications from all over the world. The selection process was long and thorough, and after 2 preselection rounds, 127 new WSA Youth Ambassadors were appointed.",
+        link: "https://wsa-global.org/2023/11/07/get-to-know-our-newest-youth-ambassadors/",
+        backup_image: "https://drive.google.com/file/d/1qkl1nQR0lJphOXpUeOnusz-KKdxrkDAE/view?usp=drive_link",
+      },
+      {
+        date: "January 2024",
+        source_name: "WSA",
+        source_link: "https://www.linkedin.com/company/world-summit-awards/posts/",
+        title: "Announcing 127 New WSA Youth Ambassadors: Leaders in Innovation and Social Impact",
+        image: "assets/img/impact/membership/wsa-celebrate.png",
+        description:
+          "Celebrate with us as we announce the appointment of 127 dynamic leaders as WSA Youth Ambassadors! These ambassadors, carefully chosen from a pool of 727 global applications, represent...",
+        link: "https://www.linkedin.com/posts/world-summit-awards_wsa-youth-ambassadors-activity-7145775372054298624-lRS1?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1pIBHHDelpEy6_8v8StrqDAR2-P2G9X2B/view?usp=drive_link",
+      },
+      {
+        date: "June 2024",
+        source_name: "WSA",
+        source_link: "https://www.linkedin.com/company/world-summit-awards/posts/",
+        title: "World Summit on the Information Security",
+        image: "assets/img/impact/membership/wsa.png",
+        description:
+          'Hear from WSA Youth Ambassadors at the World Summit on the Information Society Forum in the "Youth Engagement Around WSIS Action Lines" session. 🌐',
+        link: "https://www.linkedin.com/posts/world-summit-awards_wsis-technology-networks-activity-7201107444255637505-ndlZ/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Jlxj37_pWsBkuA3Yw9DQA-iwW0MixJjR/view?usp=drive_link",
+      },
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participate in the WSA Global Congress 2025",
+        image: "assets/img/impact/membership/WSA Global Congress 2025.png",
+        description:
+          "As a Jury Member and a proud WSA Youth Ambassador, I had the incredible opportunity to participate in the WSA Global Congress 2025, a gathering that brought together some of the brightest minds and most passionate changemakers from across the globe...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-global-congress-activity-7317604182402781187-scy_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/131SldRu_rIGxskx8v4jdfcqkUeMsCmuG/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.12",
+    title: "FXB International Climate Facilitator & Advocate",
+    slides: [
+      {
+        date: "",
+        source_name: "FXB Climate Advocates",
+        source_link: "https://www.fxbclimateadvocates.org/",
+        title: "LifeForce Earth Restoration Project",
+        image: "assets/img/impact/membership/fxb-climate-advocates.png",
+        description:
+          "The agricultural sector in Sri Lanka, which incorporates both organic and conventional farming, confronts the problem of determining essential soil components accurately. Notably, organic cultivators, who harness natural techniques like compost and crop rotation, find it challenging due to a lack of specific soil composition details. This deficiency compromises the efficient use of resources, particularly in fertilizer application, and inhibits the valuation of their produce's environmental benefits, referred to as Primary Ecosystem Services (PES) [1].",
+        link: "https://www.fxbclimateadvocates.org/copy-of-malika-gizzat-1",
+        backup_image: "https://drive.google.com/file/d/1laH-C1x8pAFiCsFHfyW5FpGxI5VNhOWQ/view?usp=drive_link",
+      },
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "FXB International Climate Advocates Program",
+        image: "assets/img/impact/membership/climate-advocates-program.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7068052986857472000-FN2t/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1FUNigCJvCv_8CXCJyJeykKljWLvR3R02/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.11",
+    title: "The Asian Network",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "Ravindra Ngo 赖文卓 ",
+        source_link: "https://www.linkedin.com/in/ravindra-ngo/",
+        title: "The Asian Network - Online Conference",
+        image: "assets/img/impact/membership/the-asian-network.png",
+        description:
+          "The Asian Network is excited to host a high level online conference supported by ERIA: Economic Research Institute for ASEAN and East Asia & ADB Southeast Asia Development Solutions (SEADS) ",
+        link: "https://www.linkedin.com/posts/ravindra-ngo_harmony-asia-geopolitics-activity-7105384184889659393-QiJE/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1uJi6_U36GEQGbclkXfc0rkPwMClJ_lON/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.10",
+    title: "Sustainability Leader at  ESG Connect by Greenly",
     slides: [
       {
         date: "November 2023",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Precision Agriculture",
-        image: "assets/img/impact/innovation-social/precision-agriculture-linkedin.png",
+        title: "Joined ESG Connect by Greenly",
+        image: "assets/img/impact/membership/ESG-connect-greenly.png",
         description:
-          "Precision agriculture companies are at the forefront of revolutionizing the way we produce food. They use cutting-edge technology, such as drones, sensors, and artificial intelligence, to gather data that can help farmers make informed decisions about their crops. However, despite their advanced technology, precision agriculture companies should not be afraid to get their hands dirty, or, more accurately, their office suits.",
-        link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-data-activity-7051952614443270144-NItR/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1SEPnnGnIyyaOYSrAAamPcHURQjy-9kfh/view?usp=drive_link",
+          "I’m happy to announce that I have joined ESG Connect by Greenly - a global community of sustainability leaders united in their mission to shape a greener future. The number of Chief Sustainability Officers, Chief Impact Officers, and Sustainability Managers at corporations is skyrocketing 🚀.",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-community-network-activity-7067572302372110336-qNqf/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1miWqx4tcX33F6DG1cel0rpqVle6f9iTF/view?usp=drive_link",
       },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.9",
+    title: "Naturalists",
+    slides: [
       {
         date: "",
-        source_name: "Elzian Agro",
-        source_link: "https://agro.elzian.com/index.html",
-        title: "About Elzian Agro",
-        image: "assets/img/impact/innovation-social/elzian-agro-page.png",
+        source_name: "Naturalists",
+        source_link: "https://wenaturalists.com/",
+        title: "Naturalists Profile",
+        image: "assets/img/impact/membership/naturalists-profile.png",
         description:
-          "ELZIAN AGRO provides smart agronomy solutions to support mass cultivation farmers to monitor and automate their farmland. We offer customized monitoring information and automation solutions through trending digital technologies to optimize our customers' harvest and productively utilize their resources. According to United Nations Sustainable Reports, farmers negatively impact due to extreme weather changes and limited resources.",
-        link: "https://agro.elzian.com/about",
-        backup_image: "https://drive.google.com/file/d/1kh3iKdOu4EfZ84EsWa9gJ2drXGJV9bdR/view?usp=drive_link",
+          "Lilan Dayananda is an international award-winning young social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South according to the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
+        link: "https://wenaturalists.com/profile/lilandayananda",
+        backup_image: "https://drive.google.com/file/d/1FFtazjW3BKanQbWQX0jwOzCx8I0HYpjZ/view?usp=drive_link",
       },
     ],
   },
   {
-    filter: "filter-innovation-social",
-    id: "3.2",
-    title:
-      "Involve in Earth Observation Visualizations and Sustainable Lunar Activities at the International Atomic Energy Agency",
+    filter: "filter-membership",
+    id: "2.8",
+    title: "Youth Power Member",
     slides: [
       {
-        date: "July 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Exploring Cooperative Remediation and Sustainable Lunar Activities at UNOOSA Conference",
-        image: "assets/img/impact/innovation-social/exploring-cooperative-remediation.png",
-        description:
-          "Yesterday was productive as I explored the process and principles for cooperative remediation of massive derelicts. Today, I'm eager to dive into more information on Earth Observation Visualizations, a side event organized by the United States. Additionally, I look forward to reflecting on the United Nations Office for Outer Space Affairs (UNOOSA) Conference on Sustainable Lunar Activities, Priorities, and Capacity Building. This joint side event is co-organized by the Secure World Foundation (SWF) and the Lunar Policy Platform (LPP), with support from the Republic of Korea.",
-        link: "https://www.linkedin.com/posts/lilanofficial_space-peace-food-activity-7211298002626351104-21-A/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1xygu87qnriYpzwSZfuTP0RvfJb-0v__t/view?usp=drive_link",
+        date: "",
+        source_name: "Youth Power",
+        source_link: "https://www.youthpower.org/",
+        title: "Youth Power Profile",
+        image: "assets/img/impact/membership/youth-power-member.png",
+        description: "",
+        link: "https://www.youthpower.org/members-list?search_api_fulltext=lilan&field_users_type=5739&sort_by=created&sort_order=DESC",
+        backup_image: "https://drive.google.com/file/d/1UhtwqSlmpngwuWkz0Ggp5hgZiIHKBwAB/view?usp=drive_link",
       },
     ],
   },
   {
-    filter: "filter-innovation-social",
-    id: "3.3",
-    title: "Guest Speaker for Business Segment of Vidulakara TV",
+    filter: "filter-membership",
+    id: "2.7",
+    title: "UNESCO Inclusive Policy Lab",
     slides: [
       {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Guest Speaker for Business Segment of Vidulakara TV",
-        image: "assets/img/impact/innovation-social/vidulakara-uok.png",
+        date: "",
+        source_name: "UNESCO Inclusive Policy Lab",
+        source_link: "https://en.unesco.org/inclusivepolicylab/",
+        title: "UNESCO Inclusive Policy Lab - Public profile",
+        image: "assets/img/impact/membership/UNESCO-public-profile.png",
         description:
-          "I am grateful to the Office of the Vice-Chancellor, Senior Professor Nilanthi de Silva (Vice Chancellor of the University of Kelaniya Sri Lanka), and the Communication and Media Unit for the invitation to participate in the Business Segment of Vidulakara TV. My sincere thanks also to Senior Lecturer Saman Rajapaksha (Director of the Media Unit), for his involvement. A special appreciation goes to Banuka Karunarathna from TV Derana for leading the session with such engaging interaction.",
-        link: "https://www.linkedin.com/posts/lilanofficial_leadership-business-insights-activity-7228383979157041152-xc_g/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1YNhFRlvnT1KQOXXuNE6PBeDTuHlmReTn/view?usp=drive_link",
+          "Lilan Dayananda is a social tech entrepreneur and co-founder and CEO of ELZIAN AGRO. He is a Commonwealth Youth Awardee for excellence in development works in 2022 and was nominated for Queen’s Commonwealth Trust Youth Award 2022. Lilan is among the top 10 Social Entrepreneurs of the Global South Development Expo. He is a successful graduate of the Silicon Valley based Founder Institute’s accelerator program. For years, his initiative organization has come up with award-winning innovative solutions that can apply to Precision Agriculture.",
+        link: "https://en.unesco.org/inclusivepolicylab/user/8900",
+        backup_image: "https://drive.google.com/file/d/1i-eL80C_p9v47MUZoNe0aEOPkTmN7x8k/view?usp=drive_link",
       },
     ],
   },
   {
-    filter: "filter-innovation-social",
-    id: "3.4",
-    title: "Resolution Project Guide & Mentor",
+    filter: "filter-membership",
+    id: "2.6",
+    title: "Max Thabiso Edkins Climate Ambassador",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "MAX THABISO EDKINS Climate Ambassador Prrogram Certificate",
+        image: "assets/img/impact/membership/climate-ambassador-prrogram-certificate.png",
+        description:
+          "I have successfully completed the 2022 Max Thabiso Edkins Climate Ambassador Program from The World Bank , GYCN - Global Youth Climate Network and Connect4Climate",
+        link: "https://www.linkedin.com/posts/lilanofficial_i-have-successfully-completed-the-2022-max-activity-6995218144957005824-jNDI/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Tm1pJrurzQo9P-jYYpyeTFtE7FpJPo3B/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.5",
+    title: "The World Business Dialogue Ambassador",
+    slides: [
+      {
+        date: "November 2022",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "23rd World Business Dialogue",
+        image: "assets/img/impact/membership/world-business-dialogue.png",
+        description:
+          "The “Organisations forum Wirtschaftskongress” (OfW) was founded in 1984 to build a bridge between academic theory and business practice. Since then, an annually changing team of Cologne students has organized an international business conference as its main product here in Cologne. The intention was to connect entrepreneurs, scientists, and ambitious students through an intensive, intergenerational exchange.",
+        link: "https://www.linkedin.com/posts/lilanofficial_experience-conference-wbd-activity-6918251338711666688-uHwi/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1e-tBnMCfSAqZGtr1pyLDKrG_aUcbq8rE/view?usp=drive_link",
+      },
+      {
+        date: "November 2022",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Ambassador Certificate",
+        image: "assets/img/impact/membership/ambassador-certificate.png",
+        description:
+          "The “Organisations forum Wirtschaftskongress” (OfW) was founded in 1984 to build a bridge between academic theory and business practice. Since then, an annually changing team of Cologne students has organized an international business conference as its main product here in Cologne. The intention was to connect entrepreneurs, scientists, and ambitious students through an intensive, intergenerational exchange.",
+        link: "https://www.linkedin.com/posts/lilanofficial_team-teamwork-work-activity-6950877215412617216-7bYL/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1vp_5t86ygDX_EecRslO_Bg_x9o5ZsG_U/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.4",
+    title: "Meaningful Business Member",
+    slides: [
+      {
+        date: "",
+        source_name: "Meaningful Business",
+        source_link: "https://meaningful.business/",
+        title: "Lilan Dayananda",
+        image: "assets/img/impact/membership/meaningful-business-profile.png",
+        description:
+          "Lilan Dayananda is an international award-winning young social tech entrepreneur. For years, his social initiative Elzian Agro has offered customised monitoring information and automation solutions through trending digital technologies to optimise customers’ harvest and productively utilise their resources, improving food security and climate action. ",
+        link: "https://meaningful.business/team/lilan-dayananda/",
+        backup_image: "https://drive.google.com/file/d/1jaW6UQyPaFMhinvGmIbh8wZpsICUR46w/view?usp=drive_link",
+      },
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meaningful Business Member",
+        image: "assets/img/impact/membership/meaningful-business-linkedin.png",
+        description:
+          "Pleased to have joined @Meaningful Business as a member, alongside other leaders tackling the world's most pressing issues. It is a curated network designed to connect peers globally, strengthen social businesses and amplify positive impact, all in support of the @United Nations Global Goals.",
+        link: "https://www.linkedin.com/posts/lilanofficial_business-network-leaders-activity-7056419759705239552-rjGW/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1JSn3zsKijZINHgYOjenlEUOOTnFJmwmv/view?usp=drive_link",
+      },
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Empowering Purpose-Driven Leaders: My Inspiring Experience with the Meaningful Business Community in NYC",
+        image: "assets/img/impact/membership/meaningful-business-linkedin-2.png",
+        description:
+          "It was a pleasure connecting with the Meaningful Business community in New York at Lighthouse, one of the city’s most sustainable restaurants.",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-leadership-sustainable-activity-7257584987615436801-BD95/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1dhSzU0TUf-CQ8lifYo9FfXtfRNgi9Wog/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.3",
+    title: "Island Innovation Ambassador",
+    slides: [
+      {
+        date: "2022",
+        source_name: "Island Innovation",
+        source_link: "https://islandinnovation.co/",
+        title: "About Lilan Dayananda",
+        image: "assets/img/impact/membership/island-innovation.png",
+        description:
+          "Lilan is from Sri Lanka. He is a detail-oriented and efficient Tech Entrepreneur with extensive experience in Commerce & Business Management. Certified Organic Agribusiness Practitioner and an exporter. Degree holder in Bachelor of Business Management (Special) Degree in Accountancy. Founder of a few University Clubs and Associations. Professional Video Editor and Graphic Designer. Lilan’s start-ups offer real-time smart agronomy solutions through information technology, the internet of things (IoT), automation, machine learning, artificial intelligence, drone technologies, mobile applications, and web applications. Former Media Planner at Mindshare & GroupM. Former Finance & Accounting Data Analyst at Accenture.",
+        link: "https://islandinnovation.co/ambassadors/lilan-dayananda/",
+        backup_image: "https://drive.google.com/file/d/1De8q_dTZ951NR-nNw1z7XZd2R-qLitAT/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.2",
+    title: "Resolution Project Guide & Mentor Team",
     slides: [
       {
         date: "",
         source_name: "Resolution Project",
         source_link: "https://resolutionproject.org/",
         title: "Lilan Dayananda",
-        image: "assets/img/impact/innovation-social/resolution-project.png",
+        image: "assets/img/impact/membership/resolution-project.png",
         description:
           "Lilan Dayananda is an international award-winning youth social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South by the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
         link: "https://resolutionproject.org/team/lilan-dayananda/",
-        backup_image: "https://drive.google.com/file/d/1c_gHvTlAIy1u3nXPd_XEDjTUYLKhsJaO/view?usp=drive_link",
+        backup_image: "https://drive.google.com/file/d/1_yb-W4q9segG6Q_LQKsbfN9nJqjTQsfm/view?usp=drive_link",
+      },
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Celebrating Youth Leadership and Social Impact: Highlights from the Enactus World Cup in Astana with the Resolution Project",
+        image: "assets/img/impact/membership/resolution-project-likedin.png",
+        description:
+          "As a Resolution Project Guide, it is a pleasure to see a successful Enactus World Cup in Astana, Kazakhstan. Congratulations to all the winners and finalists!",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-leadership-entrepreneurship-activity-7252830061488136192-joGW?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ybMHKAincrPUcMV10sZOSNY88AYCWnBH/view?usp=drive_link",
       },
     ],
   },
   {
-    filter: "filter-innovation-social",
-    id: "3.5",
-    title: "Co-Founder & Managing Director of Earth Restoration Incorporation",
+    filter: "filter-membership",
+    id: "2.1",
+    title: "The Council for Inclusive Capitalism Member & Steward",
     slides: [
       {
         date: "",
-        source_name: "Earth Restoration",
-        source_link: "https://restore.earth/",
-        title: "Earth Restoration Incorporation",
-        image: "assets/img/impact/innovation-social/earth-restoration-incorporation.png",
+        source_name: "Inclusive Capitalism",
+        source_link: "https://www.inclusivecapitalism.com/",
+        title: "Lilan Dayananda | ELZIAN AGRO | CEO",
+        image: "assets/img/impact/membership/inclusive-capitalism.png",
         description:
-          "Earth Restoration is a company that designs Adaptive Resilient Ecosystem Areas (AREAs) that are useful for humans and the planet. JOIN US!",
-        link: "https://restore.earth/",
-        backup_image: "https://drive.google.com/file/d/1m3Ix03jQQEBGCC8nDOXUj_v0qRyrFYMp/view?usp=drive_link",
+          "Lilan Dayananda is a social tech entrepreneur and a co-founder and the CEO of ELZIAN AGRO. He is a Commonwealth Youth Awardee for Excellence in Development Works in 2022 which was presented by The Commonwealth and nominated for Queen’s Commonwealth Trust Youth Award 2022. He is a special degree holder in Business Management from the University of Kelaniya and a Certified Organic Agribusiness Practitioner. He is a successful graduate of Silicon Valley based Founder Institute’s accelerator program. For years, his initiative organization has come up with award-winning innovative solutions that can apply to Precision Agriculture. His aim through his startup ELZIAN AGRO is to provide effective sustainable solutions to end hunger in all its forms.",
+        link: "https://www.inclusivecapitalism.com/member/lilan-dayananda/",
+        backup_image: "https://drive.google.com/file/d/1CkobLCg8DpGbemg50aqgSruz1M9lL3-_/view?usp=drive_link",
+      },
+      {
+        date: "November 2022",
+        source_name: "Council for Inclusive Capitalism",
+        source_link: "https://www.linkedin.com/company/council-for-inclusive-capitalism/posts/",
+        title: "Welcome New Council Members",
+        image: "assets/img/impact/membership/council-inclusive-capitalism.png",
+        description:
+          "Today we welcome 7 more forward-thinking business leaders to the Council. We are encouraged by their dedication to conducting business in ways that lead to a more inclusive and sustainable economy. Join us in welcoming.",
+        link: "https://www.linkedin.com/posts/council-for-inclusive-capitalism_today-we-welcome-7-more-forward-thinking-activity-6946215103197310976-W6Vk/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1-nmUxsHkWXPeifWq4dSsbDWltTg88uKX/view?usp=drive_link",
       },
     ],
   },
+
   {
     filter: "filter-innovation-social",
-    id: "3.6",
-    title: "Dubai Expo Live Innovation Program",
+    id: "3.67",
+    title: "Representing Elzian Agro at ChangeNow",
     slides: [
       {
-        date: "",
-        source_name: "Expo City Dubai",
-        source_link: "https://www.expocitydubai.com/en/",
-        title: "ELZIAN AGRO",
-        image: "assets/img/impact/innovation-social/dubai-expo-live.png",
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ELZIAN AGRO at ChangeNOW Paris: Advancing Global Impact Through Bold Partnerships",
+        image: "assets/img/impact/innovation-social/ELZIAN AGRO at ChangeNOW Paris.png",
         description:
-          "Established in 2021, ELZIAN AGRO aims to improve the lives of communities through a data-driven digitalized agricultural system, harnessing technologies such IoT, AI, ML, GIS and Blockchain, to provide effective, sustainable solutions to end hunger in all its forms. Their validated (patent-pending) IoT-enabled monitoring devices allow farmers to monitor soil and liquid composition in real-time, predict issues before they happen and make informed decisions to optimize crop yields, while quantifying farmers’ contribution to the primary ecosystem services. ELZIAN AGRO have reached 100,000+ farmers with their awareness campaign.",
-        link: "https://www.expocitydubai.com/en/global-innovators/elzian-agro/",
-        backup_image: "https://drive.google.com/file/d/1ETshxrPh5LlqJOqt0Q2kmdTu2bXr9x6D/view?usp=drive_link",
+          "Today, I’m at ChangeNOW in Paris, France; a gathering of 1,000 groundbreaking solutions and visionary leaders driving real climate action. Day 1 was nothing short of transformative...",
+        link: "https://www.linkedin.com/posts/lilanofficial_parisagreement-changenowhubs-changenow2025-activity-7321255023395393536-h41S?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/12uof71a2y6IZ8GamvbgPkqKG2t9wanBt/view?usp=sharing",
       },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.7",
-    title:
-      "Daily FT: Elzian Agro becomes one of top finalists in Expo City Dubai ExpoLive Innovation Program",
-    slides: [
       {
-        date: "July 14, 2023",
-        source_name: "Daily FT",
-        source_link: "https://www.ft.lk/",
-        title: "Elzian Agro becomes one of top finalists in Expo City Dubai ExpoLive Innovation Program",
-        image: "assets/img/impact/innovation-social/expoLive-innovation-program-daily-ft.png",
-        description:
-          "Elzian Agro, a leading agricultural solutions company, was recognised as one of the top finalists in the prestigious Expo City Dubai ExpoLive Innovation Program...",
-        link: "https://www.ft.lk/sectors/Elzian-Agro-becomes-one-of-top-finalists-in-Expo-City-Dubai-ExpoLive-Innovation-Program/20-750577",
-        backup_image: "https://drive.google.com/file/d/1w5Xlq2CXBmsL67uT4cY3u-9qqeoEnypN/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.8",
-    title: "Recognition from EXPO CITY DUBAI for the Impact and Reach through Elzian Agro",
-    slides: [
-      {
-        date: "",
-        source_name: "Expo City Dubai",
-        source_link: "https://www.expocitydubai.com/en/",
-        title: "ELZIAN AGRO",
-        image: "assets/img/impact/innovation-social/expo-city-dubai-recognition.png",
-        description:
-          "Established in 2021, ELZIAN AGRO aims to improve the lives of communities through a data-driven digitalized agricultural system, harnessing technologies such IoT, AI, ML, GIS and Blockchain, to provide effective, sustainable solutions to end hunger in all its forms. Their validated (patent-pending) IoT-enabled monitoring devices allow farmers to monitor soil and liquid composition in real-time, predict issues before they happen and make informed decisions to optimize crop yields, while quantifying farmers’ contribution to the primary ecosystem services. ELZIAN AGRO have reached 100,000+ farmers with their awareness campaign.",
-        link: "https://www.expocitydubai.com/en/global-innovators/elzian-agro",
-        backup_image: "https://drive.google.com/file/d/1SKvl2mjpbDMdk3Oe_r8lpmgTwpvDNbog/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.10",
-    title:
-      "Lanka Business News: Elzian Agro is Championing Innovation and Impact in Precision Agriculture Technology",
-    slides: [
-      {
-        date: "June 30, 2023",
-        source_name: "Lanka Business News",
-        source_link: "https://www.lankabusinessnews.com/",
-        title: "ELZIAN AGRO is Championing Innovation and impact in Precision Agriculture Technology",
-        image: "assets/img/impact/innovation-social/championing-innovation.png",
-        description:
-          "ELZIAN AGRO, a trailblazer in the field agricultural technology, emerged as a shining star at the prestigious SLASSCOM National Ingenuity Awards 2023. The event, which celebrated groundbreaking innovation and exceptional achievements in the tech industry...",
-        link: "https://www.lankabusinessnews.com/elzian-agro-is-championing-innovation-and-impact-in-precision-agriculture-technology/",
-        backup_image: "https://drive.google.com/file/d/1dNs4j9-eg8sBNotcg_v-rGlsM3HuK5JG/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.11",
-    title: "Expo Live Innovation",
-    slides: [
-      {
-        date: "November 2023",
+        date: "April 2025",
         source_name: "Elzian Agro",
         source_link: "https://www.linkedin.com/company/elzianagro/posts/",
-        title: "ELZIAN AGRO Named Top Finalist in Expo City Dubai's Expo Live Innovation Programme",
-        image: "assets/img/impact/innovation-social/expo-live-innovation-programme.png",
+        title: "ELZIAN AGRO at ChangeNOW: Showcasing Purpose-Driven Innovation on a Global Stage",
+        image: "assets/img/impact/innovation-social/ELZIAN AGRO at ChangeNOW.png",
         description:
-          "We are thrilled and deeply privileged to announce that ELZIAN AGRO has emerged as one of the top finalists in the highly competitive Expo City Dubai ExpoLive Innovation Programme held in Dubai. This remarkable achievement comes after a rigorous selection process that involved over thousands of applicants from 123 countries.",
-        link: "https://www.linkedin.com/posts/elzianagro_expolive-terra-expocitydubai-activity-7065784154159775744-rBK-/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1lWkH0AQNJxqsJpRZ8SL2PEK5gljQWpZA/view?usp=drive_link",
+          "Our CEO, Lilan Dayananda is representing ELZIAN AGRO at ChangeNOW in Paris, France. ChangeNOW stands as a global stage for entrepreneurship dedicated to driving positive environmental and social impact...",
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:7318737327529291776",
+        backup_image: "https://drive.google.com/file/d/1etNCgxgNTBKPSgBplaWqJdPf3XA31gz3/view?usp=sharing",
       },
       {
-        date: "November 2023",
-        source_name: "",
-        source_link: "",
-        title: "Expo Live Present",
-        image: "assets/img/impact/innovation-social/expo-live-present.png",
-        description: "",
-        link: "https://drive.google.com/file/d/1FoF2CpQJB0w6DsxZPMyMKeko160hbtHv/view",
-        backup_image: "https://drive.google.com/file/d/1rAI90USULpQ_Hs_rnqWLumqL6U9V3CCG/view?usp=drive_link",
+        date: "April 2025",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.linkedin.com/company/g20-global-land-initiative/posts/",
+        title: "YECO Stars Shine Bright: Youth Ecopreneurs Set to Lead at ChangeNOW 2025",
+        image: "assets/img/impact/innovation-social/YECO Stars Shine Bright-1.png",
+        description:
+          "🚀 They’re heading to ChangeNOW 2025 with ITC Ye! Community and G20 Global Land Initiative...",
+        link: "https://www.linkedin.com/posts/g20-global-land-initiative_yecos-at-change-now-2025-part-2-activity-7318634350273568769-tmEh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Q3XqXsoEcOobpzzud16Zi73OzYwwUNXv/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "YECO Stars Shine Bright: Youth Ecopreneurs Set to Lead at ChangeNOW 2025",
+        image: "assets/img/impact/innovation-social/YECO Stars Shine Bright.png",
+        description:
+          "🚀 They’re heading to ChangeNOW 2025 with ITC Ye! Community and G20 Global Land Initiative...",
+        link: "https://www.linkedin.com/posts/ye-community_youth-ecopreneurs-at-changenow-activity-7318654249721098240-rGRs?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1rgKhE0sfuzOdXUPuuj80mOeF9t8LvXIh/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.instagram.com/g20landinitiative/",
+        title:
+          "YECO Ecopreneurs Take the Stage: Showcasing Bold Solutions for a Climate-Resilient Future at COP16",
+        image: "assets/img/impact/innovation-social/YECO Ecopreneurs Take the Stage.png",
+        description:
+          "Four more YECO entrepreneurs are set to showcase their powerful, planet-positive solutions at the world’s leading event for sustainability and impact. 🌱💡",
+        link: "https://www.instagram.com/p/DIjMHfcJ_Gb/?igsh=MWQxcXN4OXFmZDUydw==",
+        backup_image: "https://drive.google.com/file/d/1cx9_DI8WoGhkfpZ4cjr9BqFXFXov_YBP/view?usp=sharing",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.12",
-    title: "Ceylon Tribune",
+    id: "3.66",
+    title: "Visiting India’s Largest Prototyping Centre (T-Works)",
     slides: [
       {
-        date: "July 9, 2023",
-        source_name: "Ceylon Tribune",
-        source_link: "https://ceylontribune.com/",
-        title: "ELZIAN AGRO, A Rising Star in Dubai’s Expo Live Innovation Program",
-        image: "assets/img/impact/innovation-social/ceylon-tribune-expo-live.png",
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting India’s Largest Prototyping Centre (T-Works)",
+        image: "assets/img/impact/innovation-social/Largest Prototyping Centre.png",
         description:
-          "ELZIAN AGRO, a prominent player in the agricultural solutions sector, has achieved an extraordinary feat by securing a coveted spot as one of the top finalists in the highly competitive Expo City Dubai ExpoLive Innovation Programme. The announcement, made on June 28th, 2023, is a testament to ELZIAN AGRO’s unwavering commitment to driving innovation and sustainability in the industry.",
-        link: "http://ceylontribune.com/?p=243",
-        backup_image: "https://drive.google.com/file/d/1FzoV0pzLKykFeT9syIqbuqokqlU7TRpq/view?usp=drive_link",
+          "The World Summit Awards (WSA) Global Congress was nothing short of inspiring! The fourth day was hosted at India’s largest prototyping centre (T-Works), the day was packed with powerful sessions and meaningful conversations around innovation, impact, and inclusivity. From enabling impact entrepreneurship to building future-ready ventures, here are some key highlights:",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-impactentrepreneurship-socialinnovation-activity-7316739102857433089-j_zX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1TS-5tcrb9OZcnGOztil0Fn_BTAnR8uc8/view?usp=sharing",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.13",
-    title: "Lanka News Network",
+    id: "3.65",
+    title: "Visiting the World’s Largest Innovation Campus (T-Hub)",
     slides: [
       {
-        date: "July 9, 2023",
-        source_name: "Lanka News Network",
-        source_link: "https://english.lankanewsnetwork.com/",
-        title: "ELZIAN AGRO, A Rising Star in Dubai’s Expo Live Innovation Program",
-        image: "assets/img/impact/innovation-social/lanka-news-network-elzian-agro.png",
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting the World’s Largest Innovation Campus (T-Hub)",
+        image: "assets/img/impact/innovation-social/Largest Innovation Campus.png",
         description:
-          "ELZIAN AGRO, a prominent player in the agricultural solutions sector, has achieved an extraordinary feat by securing a coveted spot as one of the top finalists in the highly competitive Expo City Dubai ExpoLive Innovation Programme. The announcement, made on June 28th, 2023, is a testament to ELZIAN AGRO’s unwavering commitment to driving innovation and sustainability in the industry.",
-        link: "https://english.lankanewsnetwork.com/?p=160",
-        backup_image: "https://drive.google.com/file/d/1KdbNDilEaRltIRzATIqK4nseUrz9E8_X/view?usp=drive_link",
+          "It was a great experience visiting the World’s Largest Innovation Campus (T-Hub) located in Hyderabad, India. T-Hub is a premier innovation hub and ecosystem enabler that empowers startups, corporations, and other stakeholders to foster innovation and drive economic growth...",
+        link: "https://www.linkedin.com/posts/lilanofficial_digital-technology-democracy-activity-7314937162959896577-cXSr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1XUeAXPyqqZGw16Cr9vfERX1-nopy4881/view?usp=sharing",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.14",
-    title: "Biz Report",
+    id: "3.64",
+    title:
+      "Showcasing Elzian-Agro-Aqua Innovation at Asia-Pacific Forum on Sustainable Development (APFSD) 2025",
     slides: [
       {
-        date: "July 4, 2023",
-        source_name: "Biz Report",
-        source_link: "https://english.bizreport.lk/",
-        title: "ELZIAN AGRO’s Extraordinary Achievement in Expo City Dubai’s Innovation Programme",
-        image: "assets/img/impact/innovation-social/biz-report-expo-live.png",
-        description:
-          "ELZIAN AGRO, the trailblazing agricultural solutions company, has emerged as one of the top finalists in the fiercely competitive Expo City Dubai ExpoLive Innovation Programme. The announcement, made on the 28th of June 2023, has catapulted ELZIAN AGRO to new heights, solidifying their position as an innovator committed to a sustainable and transformative future.",
-        link: "https://english.bizreport.lk/elzian-agros-extraordinary-achievement-in-expo-city-dubais-innovation-programme/",
-        backup_image: "https://drive.google.com/file/d/13eHlzGCh0CL44B999ZCEbrdsggCw4IPF/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.15",
-    title: "News Asia",
-    slides: [
-      {
-        date: "July 5, 2023",
+        date: "March 24, 2025",
         source_name: "News Asia",
         source_link: "https://newsasia.lk/",
-        title: "ELZIAN AGRO Honored as Top Selected Finalist in Dubai’s Expo Live Innovation Programme",
-        image: "assets/img/impact/innovation-social/news-asia-expo-live.png",
+        title: "Lilan Dayananda Showcases Elzian-Agro-Aqua Innovation at APFSD 2025",
+        image: "assets/img/impact/innovation-social/Lilan Dayananda Showcases Elzian Agro Aqua.jpg",
         description:
-          "ELZIAN AGRO, a leading agricultural solutions company, has achieved a remarkable feat by emerging as one of the top finalists in the highly competitive Expo City Dubai ExpoLive Innovation Programme in June 2023. This prestigious recognition comes after an intensive selection process that saw thousands of applicants from 123 countries vying for the honor.",
-        link: "https://newsasia.lk/elzian-agro-honored-as-top-selected-finalist-in-dubais-expo-live-innovation-programme/",
-        backup_image: "https://drive.google.com/file/d/1jLJO5WY_NRuW2OBJfRauViOhXwWXjQDX/view?usp=drive_link",
+          "The 2025 Asia-Pacific Forum on Sustainable Development (APFSD) concluded last month, highlighting the pivotal role of youth in driving sustainable development across the region. Preceding the forum, the Youth Forum 2025 brought together...",
+        link: "https://newsasia.lk/lilan-dayananda-showcases-elzian-agro-aqua-innovation-at-apfsd-2025/",
+        backup_image: "https://drive.google.com/file/d/1tpBz1s91TnCzhtMH6masxPXKIlrPo9so/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.16",
-    title: "Lanka News Network",
-    slides: [
-      {
-        date: "July 6, 2023",
-        source_name: "Lanka News Network",
-        source_link: "https://english.lankanewsnetwork.com/",
-        title: "ELZIAN AGRO is Igniting a Technological Revolution in Agriculture",
-        image: "assets/img/impact/innovation-social/lanka-news-network-technology.png",
-        description:
-          "ELZIAN AGRO soared to new heights, claiming the prestigious title of National Winner in the category of Best Disruptive Product Innovation. Their transformative product has revolutionized traditional agricultural practices, leaving an indelible mark on the industry. By pushing boundaries and introducing cutting-edge technologies, ELZIAN AGRO has redefined the possibilities within farming. Their groundbreaking solutions have elevated efficiency, productivity, and sustainability to unprecedented levels.",
-        link: "http://english.lankanewsnetwork.com/?p=147",
-        backup_image: "https://drive.google.com/file/d/15wodGnpV79NPFOFStwuXYneLyvGbIYFS/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.17",
-    title: "Business Café",
-    slides: [
-      {
-        date: "June 29, 2023",
-        source_name: "Business Café",
-        source_link: "https://businesscafe.lk/",
-        title: "ELZIAN AGRO Secures Innovation Grant in Expo Live Innovation Programme",
-        image: "assets/img/impact/innovation-social/business-cafe-agri-solution.png",
-        description:
-          "Businesscafe - ELZIAN AGRO, a leading agricultural solutions company, has made waves in the industry by emerging as one of the top finalists in the fiercely competitive Expo City Dubai ExpoLive Innovation Programme in June 2023.",
-        link: "https://businesscafe.lk/business-news/food-beverage/item/12854-elzian-agro-secures-innovation-grant-in-expo-live-innovation-programme",
-        backup_image: "https://drive.google.com/file/d/1ls5yIytZxDJzLwp-bk9ZxOOnMKQrc6c9/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.18",
-    title: "News First Media",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "News First Media",
-        source_link: "https://www.youtube.com/@newsfirst.english",
-        title: "Introducing Bio Currency to the world",
-        image: "assets/img/impact/innovation-social/news-first-media-bio-currency.png",
-        description: "",
-        link: "https://www.youtube.com/watch?v=E1NJ7B2fbpQ&ab_channel=NewsfirstEnglish",
-        backup_image: "https://drive.google.com/file/d/1wzQaLB3_MrpWDfPD-FiYGtbZ7xYoCPLm/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.19",
-    title: "European Council for Nuclear Research (CERN)",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "CERN Laboratory",
-        image: "assets/img/impact/innovation-social/CERN-laboratory.png",
-        description:
-          "Founded in 1954, the CERN laboratory sits astride the Franco-Swiss border near Geneva. It was one of Europe's first joint ventures. At CERN, the European Organization for Nuclear Research, physicists and engineers are probing the fundamental structure of the universe. They use the world's largest and most complex scientific instruments to study the basic constituents of matter the fundamental particles. The particles are made to collide together at close to the speed of light. The process gives the physicists clues about how the particles interact, and provides insights into the fundamental laws of nature.",
-        link: "https://www.linkedin.com/posts/lilanofficial_cern-nuclear-nuclearenergy-activity-7123375218328289280-dw55?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1j7or0i5wYUnGtbkXNkQ-8Eb2tGea7mTI/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.20",
-    title: "Stanford Seed Spark Mentorship",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "Elzian Agro",
-        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
-        title: "Grateful for the Journey with Stanford Seed",
-        image: "assets/img/impact/innovation-social/great-journey-elzian-agro.png",
-        description:
-          "Grateful for the incredible journey of growth and learning through the Stanford Seed. 🚀 We had the privilege of meeting our Stanford Seed Spark mentor, Mr. PN Subramanian, who has been an invaluable guide on this entrepreneurial adventure. 🌟",
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:7127087911107268608/",
-        backup_image: "https://drive.google.com/file/d/10s1lnSvCbsFvIau5RXdHz9Ke2wSTMTya/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.21",
-    title: "Fuelling the Digital Economy through the INFOTEL ICT Exhibition",
-    slides: [
-      {
-        date: "December 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "INFOTEL 2023 ICT Exhibition",
-        image: "assets/img/impact/innovation-social/INFOTEL-exhibition.png",
-        description:
-          "INFOTEL 2023 ICT Exhibition, organised by the Federation of Information Technology Industry Sri Lanka (FITIS), themed ‘Fuelling the Digital Economy, will focus on key areas of the digital economy to support the economy through intelligent and modern technology. The exhibition will also cover digital government, smart education, smart health solutions, cyber security, agritech, artificial intelligence (AI), smart cities, green energy, and others.",
-        link: "https://www.linkedin.com/posts/lilanofficial_informationtechnology-informationsecurity-activity-7127235218385637376-lJtI/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1hDJc2R0gdoUM0rUj2rh3KqQMjimFIiSB/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.22",
-    title: "Global Entrepreneurship Week",
-    slides: [
-      {
-        date: "December 2023",
-        source_name: "Spiralation",
-        source_link: "https://www.linkedin.com/company/spiralation/posts/",
-        title: "Celebrating Entrepreneurs Worldwide",
-        image: "assets/img/impact/innovation-social/spiralation.png",
-        description:
-          "Embrace the chaos, celebrate the victories, and dance to the rhythm of your own entrepreneurial journey. Here's to the Mavericks making waves!",
-        link: "https://www.linkedin.com/posts/spiralation_gew2023-gewsrilanka-entrepreneurship-activity-7130809037218086912-iJCi/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1es2l-ldOcCXTGb51oAVK0ef50-l_22gM/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.23",
-    title: "Global HEY Climate Fund Finalist",
-    slides: [
-      {
-        date: "December 2, 2022",
-        source_name: "The HEY Campaign",
-        source_link: "https://www.instagram.com/wearehey/?e=09b4fc84-9ad2-409c-9066-24fe727070ec&g=5",
-        title: "Meet our Global HEY Climate Fund Finalist Lilan Dayananda of Sri Lanka",
-        image: "assets/img/impact/innovation-social/global-hey-instagram.png",
-        description:
-          "His project Earth Restoration LifeForce is the world's first Bio-Currency. As the leading technology partner for the International Analog Forestry Network, this group has analyzed decades (40 years) of data and built a correlation for our methodology to quantify the human contribution for Oxygen production and clean water cycling to the atmosphere with the help from international and local scientists and experts in Forestry, Analog forestry, Agroforestry, and regenerative farming.",
-        link: "https://www.instagram.com/p/ClpA9wNyxXi/?utm_source=ig_web_copy_link",
-        backup_image: "https://drive.google.com/file/d/1LVt7qCsjoO2YB3VlP19DieLcvkuUoByb/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.24",
-    title: "Co-Founder of Founder Institute’s Fastest Growing Companies of 2023",
-    slides: [
-      {
-        date: "December 2023",
-        source_name: "Founder Institute",
-        source_link: "https://www.linkedin.com/school/the-founder-institute/posts/",
-        title: "Discover Asia and Australia's fastest-growing startups in our latest FI50 Report!",
-        image: "assets/img/impact/innovation-social/founder-institute-growing-startup.png",
-        description:
-          "We're highlighting top startups from Asia and Australia in our global portfolio, showcasing their significant growth over the past year...",
-        link: "https://www.linkedin.com/posts/the-founder-institute_meet-our-top-10-startups-from-asia-and-australia-activity-7135713420305195008--lUS?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1KZbvOFKE_2Ilqq8jHbHhN8gPKLTP3A-3/view?usp=drive_link",
-      },
-      {
-        date: "",
-        source_name: "Founder Institute",
-        source_link: "https://fi.co/",
-        title: "ELZIAN AGRO",
-        image: "assets/img/impact/innovation-social/fi-elzian-agro.png",
-        description:
-          "Elzian Agro provides smart agronomy solution to farmers that reduces their crop wastage. In 2023 it was honored with multiple national and global awards, including Expo City Dubai.",
-        link: "https://fi.co/50/elzian-agro",
-        backup_image: "https://drive.google.com/file/d/15n7NqyYgRK8kHJ6vyTw9QXmQ576UWH4R/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.25",
-    title: "International Renewable Energy Agency (IRENA) NewGen Startup Accelerator for Sustainable Future",
-    slides: [
-      {
-        date: "January 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "The conclusion of COP28 UAE",
-        image: "assets/img/impact/innovation-social/conclusion-linkedin.png",
-        description:
-          "The conclusion of COP28 UAE in the UAE stands as a timely reminder of the formidable climate challenges ahead, ones that have already touched us all. Amidst this awareness, however, lie significant victories that merit recognition.",
-        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-cop28-activity-7142878878489821184-MPbl?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/15ozN9_OaM4LYUNnfkSJKNM-N-g6yaw_9/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.26",
-    title: "UNLEASH Innovation Lab 2022 in India",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Certificate of Participation",
-        image: "assets/img/impact/innovation-social/UNLEASH-certificate.png",
-        description: "",
-        link: "https://www.linkedin.com/posts/lilanofficial_unleash-activity-7025044954561318912-zlpO?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1XrWkiNZ9Jj17BcE9fnqrtwU4bpEHVl_O/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.27",
-    title: "UNLEASH Plus Accelerator 2023 in Rwanda",
-    slides: [
-      {
-        date: "January 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "UNLEASH Plus Accelerator 2023 in Rwanda",
-        image: "assets/img/impact/innovation-social/UNLEASH-rwanda.png",
-        description:
-          "A few weeks ago, I had the privilege to be part of the UNLEASH+ Accelerator Program in the land of the Thousand Hills, Kigali, Rwanda.",
-        link: "https://www.linkedin.com/posts/lilanofficial_sdgs-unleash-startup-activity-7143356516790616064-P9h9?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1c0t87gdI4_dQfRqW1RZul1-wC7ab9t4y/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.28",
-    title: "Supporting the World Bank to layout Social Entrepreneurial Programs",
-    slides: [
-      {
-        date: "April 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Productive Discussion with Parmesh Shah on Sri Lankan Agricultural Challenges and Solutions",
-        image: "assets/img/impact/innovation-social/meet-parmesh-snah.png",
-        description:
-          "I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions in the context of Sri Lankan agriculture. I would like to extend my appreciation to Sunil Madan, MPA for arranging the meeting.",
-        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1ikTbzLFleaS_Hd8CdBy_QAJRC5hC-x9h/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.29",
+    id: "3.63",
     title:
-      "TechRound has recognized ELZIAN AGRO (founded by Lilan) as one of the top 10 Sri Lankan startups that are worth keeping an eye on",
+      "Addressing COP16 at the Session Regarding Business Perspectives on Access to Finance for Startups",
     slides: [
       {
-        date: "March 20, 2024",
-        source_name: "Tech Round",
-        source_link: "https://techround.co.uk/",
-        title: "10 Startups In Sri Lanka To Watch",
-        image: "assets/img/impact/innovation-social/ten-startup.png",
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Ecopreneurs: Financing the Future of Restoration at COP16",
+        image: "assets/img/impact/innovation-social/Financing the Future of Restoration at COP16.png",
         description:
-          "Sri Lanka, known for its incredible culture, amazing nature and kind people is also home to hundreds of startups. Here, we take a closer look at ten startups in Sri Lanka that are worth keeping an eye on.",
-        link: "https://techround.co.uk/startups/10-startups-in-sri-lanka-to-watch/",
-        backup_image: "https://drive.google.com/file/d/1ZzhEZ9FtOiUp0vEVogeqcbj-P4biE10g/view?usp=drive_link",
+          "It was an honor to participate in an inspiring panel of extraordinary ecopreneurs from the Youth Ecopreneur Programme (YECO), run by the G20 Global Land Initiative and the International Trade Centre...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-startup-activity-7276478265219788801-T04g/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1RcvGUgCrKJJCTuhiaoDix37KqFBoBiWR/view?usp=drive_link",
       },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.30",
-    title: "Ye! Youth Ecopreneur Programme",
-    slides: [
       {
-        date: "September 2024",
-        source_name: "Ye! Community",
+        date: "December 2024",
+        source_name: "ITC Ye! Community",
         source_link: "https://www.linkedin.com/company/ye-community/posts/",
-        title: "Participant Feature #YECO 2024",
-        image: "assets/img/impact/innovation-social/youth-ecopreneur-programme.png",
+        title: "YECO Entrepreneurs Spotlight Challenges and Opportunities at COP16",
+        image: "assets/img/impact/innovation-social/YECO Entrepreneurs Spotlight.png",
         description:
-          "Elzian Agro offers IoT monitoring systems and automation for efficient agricultural operations, supporting smallholder farmers with sustainable solutions.",
-        link: "https://www.linkedin.com/posts/ye-community_greeninnovation-youthecopreneurs-generationrestoration-activity-7229095428045090817-CjMe?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1QLaHGJAOKKY9AYkt3SrUwiLWllZapKQR/view?usp=drive_link",
+          "In a powerful session at #COP16Riyadh on ‘Financing the Future of Restoration: Business Perspectives on Access to Finance for start ups’, participants from the 2024 Ye! Youth Ecopreneur Programme (YECO) shared their journeys navigating the financial landscape for land-focused startups.",
+        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7274388661834600448-Ggp6/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/13ip5lTcotET1Cv75ioEAfQGGIRqklOG8/view?usp=drive_link",
       },
       {
-        date: "May 2024",
+        date: "April 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Proud to have been selected for #YECO 2024",
-        image: "assets/img/impact/innovation-social/YECO-selected.png",
+        title: "The official Restoration Pavilion COP16 Report",
+        image: "assets/img/impact/innovation-social/Restoration Pavilion COP16 Report.png",
         description:
-          "Excited to share that I've been chosen for the Ye! Youth Ecopreneur Programme 2024 powered by the Ye! Community / International Trade Centre and G20 Global Land Initiative.",
-        link: "https://www.linkedin.com/posts/lilanofficial_yeco-yeco24-yeyouthecopreneur-activity-7188950771411890177-IIA9?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1kVVHmYHjsmPid_LO9NSiJzn-HltwHxiX/view?usp=drive_link",
+          "Here is the official Restoration Pavilion COP16 Report. It was an honor to participate in an inspiring panel of extraordinary ecopreneurs from the Youth Ecopreneur Programme (YECO), run by the G20 Global Land Initiative and the International Trade Centre...",
+        link: "https://www.linkedin.com/posts/lilanofficial_g20-global-land-initiative-cop16-report-activity-7313159024831516675-mQTY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1qbMsiOT_1u5KwWhzOp9trjDu31tQZx6T/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.31",
-    title: "Stanford Seed Programs",
+    id: "3.62",
+    title: "Addressing COP16 at the Science & Technology hosted at the Business4Land Lounge",
     slides: [
       {
-        date: "May 2024",
+        date: "December 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "The Seed Transformation Program",
-        image: "assets/img/impact/innovation-social/seed-transformation-program.png",
+        title: "Kicking Off COP16: Showcasing ELZIAN AGRO and Championing Innovation for Land Regeneration",
+        image: "assets/img/impact/innovation-social/Kicking Off COP16.png",
         description:
-          "The Seed Transformation Program caters specifically to established enterprises, offering a robust curriculum led by esteemed faculty from Stanford University Graduate School of Business and experienced advisors.",
-        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-startup-business-activity-7192213003562328064-_9YK?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1q13ujulkkbA7Yi_-PHR1k-SS37W0sLY1/view?usp=drive_link",
+          "Excited to share my ELZIAN AGRO experience kicking off COP16Riyadh at the Science & Technology Session under the theme Minds at the Heart of Land Regeneration, hosted at the Business4Land Lounge...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-landregeneration-activity-7274494785682350080-jbK8/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1fc-3eMD4uMaBP3_PUUCip9zcOcY5b9o9/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.32",
-    title: "Ye! Youth Ecopreneur Program",
+    id: "3.61",
+    title: "Addressing the Innovation Stage at the Restoration Pavilion in UNCCD COP16",
     slides: [
       {
-        date: "",
-        source_name: "Ye! Community",
-        source_link: "https://social.yecommunity.com/",
-        title: "Ye! Youth Ecopreneur Programme Participants",
-        image: "assets/img/impact/innovation-social/ye-community-participants.png",
-        description: "",
-        link: "https://social.yecommunity.com/page/faqs-1631efab-82fb-4014-8041-a196073bb453?lang=es",
-        backup_image: "https://drive.google.com/file/d/1Umi2ZbhlOz181YyMOICbXpmYtILLdRj4/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.33",
-    title: "Lilan's social venture (Elzian Agro) as the finals of Food Tech Congress Challengers 2024",
-    slides: [
-      {
-        date: "July 2024",
-        source_name: "Elzian Agro",
-        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
-        title: "We are the finalists of Food Tech Challengers 2024",
-        image: "assets/img/impact/innovation-social/food-challengers.png",
-        description:
-          "Big news! We're rocketing to the finals of Food Tech Challengers 2024! 🚀 Mark your calendars for May 28-29, 2024 (Warsaw, Poland) and come support us at the event as we will pitch on stage!",
-        link: "https://www.linkedin.com/posts/elzianagro_ftc2024-food-agriculture-activity-7194706426177466368-idki?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1IdvW4u2qlUfC07v53S8j34h-YmcWaSnV/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.34",
-    title: "Addressing the Global Leadership Summit 2024",
-    slides: [
-      {
-        date: "June 2024",
+        date: "December 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Addressing the Global Leadership Summit 2024",
-        image: "assets/img/impact/innovation-social/global-leadership-summit.png",
+        title: "Showcasing ELZIAN AGRO: Driving Innovation for Sustainable Agriculture at COP16",
+        image:
+          "assets/img/impact/innovation-social/Driving Innovation for Sustainable Agriculture at COP16.png",
         description:
-          "It is such a pleasure to address the Global Leadership Summit representing ELZIAN AGRO, which is taking place this coming week in partnership with - ForbesBLK, United Nations Association of the United States of America, UNDP , Youth4Climate, World Health Organization Partnership for Maternal and Child Health, Ye! Community - International Trade Centre, Partnership for the Goals - Goal17 Mentoring, Theirworld Global Youth Ambassadors, UNITE 2030, and Bolycthier .",
-        link: "https://www.linkedin.com/posts/lilanofficial_socialimpact-sdgs-youth-activity-7194714123773906944-hjFp?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/17G22K6hwWcKX5jgSb11FuN_xsNPUT5OP/view?usp=drive_link",
+          "Excited to announce that I’ll be presenting ELZIAN AGRO today at the Innovation Stage at 2:00 PM! 🌿🚀 If you’re attending the UNCCD COP16, I’d love to connect. Join me at the Restoration Pavilion...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-innovation-activity-7272498843831705600-SqRn/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1uyJGH4JblkOKDnkdehcZgBwQ0tkeAaC5/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.35",
-    title:
-      'Addressing the WSIS Forum High-Level Event, WSA session, titled "Youth Engagement Around WSIS Action Lines”',
+    id: "3.60",
+    title: "Representing Youth Ecopreneurs at UNCCD COP16",
     slides: [
       {
-        date: "June 2024",
+        date: "December 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          'Addressing the World Summit on the Information Society (WSIS) Forum High-Level Event, WSA session, titled "Youth Engagement Around WSIS Action Lines”',
-        image: "assets/img/impact/innovation-social/addressing-world-summit.png",
+        title: "Fostering Collaboration for Global Land Restoration at COP16 Riyadh",
+        image: "assets/img/impact/innovation-social/Global Land Restoration at COP16 Riyadh.png",
         description:
-          "It is a pleasure to contribute to the WSA session at the World Summit on the Information Society (WSIS Process) Forum High-Level Event in Geneva, Switzerland, co-hosted by the International...",
-        link: "https://www.linkedin.com/posts/lilanofficial_wsa-wsis-itu-activity-7200804008263917570-oDjz?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1vAQABH9UpS4AbVtsFJ7w4231995diOHn/view?usp=drive_link",
+          'I had the incredible opportunity to participate in the Science & Tech Session under the theme "Minds at the Heart of Land Regeneration" at the Business Lounge during COP16 in Riyadh, Saudi Arabia. I was also privileged to meet Dr. Muralee Thummarukudy, Director of the G20 Global Land Initiative, at the Restoration Pavilion.',
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-landregeneration-sustainability-activity-7271963527626518529-wIFY/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/16WynkQTedPb5hmipotlyhnO5fz7mjGYR/view?usp=drive_link",
       },
       {
-        date: "May 2024",
-        source_name: "WSIS+20 Forum High-Level Event 2024",
-        source_link: "https://www.itu.int/net4/wsis/forum/2024/",
-        title: "Youth Engagement Around WSIS Action Lines",
-        image: "assets/img/impact/innovation-social/wsis-forum.png",
-        description:
-          'The WSIS Action Lines, outline steps to leverage information and communication technologies (ICTs) for sustainable development. The WSA  session titled "Youth Engagement Around WSIS Action Lines" focuses on the critical role young people play in advancing the Tunis agenda, specifically around action line C7.',
-        link: "https://www.itu.int/net4/wsis/forum/2024/Agenda/Session/185",
-        backup_image: "https://drive.google.com/file/d/1Xk0u5_hBzzeqT9lemhdHJ4G2TgYHxuBk/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.36",
-    title: "Lilan's initiative (ELZIAN AGRO) Named Finalist in World Bank Youth Innovation Challenge",
-    slides: [
-      {
-        date: "May 24, 2024",
-        source_name: "Profit Magazine",
-        source_link: "https://profitmagazine.lk/",
-        title: "Elzian Agro Named Finalist in World Bank Youth Innovation Challenge",
-        image: "assets/img/impact/innovation-social/profit-magazine.png-bank-youth-innovation.png",
-        description:
-          "Elzian Agro, a precision agriculture company based in Sri Lanka, was selected as a finalist in the World Bank Youth Innovation Challenge under the category of water solutions for a new climate reality. Elzian Agro was selected among the top 40 finalists in the World Bank Youth Innovation Challenge. Their excellent innovation was chosen from over 1,600 registrations from 95 countries and more than 300 outstanding applications from 63 countries.",
-        link: "https://profitmagazine.lk/elzian-agro-named-finalist-in-world-bank-youth-innovation-challenge/",
-        backup_image: "https://drive.google.com/file/d/1h3GPavBoQl65C1CDDODf2K3nMuIcviW4/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.37",
-    title: "Science Startup Founder at the Falling Walls Science Summit",
-    slides: [
-      {
-        date: "July 2024",
+        date: "December 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Science Startup Founder at the Falling Walls Science Summit",
-        image: "assets/img/impact/innovation-social/science-startup-founder.png",
+        title: "Empowering Sustainability: Insights and Innovation from COP16 Riyadh",
+        image: "assets/img/impact/innovation-social/Insights and Innovation from COP16 Riyadh.png",
         description:
-          "I am happy to be recognised as a finalist in the Science Startups category of the GlobalCall24 Falling Walls Foundation. This recognition brings me a step closer to the Science Breakthroughs of the Year, to be celebrated at the FallingWalls ScienceSummit24 from 7-9 November. Stay tuned for further updates.",
-        link: "https://www.linkedin.com/posts/lilanofficial_globalcall24-fallingwalls-sciencesummit24-activity-7207426507940536320-vuzw?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1sT_z9I2J7DyL6r91RQsspsMviZ78kK2t/view?usp=drive_link",
+          "Yesterday was a whirlwind of impactful connections and learning at COP16 in Riyadh, Saudi Arabia. 🌍✨ I had the privilege of engaging with visionary changemakers and participating in two incredibly insightful sessions...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-innovation-activity-7272495805024890881-wgN2/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1f_ewN68u31epdhvkfwzoXb9yeyxvxsd1/view?usp=drive_link",
+      },
+      {
+        date: "December 2024",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Introducing YECO at COP16!",
+        image: "assets/img/impact/innovation-social/Introducing YECO at COP16!.png",
+        description:
+          "🌍 Introducing YECO at COP16! 12 passionate Youth Ecopreneurs are stepping onto the global stage at COP16 to lead conversations on land and drought resilience, showcasing their innovative land restoration solutions...",
+        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7269606299401609216-UERC/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/104n8qJNV52Q3IYTQzvz6iM-amvMMzGjO/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.38",
-    title:
-      "Addressing the Ye! Community Learn and Connect Session organized by the International Trade Centre",
+    id: "3.59",
+    title: "Featuring on Founders Lair",
     slides: [
       {
-        date: "July 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Addressing the Ye! Community",
-        image: "assets/img/impact/innovation-social/address-ye-community.png",
-        description:
-          "It was a pleasure to contribute as a speaker for the recent Ye! Community Learn and Connect Session. These sessions, conducted every three months on the last Wednesday, are affiliated with the International Trade Centre and the Ye! Community.",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-entrepreneurship-startups-activity-7211735366033137665-y7eh?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1jLQXEBJXIbs7u2exsv35mf-olGP6-660/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.39",
-    title: "Participating in the International Conference on Control, Decision and Information Technologies",
-    slides: [
-      {
-        date: "July 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Participating in the International Conference on Control, Decision and Information Technologies",
-        image: "assets/img/impact/innovation-social/international-conference.png",
-        description:
-          "It was a pleasure to participate in the international conference on Control, Decision and Information Technologies (CoDIT 2024) Valetta, Malta. Its purpose is to be a forum for technical exchange amongst scientists having interests in Control, Automation, Robotics, Optimization, Decision, Cybernetics, Computer Science and Information Technologies. This conference will provide a remarkable opportunity for the academic and industrial communities to address new challenges, share solutions and discuss future research directions. The technical program will include plenary lectures, regular technical sessions, and special sessions.",
-        link: "https://www.linkedin.com/posts/lilanofficial_technology-automation-science-activity-7213911719327252480-tiD9?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1LniG0XNFNhz2Rpyz3bXRxRXjl6gT9pyD/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.40",
-    title: "Signing business agreements with Koperattivi Malta",
-    slides: [
-      {
-        date: "July 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting with Koperattivi Malta",
-        image: "assets/img/impact/innovation-social/meet-malta.png",
-        description:
-          "I had the pleasure of meeting with Koperattivi Malta to discuss the economic potential of cooperatives in facilitating a sustainable transition to regenerative and precision agriculture for food security. I would like to express my appreciation to the Koperattivi Malta Team for their professional engagement and proactive interaction during our initial meeting.",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7214649124418203648-XIK-?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/11o7XsjGepzcENmJNBPzgJTvog6aS2K8L/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.41",
-    title: "Startup in EU : Malta Affiliate Meeting for EU Market Analysis",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Great Meeting with Moe Soliman, Our EU Affiliate Director in Malta",
-        image: "assets/img/impact/innovation-social/meet-startup-eu.png",
-        description:
-          "Had the pleasure of meeting with our Startup in EU 🇪🇺 Affiliate Director Moe Soliman based in Malta. We're currently engaged in comprehensive initiatives aimed at expanding innovative startups from the Global South into the European market. Our efforts encompass EU market analysis, incorporation strategy, regulatory compliance, partnership and networking, risk assessment, business planning, execution and oversight, as well as reporting and analysis. We're excited to open up new opportunities in Germany, France, the Netherlands, Malta, Spain, and other European countries.",
-        link: "https://www.linkedin.com/posts/lilanofficial_albania-andorra-austria-activity-7217271638893940737-OAVv?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1ehXMctN0u0FNaoBsrjr5VPv62cVtEKbF/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.42",
-    title: "Acknowledgement from Founders Lair",
-    slides: [
-      {
-        date: "August 2024",
+        date: "November 2024",
         source_name: "Founders Lair",
         source_link: "https://www.linkedin.com/company/founderslair/posts/",
-        title: "Startup Highlight",
-        image: "assets/img/impact/innovation-social/startup-highlight.png",
+        title: "🚀 Top 50 Global #AgriTech Startups: Part 5/5 🌱",
+        image: "assets/img/impact/innovation-social/Top 50 Global AgriTech Startups.png",
         description:
-          "ELZIAN AGRO employs AI, ML, IoT, and automation to address challenges in agriculture such as adapting to climate change, identifying quality organic fertilizers, soil quality assessment, and optimizing limited resources like water and labor. They conducted market research involving over 60,000 farmers to tailor their solutions effectively.",
-        link: "https://www.linkedin.com/posts/founderslair_startuphighlight-agritech-srilanka-activity-7223905886388281344-Qf-e?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1223JO1z_S5B21YRcdYjX6Y4nblgjSDem/view?usp=drive_link",
+          "In the final part of our #StartupHighlight series, we’re excited to showcase the last 10 incredible startups and their founders who are redefining agriculture with cutting-edge technologies for a more sustainable world...",
+        link: "https://www.linkedin.com/posts/founderslair_agritech-startuphighlight-tanzania-activity-7255488308481339392-9ubt/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1QFZOaTfeHSZS15X1lIH5kmF0k-GM_6ie/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.43",
-    title: "Visiting the Industrial Area of Vítkovice",
+    id: "3.58",
+    title: "Addressing the Generation Democracy Global Summit regarding Social Entrepreneurship",
     slides: [
       {
-        date: "September 2024",
+        date: "November 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Explored the industrial area of Vítkovice",
-        image: "assets/img/impact/innovation-social/vítkovice.png",
+        title:
+          "Social Entrepreneurship: Bridging Economic Empowerment and Civic Engagement at the Generation Democracy Global Summit",
+        image: "assets/img/impact/innovation-social/Generation Democracy Global Summit.png",
         description:
-          "During my recent visit to the Czech Republic, I explored the industrial area of Vítkovice. Once neglected and abandoned, industrial zones like Vítkovice have become significant parts of Europe’s cultural heritage. Many of these areas have undergone remarkable transformations, evolving from zones of darkness and disuse into vibrant attractions where visitors of all ages can learn about this chapter of history.",
-        link: "https://www.linkedin.com/posts/lilanofficial_robot-science-technology-activity-7228576032373493760-HGKg/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1_PjBGln2QHmK8WnOe869UPap6llg0phV/view?usp=drive_link",
+          "I had the incredible opportunity to participate in a session on Social Entrepreneurship during the Generation Democracy Global Summit in Lithuania.",
+        link: "https://www.linkedin.com/posts/lilanofficial_global-democracy-youthleadership-activity-7258492209895780352-I0sQ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1g98Rvg15V1pFO-9Fvc-QFp56afTX-jVf/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.44",
+    id: "3.57",
+    title: "Meaningful Business Community Gathering",
+    slides: [
+      {
+        date: "November 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting with Purpose: A Memorable Gathering with the Meaningful Business Community in New York",
+        image: "assets/img/impact/innovation-social/Gathering with the Meaningful Business.png",
+        description:
+          "It was a pleasure connecting with the Meaningful Business community in New York at Lighthouse, one of the city’s most sustainable restaurants.",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-leadership-sustainable-activity-7257584987615436801-BD95?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1gD7eWrxrtuczGkg7vvLBWNWhJaqjfIgD/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.56",
+    title: "Moonshot Platform - AI for Good Award Category Finalist",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "Moonshot Platform",
+        source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
+        title:
+          "Announcing the Moonshot AI for Good Award Finalists: Pioneers Driving Transformation Through Innovation",
+        image: "assets/img/impact/innovation-social/Award Category Finalist.png",
+        description:
+          "Introducing our shortlist for the Moonshot AI for Good Award! These innovative leaders are utilising the power of AI to drive transformation in their respective fields.",
+        link: "https://www.linkedin.com/posts/moonshot-platform_moonshotawards2024-aiforgood-socialimpact-activity-7252941872271122433-x7pj?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1kKUACpsWM6uQQl93ORP-KymuhGso0wTd/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.55",
+    title: "Moonshot Platform - Start-Up Award Category Finalist",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "Moonshot Platform",
+        source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
+        title: "Celebrating Big Impact from Small Beginnings: Meet the Start-Up Award Finalists",
+        image: "assets/img/impact/innovation-social/Meet the Start-Up Award Finalists.png",
+        description:
+          "The Start-Up Award Category is aimed at recognising businesses that may be small in company size but massive in impact potential. Meet the finalists in the category. ",
+        link: "https://www.linkedin.com/posts/moonshot-platform_moonshotawards2024-startup-activity-7249154196711559169-L7cj?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1WsWAGvLQj8Fd6UFrNShxs9C8voICs_cI/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.54",
+    title: "Participating in the LSTA Annual Conference",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the LSTA Annual Conference",
+        image: "assets/img/impact/innovation-social/LSTA Annual Conference.png",
+        description:
+          "It was a pleasure to participate in the LSTA Annual Conference at the New York Hilton, where we explored critical topics such as the economy, AI, and the intersection of geopolitics and investing through two insightful keynotes.",
+        link: "https://www.linkedin.com/posts/lilanofficial_global-economy-economy2024-activity-7248239747490324480-p470?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1v1hEPQyLgOUFrXGlLrkD47dYnvZHOt5j/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.53",
     title:
-      "The Climate Entrepreneurship Program at New York University and NYU School of Professional Studies",
+      "Participate in the Science Summit on Innovating for Resilience and Prosperity alongside the United Nations General Assembly",
     slides: [
       {
-        date: "September 2024",
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflections on the Science Summit: Innovating for Resilience and Prosperity",
+        image: "assets/img/impact/innovation-social/the Science Summit.png",
+        description:
+          "It was a pleasure to participate in the Science Summit on Innovating for Resilience and Prosperity alongside the United Nations General Assembly in New York...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-innovation-renewableenergy-activity-7247227867468570625-msYe?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1rvujoCZF1YRQ0CwQIEQ896-5gP56R2uE/view?usp=drive_link",
+      },
+      {
+        date: "November 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "Participated in the Climate Entrepreneurship Program at New York University and NYU School of Professional Studies! ",
-        image: "assets/img/impact/innovation-social/climate-entrepreneurship.png",
+          "Empowering Resilience and Prosperity: Insights from KINETIK’s Islands Shaping the Future Program",
+        image: "assets/img/impact/innovation-social/Empowering Resilience.png",
         description:
-          "Thrilled to have participated in the Climate Entrepreneurship Program at New York University and NYU School of Professional Studies! I explored unique value propositions, innovative business models, and the principles of the lean startup methodology. Unlike traditional approaches, lean startups focus on searching for the right business model, constantly testing, revising, and gathering customer feedback to rapidly iterate and refine products. This approach significantly reduces the risk of launching products that don't meet market needs, ensuring that we build solutions that truly resonate with our customers.",
-        link: "https://www.linkedin.com/posts/lilanofficial_business-climate-entrepreneurship-activity-7229988870195490816-abBZ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1qE0lMNqPFrMTfL4XlX_g3djqLPCiHopp/view?usp=drive_link",
+          "It was a pleasure connecting with diverse, impactful leaders during KINETIK's Islands Shaping the Future: Innovating for Resilience and Prosperity program...",
+        link: "https://www.linkedin.com/posts/lilanofficial_science-island-innovation-activity-7257823518543814656-wHuY?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1RPGWV8G1kfGfPM8GLxVO4CFdUFi-dqSo/view?usp=drive_link",
+      },
+      {
+        date: "December 2024",
+        source_name: "Kinetik Ventures",
+        source_link: "https://www.linkedin.com/company/kinetikvc/posts/",
+        title: "Launch of the Global Young Leaders Collective for a Sustainable Bioeconomy",
+        image: "assets/img/impact/innovation-social/Global Young Leaders Collective.png",
+        description:
+          "Kinetik is proud to launch the Global Young Leaders Collective – an initiative empowering the next generation of leaders, including young professionals and youth, in the bioeconomy. Earlier this year, we hosted our inaugural Youth Summit on islands shaping the future of science and innovation, in partnership with Peace Boat US, Blue Planet Alliance, the Kingdom of Tonga, Science Summit UNGA, RSM, and the Dholakia Foundation.",
+        link: "https://www.linkedin.com/posts/kinetikvc_kinetikleaders-bioeconomy-scienceandculture-activity-7275230624464965633-horZ/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1qxUv8fLa3do1WjaeweVQh6ZrWjwwN9bV/view?usp=sharing",
+      },
+      {
+        date: "December 19, 2024",
+        source_name: "biobytes_eco",
+        source_link: "https://www.instagram.com/biobytes_eco/",
+        title: "Launch of the Global Young Leaders Collective for a Sustainable Bioeconomy",
+        image: "assets/img/impact/innovation-social/Global Young Leaders Collective biobyte_eco.png",
+        description:
+          "Kinetik is proud to launch the Global Young Leaders Collective – an initiative empowering the next generation of leaders, including young professionals and youth, in the bioeconomy. Earlier this year, we hosted our inaugural Youth Summit on islands shaping the future of science and innovation, in partnership with Peace Boat US, Blue Planet Alliance, the Kingdom of Tonga, Science Summit UNGA, RSM, and the Dholakia Foundation.",
+        link: "https://www.instagram.com/p/DDuzX27p4rU/?utm_source=ig_web_copy_link",
+        backup_image: "https://drive.google.com/file/d/1dML6M3n1nOAhjU8VOGcEHMf_jaTSXwju/view?usp=sharing",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.45",
-    title: "Joining Entrepreneurial Discussions at the NYU Entrepreneurial Institute",
+    id: "3.52",
+    title: "Participating in the workshop on “Winning Sales Pitch Tactics”",
     slides: [
       {
-        date: "September 2024",
+        date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Explored Silicon Alley and Engaged in an Interactive Founder Discussion",
-        image: "assets/img/impact/innovation-social/silicon-alley.png",
+        title: "Attended a Session on “Winning Sales Pitch Tactics”",
+        image: "assets/img/impact/innovation-social/winning-sales-pitch-tactics.png",
         description:
-          "Explored Silicon Alley and engaged in an interactive founder discussion at the NYU Entrepreneurial Institute and NYU Leslie eLab, both at New York University. Silicon Alley, centered around Manhattan's Flatiron district, is a vibrant hub for high-tech companies. Grateful for the insightful contributions by Matt Parker, Jonas Günther, Jag Gill and Keith Mauppa.",
-        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-startup-startups-activity-7231263302939463681-M7tj?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1Rm3wxGdfTbu-MegAuNVLUr8fv1AGbGRH/view?usp=drive_link",
+          "I recently had the opportunity to attend a session led by Anuradha Ekanayake, CEO of Suwanda, on “Winning Sales Pitch Tactics,” organized by New Generation Sri Lanka at Swastha by Link Natural, Colombo.",
+        link: "https://www.linkedin.com/posts/lilanofficial_sales-marketing-session-activity-7237851087506960384-xtid?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1camQyfVfqEMjtAJvzd62E86B0qzm_q-b/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.46",
-    title: "Participating in the Future of AI Session",
+    id: "3.51",
+    title: "Pitching at Convene Brookfield Place during the AFS Youth Assembly",
     slides: [
       {
         date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Exploring the Future of AI in Agriculture: Insights from Dr. Anand Verma's Session in New York",
-        image: "assets/img/impact/innovation-social/future-ai.png",
+        title: "Pitching Social Enterprise for Global Impact at AFS Youth Assembly in New York",
+        image: "assets/img/impact/innovation-social/social-enterprise.png",
         description:
-          "The session conducted by Anand Verma (Dr.) on the future of AI at Convene Center, Brookfield Place in New York, was insightful. Future generative AI in agriculture will enable businesses to optimize crop yields by analyzing vast datasets on soil, weather, and plant health, leading to more precise farming practices. It will also drive innovation in sustainable farming by generating new strategies for resource management, reducing waste, and enhancing food security. Additionally, generative AI will help businesses expand into new markets by creating customized, data-driven agricultural solutions tailored to different regions and climates.",
-        link: "https://www.linkedin.com/posts/lilanofficial_ai-elzian-elzianagro-activity-7231639967314194432-9ZRG?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1D5VjqZZAPuFb9Ai-eLebHpq4OSn-CFh_/view?usp=drive_link",
+          "I had the pleasure of pitching my social enterprise (ELZIAN AGRO), at Convene Brookfield Place during the AFS Youth Assembly in New York. The AFS Award for Young Global Citizens recognizes young people for their commitment to improving the global community and whose actions contribute to a more just, peaceful, and tolerant world.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-entrepreneurship-activity-7235538161362157568-vAZJ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1U7X1XX6y9mXXhlJNlvcxj1ehroj3ldWB/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.50",
+    title:
+      "Exploring Business Opportunities for Expanding into International Markets in the Context of Europe and the UAE",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Explore Opportunities for Expanding into International Markets",
+        image: "assets/img/impact/innovation-social/explora-business.png",
+        description:
+          "Amidst a busy schedule, it was a pleasure to explore opportunities for expanding into international markets, specifically targeting Europe and the UAE, alongside Eddie Marsden-Jones in Colombo, Sri Lanka. Eddie is a seasoned technology leader with decades of C-suite experience, having held key roles as CIO for Europe’s largest tour operator group and a leading airline group in the Middle East. His impressive career also includes founding three successful businesses, including EddIT Consulting, and serving on the boards of SMEs in the HR services sector. Eddie’s entrepreneurial spirit and business development expertise are truly inspiring. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_technology-tech-europe-activity-7234941427019870209-x-Tf/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1VgstFHVMHGNaMJ58P4xD-7BiadDOaR8x/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.49",
+    title: "Lilan to Expand Elzian Agro Operations to EU Through Malta",
+    slides: [
+      {
+        date: "August 21, 2024",
+        source_name: "Biz Report",
+        source_link: "https://english.bizreport.lk/",
+        title: "Elzian Agro to Expand Operations to EU Through Malta",
+        image: "assets/img/impact/innovation-social/biz-report-malta.png",
+        description:
+          "Lilan Dayananda, Managing Director and Chief Executive Officer of Elzian Agro, has unveiled the company’s ambitious plan to expand its operations into the European Union via Malta. In a productive meeting with Startup in EU partners and Koperattivi Malta, discussions centered on the economic potential of cooperatives in facilitating a sustainable transition to regenerative and precision agriculture for enhanced food security.",
+        link: "https://english.bizreport.lk/elzian-agro-to-expand-operations-to-eu-through-malta/",
+        backup_image: "https://drive.google.com/file/d/1_AL8d5D2OAvjwuMIOxeVM4vP0XNA_uW5/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.48",
+    title: "Elzian Agro Named Finalist in Falling Walls Science Startups Category",
+    slides: [
+      {
+        date: "August 16, 2024",
+        source_name: "Ceylon Tribune",
+        source_link: "https://ceylontribune.com/",
+        title: "Elzian Agro Named Finalist in Falling Walls Science Startups Category",
+        image: "assets/img/impact/innovation-social/ceylon-tribune-ai-agro.png",
+        description:
+          "Elzian Agro has been recognized as a finalist in the Science Startups category by the prestigious Falling Walls Foundation. The Falling Walls Science Summit, an esteemed international forum for scientific breakthroughs, celebrates the fall of the Berlin Wall and fosters dialogue between science and society.",
+        link: "https://ceylontribune.com/?p=1134",
+        backup_image: "https://drive.google.com/file/d/1guDRRmdLgsOj6RbZx6NGZuha93LLmfyd/view?usp=drive_link",
       },
     ],
   },
@@ -2245,492 +1864,873 @@ const impacts = [
   },
   {
     filter: "filter-innovation-social",
-    id: "3.48",
-    title: "Elzian Agro Named Finalist in Falling Walls Science Startups Category",
-    slides: [
-      {
-        date: "August 16, 2024",
-        source_name: "Ceylon Tribune",
-        source_link: "https://ceylontribune.com/",
-        title: "Elzian Agro Named Finalist in Falling Walls Science Startups Category",
-        image: "assets/img/impact/innovation-social/ceylon-tribune-ai-agro.png",
-        description:
-          "Elzian Agro has been recognized as a finalist in the Science Startups category by the prestigious Falling Walls Foundation. The Falling Walls Science Summit, an esteemed international forum for scientific breakthroughs, celebrates the fall of the Berlin Wall and fosters dialogue between science and society.",
-        link: "https://ceylontribune.com/?p=1134",
-        backup_image: "https://drive.google.com/file/d/1guDRRmdLgsOj6RbZx6NGZuha93LLmfyd/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.49",
-    title: "Lilan to Expand Elzian Agro Operations to EU Through Malta",
-    slides: [
-      {
-        date: "August 21, 2024",
-        source_name: "Biz Report",
-        source_link: "https://english.bizreport.lk/",
-        title: "Elzian Agro to Expand Operations to EU Through Malta",
-        image: "assets/img/impact/innovation-social/biz-report-malta.png",
-        description:
-          "Lilan Dayananda, Managing Director and Chief Executive Officer of Elzian Agro, has unveiled the company’s ambitious plan to expand its operations into the European Union via Malta. In a productive meeting with Startup in EU partners and Koperattivi Malta, discussions centered on the economic potential of cooperatives in facilitating a sustainable transition to regenerative and precision agriculture for enhanced food security.",
-        link: "https://english.bizreport.lk/elzian-agro-to-expand-operations-to-eu-through-malta/",
-        backup_image: "https://drive.google.com/file/d/1_AL8d5D2OAvjwuMIOxeVM4vP0XNA_uW5/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.50",
-    title:
-      "Exploring Business Opportunities for Expanding into International Markets in the Context of Europe and the UAE",
+    id: "3.46",
+    title: "Participating in the Future of AI Session",
     slides: [
       {
         date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Explore Opportunities for Expanding into International Markets",
-        image: "assets/img/impact/innovation-social/explora-business.png",
+        title:
+          "Exploring the Future of AI in Agriculture: Insights from Dr. Anand Verma's Session in New York",
+        image: "assets/img/impact/innovation-social/future-ai.png",
         description:
-          "Amidst a busy schedule, it was a pleasure to explore opportunities for expanding into international markets, specifically targeting Europe and the UAE, alongside Eddie Marsden-Jones in Colombo, Sri Lanka. Eddie is a seasoned technology leader with decades of C-suite experience, having held key roles as CIO for Europe’s largest tour operator group and a leading airline group in the Middle East. His impressive career also includes founding three successful businesses, including EddIT Consulting, and serving on the boards of SMEs in the HR services sector. Eddie’s entrepreneurial spirit and business development expertise are truly inspiring. ",
-        link: "https://www.linkedin.com/posts/lilanofficial_technology-tech-europe-activity-7234941427019870209-x-Tf/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1VgstFHVMHGNaMJ58P4xD-7BiadDOaR8x/view?usp=drive_link",
+          "The session conducted by Anand Verma (Dr.) on the future of AI at Convene Center, Brookfield Place in New York, was insightful. Future generative AI in agriculture will enable businesses to optimize crop yields by analyzing vast datasets on soil, weather, and plant health, leading to more precise farming practices. It will also drive innovation in sustainable farming by generating new strategies for resource management, reducing waste, and enhancing food security. Additionally, generative AI will help businesses expand into new markets by creating customized, data-driven agricultural solutions tailored to different regions and climates.",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-elzian-elzianagro-activity-7231639967314194432-9ZRG?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1D5VjqZZAPuFb9Ai-eLebHpq4OSn-CFh_/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.51",
-    title: "Pitching at Convene Brookfield Place during the AFS Youth Assembly",
+    id: "3.45",
+    title: "Joining Entrepreneurial Discussions at the NYU Entrepreneurial Institute",
     slides: [
       {
         date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Pitching Social Enterprise for Global Impact at AFS Youth Assembly in New York",
-        image: "assets/img/impact/innovation-social/social-enterprise.png",
+        title: "Explored Silicon Alley and Engaged in an Interactive Founder Discussion",
+        image: "assets/img/impact/innovation-social/silicon-alley.png",
         description:
-          "I had the pleasure of pitching my social enterprise (ELZIAN AGRO), at Convene Brookfield Place during the AFS Youth Assembly in New York. The AFS Award for Young Global Citizens recognizes young people for their commitment to improving the global community and whose actions contribute to a more just, peaceful, and tolerant world.",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-entrepreneurship-activity-7235538161362157568-vAZJ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1U7X1XX6y9mXXhlJNlvcxj1ehroj3ldWB/view?usp=drive_link",
+          "Explored Silicon Alley and engaged in an interactive founder discussion at the NYU Entrepreneurial Institute and NYU Leslie eLab, both at New York University. Silicon Alley, centered around Manhattan's Flatiron district, is a vibrant hub for high-tech companies. Grateful for the insightful contributions by Matt Parker, Jonas Günther, Jag Gill and Keith Mauppa.",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-startup-startups-activity-7231263302939463681-M7tj?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Rm3wxGdfTbu-MegAuNVLUr8fv1AGbGRH/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.52",
-    title: "Participating in the workshop on “Winning Sales Pitch Tactics”",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Attended a Session on “Winning Sales Pitch Tactics”",
-        image: "assets/img/impact/innovation-social/winning-sales-pitch-tactics.png",
-        description:
-          "I recently had the opportunity to attend a session led by Anuradha Ekanayake, CEO of Suwanda, on “Winning Sales Pitch Tactics,” organized by New Generation Sri Lanka at Swastha by Link Natural, Colombo.",
-        link: "https://www.linkedin.com/posts/lilanofficial_sales-marketing-session-activity-7237851087506960384-xtid?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1camQyfVfqEMjtAJvzd62E86B0qzm_q-b/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.53",
+    id: "3.44",
     title:
-      "Participate in the Science Summit on Innovating for Resilience and Prosperity alongside the United Nations General Assembly",
+      "The Climate Entrepreneurship Program at New York University and NYU School of Professional Studies",
     slides: [
       {
-        date: "December 19, 2024",
-        source_name: "biobytes_eco",
-        source_link: "https://www.instagram.com/biobytes_eco/",
-        title: "Launch of the Global Young Leaders Collective for a Sustainable Bioeconomy",
-        image: "assets/img/impact/innovation-social/Global Young Leaders Collective biobyte_eco.png",
-        description:
-          "Kinetik is proud to launch the Global Young Leaders Collective – an initiative empowering the next generation of leaders, including young professionals and youth, in the bioeconomy. Earlier this year, we hosted our inaugural Youth Summit on islands shaping the future of science and innovation, in partnership with Peace Boat US, Blue Planet Alliance, the Kingdom of Tonga, Science Summit UNGA, RSM, and the Dholakia Foundation.",
-        link: "https://www.instagram.com/p/DDuzX27p4rU/?utm_source=ig_web_copy_link",
-        backup_image: "https://drive.google.com/file/d/1dML6M3n1nOAhjU8VOGcEHMf_jaTSXwju/view?usp=sharing",
-      },
-      {
-        date: "December 2024",
-        source_name: "Kinetik Ventures",
-        source_link: "https://www.linkedin.com/company/kinetikvc/posts/",
-        title: "Launch of the Global Young Leaders Collective for a Sustainable Bioeconomy",
-        image: "assets/img/impact/innovation-social/Global Young Leaders Collective.png",
-        description:
-          "Kinetik is proud to launch the Global Young Leaders Collective – an initiative empowering the next generation of leaders, including young professionals and youth, in the bioeconomy. Earlier this year, we hosted our inaugural Youth Summit on islands shaping the future of science and innovation, in partnership with Peace Boat US, Blue Planet Alliance, the Kingdom of Tonga, Science Summit UNGA, RSM, and the Dholakia Foundation.",
-        link: "https://www.linkedin.com/posts/kinetikvc_kinetikleaders-bioeconomy-scienceandculture-activity-7275230624464965633-horZ/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1qxUv8fLa3do1WjaeweVQh6ZrWjwwN9bV/view?usp=sharing",
-      },
-      {
-        date: "November 2024",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title:
-          "Empowering Resilience and Prosperity: Insights from KINETIK’s Islands Shaping the Future Program",
-        image: "assets/img/impact/innovation-social/Empowering Resilience.png",
+          "Participated in the Climate Entrepreneurship Program at New York University and NYU School of Professional Studies! ",
+        image: "assets/img/impact/innovation-social/climate-entrepreneurship.png",
         description:
-          "It was a pleasure connecting with diverse, impactful leaders during KINETIK's Islands Shaping the Future: Innovating for Resilience and Prosperity program...",
-        link: "https://www.linkedin.com/posts/lilanofficial_science-island-innovation-activity-7257823518543814656-wHuY?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1RPGWV8G1kfGfPM8GLxVO4CFdUFi-dqSo/view?usp=drive_link",
+          "Thrilled to have participated in the Climate Entrepreneurship Program at New York University and NYU School of Professional Studies! I explored unique value propositions, innovative business models, and the principles of the lean startup methodology. Unlike traditional approaches, lean startups focus on searching for the right business model, constantly testing, revising, and gathering customer feedback to rapidly iterate and refine products. This approach significantly reduces the risk of launching products that don't meet market needs, ensuring that we build solutions that truly resonate with our customers.",
+        link: "https://www.linkedin.com/posts/lilanofficial_business-climate-entrepreneurship-activity-7229988870195490816-abBZ?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1qE0lMNqPFrMTfL4XlX_g3djqLPCiHopp/view?usp=drive_link",
       },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.43",
+    title: "Visiting the Industrial Area of Vítkovice",
+    slides: [
       {
-        date: "October 2024",
+        date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Reflections on the Science Summit: Innovating for Resilience and Prosperity",
-        image: "assets/img/impact/innovation-social/the Science Summit.png",
+        title: "Explored the industrial area of Vítkovice",
+        image: "assets/img/impact/innovation-social/vítkovice.png",
         description:
-          "It was a pleasure to participate in the Science Summit on Innovating for Resilience and Prosperity alongside the United Nations General Assembly in New York...",
-        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-innovation-renewableenergy-activity-7247227867468570625-msYe?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1rvujoCZF1YRQ0CwQIEQ896-5gP56R2uE/view?usp=drive_link",
+          "During my recent visit to the Czech Republic, I explored the industrial area of Vítkovice. Once neglected and abandoned, industrial zones like Vítkovice have become significant parts of Europe’s cultural heritage. Many of these areas have undergone remarkable transformations, evolving from zones of darkness and disuse into vibrant attractions where visitors of all ages can learn about this chapter of history.",
+        link: "https://www.linkedin.com/posts/lilanofficial_robot-science-technology-activity-7228576032373493760-HGKg/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1_PjBGln2QHmK8WnOe869UPap6llg0phV/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.54",
-    title: "Participating in the LSTA Annual Conference",
+    id: "3.42",
+    title: "Acknowledgement from Founders Lair",
     slides: [
       {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in the LSTA Annual Conference",
-        image: "assets/img/impact/innovation-social/LSTA Annual Conference.png",
-        description:
-          "It was a pleasure to participate in the LSTA Annual Conference at the New York Hilton, where we explored critical topics such as the economy, AI, and the intersection of geopolitics and investing through two insightful keynotes.",
-        link: "https://www.linkedin.com/posts/lilanofficial_global-economy-economy2024-activity-7248239747490324480-p470?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1v1hEPQyLgOUFrXGlLrkD47dYnvZHOt5j/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.55",
-    title: "Moonshot Platform - Start-Up Award Category Finalist",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "Moonshot Platform",
-        source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
-        title: "Celebrating Big Impact from Small Beginnings: Meet the Start-Up Award Finalists",
-        image: "assets/img/impact/innovation-social/Meet the Start-Up Award Finalists.png",
-        description:
-          "The Start-Up Award Category is aimed at recognising businesses that may be small in company size but massive in impact potential. Meet the finalists in the category. ",
-        link: "https://www.linkedin.com/posts/moonshot-platform_moonshotawards2024-startup-activity-7249154196711559169-L7cj?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1WsWAGvLQj8Fd6UFrNShxs9C8voICs_cI/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.56",
-    title: "Moonshot Platform - AI for Good Award Category Finalist",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "Moonshot Platform",
-        source_link: "https://www.linkedin.com/company/moonshot-platform/posts/",
-        title:
-          "Announcing the Moonshot AI for Good Award Finalists: Pioneers Driving Transformation Through Innovation",
-        image: "assets/img/impact/innovation-social/Award Category Finalist.png",
-        description:
-          "Introducing our shortlist for the Moonshot AI for Good Award! These innovative leaders are utilising the power of AI to drive transformation in their respective fields.",
-        link: "https://www.linkedin.com/posts/moonshot-platform_moonshotawards2024-aiforgood-socialimpact-activity-7252941872271122433-x7pj?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1kKUACpsWM6uQQl93ORP-KymuhGso0wTd/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.57",
-    title: "Meaningful Business Community Gathering",
-    slides: [
-      {
-        date: "November 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Connecting with Purpose: A Memorable Gathering with the Meaningful Business Community in New York",
-        image: "assets/img/impact/innovation-social/Gathering with the Meaningful Business.png",
-        description:
-          "It was a pleasure connecting with the Meaningful Business community in New York at Lighthouse, one of the city’s most sustainable restaurants.",
-        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-leadership-sustainable-activity-7257584987615436801-BD95?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1gD7eWrxrtuczGkg7vvLBWNWhJaqjfIgD/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.58",
-    title: "Addressing the Generation Democracy Global Summit regarding Social Entrepreneurship",
-    slides: [
-      {
-        date: "November 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Social Entrepreneurship: Bridging Economic Empowerment and Civic Engagement at the Generation Democracy Global Summit",
-        image: "assets/img/impact/innovation-social/Generation Democracy Global Summit.png",
-        description:
-          "I had the incredible opportunity to participate in a session on Social Entrepreneurship during the Generation Democracy Global Summit in Lithuania.",
-        link: "https://www.linkedin.com/posts/lilanofficial_global-democracy-youthleadership-activity-7258492209895780352-I0sQ?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1g98Rvg15V1pFO-9Fvc-QFp56afTX-jVf/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.59",
-    title: "Featuring on Founders Lair",
-    slides: [
-      {
-        date: "November 2024",
+        date: "August 2024",
         source_name: "Founders Lair",
         source_link: "https://www.linkedin.com/company/founderslair/posts/",
-        title: "🚀 Top 50 Global #AgriTech Startups: Part 5/5 🌱",
-        image: "assets/img/impact/innovation-social/Top 50 Global AgriTech Startups.png",
+        title: "Startup Highlight",
+        image: "assets/img/impact/innovation-social/startup-highlight.png",
         description:
-          "In the final part of our #StartupHighlight series, we’re excited to showcase the last 10 incredible startups and their founders who are redefining agriculture with cutting-edge technologies for a more sustainable world...",
-        link: "https://www.linkedin.com/posts/founderslair_agritech-startuphighlight-tanzania-activity-7255488308481339392-9ubt/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1QFZOaTfeHSZS15X1lIH5kmF0k-GM_6ie/view?usp=drive_link",
+          "ELZIAN AGRO employs AI, ML, IoT, and automation to address challenges in agriculture such as adapting to climate change, identifying quality organic fertilizers, soil quality assessment, and optimizing limited resources like water and labor. They conducted market research involving over 60,000 farmers to tailor their solutions effectively.",
+        link: "https://www.linkedin.com/posts/founderslair_startuphighlight-agritech-srilanka-activity-7223905886388281344-Qf-e?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1223JO1z_S5B21YRcdYjX6Y4nblgjSDem/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.60",
-    title: "Representing Youth Ecopreneurs at UNCCD COP16",
+    id: "3.41",
+    title: "Startup in EU : Malta Affiliate Meeting for EU Market Analysis",
     slides: [
       {
-        date: "December 2024",
-        source_name: "ITC Ye! Community",
-        source_link: "https://www.linkedin.com/company/ye-community/posts/",
-        title: "Introducing YECO at COP16!",
-        image: "assets/img/impact/innovation-social/Introducing YECO at COP16!.png",
-        description:
-          "🌍 Introducing YECO at COP16! 12 passionate Youth Ecopreneurs are stepping onto the global stage at COP16 to lead conversations on land and drought resilience, showcasing their innovative land restoration solutions...",
-        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7269606299401609216-UERC/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/104n8qJNV52Q3IYTQzvz6iM-amvMMzGjO/view?usp=drive_link",
-      },
-      {
-        date: "December 2024",
+        date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Empowering Sustainability: Insights and Innovation from COP16 Riyadh",
-        image: "assets/img/impact/innovation-social/Insights and Innovation from COP16 Riyadh.png",
+        title: "Great Meeting with Moe Soliman, Our EU Affiliate Director in Malta",
+        image: "assets/img/impact/innovation-social/meet-startup-eu.png",
         description:
-          "Yesterday was a whirlwind of impactful connections and learning at COP16 in Riyadh, Saudi Arabia. 🌍✨ I had the privilege of engaging with visionary changemakers and participating in two incredibly insightful sessions...",
-        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-innovation-activity-7272495805024890881-wgN2/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1f_ewN68u31epdhvkfwzoXb9yeyxvxsd1/view?usp=drive_link",
-      },
-      {
-        date: "December 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Fostering Collaboration for Global Land Restoration at COP16 Riyadh",
-        image: "assets/img/impact/innovation-social/Global Land Restoration at COP16 Riyadh.png",
-        description:
-          'I had the incredible opportunity to participate in the Science & Tech Session under the theme "Minds at the Heart of Land Regeneration" at the Business Lounge during COP16 in Riyadh, Saudi Arabia. I was also privileged to meet Dr. Muralee Thummarukudy, Director of the G20 Global Land Initiative, at the Restoration Pavilion.',
-        link: "https://www.linkedin.com/posts/lilanofficial_cop16-landregeneration-sustainability-activity-7271963527626518529-wIFY/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/16WynkQTedPb5hmipotlyhnO5fz7mjGYR/view?usp=drive_link",
+          "Had the pleasure of meeting with our Startup in EU 🇪🇺 Affiliate Director Moe Soliman based in Malta. We're currently engaged in comprehensive initiatives aimed at expanding innovative startups from the Global South into the European market. Our efforts encompass EU market analysis, incorporation strategy, regulatory compliance, partnership and networking, risk assessment, business planning, execution and oversight, as well as reporting and analysis. We're excited to open up new opportunities in Germany, France, the Netherlands, Malta, Spain, and other European countries.",
+        link: "https://www.linkedin.com/posts/lilanofficial_albania-andorra-austria-activity-7217271638893940737-OAVv?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ehXMctN0u0FNaoBsrjr5VPv62cVtEKbF/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.61",
-    title: "Addressing the Innovation Stage at the Restoration Pavilion in UNCCD COP16",
+    id: "3.40",
+    title: "Signing business agreements with Koperattivi Malta",
     slides: [
       {
-        date: "December 2024",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Showcasing ELZIAN AGRO: Driving Innovation for Sustainable Agriculture at COP16",
-        image:
-          "assets/img/impact/innovation-social/Driving Innovation for Sustainable Agriculture at COP16.png",
+        title: "Meeting with Koperattivi Malta",
+        image: "assets/img/impact/innovation-social/meet-malta.png",
         description:
-          "Excited to announce that I’ll be presenting ELZIAN AGRO today at the Innovation Stage at 2:00 PM! 🌿🚀 If you’re attending the UNCCD COP16, I’d love to connect. Join me at the Restoration Pavilion...",
-        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-innovation-activity-7272498843831705600-SqRn/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1uyJGH4JblkOKDnkdehcZgBwQ0tkeAaC5/view?usp=drive_link",
+          "I had the pleasure of meeting with Koperattivi Malta to discuss the economic potential of cooperatives in facilitating a sustainable transition to regenerative and precision agriculture for food security. I would like to express my appreciation to the Koperattivi Malta Team for their professional engagement and proactive interaction during our initial meeting.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7214649124418203648-XIK-?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/11o7XsjGepzcENmJNBPzgJTvog6aS2K8L/view?usp=drive_link",
       },
     ],
   },
   {
     filter: "filter-innovation-social",
-    id: "3.62",
-    title: "Addressing COP16 at the Science & Technology hosted at the Business4Land Lounge",
+    id: "3.39",
+    title: "Participating in the International Conference on Control, Decision and Information Technologies",
     slides: [
       {
-        date: "December 2024",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Kicking Off COP16: Showcasing ELZIAN AGRO and Championing Innovation for Land Regeneration",
-        image: "assets/img/impact/innovation-social/Kicking Off COP16.png",
-        description:
-          "Excited to share my ELZIAN AGRO experience kicking off COP16Riyadh at the Science & Technology Session under the theme Minds at the Heart of Land Regeneration, hosted at the Business4Land Lounge...",
-        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-landregeneration-activity-7274494785682350080-jbK8/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1fc-3eMD4uMaBP3_PUUCip9zcOcY5b9o9/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.63",
-    title:
-      "Addressing COP16 at the Session Regarding Business Perspectives on Access to Finance for Startups",
-    slides: [
-      {
-        date: "April 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "The official Restoration Pavilion COP16 Report",
-        image: "assets/img/impact/innovation-social/Restoration Pavilion COP16 Report.png",
-        description:
-          "Here is the official Restoration Pavilion COP16 Report. It was an honor to participate in an inspiring panel of extraordinary ecopreneurs from the Youth Ecopreneur Programme (YECO), run by the G20 Global Land Initiative and the International Trade Centre...",
-        link: "https://www.linkedin.com/posts/lilanofficial_g20-global-land-initiative-cop16-report-activity-7313159024831516675-mQTY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1qbMsiOT_1u5KwWhzOp9trjDu31tQZx6T/view?usp=drive_link",
-      },
-      {
-        date: "December 2024",
-        source_name: "ITC Ye! Community",
-        source_link: "https://www.linkedin.com/company/ye-community/posts/",
-        title: "YECO Entrepreneurs Spotlight Challenges and Opportunities at COP16",
-        image: "assets/img/impact/innovation-social/YECO Entrepreneurs Spotlight.png",
-        description:
-          "In a powerful session at #COP16Riyadh on ‘Financing the Future of Restoration: Business Perspectives on Access to Finance for start ups’, participants from the 2024 Ye! Youth Ecopreneur Programme (YECO) shared their journeys navigating the financial landscape for land-focused startups.",
-        link: "https://www.linkedin.com/posts/ye-community_cop16riyadh-youthecopreneurs-yecoatcop16-activity-7274388661834600448-Ggp6/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/13ip5lTcotET1Cv75ioEAfQGGIRqklOG8/view?usp=drive_link",
-      },
-      {
-        date: "December 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Empowering Ecopreneurs: Financing the Future of Restoration at COP16",
-        image: "assets/img/impact/innovation-social/Financing the Future of Restoration at COP16.png",
-        description:
-          "It was an honor to participate in an inspiring panel of extraordinary ecopreneurs from the Youth Ecopreneur Programme (YECO), run by the G20 Global Land Initiative and the International Trade Centre...",
-        link: "https://www.linkedin.com/posts/lilanofficial_cop16-sustainability-startup-activity-7276478265219788801-T04g/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1RcvGUgCrKJJCTuhiaoDix37KqFBoBiWR/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.64",
-    title:
-      "Showcasing Elzian-Agro-Aqua Innovation at Asia-Pacific Forum on Sustainable Development (APFSD) 2025",
-    slides: [
-      {
-        date: "March 24, 2025",
-        source_name: "News Asia",
-        source_link: "https://newsasia.lk/",
-        title: "Lilan Dayananda Showcases Elzian-Agro-Aqua Innovation at APFSD 2025",
-        image: "assets/img/impact/innovation-social/Lilan Dayananda Showcases Elzian Agro Aqua.jpg",
-        description:
-          "The 2025 Asia-Pacific Forum on Sustainable Development (APFSD) concluded last month, highlighting the pivotal role of youth in driving sustainable development across the region. Preceding the forum, the Youth Forum 2025 brought together...",
-        link: "https://newsasia.lk/lilan-dayananda-showcases-elzian-agro-aqua-innovation-at-apfsd-2025/",
-        backup_image: "https://drive.google.com/file/d/1tpBz1s91TnCzhtMH6masxPXKIlrPo9so/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.65",
-    title: "Visiting the World’s Largest Innovation Campus (T-Hub)",
-    slides: [
-      {
-        date: "April 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Visiting the World’s Largest Innovation Campus (T-Hub)",
-        image: "assets/img/impact/innovation-social/Largest Innovation Campus.png",
-        description:
-          "It was a great experience visiting the World’s Largest Innovation Campus (T-Hub) located in Hyderabad, India. T-Hub is a premier innovation hub and ecosystem enabler that empowers startups, corporations, and other stakeholders to foster innovation and drive economic growth...",
-        link: "https://www.linkedin.com/posts/lilanofficial_digital-technology-democracy-activity-7314937162959896577-cXSr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1XUeAXPyqqZGw16Cr9vfERX1-nopy4881/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.66",
-    title: "Visiting India’s Largest Prototyping Centre (T-Works)",
-    slides: [
-      {
-        date: "April 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Visiting India’s Largest Prototyping Centre (T-Works)",
-        image: "assets/img/impact/innovation-social/Largest Prototyping Centre.png",
-        description:
-          "The World Summit Awards (WSA) Global Congress was nothing short of inspiring! The fourth day was hosted at India’s largest prototyping centre (T-Works), the day was packed with powerful sessions and meaningful conversations around innovation, impact, and inclusivity. From enabling impact entrepreneurship to building future-ready ventures, here are some key highlights:",
-        link: "https://www.linkedin.com/posts/lilanofficial_wsa-impactentrepreneurship-socialinnovation-activity-7316739102857433089-j_zX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1TS-5tcrb9OZcnGOztil0Fn_BTAnR8uc8/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-innovation-social",
-    id: "3.67",
-    title: "Representing Elzian Agro at ChangeNow",
-    slides: [
-      {
-        date: "April 2025",
-        source_name: "G20 Global Land Initiative",
-        source_link: "https://www.instagram.com/g20landinitiative/",
         title:
-          "YECO Ecopreneurs Take the Stage: Showcasing Bold Solutions for a Climate-Resilient Future at COP16",
-        image: "assets/img/impact/innovation-social/YECO Ecopreneurs Take the Stage.png",
+          "Participating in the International Conference on Control, Decision and Information Technologies",
+        image: "assets/img/impact/innovation-social/international-conference.png",
         description:
-          "Four more YECO entrepreneurs are set to showcase their powerful, planet-positive solutions at the world’s leading event for sustainability and impact. 🌱💡",
-        link: "https://www.instagram.com/p/DIjMHfcJ_Gb/?igsh=MWQxcXN4OXFmZDUydw==",
-        backup_image: "https://drive.google.com/file/d/1cx9_DI8WoGhkfpZ4cjr9BqFXFXov_YBP/view?usp=sharing",
+          "It was a pleasure to participate in the international conference on Control, Decision and Information Technologies (CoDIT 2024) Valetta, Malta. Its purpose is to be a forum for technical exchange amongst scientists having interests in Control, Automation, Robotics, Optimization, Decision, Cybernetics, Computer Science and Information Technologies. This conference will provide a remarkable opportunity for the academic and industrial communities to address new challenges, share solutions and discuss future research directions. The technical program will include plenary lectures, regular technical sessions, and special sessions.",
+        link: "https://www.linkedin.com/posts/lilanofficial_technology-automation-science-activity-7213911719327252480-tiD9?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1LniG0XNFNhz2Rpyz3bXRxRXjl6gT9pyD/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.38",
+    title:
+      "Addressing the Ye! Community Learn and Connect Session organized by the International Trade Centre",
+    slides: [
+      {
+        date: "July 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Addressing the Ye! Community",
+        image: "assets/img/impact/innovation-social/address-ye-community.png",
+        description:
+          "It was a pleasure to contribute as a speaker for the recent Ye! Community Learn and Connect Session. These sessions, conducted every three months on the last Wednesday, are affiliated with the International Trade Centre and the Ye! Community.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-entrepreneurship-startups-activity-7211735366033137665-y7eh?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1jLQXEBJXIbs7u2exsv35mf-olGP6-660/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.37",
+    title: "Science Startup Founder at the Falling Walls Science Summit",
+    slides: [
+      {
+        date: "July 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Science Startup Founder at the Falling Walls Science Summit",
+        image: "assets/img/impact/innovation-social/science-startup-founder.png",
+        description:
+          "I am happy to be recognised as a finalist in the Science Startups category of the GlobalCall24 Falling Walls Foundation. This recognition brings me a step closer to the Science Breakthroughs of the Year, to be celebrated at the FallingWalls ScienceSummit24 from 7-9 November. Stay tuned for further updates.",
+        link: "https://www.linkedin.com/posts/lilanofficial_globalcall24-fallingwalls-sciencesummit24-activity-7207426507940536320-vuzw?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1sT_z9I2J7DyL6r91RQsspsMviZ78kK2t/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.36",
+    title: "Lilan's initiative (ELZIAN AGRO) Named Finalist in World Bank Youth Innovation Challenge",
+    slides: [
+      {
+        date: "May 24, 2024",
+        source_name: "Profit Magazine",
+        source_link: "https://profitmagazine.lk/",
+        title: "Elzian Agro Named Finalist in World Bank Youth Innovation Challenge",
+        image: "assets/img/impact/innovation-social/profit-magazine.png-bank-youth-innovation.png",
+        description:
+          "Elzian Agro, a precision agriculture company based in Sri Lanka, was selected as a finalist in the World Bank Youth Innovation Challenge under the category of water solutions for a new climate reality. Elzian Agro was selected among the top 40 finalists in the World Bank Youth Innovation Challenge. Their excellent innovation was chosen from over 1,600 registrations from 95 countries and more than 300 outstanding applications from 63 countries.",
+        link: "https://profitmagazine.lk/elzian-agro-named-finalist-in-world-bank-youth-innovation-challenge/",
+        backup_image: "https://drive.google.com/file/d/1h3GPavBoQl65C1CDDODf2K3nMuIcviW4/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.35",
+    title:
+      'Addressing the WSIS Forum High-Level Event, WSA session, titled "Youth Engagement Around WSIS Action Lines”',
+    slides: [
+      {
+        date: "May 2024",
+        source_name: "WSIS+20 Forum High-Level Event 2024",
+        source_link: "https://www.itu.int/net4/wsis/forum/2024/",
+        title: "Youth Engagement Around WSIS Action Lines",
+        image: "assets/img/impact/innovation-social/wsis-forum.png",
+        description:
+          'The WSIS Action Lines, outline steps to leverage information and communication technologies (ICTs) for sustainable development. The WSA  session titled "Youth Engagement Around WSIS Action Lines" focuses on the critical role young people play in advancing the Tunis agenda, specifically around action line C7.',
+        link: "https://www.itu.int/net4/wsis/forum/2024/Agenda/Session/185",
+        backup_image: "https://drive.google.com/file/d/1Xk0u5_hBzzeqT9lemhdHJ4G2TgYHxuBk/view?usp=drive_link",
       },
       {
-        date: "April 2025",
-        source_name: "ITC Ye! Community",
-        source_link: "https://www.linkedin.com/company/ye-community/posts/",
-        title: "YECO Stars Shine Bright: Youth Ecopreneurs Set to Lead at ChangeNOW 2025",
-        image: "assets/img/impact/innovation-social/YECO Stars Shine Bright.png",
+        date: "June 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          'Addressing the World Summit on the Information Society (WSIS) Forum High-Level Event, WSA session, titled "Youth Engagement Around WSIS Action Lines”',
+        image: "assets/img/impact/innovation-social/addressing-world-summit.png",
         description:
-          "🚀 They’re heading to ChangeNOW 2025 with ITC Ye! Community and G20 Global Land Initiative...",
-        link: "https://www.linkedin.com/posts/ye-community_youth-ecopreneurs-at-changenow-activity-7318654249721098240-rGRs?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1rgKhE0sfuzOdXUPuuj80mOeF9t8LvXIh/view?usp=sharing",
+          "It is a pleasure to contribute to the WSA session at the World Summit on the Information Society (WSIS Process) Forum High-Level Event in Geneva, Switzerland, co-hosted by the International...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-wsis-itu-activity-7200804008263917570-oDjz?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1vAQABH9UpS4AbVtsFJ7w4231995diOHn/view?usp=drive_link",
       },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.34",
+    title: "Addressing the Global Leadership Summit 2024",
+    slides: [
       {
-        date: "April 2025",
-        source_name: "G20 Global Land Initiative",
-        source_link: "https://www.linkedin.com/company/g20-global-land-initiative/posts/",
-        title: "YECO Stars Shine Bright: Youth Ecopreneurs Set to Lead at ChangeNOW 2025",
-        image: "assets/img/impact/innovation-social/YECO Stars Shine Bright-1.png",
+        date: "June 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Addressing the Global Leadership Summit 2024",
+        image: "assets/img/impact/innovation-social/global-leadership-summit.png",
         description:
-          "🚀 They’re heading to ChangeNOW 2025 with ITC Ye! Community and G20 Global Land Initiative...",
-        link: "https://www.linkedin.com/posts/g20-global-land-initiative_yecos-at-change-now-2025-part-2-activity-7318634350273568769-tmEh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1Q3XqXsoEcOobpzzud16Zi73OzYwwUNXv/view?usp=sharing",
+          "It is such a pleasure to address the Global Leadership Summit representing ELZIAN AGRO, which is taking place this coming week in partnership with - ForbesBLK, United Nations Association of the United States of America, UNDP , Youth4Climate, World Health Organization Partnership for Maternal and Child Health, Ye! Community - International Trade Centre, Partnership for the Goals - Goal17 Mentoring, Theirworld Global Youth Ambassadors, UNITE 2030, and Bolycthier .",
+        link: "https://www.linkedin.com/posts/lilanofficial_socialimpact-sdgs-youth-activity-7194714123773906944-hjFp?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/17G22K6hwWcKX5jgSb11FuN_xsNPUT5OP/view?usp=drive_link",
       },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.33",
+    title: "Lilan's social venture (Elzian Agro) as the finals of Food Tech Congress Challengers 2024",
+    slides: [
       {
-        date: "April 2025",
+        date: "July 2024",
         source_name: "Elzian Agro",
         source_link: "https://www.linkedin.com/company/elzianagro/posts/",
-        title: "ELZIAN AGRO at ChangeNOW: Showcasing Purpose-Driven Innovation on a Global Stage",
-        image: "assets/img/impact/innovation-social/ELZIAN AGRO at ChangeNOW.png",
+        title: "We are the finalists of Food Tech Challengers 2024",
+        image: "assets/img/impact/innovation-social/food-challengers.png",
         description:
-          "Our CEO, Lilan Dayananda is representing ELZIAN AGRO at ChangeNOW in Paris, France. ChangeNOW stands as a global stage for entrepreneurship dedicated to driving positive environmental and social impact...",
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:7318737327529291776",
-        backup_image: "https://drive.google.com/file/d/1etNCgxgNTBKPSgBplaWqJdPf3XA31gz3/view?usp=sharing",
+          "Big news! We're rocketing to the finals of Food Tech Challengers 2024! 🚀 Mark your calendars for May 28-29, 2024 (Warsaw, Poland) and come support us at the event as we will pitch on stage!",
+        link: "https://www.linkedin.com/posts/elzianagro_ftc2024-food-agriculture-activity-7194706426177466368-idki?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1IdvW4u2qlUfC07v53S8j34h-YmcWaSnV/view?usp=drive_link",
       },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.32",
+    title: "Ye! Youth Ecopreneur Program",
+    slides: [
       {
-        date: "April 2025",
+        date: "",
+        source_name: "Ye! Community",
+        source_link: "https://social.yecommunity.com/",
+        title: "Ye! Youth Ecopreneur Programme Participants",
+        image: "assets/img/impact/innovation-social/ye-community-participants.png",
+        description: "",
+        link: "https://social.yecommunity.com/page/faqs-1631efab-82fb-4014-8041-a196073bb453?lang=es",
+        backup_image: "https://drive.google.com/file/d/1Umi2ZbhlOz181YyMOICbXpmYtILLdRj4/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.31",
+    title: "Stanford Seed Programs",
+    slides: [
+      {
+        date: "May 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "ELZIAN AGRO at ChangeNOW Paris: Advancing Global Impact Through Bold Partnerships",
-        image: "assets/img/impact/innovation-social/ELZIAN AGRO at ChangeNOW Paris.png",
+        title: "The Seed Transformation Program",
+        image: "assets/img/impact/innovation-social/seed-transformation-program.png",
         description:
-          "Today, I’m at ChangeNOW in Paris, France; a gathering of 1,000 groundbreaking solutions and visionary leaders driving real climate action. Day 1 was nothing short of transformative...",
-        link: "https://www.linkedin.com/posts/lilanofficial_parisagreement-changenowhubs-changenow2025-activity-7321255023395393536-h41S?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/12uof71a2y6IZ8GamvbgPkqKG2t9wanBt/view?usp=sharing",
+          "The Seed Transformation Program caters specifically to established enterprises, offering a robust curriculum led by esteemed faculty from Stanford University Graduate School of Business and experienced advisors.",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-startup-business-activity-7192213003562328064-_9YK?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1q13ujulkkbA7Yi_-PHR1k-SS37W0sLY1/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.30",
+    title: "Ye! Youth Ecopreneur Programme",
+    slides: [
+      {
+        date: "May 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Proud to have been selected for #YECO 2024",
+        image: "assets/img/impact/innovation-social/YECO-selected.png",
+        description:
+          "Excited to share that I've been chosen for the Ye! Youth Ecopreneur Programme 2024 powered by the Ye! Community / International Trade Centre and G20 Global Land Initiative.",
+        link: "https://www.linkedin.com/posts/lilanofficial_yeco-yeco24-yeyouthecopreneur-activity-7188950771411890177-IIA9?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1kVVHmYHjsmPid_LO9NSiJzn-HltwHxiX/view?usp=drive_link",
+      },
+      {
+        date: "September 2024",
+        source_name: "Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Participant Feature #YECO 2024",
+        image: "assets/img/impact/innovation-social/youth-ecopreneur-programme.png",
+        description:
+          "Elzian Agro offers IoT monitoring systems and automation for efficient agricultural operations, supporting smallholder farmers with sustainable solutions.",
+        link: "https://www.linkedin.com/posts/ye-community_greeninnovation-youthecopreneurs-generationrestoration-activity-7229095428045090817-CjMe?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1QLaHGJAOKKY9AYkt3SrUwiLWllZapKQR/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.29",
+    title:
+      "TechRound has recognized ELZIAN AGRO (founded by Lilan) as one of the top 10 Sri Lankan startups that are worth keeping an eye on",
+    slides: [
+      {
+        date: "March 20, 2024",
+        source_name: "Tech Round",
+        source_link: "https://techround.co.uk/",
+        title: "10 Startups In Sri Lanka To Watch",
+        image: "assets/img/impact/innovation-social/ten-startup.png",
+        description:
+          "Sri Lanka, known for its incredible culture, amazing nature and kind people is also home to hundreds of startups. Here, we take a closer look at ten startups in Sri Lanka that are worth keeping an eye on.",
+        link: "https://techround.co.uk/startups/10-startups-in-sri-lanka-to-watch/",
+        backup_image: "https://drive.google.com/file/d/1ZzhEZ9FtOiUp0vEVogeqcbj-P4biE10g/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.28",
+    title: "Supporting the World Bank to layout Social Entrepreneurial Programs",
+    slides: [
+      {
+        date: "April 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Productive Discussion with Parmesh Shah on Sri Lankan Agricultural Challenges and Solutions",
+        image: "assets/img/impact/innovation-social/meet-parmesh-snah.png",
+        description:
+          "I had the pleasure of meeting Parmesh Shah, the Global Lead at the World Bank for Rural Development and Digital Agriculture, to discuss the challenges and potential solutions in the context of Sri Lankan agriculture. I would like to extend my appreciation to Sunil Madan, MPA for arranging the meeting.",
+        link: "https://www.linkedin.com/posts/lilanofficial_agriculture-climatechange-technology-activity-7174724751964139520-AT0L?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ikTbzLFleaS_Hd8CdBy_QAJRC5hC-x9h/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.27",
+    title: "UNLEASH Plus Accelerator 2023 in Rwanda",
+    slides: [
+      {
+        date: "January 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "UNLEASH Plus Accelerator 2023 in Rwanda",
+        image: "assets/img/impact/innovation-social/UNLEASH-rwanda.png",
+        description:
+          "A few weeks ago, I had the privilege to be part of the UNLEASH+ Accelerator Program in the land of the Thousand Hills, Kigali, Rwanda.",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdgs-unleash-startup-activity-7143356516790616064-P9h9?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1c0t87gdI4_dQfRqW1RZul1-wC7ab9t4y/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.26",
+    title: "UNLEASH Innovation Lab 2022 in India",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Certificate of Participation",
+        image: "assets/img/impact/innovation-social/UNLEASH-certificate.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-activity-7025044954561318912-zlpO?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1XrWkiNZ9Jj17BcE9fnqrtwU4bpEHVl_O/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.25",
+    title: "International Renewable Energy Agency (IRENA) NewGen Startup Accelerator for Sustainable Future",
+    slides: [
+      {
+        date: "January 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The conclusion of COP28 UAE",
+        image: "assets/img/impact/innovation-social/conclusion-linkedin.png",
+        description:
+          "The conclusion of COP28 UAE in the UAE stands as a timely reminder of the formidable climate challenges ahead, ones that have already touched us all. Amidst this awareness, however, lie significant victories that merit recognition.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-cop28-activity-7142878878489821184-MPbl?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/15ozN9_OaM4LYUNnfkSJKNM-N-g6yaw_9/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.24",
+    title: "Co-Founder of Founder Institute’s Fastest Growing Companies of 2023",
+    slides: [
+      {
+        date: "",
+        source_name: "Founder Institute",
+        source_link: "https://fi.co/",
+        title: "ELZIAN AGRO",
+        image: "assets/img/impact/innovation-social/fi-elzian-agro.png",
+        description:
+          "Elzian Agro provides smart agronomy solution to farmers that reduces their crop wastage. In 2023 it was honored with multiple national and global awards, including Expo City Dubai.",
+        link: "https://fi.co/50/elzian-agro",
+        backup_image: "https://drive.google.com/file/d/15n7NqyYgRK8kHJ6vyTw9QXmQ576UWH4R/view?usp=drive_link",
+      },
+      {
+        date: "December 2023",
+        source_name: "Founder Institute",
+        source_link: "https://www.linkedin.com/school/the-founder-institute/posts/",
+        title: "Discover Asia and Australia's fastest-growing startups in our latest FI50 Report!",
+        image: "assets/img/impact/innovation-social/founder-institute-growing-startup.png",
+        description:
+          "We're highlighting top startups from Asia and Australia in our global portfolio, showcasing their significant growth over the past year...",
+        link: "https://www.linkedin.com/posts/the-founder-institute_meet-our-top-10-startups-from-asia-and-australia-activity-7135713420305195008--lUS?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1KZbvOFKE_2Ilqq8jHbHhN8gPKLTP3A-3/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.23",
+    title: "Global HEY Climate Fund Finalist",
+    slides: [
+      {
+        date: "December 2, 2022",
+        source_name: "The HEY Campaign",
+        source_link: "https://www.instagram.com/wearehey/?e=09b4fc84-9ad2-409c-9066-24fe727070ec&g=5",
+        title: "Meet our Global HEY Climate Fund Finalist Lilan Dayananda of Sri Lanka",
+        image: "assets/img/impact/innovation-social/global-hey-instagram.png",
+        description:
+          "His project Earth Restoration LifeForce is the world's first Bio-Currency. As the leading technology partner for the International Analog Forestry Network, this group has analyzed decades (40 years) of data and built a correlation for our methodology to quantify the human contribution for Oxygen production and clean water cycling to the atmosphere with the help from international and local scientists and experts in Forestry, Analog forestry, Agroforestry, and regenerative farming.",
+        link: "https://www.instagram.com/p/ClpA9wNyxXi/?utm_source=ig_web_copy_link",
+        backup_image: "https://drive.google.com/file/d/1LVt7qCsjoO2YB3VlP19DieLcvkuUoByb/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.22",
+    title: "Global Entrepreneurship Week",
+    slides: [
+      {
+        date: "December 2023",
+        source_name: "Spiralation",
+        source_link: "https://www.linkedin.com/company/spiralation/posts/",
+        title: "Celebrating Entrepreneurs Worldwide",
+        image: "assets/img/impact/innovation-social/spiralation.png",
+        description:
+          "Embrace the chaos, celebrate the victories, and dance to the rhythm of your own entrepreneurial journey. Here's to the Mavericks making waves!",
+        link: "https://www.linkedin.com/posts/spiralation_gew2023-gewsrilanka-entrepreneurship-activity-7130809037218086912-iJCi/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1es2l-ldOcCXTGb51oAVK0ef50-l_22gM/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.21",
+    title: "Fuelling the Digital Economy through the INFOTEL ICT Exhibition",
+    slides: [
+      {
+        date: "December 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "INFOTEL 2023 ICT Exhibition",
+        image: "assets/img/impact/innovation-social/INFOTEL-exhibition.png",
+        description:
+          "INFOTEL 2023 ICT Exhibition, organised by the Federation of Information Technology Industry Sri Lanka (FITIS), themed ‘Fuelling the Digital Economy, will focus on key areas of the digital economy to support the economy through intelligent and modern technology. The exhibition will also cover digital government, smart education, smart health solutions, cyber security, agritech, artificial intelligence (AI), smart cities, green energy, and others.",
+        link: "https://www.linkedin.com/posts/lilanofficial_informationtechnology-informationsecurity-activity-7127235218385637376-lJtI/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1hDJc2R0gdoUM0rUj2rh3KqQMjimFIiSB/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.20",
+    title: "Stanford Seed Spark Mentorship",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "Grateful for the Journey with Stanford Seed",
+        image: "assets/img/impact/innovation-social/great-journey-elzian-agro.png",
+        description:
+          "Grateful for the incredible journey of growth and learning through the Stanford Seed. 🚀 We had the privilege of meeting our Stanford Seed Spark mentor, Mr. PN Subramanian, who has been an invaluable guide on this entrepreneurial adventure. 🌟",
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:7127087911107268608/",
+        backup_image: "https://drive.google.com/file/d/10s1lnSvCbsFvIau5RXdHz9Ke2wSTMTya/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.19",
+    title: "European Council for Nuclear Research (CERN)",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "CERN Laboratory",
+        image: "assets/img/impact/innovation-social/CERN-laboratory.png",
+        description:
+          "Founded in 1954, the CERN laboratory sits astride the Franco-Swiss border near Geneva. It was one of Europe's first joint ventures. At CERN, the European Organization for Nuclear Research, physicists and engineers are probing the fundamental structure of the universe. They use the world's largest and most complex scientific instruments to study the basic constituents of matter the fundamental particles. The particles are made to collide together at close to the speed of light. The process gives the physicists clues about how the particles interact, and provides insights into the fundamental laws of nature.",
+        link: "https://www.linkedin.com/posts/lilanofficial_cern-nuclear-nuclearenergy-activity-7123375218328289280-dw55?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1j7or0i5wYUnGtbkXNkQ-8Eb2tGea7mTI/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.18",
+    title: "News First Media",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "News First Media",
+        source_link: "https://www.youtube.com/@newsfirst.english",
+        title: "Introducing Bio Currency to the world",
+        image: "assets/img/impact/innovation-social/news-first-media-bio-currency.png",
+        description: "",
+        link: "https://www.youtube.com/watch?v=E1NJ7B2fbpQ&ab_channel=NewsfirstEnglish",
+        backup_image: "https://drive.google.com/file/d/1wzQaLB3_MrpWDfPD-FiYGtbZ7xYoCPLm/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.17",
+    title: "Business Café",
+    slides: [
+      {
+        date: "June 29, 2023",
+        source_name: "Business Café",
+        source_link: "https://businesscafe.lk/",
+        title: "ELZIAN AGRO Secures Innovation Grant in Expo Live Innovation Programme",
+        image: "assets/img/impact/innovation-social/business-cafe-agri-solution.png",
+        description:
+          "Businesscafe - ELZIAN AGRO, a leading agricultural solutions company, has made waves in the industry by emerging as one of the top finalists in the fiercely competitive Expo City Dubai ExpoLive Innovation Programme in June 2023.",
+        link: "https://businesscafe.lk/business-news/food-beverage/item/12854-elzian-agro-secures-innovation-grant-in-expo-live-innovation-programme",
+        backup_image: "https://drive.google.com/file/d/1ls5yIytZxDJzLwp-bk9ZxOOnMKQrc6c9/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.16",
+    title: "Lanka News Network",
+    slides: [
+      {
+        date: "July 6, 2023",
+        source_name: "Lanka News Network",
+        source_link: "https://english.lankanewsnetwork.com/",
+        title: "ELZIAN AGRO is Igniting a Technological Revolution in Agriculture",
+        image: "assets/img/impact/innovation-social/lanka-news-network-technology.png",
+        description:
+          "ELZIAN AGRO soared to new heights, claiming the prestigious title of National Winner in the category of Best Disruptive Product Innovation. Their transformative product has revolutionized traditional agricultural practices, leaving an indelible mark on the industry. By pushing boundaries and introducing cutting-edge technologies, ELZIAN AGRO has redefined the possibilities within farming. Their groundbreaking solutions have elevated efficiency, productivity, and sustainability to unprecedented levels.",
+        link: "http://english.lankanewsnetwork.com/?p=147",
+        backup_image: "https://drive.google.com/file/d/15wodGnpV79NPFOFStwuXYneLyvGbIYFS/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.15",
+    title: "News Asia",
+    slides: [
+      {
+        date: "July 5, 2023",
+        source_name: "News Asia",
+        source_link: "https://newsasia.lk/",
+        title: "ELZIAN AGRO Honored as Top Selected Finalist in Dubai’s Expo Live Innovation Programme",
+        image: "assets/img/impact/innovation-social/news-asia-expo-live.png",
+        description:
+          "ELZIAN AGRO, a leading agricultural solutions company, has achieved a remarkable feat by emerging as one of the top finalists in the highly competitive Expo City Dubai ExpoLive Innovation Programme in June 2023. This prestigious recognition comes after an intensive selection process that saw thousands of applicants from 123 countries vying for the honor.",
+        link: "https://newsasia.lk/elzian-agro-honored-as-top-selected-finalist-in-dubais-expo-live-innovation-programme/",
+        backup_image: "https://drive.google.com/file/d/1jLJO5WY_NRuW2OBJfRauViOhXwWXjQDX/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.14",
+    title: "Biz Report",
+    slides: [
+      {
+        date: "July 4, 2023",
+        source_name: "Biz Report",
+        source_link: "https://english.bizreport.lk/",
+        title: "ELZIAN AGRO’s Extraordinary Achievement in Expo City Dubai’s Innovation Programme",
+        image: "assets/img/impact/innovation-social/biz-report-expo-live.png",
+        description:
+          "ELZIAN AGRO, the trailblazing agricultural solutions company, has emerged as one of the top finalists in the fiercely competitive Expo City Dubai ExpoLive Innovation Programme. The announcement, made on the 28th of June 2023, has catapulted ELZIAN AGRO to new heights, solidifying their position as an innovator committed to a sustainable and transformative future.",
+        link: "https://english.bizreport.lk/elzian-agros-extraordinary-achievement-in-expo-city-dubais-innovation-programme/",
+        backup_image: "https://drive.google.com/file/d/13eHlzGCh0CL44B999ZCEbrdsggCw4IPF/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.13",
+    title: "Lanka News Network",
+    slides: [
+      {
+        date: "July 9, 2023",
+        source_name: "Lanka News Network",
+        source_link: "https://english.lankanewsnetwork.com/",
+        title: "ELZIAN AGRO, A Rising Star in Dubai’s Expo Live Innovation Program",
+        image: "assets/img/impact/innovation-social/lanka-news-network-elzian-agro.png",
+        description:
+          "ELZIAN AGRO, a prominent player in the agricultural solutions sector, has achieved an extraordinary feat by securing a coveted spot as one of the top finalists in the highly competitive Expo City Dubai ExpoLive Innovation Programme. The announcement, made on June 28th, 2023, is a testament to ELZIAN AGRO’s unwavering commitment to driving innovation and sustainability in the industry.",
+        link: "https://english.lankanewsnetwork.com/?p=160",
+        backup_image: "https://drive.google.com/file/d/1KdbNDilEaRltIRzATIqK4nseUrz9E8_X/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.12",
+    title: "Ceylon Tribune",
+    slides: [
+      {
+        date: "July 9, 2023",
+        source_name: "Ceylon Tribune",
+        source_link: "https://ceylontribune.com/",
+        title: "ELZIAN AGRO, A Rising Star in Dubai’s Expo Live Innovation Program",
+        image: "assets/img/impact/innovation-social/ceylon-tribune-expo-live.png",
+        description:
+          "ELZIAN AGRO, a prominent player in the agricultural solutions sector, has achieved an extraordinary feat by securing a coveted spot as one of the top finalists in the highly competitive Expo City Dubai ExpoLive Innovation Programme. The announcement, made on June 28th, 2023, is a testament to ELZIAN AGRO’s unwavering commitment to driving innovation and sustainability in the industry.",
+        link: "http://ceylontribune.com/?p=243",
+        backup_image: "https://drive.google.com/file/d/1FzoV0pzLKykFeT9syIqbuqokqlU7TRpq/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.11",
+    title: "Expo Live Innovation",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "",
+        source_link: "",
+        title: "Expo Live Present",
+        image: "assets/img/impact/innovation-social/expo-live-present.png",
+        description: "",
+        link: "https://drive.google.com/file/d/1FoF2CpQJB0w6DsxZPMyMKeko160hbtHv/view",
+        backup_image: "https://drive.google.com/file/d/1rAI90USULpQ_Hs_rnqWLumqL6U9V3CCG/view?usp=drive_link",
+      },
+      {
+        date: "November 2023",
+        source_name: "Elzian Agro",
+        source_link: "https://www.linkedin.com/company/elzianagro/posts/",
+        title: "ELZIAN AGRO Named Top Finalist in Expo City Dubai's Expo Live Innovation Programme",
+        image: "assets/img/impact/innovation-social/expo-live-innovation-programme.png",
+        description:
+          "We are thrilled and deeply privileged to announce that ELZIAN AGRO has emerged as one of the top finalists in the highly competitive Expo City Dubai ExpoLive Innovation Programme held in Dubai. This remarkable achievement comes after a rigorous selection process that involved over thousands of applicants from 123 countries.",
+        link: "https://www.linkedin.com/posts/elzianagro_expolive-terra-expocitydubai-activity-7065784154159775744-rBK-/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1lWkH0AQNJxqsJpRZ8SL2PEK5gljQWpZA/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.10",
+    title:
+      "Lanka Business News: Elzian Agro is Championing Innovation and Impact in Precision Agriculture Technology",
+    slides: [
+      {
+        date: "June 30, 2023",
+        source_name: "Lanka Business News",
+        source_link: "https://www.lankabusinessnews.com/",
+        title: "ELZIAN AGRO is Championing Innovation and impact in Precision Agriculture Technology",
+        image: "assets/img/impact/innovation-social/championing-innovation.png",
+        description:
+          "ELZIAN AGRO, a trailblazer in the field agricultural technology, emerged as a shining star at the prestigious SLASSCOM National Ingenuity Awards 2023. The event, which celebrated groundbreaking innovation and exceptional achievements in the tech industry...",
+        link: "https://www.lankabusinessnews.com/elzian-agro-is-championing-innovation-and-impact-in-precision-agriculture-technology/",
+        backup_image: "https://drive.google.com/file/d/1dNs4j9-eg8sBNotcg_v-rGlsM3HuK5JG/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.8",
+    title: "Recognition from EXPO CITY DUBAI for the Impact and Reach through Elzian Agro",
+    slides: [
+      {
+        date: "",
+        source_name: "Expo City Dubai",
+        source_link: "https://www.expocitydubai.com/en/",
+        title: "ELZIAN AGRO",
+        image: "assets/img/impact/innovation-social/expo-city-dubai-recognition.png",
+        description:
+          "Established in 2021, ELZIAN AGRO aims to improve the lives of communities through a data-driven digitalized agricultural system, harnessing technologies such IoT, AI, ML, GIS and Blockchain, to provide effective, sustainable solutions to end hunger in all its forms. Their validated (patent-pending) IoT-enabled monitoring devices allow farmers to monitor soil and liquid composition in real-time, predict issues before they happen and make informed decisions to optimize crop yields, while quantifying farmers’ contribution to the primary ecosystem services. ELZIAN AGRO have reached 100,000+ farmers with their awareness campaign.",
+        link: "https://www.expocitydubai.com/en/global-innovators/elzian-agro",
+        backup_image: "https://drive.google.com/file/d/1SKvl2mjpbDMdk3Oe_r8lpmgTwpvDNbog/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.7",
+    title:
+      "Daily FT: Elzian Agro becomes one of top finalists in Expo City Dubai ExpoLive Innovation Program",
+    slides: [
+      {
+        date: "July 14, 2023",
+        source_name: "Daily FT",
+        source_link: "https://www.ft.lk/",
+        title: "Elzian Agro becomes one of top finalists in Expo City Dubai ExpoLive Innovation Program",
+        image: "assets/img/impact/innovation-social/expoLive-innovation-program-daily-ft.png",
+        description:
+          "Elzian Agro, a leading agricultural solutions company, was recognised as one of the top finalists in the prestigious Expo City Dubai ExpoLive Innovation Program...",
+        link: "https://www.ft.lk/sectors/Elzian-Agro-becomes-one-of-top-finalists-in-Expo-City-Dubai-ExpoLive-Innovation-Program/20-750577",
+        backup_image: "https://drive.google.com/file/d/1w5Xlq2CXBmsL67uT4cY3u-9qqeoEnypN/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.6",
+    title: "Dubai Expo Live Innovation Program",
+    slides: [
+      {
+        date: "",
+        source_name: "Expo City Dubai",
+        source_link: "https://www.expocitydubai.com/en/",
+        title: "ELZIAN AGRO",
+        image: "assets/img/impact/innovation-social/dubai-expo-live.png",
+        description:
+          "Established in 2021, ELZIAN AGRO aims to improve the lives of communities through a data-driven digitalized agricultural system, harnessing technologies such IoT, AI, ML, GIS and Blockchain, to provide effective, sustainable solutions to end hunger in all its forms. Their validated (patent-pending) IoT-enabled monitoring devices allow farmers to monitor soil and liquid composition in real-time, predict issues before they happen and make informed decisions to optimize crop yields, while quantifying farmers’ contribution to the primary ecosystem services. ELZIAN AGRO have reached 100,000+ farmers with their awareness campaign.",
+        link: "https://www.expocitydubai.com/en/global-innovators/elzian-agro/",
+        backup_image: "https://drive.google.com/file/d/1ETshxrPh5LlqJOqt0Q2kmdTu2bXr9x6D/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.5",
+    title: "Co-Founder & Managing Director of Earth Restoration Incorporation",
+    slides: [
+      {
+        date: "",
+        source_name: "Earth Restoration",
+        source_link: "https://restore.earth/",
+        title: "Earth Restoration Incorporation",
+        image: "assets/img/impact/innovation-social/earth-restoration-incorporation.png",
+        description:
+          "Earth Restoration is a company that designs Adaptive Resilient Ecosystem Areas (AREAs) that are useful for humans and the planet. JOIN US!",
+        link: "https://restore.earth/",
+        backup_image: "https://drive.google.com/file/d/1m3Ix03jQQEBGCC8nDOXUj_v0qRyrFYMp/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.4",
+    title: "Resolution Project Guide & Mentor",
+    slides: [
+      {
+        date: "",
+        source_name: "Resolution Project",
+        source_link: "https://resolutionproject.org/",
+        title: "Lilan Dayananda",
+        image: "assets/img/impact/innovation-social/resolution-project.png",
+        description:
+          "Lilan Dayananda is an international award-winning youth social tech entrepreneur. Lilan is among the latest top ten Social Entrepreneurs of the Global-South by the United Nations Youth Envoy’s Office, United Nations Population Fund (UNFPA), International Telecommunication Union (ITU), and UNDP Youth Co: Lab.",
+        link: "https://resolutionproject.org/team/lilan-dayananda/",
+        backup_image: "https://drive.google.com/file/d/1c_gHvTlAIy1u3nXPd_XEDjTUYLKhsJaO/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.3",
+    title: "Guest Speaker for Business Segment of Vidulakara TV",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Guest Speaker for Business Segment of Vidulakara TV",
+        image: "assets/img/impact/innovation-social/vidulakara-uok.png",
+        description:
+          "I am grateful to the Office of the Vice-Chancellor, Senior Professor Nilanthi de Silva (Vice Chancellor of the University of Kelaniya Sri Lanka), and the Communication and Media Unit for the invitation to participate in the Business Segment of Vidulakara TV. My sincere thanks also to Senior Lecturer Saman Rajapaksha (Director of the Media Unit), for his involvement. A special appreciation goes to Banuka Karunarathna from TV Derana for leading the session with such engaging interaction.",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-business-insights-activity-7228383979157041152-xc_g/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1YNhFRlvnT1KQOXXuNE6PBeDTuHlmReTn/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.2",
+    title:
+      "Involve in Earth Observation Visualizations and Sustainable Lunar Activities at the International Atomic Energy Agency",
+    slides: [
+      {
+        date: "July 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Cooperative Remediation and Sustainable Lunar Activities at UNOOSA Conference",
+        image: "assets/img/impact/innovation-social/exploring-cooperative-remediation.png",
+        description:
+          "Yesterday was productive as I explored the process and principles for cooperative remediation of massive derelicts. Today, I'm eager to dive into more information on Earth Observation Visualizations, a side event organized by the United States. Additionally, I look forward to reflecting on the United Nations Office for Outer Space Affairs (UNOOSA) Conference on Sustainable Lunar Activities, Priorities, and Capacity Building. This joint side event is co-organized by the Secure World Foundation (SWF) and the Lunar Policy Platform (LPP), with support from the Republic of Korea.",
+        link: "https://www.linkedin.com/posts/lilanofficial_space-peace-food-activity-7211298002626351104-21-A/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1xygu87qnriYpzwSZfuTP0RvfJb-0v__t/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.1",
+    title: "Founder & Managing Director of Elzian Agro Incorporation",
+    slides: [
+      {
+        date: "",
+        source_name: "Elzian Agro",
+        source_link: "https://agro.elzian.com/index.html",
+        title: "About Elzian Agro",
+        image: "assets/img/impact/innovation-social/elzian-agro-page.png",
+        description:
+          "ELZIAN AGRO provides smart agronomy solutions to support mass cultivation farmers to monitor and automate their farmland. We offer customized monitoring information and automation solutions through trending digital technologies to optimize our customers' harvest and productively utilize their resources. According to United Nations Sustainable Reports, farmers negatively impact due to extreme weather changes and limited resources.",
+        link: "https://agro.elzian.com/about",
+        backup_image: "https://drive.google.com/file/d/1kh3iKdOu4EfZ84EsWa9gJ2drXGJV9bdR/view?usp=drive_link",
+      },
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Precision Agriculture",
+        image: "assets/img/impact/innovation-social/precision-agriculture-linkedin.png",
+        description:
+          "Precision agriculture companies are at the forefront of revolutionizing the way we produce food. They use cutting-edge technology, such as drones, sensors, and artificial intelligence, to gather data that can help farmers make informed decisions about their crops. However, despite their advanced technology, precision agriculture companies should not be afraid to get their hands dirty, or, more accurately, their office suits.",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-data-activity-7051952614443270144-NItR/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1SEPnnGnIyyaOYSrAAamPcHURQjy-9kfh/view?usp=drive_link",
       },
     ],
   },
