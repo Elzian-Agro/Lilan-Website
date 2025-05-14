@@ -5,7 +5,7 @@ const recommendations = [
     position: "Co-founder and Director",
     company: "Centre for Gender And Politics",
     relationship: "Akhil worked with Lilan but on different teams",
-    image: "assets/img/recommendation/avatar.png",
+    image: "assets/img/recommendation/Akhil Neelam.jpg",
     linkedin: "https://www.linkedin.com/in/akhilneelam/",
     recommendation:
       "I had the pleasure of meeting Lilan at the APFSD Youth Forum in Bangkok, where his exceptional networking abilities and genuine passion for social impact immediately stood out. \n\n What impressed me most was Lilan's remarkable ability to connect people and ideas. Within hours of our first conversation about gender equality and technology in South Asia, he had thoughtfully introduced me to several professionals in my field, demonstrating his talent for recognizing synergies and creating value through relationships.\n\n Lilan embodies the rare combination of technological expertise, entrepreneurial drive, and social consciousness. His productivity and effectiveness in navigating complex innovation ecosystems while maintaining a focus on real-world impact are truly admirable.",
@@ -915,7 +915,7 @@ const recommendations = [
     position: "Lecturer (Probationary)",
     company: "University of Kelaniya",
     relationship: "Subhanie was Lilan’s mentor",
-    image: "assets/img/recommendation/avatar.png",
+    image: "assets/img/recommendation/Subhanie Tennekoon.jpg",
     linkedin: "https://www.linkedin.com/in/subhanie-tennekoon/",
     recommendation:
       "I’ve been knowing Lilan since 2016 and one of the most striking skills of Lilan that I noted was his proficiency and analytical skills in terms of softwares such as SPSS, eViews, MYOB etc. He has the ability to quickly learn and do a comprehensive analysis especially in terms of financial econometric models. Further, he’s very helpful for his peers and helps them understand many of the complex analytical tools using his knowledge. I wish him all the best for his future endeavors.",
