@@ -1,7 +1,7 @@
 const impacts = [
   {
     filter: "filter-recognition",
-    id: "1.13",
+    id: "1.14",
     title: "Moonshot Awards - Global Connector Winner 2024",
     slides: [
       {
@@ -14,6 +14,24 @@ const impacts = [
           "I had an incredible time last night at the Moonshot Awards in Chelsea, Manhattan! 🌟 The Moonshot Platform does more than just support projects; it is committed to fostering the personal growth of young leaders...",
         link: "https://www.linkedin.com/posts/lilanofficial_moonshotawards-leadership-entrepreneurship-activity-7271194508740993024-SHlB?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/12jxo9ZjLDcRNNAct3-BvQnD_Gzaowv1u/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-recognition",
+    id: "1.13",
+    title: "One Young World Manchester Leaderboard Winner",
+    slides: [
+      {
+        date: "May 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Ranked #1 at OYW Manchester 2022 – Grateful and Inspired",
+        image: "assets/img/impact/recognition/one-young-world-manchester/OYW Manchester 2022.png",
+        description:
+          "It was a pleasure to be ranked number 1 at OYW Manchester Summit 2022! Thank you to One Young World for allowing me to be a part of this extraordinary, global gathering of young leaders at Manchester Central last week.",
+        link: "https://www.linkedin.com/posts/lilanofficial_it-was-a-pleasure-to-be-ranked-number-1-at-activity-6976216251329126400-Wryt?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Mlcp0yNHmji40pWc7D6EExUW9OwazXlc/view?usp=sharing",
       },
     ],
   },
@@ -904,6 +922,17 @@ const impacts = [
           "The Blue Planet Global Ambassador Program was launched during the 2022 Our Oceans Conference in Palau to honor and empower young people from the ages of 16 to 30 to help spread our mission globally. Through the program, Blue Planet Alliance is building a network of youth advocates dedicated to engaging in global activism to make their communities — and the world as a whole — a better place. Specifically, our Ambassadors are helping us in our mission to lead every island nation — and countries across the globe — transition away from dirty energy and to 100% renewable energy by 2045.",
         link: "https://blueplanetalliance.org/globalambassadorprogram",
         backup_image: "https://drive.google.com/file/d/1VtR7VjNdxNjMrxMVh0bSbTTBWq3ElGIv/view?usp=drive_link",
+      },
+      {
+        date: "May 2025",
+        source_name: "Emilie McGlone",
+        source_link: "https://www.linkedin.com/in/emilie-mcglone/",
+        title: "Collaborating for a Sustainable Future at the United Nations",
+        image: "assets/img/impact/membership/Sustainable Future at the United Nations.png",
+        description:
+          "This week at the United Nations we had the honor to present alongside government leaders, civil society partners and youth who are creating innovative solutions for a more sustainable future...",
+        link: "https://www.linkedin.com/posts/emilie-mcglone_unitednations-newyork-headquarters-activity-7326414463182528512-NAyf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QwMFZF__agXOOjBLsT810uVC4FCzxU_E/view?usp=sharing",
       },
       {
         date: "August 2024",
