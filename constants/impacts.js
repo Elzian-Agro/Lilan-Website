@@ -554,7 +554,7 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/15BxtWuXoDmCEpJM9T5YtDhpynYGwDtSJ/view?usp=drive_link",
       },
       {
-        date: "May, 29, 2024",
+        date: "May 29, 2024",
         source_name: "Ada Derana",
         source_link: "https://bizenglish.adaderana.lk/",
         title: "Sri Lankan Entrepreneur Lilan Dayananda in Forbes “30 Under 30 Asia” List",
@@ -569,7 +569,112 @@ const impacts = [
 
   {
     filter: "filter-membership",
+    id: "2.31",
+    title: "Impact Toolbox: Youth In Development (YID) Fellow",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Excited to Join the 2025 Youth In Development Fellowship by Impact Toolbox!",
+        image: "assets/img/impact/membership/Fellowship by Impact Toolbox.png",
+        description:
+          "Thrilled to share that I’ve been selected for the 2025 Youth In Development (YID) Fellowship Program powered by Impact Toolbox🎉. This transformative initiative empowers young changemakers with critical skills, mentorship, and growth opportunities to drive meaningful impact in their communities and beyond...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youthindevelopment-fellowship-leadership-activity-7328172332068274177-HIOO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/17VHyt4R0_keYWfHklpdZ0-lw4yxNHr32/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "Impact Toolbox",
+        source_link: "https://www.linkedin.com/company/impacttoolbox/posts/",
+        title: "Celebrating Changemakers: 2025 Youth In Development Fellowship Kicks Off with Impact!",
+        image: "assets/img/impact/membership/Celebrating Changemakers.png",
+        description:
+          "This year’s Youth In Development Fellowship cohort is already brimming with powerful ideas and proven action. 🙌",
+        link: "https://www.linkedin.com/posts/impacttoolbox_youthindevelopment-fellowship-leadership-activity-7328374563501723648-H6Pl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/144UN3jlZBaceEKmOyMWaow1sBt1LCWFN/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.30",
+    title: "One Young World (OYW) Ambassador",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "One Young World",
+        source_link: "https://www.oneyoungworld.com/",
+        title: "Ambassador Spotlight: April 2025",
+        image: "assets/img/impact/membership/Ambassador Spotlight.png",
+        description:
+          "One Young World Ambassadors are leading projects in every country of the world, creating substantial social impact across all 17 Sustainable Development Goals. Every month our Coordinating Ambassadors select someone from their region who has created significant social impact locally, regionally or even worldwide.",
+        link: "https://www.oneyoungworld.com/news-items/ambassador-spotlight-april-2025",
+        backup_image: "https://drive.google.com/file/d/1eQXnKdh3UjVQT8hnN5AJgDT9XEKXxmhg/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "One Young World",
+        source_link: "https://www.instagram.com/oneyoungworld/",
+        title: "Introducing The NewNow Leaders 2025",
+        image: "assets/img/impact/membership/NewNow Leaders 2025.png",
+        description:
+          "We are proud to partner with Virgin Unite to create the NewNow Programme and support 10 outstanding young leaders by providing them with resources and platforms to accelerate their impact on a global scale...",
+        link: "https://www.instagram.com/p/DH6UJU9Opz3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        backup_image: "https://drive.google.com/file/d/1suzhnO8U_Zn_IyUXMyLVQmb5RUrM-BxN/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "One Young World",
+        source_link: "https://www.linkedin.com/company/one-young-world/posts/",
+        title: "France Forum: Advancing Ethical AI and Inclusive Innovation with L'Oréal",
+        image: "assets/img/impact/membership/France Forum.png",
+        description:
+          "Last week were hosted at L'Oréal’s office in Paris where we held our first annual France Forum. The event brought together Ambassadors and partners to explore one of the most pressing topics: responsible technology and artificial intelligence...",
+        link: "https://www.linkedin.com/posts/one-young-world_oyw25-event-partnership-activity-7327787248404373504-1asT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1C_13O_YMIjaRijh67hhNMsBsr8BS6bv7/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.29",
+    title: "G20 Global Land Initiative Member",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.linkedin.com/company/g20-global-land-initiative/posts/",
+        title: "From Local Impact to Global Stage: YECO’s Lilan Dayananda Speaks on Inclusive AI at the UN",
+        image: "assets/img/impact/membership/YECO’s Lilan Dayananda Speaks.png",
+        description:
+          "From land restoration to AI for impact — our YECOs are leading globally. We’re proud to share that Lilan Dayananda, a member of the Youth Ecopreneur Programme (YECO), spoke at the STI Forum held at the United Nations Headquarters in New York...",
+        link: "https://www.linkedin.com/posts/g20-global-land-initiative_yeco-stiforum-un-activity-7327227872845168641-nZ0n?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Yqs4cARogElRQjx5QQB05ToXf1OAcQgP/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
     id: "2.28",
+    title: "International Trade Centre: YE! Community Member",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Change at ChangeNOW: Youth, Innovation & Sustainability",
+        image: "assets/img/impact/membership/Empowering Change at ChangeNOW.png",
+        description:
+          "ChangeNOW in Paris left me hopeful, motivated, and more connected than ever! Honored to represent the Youth Ecopreneur Program, powered by the International Trade Centre (ITC) and the G20 Global Land Initiative. Being among 40,000+ passionate changemakers was a powerful reminder: we’re not alone in the fight for a sustainable future...",
+        link: "https://www.linkedin.com/posts/lilanofficial_changenow-youth-sustainability-activity-7325356902287044608-cmpq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1WYgahQtTWuObuD5I2280_mUPgje8v-fl/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.27",
     title: "WYSE International: Global Change Maker",
     slides: [
       {
@@ -587,7 +692,7 @@ const impacts = [
   },
   {
     filter: "filter-membership",
-    id: "2.27",
+    id: "2.26",
     title: "Moonshot Young Leader",
     slides: [
       {
@@ -610,24 +715,6 @@ const impacts = [
         description: "It is such a pleasure to be a Moonshot Young Leader.",
         link: "https://www.linkedin.com/posts/lilanofficial_startup-entrepreneurship-business-activity-7214291806371426306-pPuE/?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1XNkMChZ4B-DYYINRVdTL4XiwtdlzMbKK/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-membership",
-    id: "2.26",
-    title: "One Young World Leader Board",
-    slides: [
-      {
-        date: "November 2022",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Honored to Be Ranked number 1 at the One Young World Manchester Summit 2022",
-        image: "assets/img/impact/membership/OYW-manchester-summit.png",
-        description:
-          "It was a pleasure to be ranked number 1 at OYW Manchester Summit 2022! Thank you to One Young World for allowing me to be a part of this extraordinary, global gathering of young leaders...",
-        link: "https://www.linkedin.com/posts/lilanofficial_it-was-a-pleasure-to-be-ranked-number-1-at-activity-6976216251329126400-Wryt/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1xWZ77TPTAU6oN-aoRRXsx5nCthCaBG_e/view?usp=drive_link",
       },
     ],
   },
@@ -667,15 +754,13 @@ const impacts = [
       },
       {
         date: "June 3, 2024",
-        source_name: "gendem.iri",
+        source_name: "Generation Democracy",
         source_link: "https://www.instagram.com/gendem.iri/",
         title: "Generation Democracy Success Story: Lilan Dayananda Empowers Through Innovation",
-        source_name: "gendem.iri",
         image: "assets/img/impact/membership/gendem.iri.png",
         description:
           "Lilan Dayananda, a social tech entrepreneur from Sri Lanka and a member of the @iriglobal Generation Democracy Network, is making waves in the agricultural sector. As the co-founder...",
         link: "https://www.instagram.com/p/C7vwGZnKNVm/",
-        source_name: "gendem.iri",
         backup_image: "https://drive.google.com/file/d/1e5ZOK4Yz-TdrgFrTjbN_p5TE-NVmpLw8/view?usp=drive_link",
       },
       {
@@ -713,7 +798,7 @@ const impacts = [
   {
     filter: "filter-membership",
     id: "2.22",
-    title: "Clinton Global Initiative",
+    title: "Clinton Global Initiative Fellow",
     slides: [
       {
         date: "May 29, 2024",
