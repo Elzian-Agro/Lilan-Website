@@ -3847,6 +3847,102 @@ const impacts = [
 
   {
     filter: "filter-renewable-energy",
+    id: "5.7",
+    title: "Presenting Sustainable Energy Transitions for AI at the United Nations Headquarters",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Speaking at the UN: Advancing Inclusive and Ethical AI for Sustainable Development",
+        image: "assets/img/impact/renewable-energy/Speaking at the UN.png",
+        description:
+          "Yesterday, I had the pleasure of speaking at the session on “Making AI Accessible, Inclusive, and Beneficial for All” during the Multi-Stakeholder Forum on Science, Technology and Innovation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_aiforgood-stiforum-sustainable-activity-7326253314600226817-J4pG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1r1snxh8sc982vo1HcDnlNITJbJB0bVzu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
+    id: "5.6",
+    title:
+      "Delivering the Opening Speech on behalf of the Youth at the Nagasaki Peace-Preneur Forum for Sustainable Transition for Nuclear Energy",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Opening for Peace: Honoured to Represent Youth at the Nagasaki Peace-Preneur Forum",
+        image: "assets/img/impact/renewable-energy/Opening for Peace.png",
+        description:
+          "Honoured to deliver the opening speech on behalf of the youth at the Nagasaki Peace-Preneur Forum yesterday, held at the remarkable Stadium City Nagasaki, Japan...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nagasaki-peace-youthforpeace-activity-7329398373063577600-97Qv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1G_YDm5WP3ZqJigAw6DCRuP3IC1azWRNx/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
+    id: "5.5",
+    title:
+      "Meeting the United Nations Group of Ten High-level Representatives of Civil Society, Private Sector, and the Scientific Community (10-Member-Group)",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Bridging Grassroots Innovation & Global Policy: Engaging with the UN 10-Member-Group in New York",
+        image: "assets/img/impact/renewable-energy/Bridging Grassroots Innovation & Global Policy.png",
+        description:
+          "It was an honour to meet with the United Nations Group of Ten High-level Representatives of Civil Society, Private Sector, and the Scientific Community...",
+        link: "https://www.linkedin.com/posts/lilanofficial_science-technology-un-activity-7328054727437438976-iYmX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1hzcdVeam039_PO6QSpFnL7MefLeyN0o6/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
+    id: "5.4",
+    title:
+      "Connecting International Renewable Energy Agency (IRENA) with the International Trade Centre (ITC)",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting Climate Innovators: YECO Meets IRENA NewGen to Empower Youth in Sustainability",
+        image: "assets/img/impact/renewable-energy/Connecting Climate Innovators.png",
+        description:
+          "It was a pleasure to meet AbdelRahman Fahmy and Sina Tabrizi in Riyadh, Saudi Arabia; connecting / introducing International Renewable Energy Agency (IRENA)’s NewGen Accelerator...",
+        link: "https://www.linkedin.com/posts/lilanofficial_irena-newgenaccelerator-youth-activity-7326849764694675456-2v2B?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/12Pupse1n6jEdjeoXsBSILWQF_W1iQgZt/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
+    id: "5.3",
+    title: "UN Forum on Science, Technology and Innovation for Artificial Intelligence and Young People",
+    slides: [
+      {
+        date: "May 7, 2025",
+        source_name: "Nations Unies",
+        source_link:
+          "https://www.un.org/fr?_gl=1*1cfmiqu*_ga*MTMyODc5MjM1OS4xNzQ3NjYyMjY5*_ga_TK9BQL5X7Z*czE3NDc2NjIyNjgkbzEkZzAkdDE3NDc2NjIyNjgkajAkbDAkaDA.*_ga_SCSJZ3XC0L*czE3NDc2NjIyNjgkbzEkZzAkdDE3NDc2NjIyNjgkajAkbDAkaDA.",
+        title:
+          "ECOSOC: Tenth anniversary of the forum on science, technology and innovation, an opportunity to discuss artificial intelligence and young people",
+        image: "assets/img/impact/renewable-energy/ECOSOC.png",
+        description:
+          "In the futuristic atmosphere of the Economic and Social Council (ECOSOC) chamber, transformed for the occasion...",
+        link: "https://press.un.org/fr/2025/ecosoc7202.doc.htm",
+        backup_image: "https://drive.google.com/file/d/1Zaq3u5a34niyuTHpGyAtUJo_m2JFnutb/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
     id: "5.2",
     title:
       "International Renewable Energy Agency (IRENA) NewGen Startup Accelerator Rising Star for Sustainable Future",
@@ -3895,6 +3991,63 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-climate-environmental",
+    id: "6.50",
+    title: "Participating in the launch of new Climate Reality Hubs across Europe at ChangeNOW",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Proud to Represent The Climate Reality Project at ChangeNOW 2025: Powering Grassroots Climate Action",
+        image: "assets/img/impact/climate-environmental/Climate Reality Project.png",
+        description:
+          "As a proud member of The Climate Reality Project who completed the training in Rome, it was truly inspiring to witness their incredible efforts showcased at ChangeNOW 2025 in Paris...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climatereality-changenow-climateaction-activity-7323631307517763584-TCQ3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1luetRtDAQRiP9Ni8Lk61cj2ylfba5fUz/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.49",
+    title:
+      "Meeting the United Nations Group of Ten High-level Representatives of Civil Society, Private Sector, and the Scientific Community (10-Member-Group)",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Bridging Grassroots Innovation & Global Policy: Engaging with the UN 10-Member-Group in New York",
+        image: "assets/img/impact/climate-environmental/Bridging Grassroots Innovation & Global Policy.png",
+        description:
+          "It was an honour to meet with the United Nations Group of Ten High-level Representatives of Civil Society, Private Sector, and the Scientific Community...",
+        link: "https://www.linkedin.com/posts/lilanofficial_science-technology-un-activity-7328054727437438976-iYmX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1fVudbvtoEl7jS5rwQNu2e3y2juWnz6jq/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.48",
+    title: "Participating in the ChangeNow to Promote Environmental Footprint",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "🌱 What does real impact look like?",
+        image: "assets/img/impact/climate-environmental/impact look like.png",
+        description:
+          'At ChangeNOW 2025, we asked our Youth Ecopreneurs: "What sustainable solutions have you implemented in your business to reduce your environmental footprint...',
+        link: "https://www.linkedin.com/posts/ye-community_youthecopreneur-changenow2025-callforsolutions-activity-7322624373129953280-nBuy?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FEaYfu4ZIwFE4Uml09B99Vi5B2hG5HIH/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-climate-environmental",
     id: "6.47",
@@ -4900,6 +5053,119 @@ const impacts = [
 
   {
     filter: "filter-public-policy",
+    id: "7.60",
+    title: "Participation in the Nagasaki Peace-Preneur Forum at BENEX Nagasaki Brick Hall",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflections from the BENEX Nagasaki Peace-preneur Gathering",
+        image: "assets/img/impact/public-policy/BENEX Nagasaki.jpeg",
+        description:
+          '"Peace-preneur” is a coined term that combines the words peace and entrepreneur. It refers to individuals who take action on global and social challenges from a perspective that transcends nationality, race, religion, or gender...',
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-trust-japan-activity-7330245254106742785-LMBO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15fbYUf6C0Ql0DCoyzzd8_UvNnz3BiSXH/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.59",
+    title: "Participation in the Nagasaki Peace-Preneur Forum at Happiness Arena",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Nagasaki Peace-preneur Forum: Fostering Dialogue, Diversity & a Shared Future for Peace",
+        image: "assets/img/impact/public-policy/Nagasaki Peace-preneur Forum.png",
+        description:
+          "To build peace by believing in a better future this year, as Nagasaki marks the 80th anniversary of the atomic bombing, the OYW Nagasaki Council hosted the international Nagasaki Peace-preneur...",
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-trust-japan-activity-7329968399646646273-PUWx?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1l0m9I20qi2ZzXdgSZchQGql2zlzFppdS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.58",
+    title:
+      "Delivering the Opening Speech on behalf of the Youth at the Nagasaki Peace-Preneur Forum for Nuclear Disarmament",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Opening for Peace: Honoured to Represent Youth at the Nagasaki Peace-Preneur Forum",
+        image: "assets/img/impact/public-policy/Opening for Peace.png",
+        description:
+          "Honoured to deliver the opening speech on behalf of the youth at the Nagasaki Peace-Preneur Forum yesterday, held at the remarkable Stadium City Nagasaki, Japan...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nagasaki-peace-youthforpeace-activity-7329398373063577600-97Qv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/18yY8l2oZEkqjTgXkggtQiurkROPpfnAS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.57",
+    title:
+      "Meeting the United Nations Group of Ten High-level Representatives of Civil Society, Private Sector, and the Scientific Community (10-Member-Group)",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Bridging Grassroots Innovation & Global Policy: Engaging with the UN 10-Member-Group in New York",
+        image: "assets/img/impact/public-policy/Bridging Grassroots Innovation & Global Policy.png",
+        description:
+          "It was an honour to meet with the United Nations Group of Ten High-level Representatives of Civil Society, Private Sector, and the Scientific Community (10-Member-Group), a key component...",
+        link: "https://www.linkedin.com/posts/lilanofficial_science-technology-un-activity-7328054727437438976-iYmX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1fVudbvtoEl7jS5rwQNu2e3y2juWnz6jq/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.56",
+    title: "UN Forum on Science, Technology and Innovation for Artificial Intelligence and Young People",
+    slides: [
+      {
+        date: "May 7, 2025",
+        source_name: "Nations Unies",
+        source_link:
+          "https://www.un.org/fr?_gl=1*1cfmiqu*_ga*MTMyODc5MjM1OS4xNzQ3NjYyMjY5*_ga_TK9BQL5X7Z*czE3NDc2NjIyNjgkbzEkZzAkdDE3NDc2NjIyNjgkajAkbDAkaDA.*_ga_SCSJZ3XC0L*czE3NDc2NjIyNjgkbzEkZzAkdDE3NDc2NjIyNjgkajAkbDAkaDA.",
+        title:
+          "ECOSOC: Tenth anniversary of the forum on science, technology and innovation, an opportunity to discuss artificial intelligence and young people",
+        image: "assets/img/impact/public-policy/ECOSOC.png",
+        description:
+          "In the futuristic atmosphere of the Economic and Social Council (ECOSOC) chamber, transformed for the occasion...",
+        link: "https://press.un.org/fr/2025/ecosoc7202.doc.htm",
+        backup_image: "https://drive.google.com/file/d/1W-8GTxKPs6J0G1DoItce6arMzbSdK9uf/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.55",
+    title: "Networking at ChangeNOW",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The top 5 ideas (learning points) from Day 3 of ChangeNOW",
+        image: "assets/img/impact/public-policy/The top 5 ideas.png",
+        description:
+          "֍ Art and activism have the same root: It's no surprise that activists are often also artists, as art is just a different medium for them to express their commitments...",
+        link: "https://www.linkedin.com/posts/lilanofficial_changenow-climateaction-elzianagro-activity-7324137361729093632-HLSw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QLExDarwZouCwg4LV7Ws6nzyoKf9SZnR/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
     id: "7.54",
     title:
       "A discussion on the vital role of the UN Economic and Social Council (ECOSOC) in coordinating with other United Nations agencies",
@@ -5426,6 +5692,50 @@ const impacts = [
     title: "Connecting with the International Communities",
     slides: [
       {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting for Sustainable Digital Inclusion: London & Oxford Meet-Up Opportunity",
+        image: "assets/img/impact/public-policy/London & Oxford Meet-Up Opportunity.png",
+        description:
+          "I will be visiting The London School of Economics and Political Science (LSE) during the first week of June, followed by a week at the University of Oxford. During my time in the...",
+        link: "https://www.linkedin.com/posts/lilanofficial_uk-england-london-activity-7330224625563369472-Sii3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1AFN9x6yOSG-dndqNXM4JsGIHgY95JQPg/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building Bridges in New York: Celebrating New & Enduring Connections for Global Impact",
+        image: "assets/img/impact/public-policy/Building Bridges in New York.png",
+        description:
+          "It was truly a pleasure to meet Clinton Fellows, Obama Fellows, representatives from Peace Boat, Blue Planet Alliance, and the UN community and more, last week in New ...",
+        link: "https://www.linkedin.com/posts/lilanofficial_networking-team-youth-activity-7329041369312690177-9rBm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Djr-ulUS4EjHdY66-MtUCJ1ppYusVHF0/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Hello Tokyo & Nagasaki: Let’s Connect on Climate Innovation & AgTech This May!",
+        image: "assets/img/impact/public-policy/Hello Tokyo & Nagasaki.png",
+        description:
+          "I’ll be visiting Tokyo and Nagasaki in mid-May and would love to connect with fellow entrepreneurs, investors, and changemakers in Japan especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
+        link: "https://www.linkedin.com/posts/lilanofficial_japan-tokyo-nagasaki-activity-7324494310429642754-7CG3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/112Gj84-NJrItepbftyfOKaks3OICK_Ly/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling Innovators in the Netherlands: Let’s Connect on Climate & AgTech in June!",
+        image: "assets/img/impact/public-policy/Calling Innovators in the Netherlands.png",
+        description:
+          "I’ll be in Amsterdam and Maastricht during the fourth week of June, and I’m eager to connect with entrepreneurs, investors, and innovators...",
+        link: "https://www.linkedin.com/posts/lilanofficial_netherlands-amsterdam-maastricht-activity-7327402135640252418-FX0F?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1516nz9409t7bi716OKXP1Swnfrr7waju/view?usp=sharing",
+      },
+      {
         date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -5518,6 +5828,17 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1MEy0_1Lhn9beWVq0AEMANT-ZM_z2VVpE/view?usp=drive_link",
       },
       {
+        date: "November 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting in Riyadh: Let’s Talk Climate, Agriculture, and Collaboration 🌱🌍",
+        image: "assets/img/impact/public-policy/Connecting in Riyadh.jpeg",
+        description:
+          "Exciting news! I’ll be in Riyadh, Saudi Arabia, during the second week of December, and I’m eager to connect with professionals passionate about precision agriculture, land restoration, and climate action across both the Global South and Global North...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7252629805420969984-qShC?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1e06AdMorUB90PR-J6alcZZvF3h5M7en_/view?usp=sharing",
+      },
+      {
         date: "April 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -5528,6 +5849,17 @@ const impacts = [
           "Exciting news! I’ll be in Copenhagen, Denmark, during the fourth week of May, and I’m eager to connect with professionals passionate about precision agriculture, land restoration, and climate action across both the Global South and Global North...",
         link: "https://www.linkedin.com/posts/lilanofficial_sustainable-agriculture-climate-activity-7319900542682509312-C0qP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1TLo545PhNcOkU20DKkRlJzgXuuaGEOR2/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling Change-Makers in NYC: Let’s Connect on Climate & Agriculture! 🌱🗽",
+        image: "assets/img/impact/public-policy/Calling Change-Makers in NYC.jpeg",
+        description:
+          "I’ll be in New York next week and would love to connect with fellow New Yorkers; especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7323476341884887040-DGyu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1g5WMyY2Q74MZ04mPpf-VBi578WYzD1Hb/view?usp=sharing",
       },
     ],
   },
