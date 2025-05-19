@@ -1467,6 +1467,81 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.71",
+    title: "Participation in the Peace-Preneur Forum in Nagasaki",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Nagasaki Peace-preneur Forum: Fostering Dialogue, Diversity & a Shared Future for Peace",
+        image: "assets/img/impact/innovation-social/Nagasaki Peace-preneur Forum.png",
+        description:
+          "To build peace by believing in a better future this year, as Nagasaki marks the 80th anniversary of the atomic bombing, the OYW Nagasaki Council hosted the international Nagasaki Peace-preneur Forum in Nagasaki Prefecture, Japan...",
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-trust-japan-activity-7329968399646646273-PUWx?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1l0m9I20qi2ZzXdgSZchQGql2zlzFppdS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.70",
+    title:
+      "Meeting the United Nations Group of Ten High-level Representatives of Civil Society, Private Sector, and the Scientific Community (10-Member-Group)",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Bridging Grassroots Innovation & Global Policy: Engaging with the UN 10-Member-Group in New York",
+        image: "assets/img/impact/innovation-social/Bridging Grassroots Innovation & Global Policy.png",
+        description:
+          "It was an honour to meet with the United Nations Group of Ten High-level Representatives of Civil Society, Private Sector, and the Scientific Community (10-Member-Group), a key component of the UN Technology Facilitation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_science-technology-un-activity-7328054727437438976-iYmX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1fVudbvtoEl7jS5rwQNu2e3y2juWnz6jq/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.69",
+    title:
+      "Speaking at the Multi-Stakeholder Forum on Science, Technology and Innovation for the Sustainable Development Goals (STI Forum)",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Speaking at the UN: Advancing Inclusive and Ethical AI for Sustainable Development",
+        image: "assets/img/impact/innovation-social/Speaking at the UN.png",
+        description:
+          "Yesterday, I had the pleasure of speaking at the session on “Making AI Accessible, Inclusive, and Beneficial for All” during the Multi-Stakeholder Forum on Science, Technology and Innovation for the Sustainable Development Goals (STI Forum) at the ECOSOC Chamber, United Nations Headquarters in New York, USA...",
+        link: "https://www.linkedin.com/posts/lilanofficial_aiforgood-stiforum-sustainable-activity-7326253314600226817-J4pG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BjL-c5COHN-jgqcYfbH9XuS_9zXMK8eR/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.68",
+    title: "Representing Youth Ecopreneur Programme at ChangeNow",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Change at ChangeNOW: Youth, Innovation & Sustainability",
+        image: "assets/img/impact/innovation-social/Empowering Change at ChangeNOW.png",
+        description:
+          "ChangeNOW in Paris left me hopeful, motivated, and more connected than ever! Honored to represent the Youth Ecopreneur Program, powered by the International Trade Centre (ITC) and the G20 Global Land Initiative. Being among 40,000+ passionate changemakers was a powerful reminder: we’re not alone in the fight for a sustainable future...",
+        link: "https://www.linkedin.com/posts/lilanofficial_changenow-youth-sustainability-activity-7325356902287044608-cmpq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1DzirtbvlZSajgTpnDmAT6MTiWtas_01_/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.67",
     title: "Representing Elzian Agro at ChangeNow",
     slides: [
@@ -1525,6 +1600,17 @@ const impacts = [
           "Four more YECO entrepreneurs are set to showcase their powerful, planet-positive solutions at the world’s leading event for sustainability and impact. 🌱💡",
         link: "https://www.instagram.com/p/DIjMHfcJ_Gb/?igsh=MWQxcXN4OXFmZDUydw==",
         backup_image: "https://drive.google.com/file/d/1cx9_DI8WoGhkfpZ4cjr9BqFXFXov_YBP/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Impact at ChangeNOW: Advancing Food Security & Innovation with Global Partners",
+        image: "assets/img/impact/innovation-social/Driving Impact at ChangeNOW.png",
+        description:
+          "It was a pleasure connecting with potential investors at the ChangeNOW Summit in Paris, France. From sports and food to fashion and soil regeneration, the second day was filled with bold ideas and inspiring solutions, highlighting the vital role of the private sector in driving environmental and social change...",
+        link: "https://www.linkedin.com/posts/lilanofficial_changenow2025-climateaction-elzianagro-activity-7321873304082952193-bIuP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1fyr4l5KGLIhKABrq2g-GAExShMBxe-v5/view?usp=sharing",
       },
     ],
   },
@@ -2849,6 +2935,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-food-agriculture",
+    id: "4.36",
+    title: "Presenting Elzian Agro at the United Nations Headquarters",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Speaking at the UN: Advancing Inclusive and Ethical AI for Sustainable Development",
+        image: "assets/img/impact/food-agriculture-forestry/Speaking at the UN.png",
+        description:
+          "Yesterday, I had the pleasure of speaking at the session on “Making AI Accessible, Inclusive, and Beneficial for All” during the Multi-Stakeholder Forum on Science, Technology and Innovation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_aiforgood-stiforum-sustainable-activity-7326253314600226817-J4pG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1o-5IGY1qPCTLzEZIkjTmzP1fckKZp-Gs/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-food-agriculture",
     id: "4.35",
@@ -5981,6 +6085,79 @@ const impacts = [
 
   {
     filter: "filter-leadership-economic",
+    id: "8.41",
+    title: "Delivering the Opening Speech on behalf of the Youth at the Nagasaki Peace-Preneur Forum",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Opening for Peace: Honoured to Represent Youth at the Nagasaki Peace-Preneur Forum",
+        image: "assets/img/impact/leadership-economic/Opening for Peace.png",
+        description:
+          "Honoured to deliver the opening speech on behalf of the youth at the Nagasaki Peace-Preneur Forum yesterday, held at the remarkable Stadium City Nagasaki, Japan...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nagasaki-peace-youthforpeace-activity-7329398373063577600-97Qv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/18yY8l2oZEkqjTgXkggtQiurkROPpfnAS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.40",
+    title:
+      "Speaking at the Multi-Stakeholder Forum on Science, Technology and Innovation for the Sustainable Development Goals (STI Forum)",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Speaking at the UN: Advancing Inclusive and Ethical AI for Sustainable Development",
+        image: "assets/img/impact/leadership-economic/Speaking at the UN.png",
+        description:
+          "Yesterday, I had the pleasure of speaking at the session on “Making AI Accessible, Inclusive, and Beneficial for All” during the Multi-Stakeholder Forum on Science, Technology and Innovation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_aiforgood-stiforum-sustainable-activity-7326253314600226817-J4pG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1q8X7sfIy6X_JcTUwjj4perVRcyy5IZ94/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.39",
+    title: "Representing Youth Ecopreneur Programme at ChangeNow",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Change at ChangeNOW: Youth, Innovation & Sustainability",
+        image: "assets/img/impact/leadership-economic/Empowering Change at ChangeNOW.png",
+        description:
+          "ChangeNOW in Paris left me hopeful, motivated, and more connected than ever! Honored to represent the Youth Ecopreneur Program, powered by the International Trade Centre (ITC) and the G20 Global Land Initiative. Being among 40,000+ passionate changemakers was a powerful reminder: we’re not alone in the fight for a sustainable future...",
+        link: "https://www.linkedin.com/posts/lilanofficial_changenow-youth-sustainability-activity-7325356902287044608-cmpq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Dctdtg_PLsyJOOUAp7FVrYUlrXLxDegu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.38",
+    title: "Experience the Climbing District at ChangeNOW",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Climbing Mountains, Creating Impact: A Journey of Social Entrepreneurship and Everest Dreams",
+        image: "assets/img/impact/leadership-economic/A Journey of Social Entrepreneurship.png",
+        description:
+          "Scaling the heights of social entrepreneurship is much like climbing a formidable mountain; each step demands courage, careful preparation, and unwavering determination...",
+        link: "https://www.linkedin.com/posts/lilanofficial_changenow-climateaction-elzianagro-activity-7323020759381987328-NPHE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1-8liTZXM4oMgb0JcTWePL1lzWXeUjzUF/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
     id: "8.37",
     title: "Inspiring conversation with the UN Assistant Secretary-General for Youth Affairs",
     slides: [
@@ -6758,6 +6935,42 @@ const impacts = [
 
   {
     filter: "filter-youth-women-empowerment",
+    id: "9.30",
+    title: "Impact Toolbox: Youth In Development (YID) Fellow",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Excited to Join the 2025 Youth In Development Fellowship by Impact Toolbox!",
+        image: "assets/img/impact/youth-women-empowerment/Fellowship by Impact Toolbox.png",
+        description:
+          "Thrilled to share that I’ve been selected for the 2025 Youth In Development (YID) Fellowship Program powered by Impact Toolbox..",
+        link: "https://www.linkedin.com/posts/lilanofficial_youthindevelopment-fellowship-leadership-activity-7328172332068274177-HIOO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1CujrYf3eGZhZbCn7kQvBoLKxAtm84YVz/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.29",
+    title: "Representing Youth Ecopreneur Programme at ChangeNow",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Change at ChangeNOW: Youth, Innovation & Sustainability",
+        image: "assets/img/impact/youth-women-empowerment/Empowering Change at ChangeNOW.png",
+        description:
+          "ChangeNOW in Paris left me hopeful, motivated, and more connected than ever! Honored to represent the Youth Ecopreneur Program, powered by the International Trade Centre (ITC) and the G20 Global Land Initiative. Being among 40,000+ passionate changemakers was a powerful reminder: we’re not alone in the fight for a sustainable future...",
+        link: "https://www.linkedin.com/posts/lilanofficial_changenow-youth-sustainability-activity-7325356902287044608-cmpq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1V4A6P6hJknKvtkc5tdaT2-rZvZQK3Z82/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
     id: "9.28",
     title: "Inspiring conversation with the UN Assistant Secretary-General for Youth Affairs",
     slides: [
@@ -7361,6 +7574,26 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.31",
+    title:
+      "Meeting the United Nations Group of Ten High-level Representatives of Civil Society, Private Sector, and the Scientific Community (10-Member-Group)",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Meeting the United Nations Group of Ten High-level Representatives of Civil Society, Private Sector, and the Scientific Community (10-Member-Group)",
+        image: "assets/img/impact/meeting-changemakers-vips/Meeting the United Nations Group.png",
+        description:
+          "It was an honour to meet with the United Nations Group of Ten High-level Representatives of Civil Society, Private Sector, and the Scientific Community...",
+        link: "https://www.linkedin.com/posts/lilanofficial_science-technology-un-activity-7328054727437438976-iYmX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FyfxPDHfNS4S60xOx4rGwnt1ifhgNFhh/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-meeting-changemakers-vips",
     id: "10.30",
