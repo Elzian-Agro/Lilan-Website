@@ -1,5 +1,16 @@
 const recommendations = [
   {
+    date: "May 16, 2025",
+    name: "Kavinda Deshan",
+    position: "Software Engineer",
+    company: "Elzian Agro",
+    relationship: "Kavinda reported directly to Lilan",
+    image: "assets/img/recommendation/Kavinda Deshan.jpeg",
+    linkedin: "https://www.linkedin.com/in/kavinda-deshan-thennakoon/",
+    recommendation:
+      "I have had the pleasure of working under Lilan’s leadership at Elzian Agro, and it has been a truly rewarding experience. Lilan is a professional and humble leader who consistently fosters a positive and motivational work environment around him. As a leader, he always prioritizes his team members' health, growth, and work-life balance, and makes thoughtful decisions. His leadership style encourages collaboration and open communication, making it easy to work with him. I can confidently say he is a visionary and purpose-driven leader.",
+  },
+  {
     date: "February 26, 2025",
     name: "Akhil Neelam",
     position: "Co-founder and Director",
