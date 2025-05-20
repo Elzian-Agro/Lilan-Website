@@ -1474,6 +1474,17 @@ const impacts = [
         date: "May 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflections from the BENEX Nagasaki Peace-preneur Gathering",
+        image: "assets/img/impact/innovation-social/BENEX Nagasaki.jpeg",
+        description:
+          '"Peace-preneur” is a coined term that combines the words peace and entrepreneur. It refers to individuals who take action on global and social challenges from a perspective that transcends nationality, race, religion, or gender...',
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-trust-japan-activity-7330245254106742785-LMBO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1I5-fizGW9qdfi4xUZqi0qzYWoH8GUlL7/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Nagasaki Peace-preneur Forum: Fostering Dialogue, Diversity & a Shared Future for Peace",
         image: "assets/img/impact/innovation-social/Nagasaki Peace-preneur Forum.png",
         description:
@@ -6417,6 +6428,25 @@ const impacts = [
 
   {
     filter: "filter-leadership-economic",
+    id: "8.42",
+    title:
+      "Visiting the London School of Economics and Political Science (LSE) for a Strategic Masterclass and the University of Oxford for Oxford Climate Week",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting for Sustainable Digital Inclusion: London & Oxford Meet-Up Opportunity",
+        image: "assets/img/impact/leadership-economic/London & Oxford Meet-Up Opportunity.png",
+        description:
+          "I will be visiting The London School of Economics and Political Science (LSE) during the first week of June, followed by a week at the University of Oxford. During my time in the...",
+        link: "https://www.linkedin.com/posts/lilanofficial_uk-england-london-activity-7330224625563369472-Sii3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1y5_Qn8KNtwMFyAjGCz4btviw1w5voEdv/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
     id: "8.41",
     title: "Delivering the Opening Speech on behalf of the Youth at the Nagasaki Peace-Preneur Forum",
     slides: [
@@ -7265,6 +7295,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.31",
+    title: "Focusing on the Gender Equity and the DEI at the Peace-Preneur Forum",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflections from the BENEX Nagasaki Peace-preneur Gathering",
+        image: "assets/img/impact/youth-women-empowerment/BENEX Nagasaki.jpeg",
+        description:
+          '"Peace-preneur” is a coined term that combines the words peace and entrepreneur. It refers to individuals who take action on global and social challenges from a perspective that transcends nationality, race, religion, or gender...',
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-trust-japan-activity-7330245254106742785-LMBO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1qZD8RevF9kfFTRpHos6TKJYb2d1YFyB9/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-youth-women-empowerment",
     id: "9.30",
@@ -8480,7 +8528,7 @@ const impacts = [
 
   {
     filter: "filter-aerospace-outer-space",
-    id: "11.3",
+    id: "11.4",
     title: 'MELTINGPOT session on the topic "Why Should Artists Fly to Space?"',
     slides: [
       {
@@ -8493,6 +8541,25 @@ const impacts = [
           'I had the opportunity to participate in an insightful plenary session on the topic "Why Should Artists Fly to Space?" at the MELTINGPOT by Colours of Ostrava, conducted by the Moonshot Platform...',
         link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7224021339634876416-TRXB?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1-QMPb6DB_k64Ug25dUckP006mer66bPX/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-aerospace-outer-space",
+    id: "11.3",
+    title:
+      "Delivering the Opening Speech on behalf of the Youth at the Nagasaki Peace-Preneur Forum for Sustainable Transition for Nuclear Energy",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Opening for Peace: Honoured to Represent Youth at the Nagasaki Peace-Preneur Forum",
+        image: "assets/img/impact/aerospace-outer-space/Opening for Peace.png",
+        description:
+          "Honoured to deliver the opening speech on behalf of the youth at the Nagasaki Peace-Preneur Forum yesterday, held at the remarkable Stadium City Nagasaki, Japan...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nagasaki-peace-youthforpeace-activity-7329398373063577600-97Qv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1oRIMk4crBp4y1rPKdciXgkMoBP8fE_nF/view?usp=sharing",
       },
     ],
   },
