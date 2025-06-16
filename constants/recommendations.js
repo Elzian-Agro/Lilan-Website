@@ -1,4 +1,15 @@
 const recommendations = [
+   {
+    date: "June 3, 2025",
+    name: "IRANKUNDA Claude",
+    position: "Founder and Managing Director",
+    company: "BAHO NurseBot",
+    relationship: "IRANKUNDA worked with Lilan but they were at different companies",
+    image: "assets/img/recommendation/IRANKUNDA Claude.jpeg",
+    linkedin: "https://www.linkedin.com/in/irankunda-claude-98a94a286/",
+    recommendation:
+      "I met Lilan through our Youth Ecopreneur Program and met him for the first time in person in Paris, France. He is a multidisciplinary social-tech entrepreneur who involves in precision agriculture field while advocating for outer space protection and nuclear disarmament efforts. It is inspiring to see talented social entrepreneurs delve into different fields and work alongside experts collaboratively from different backgrounds.",
+  },
   {
     date: "May 16, 2025",
     name: "Kavinda Deshan",
