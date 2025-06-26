@@ -1,5 +1,16 @@
 const recommendations = [
-   {
+  {
+    date: "June 17, 2025",
+    name: "Miguel Rischmaui",
+    position: "Student Staff",
+    company: "Kyoto Museum for World Peace",
+    relationship: "Miguel worked with Lilan but they were at different companies",
+    image: "assets/img/recommendation/Miguel Rischmaui.jpeg",
+    linkedin: "https://www.linkedin.com/in/miguel-rischmaui/",
+    recommendation:
+      "During the Nagasaki Peace-Preneur Forum last month, I had the pleasure of meeting Lilan. We quickly connected over critical global issues, not just related to peace, but also broader world events. His thoughtful responses and the depth of our conversations immediately impressed me. Lilan’s leadership and networking skills are exceptional, and I had the chance to witness them firsthand at the Forum. Our discussions also reminded me that if we want to make a difference, we must actively pursue our goals.\n\n Later, I gave him a tour of the Kyoto Museum for World Peace, where we continued our insightful conversations. Meeting Lilan has been an enriching experience, and I highly recommend him.",
+  },
+  {
     date: "June 3, 2025",
     name: "IRANKUNDA Claude",
     position: "Founder and Managing Director",
