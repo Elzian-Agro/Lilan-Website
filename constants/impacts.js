@@ -2948,6 +2948,25 @@ const impacts = [
 
   {
     filter: "filter-food-agriculture",
+    id: "4.37",
+    title: "Participation in the Strategic Communication for Land Restoration Masterclass in London",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "🌱 Turning Words into Action: How Strategic Communication Fuels Sustainable Growth at ELZIAN AGRO 🌍",
+        image: "assets/img/impact/food-agriculture-forestry/Turning Words into Action.png",
+        description:
+          "For agritech entrepreneurs, land restoration isn’t just an environmental responsibility; it's a powerful business advantage for ELZIAN AGRO...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7331791776904605697-SP0X?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1qyLzMakV1qp1_dpDRmuG1F-rPY5E0MFV/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
     id: "4.36",
     title: "Presenting Elzian Agro at the United Nations Headquarters",
     slides: [
@@ -3858,7 +3877,7 @@ const impacts = [
 
   {
     filter: "filter-renewable-energy",
-    id: "5.7",
+    id: "5.8",
     title: "Presenting Sustainable Energy Transitions for AI at the United Nations Headquarters",
     slides: [
       {
@@ -3871,6 +3890,25 @@ const impacts = [
           "Yesterday, I had the pleasure of speaking at the session on “Making AI Accessible, Inclusive, and Beneficial for All” during the Multi-Stakeholder Forum on Science, Technology and Innovation...",
         link: "https://www.linkedin.com/posts/lilanofficial_aiforgood-stiforum-sustainable-activity-7326253314600226817-J4pG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1r1snxh8sc982vo1HcDnlNITJbJB0bVzu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
+    id: "5.7",
+    title:
+      "Participating the Session on the Striving for Leadership: The New Generation of High-Tech Industry Leaders",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building the Future: Insights from Emerging High-Tech Leaders in Russia",
+        image: "assets/img/impact/renewable-energy/Building the Future Insights.png",
+        description:
+          "Technology is transforming our world at an unprecedented pace. AI, machine learning, robotics, and cloud databases are no longer optional; they’re essential to humanity’s progress...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-robotics-activity-7341654754013429762-EWFa?utm_source=share&utm_medium=member_android&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/18iQG-_-lq7kgsHhX3w8esa80qtZk08Fd/view?usp=sharing",
       },
     ],
   },
@@ -4002,6 +4040,63 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-climate-environmental",
+    id: "6.53",
+    title: "Visiting the Greenwich Peninsula Ecology Park in South London, England",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Urban Biodiversity at Greenwich Peninsula Ecology Park",
+        image:
+          "assets/img/impact/climate-environmental/Exploring Urban Biodiversity at Greenwich Peninsula Ecology Park.png",
+        description:
+          "I had the opportunity to visit the Greenwich Peninsula Ecology Park situated along the River Thames in the Greenwich Peninsula in South London, England...",
+        link: "https://www.linkedin.com/posts/lilanofficial_greenwich-peninsula-ecologypark-activity-7339953118735998976-ivW6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QZR-v-I2c8IuzDOm4ZBF5S_FcSveepds/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.52",
+    title: "Participation in the the Sustainable Environmental Materials Forum",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "🌱 Green, Low-Carbon, and Global: Insights from the Sustainable Environmental Materials Forum in Shanghai 🇨🇳",
+        image: "assets/img/impact/climate-environmental/Green, Low-Carbon, and Global.png",
+        description:
+          "A couple of days ago, I had the pleasure to participate in the Sustainable Environmental Materials Forum in Shanghai, China 🇨🇳. A platform for gathering market information...",
+        link: "https://www.linkedin.com/posts/lilanofficial_shanghai-china-market-activity-7333694080134107139-R0Mp?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BgBprVFYv_LOp-fRaIBRSbre97K5ukp0/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.51",
+    title: "Participation in the Strategic Communication for Land Restoration Masterclass in London",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "🌱 Turning Words into Action: How Strategic Communication Fuels Sustainable Growth at ELZIAN AGRO 🌍",
+        image: "assets/img/impact/climate-environmental/Turning Words into Action.png",
+        description:
+          "For agritech entrepreneurs, land restoration isn’t just an environmental responsibility; it's a powerful business advantage for ELZIAN AGRO...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7331791776904605697-SP0X?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1m6X_nLmE8FxjqKtYG2_ywNz4e63zZt6f/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-climate-environmental",
     id: "6.50",
