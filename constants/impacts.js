@@ -15,6 +15,17 @@ const impacts = [
         link: "https://www.linkedin.com/posts/lilanofficial_moonshotawards-leadership-entrepreneurship-activity-7271194508740993024-SHlB?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/12jxo9ZjLDcRNNAct3-BvQnD_Gzaowv1u/view?usp=drive_link",
       },
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling Asia-Pacific Changemakers: Apply for the Moonshot Awards 2025!",
+        image: "assets/img/impact/recognition/moonshot-awards/Calling Asia-Pacific Changemakers.png",
+        description:
+          "Asia-Pacific’s young leaders are driving powerful change, and it’s time your work got the global recognition it deserves...",
+        link: "https://www.linkedin.com/posts/moonshot-platform_asia-pacifics-young-leaders-are-driving-activity-7343939144642916352-X_ST?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Ox9R2_9aHBw731Kb7TcdqUOtagCYrKLg/view?usp=sharing",
+      },
     ],
   },
   {
@@ -567,6 +578,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-membership",
+    id: "2.32",
+    title: "New Generation: Friends for Leadership Community",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Advancing Sustainable Development with Global Young Leaders",
+        image: "assets/img/impact/membership/Advancing Sustainable Development with Global Young Leader.png",
+        description:
+          "It was a valuable opportunity to connect with the Friends for Leadership community at New Generation’s gathering in St. Petersburg, Russian Federation. Friends for Leadership is a global network...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-sdgs-sustainable-activity-7344125866018263045-L-8Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1JxYzxhdinrMOBMZNMRQOv6AAvtVIP_3-/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-membership",
     id: "2.31",
@@ -1465,6 +1494,245 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-innovation-social",
+    id: "3.83",
+    title: "Exploring Health Tech Innovation",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Redefining Healthcare: From Longevity Science to AI Innovation",
+        image: "assets/img/impact/innovation-social/Redefining Healthcare.jpeg",
+        description:
+          "The flagship International Economic Forum of Russia stood out for its focus on health tech innovation, particularly in the areas of longevity medicine and AI-driven healthcare transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_technology-tech-healthtech-activity-7342768326097498113-7Dkj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1O05PnQChbFTPfjhGmqwLaAyezsBwXEso/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.82",
+    title: "Exploring Unmanned Aerial Vehicles (UAVs) for Industrial Applications",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Next-Gen UAV Technology at the St. Petersburg International Economic Forum",
+        image:
+          "assets/img/impact/innovation-social/Exploring Next-Gen UAV Technology at the St. Petersburg International Economic Forum.png",
+        description:
+          "Today at the St. Petersburg International Economic Forum in the Russian Federation, I had the exciting opportunity to explore cutting-edge advancements in Unmanned Aerial Vehicles (UAVs) for industrial applications...",
+        link: "https://www.linkedin.com/posts/lilanofficial_technology-tech-industry-activity-7342223283116720129-ciTw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/18MdPewBDF1YE_uTkiAp4E-AncM8-JA2i/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.81",
+    title: "Exploring Russian Innovations at Russia’s Largest Economic Forum",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Inclusive Innovation: Insights from Russia’s Largest Economic Forum",
+        image: "assets/img/impact/innovation-social/Driving Inclusive Innovation.png",
+        description:
+          "Honoured to be the only Sri Lankan tech entrepreneur exclusively invited to Russia’s largest economic forum. Today, I had the privilege of exploring some of the most cutting-edge technologies...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-technology-economic-activity-7342015541970182144-y7MJ?utm_source=share&utm_medium=member_android&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1XLHXCXSyjgz1bpE0ED0MqvTjafYjTvc_/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.80",
+    title:
+      "Participating the Session on the Striving for Leadership: The New Generation of High-Tech Industry Leaders",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building the Future: Insights from Emerging High-Tech Leaders in Russia",
+        image: "assets/img/impact/innovation-social/Building the Future Insights.png",
+        description:
+          "Technology is transforming our world at an unprecedented pace. AI, machine learning, robotics, and cloud databases are no longer optional; they’re essential to humanity’s progress...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-robotics-activity-7341654754013429762-EWFa?utm_source=share&utm_medium=member_android&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1A_Xgs4ozdDKqzZDze2m7K3AjVqXrKkG1/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.79",
+    title: "Participating in the St. Petersburg International Economic Forum (SPIEF)",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Representing Sri Lanka at SPIEF 2025: Expanding ELZIAN AGRO’s Impact in Russia 🇷🇺",
+        image:
+          "assets/img/impact/innovation-social/Representing Sri Lanka at SPIEF 2025 Expanding ELZIAN AGRO’s Impact in Russia 🇷🇺.png",
+        description:
+          "Today, I had the distinct honour of representing Sri Lanka as the sole tech entrepreneur at the St. Petersburg International Economic Forum (SPIEF) in Russia...",
+        link: "https://www.linkedin.com/posts/lilanofficial_agritech-elzianagro-innovation-activity-7341170036637581316-3h1t?utm_source=share&utm_medium=member_android&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1tOkIPoLmFgkjAayyroLdau4317tGS9Lp/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.78",
+    title:
+      "Participating in the International Conference on the Application of Artificial Intelligence in Business Management",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring AI Innovations in Business Management at Kuwait Conference",
+        image:
+          "assets/img/impact/innovation-social/Exploring AI Innovations in Business Management at Kuwait Conference.png",
+        description:
+          "Honored to participate in the International Conference on the Application of Artificial Intelligence in Business Management, organized by the Universal Research Cluster in Kuwait City, Kuwait...",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-business-management-activity-7340916551484588032-PdNY?utm_source=share&utm_medium=member_android&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15fViY33FsGmuyMCYGSMqKwveLzhJJCsr/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.77",
+    title: "Visiting Virgin Unite workspaces at Virgin Start-ups in London",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inspired by Purpose-Driven Leadership at Virgin Unite",
+        image:
+          "assets/img/impact/innovation-social/Inspired by Purpose-Driven Leadership at Virgin Unite.png",
+        description:
+          "It was a real pleasure to visit Virgin Unite and meet some of the inspiring team members who empower the work we do at ELZIAN AGRO through the NewNow, a One Young World program supported by Virgin Unite...",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-elzianagro-ea-activity-7340373271076360192-eXnT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1au8PJNeMAS-UWgIhKng52vtbchAEGU6f/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.76",
+    title:
+      "Exploring the themes of storytelling at the London School of Economics and Political Science (LSE)",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Mastering Ethical Storytelling & Lightning Pitches at LSE",
+        image:
+          "assets/img/impact/innovation-social/Mastering Ethical Storytelling & Lightning Pitches at LSE.png",
+        description:
+          "Yesterday, I explored the themes of storytelling, influencing myths, and raising voices through ethical storytelling in the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE) here in London...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7336317420191608832-Pt3t?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ua7EM3YurS6H_2ER4iRvJb3pVk02PTdu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.75",
+    title:
+      "Identifying opportunities and challenges of working with AI in the Strategic Communication Masterclass at LSE",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "AI and Strategic Communication: Reflections from LSE’s Masterclass in London",
+        image: "assets/img/impact/innovation-social/AI and Strategic Communication.png",
+        description:
+          "Today, I explored the opportunities and challenges of working with AI in the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE), here in London, UK...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7335720779981930498-Rsuz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1JeeyQ724ZCapq6bOgIRXbhpxLUzNS7iE/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.74",
+    title:
+      "Participating in the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE)",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Strategic Communication Masterclass Begins at LSE",
+        image: "assets/img/impact/innovation-social/Strategic Communication Masterclass.png",
+        description:
+          "Today, we kicked off the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE) in London, UK. Nick Leimu-Brown’s session on Land Degradation and Ecosystem Services offered fascinating insights...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7335372948188344321-ziTj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Qr0JHiu1rEyEPNHt-cnEwMp27wp1pOCr/view?usp=sharing",
+      },
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Grateful for an Inspiring Learning Journey at LSE",
+        image: "assets/img/impact/innovation-social/Grateful for an Inspiring Learning Journey.png",
+        description:
+          "Grateful to have participated in the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE) a truly enriching experience filled with dynamic group activities that enabled both knowledge...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7339650431226171393-haBg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1d2CEoA3bReIqsDBlq-ESBnap_v987iOc/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.73",
+    title: "Participation in the London Tech Week",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring the Future of Tech at London Tech Week 2025",
+        image:
+          "assets/img/impact/innovation-social/Exploring the Future of Tech at London Tech Week 2025.jpeg",
+        description:
+          "Next month, I'll be joining thousands of innovators, investors, and tech leaders at the #LondonTechWeek to...",
+        link: "https://www.linkedin.com/posts/lilanofficial_londontechweek-ai-ltw25-activity-7333876746326331392-uvo9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1O3zSZlIYf4HGsGg43-GHPH68Qd9unO-u/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.72",
+    title: "Participation in the Strategic Communication for Land Restoration Masterclass in London",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "🌱 Turning Words into Action: How Strategic Communication Fuels Sustainable Growth at ELZIAN AGRO 🌍",
+        image: "assets/img/impact/innovation-social/Turning Words into Action.png",
+        description:
+          "For agritech entrepreneurs, land restoration isn’t just an environmental responsibility; it's a powerful business advantage for ELZIAN AGRO...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7331791776904605697-SP0X?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1h333lEmVmKDQB3Boap9E3XX2qwD2TD4Q/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-innovation-social",
     id: "3.71",
