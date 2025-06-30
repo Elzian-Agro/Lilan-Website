@@ -4444,6 +4444,25 @@ const impacts = [
 
   {
     filter: "filter-climate-environmental",
+    id: "6.54",
+    title: "Exploring the Scientific efforts in the Arctic region by the Russian Federation",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Tracking Polar Bears: The Arctic’s Climate Crisis in Motion",
+        image:
+          "assets/img/impact/climate-environmental/Tracking Polar Bears The Arctic’s Climate Crisis in Motion.png",
+        description:
+          "During my time at the St. Petersburg International Economic Forum in the Russian Federation, I had the uniq..ue opportunity to delve into Russia's scientific exploration efforts in the Arctic region.",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-arctic-exploration-activity-7343497166897782784-txA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/187YppClLykysqxvP79gXsmsbzqlc5qfN/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
     id: "6.53",
     title: "Visiting the Greenwich Peninsula Ecology Park in South London, England",
     slides: [
@@ -5561,6 +5580,157 @@ const impacts = [
 
   {
     filter: "filter-public-policy",
+    id: "7.68",
+    title: "Visiting the Pitt Rivers Museum and Oxford Philharmonic Orchestra in Oxford",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Hawai‘i Ma uka to Ma kai: A Powerful Cultural Journey at Oxford’s Pitt Rivers Museum",
+        image: "assets/img/impact/public-policy/Hawai‘i Ma uka to Ma kai.jpeg",
+        description:
+          "Yesterday, on June 12, 2025, The Pitt Rivers Museum in Oxford opened a powerful and immersive special exhibition...",
+        link: "https://www.linkedin.com/posts/lilanofficial_hawaii-culturalheritage-hula-activity-7339300527173718016-j4g7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gi7H0pjNhca-GmGZC4MtmUiu8evIjUtD/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.67",
+    title: "Meeting the Initiatives of Change United Kingdom community in Oxford",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "From Museum Marathon to Meaningful Conversations in Oxford",
+        image:
+          "assets/img/impact/public-policy/From Museum Marathon to Meaningful Conversations in Oxford.jpeg",
+        description:
+          "I have the privilege of connecting with amazing individuals across the globe almost daily. While I usually don’t post about each encounter, this one in Oxford deserves a moment in the spotlight for several reasons...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oxford-initiativesofchange-iofc-activity-7338841045213814784-efhg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1KCPT4coS0UQddc4x9cIu_A0KAQARN7kk/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.66",
+    title: "Visiting Linacre College, University of Oxford to reconnect with the staff",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Dr. Nick Leimu-Brown at Linacre College, University of Oxford",
+        image: "assets/img/impact/public-policy/Nick Leimu-Brown.png",
+        description:
+          "I just had the opportunity to reconnect with Dr. Nick Leimu-Brown at Linacre College, University of Oxford. During our meeting, we discussed the Strategic Communication Masterclass...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7338267320496082944-Wjfw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/10RAfwiIMLqEfvr3ODXiMopHmSaSYVmaI/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.65",
+    title: "Exploring the Old Schools Quadrangle and Old Bodleian Library at the University of Oxford",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Discovering Oxford’s Bodleian Library and Its Historic Quadrangle",
+        image:
+          "assets/img/impact/public-policy/Discovering Oxford’s Bodleian Library and Its Historic Quadrangle.jpeg",
+        description:
+          "During my visit to the University of Oxford, I was captivated by the historic charm of the Old Schools Quadrangle, an open courtyard nestled at the heart of the Old Bodleian Library...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oxforduniversity-bodleianlibrary-academic-activity-7337684966782181377-lepf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1q9GcV4UpBQcCbCUxhoi8a2X4vS_iSofF/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.64",
+    title: "Exploring the Library Artefacts at St John's College, Oxford",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Centuries of History at St John’s College, Oxford",
+        image:
+          "assets/img/impact/public-policy/Exploring Centuries of History at St John’s College, Oxford.png",
+        description:
+          "I had the pleasure of exploring the fascinating Library Artefacts at St John's College, Oxford, UK. The Library & Study Centre isn’t just a home for manuscripts...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oxford-library-artefacts-activity-7337394574069248000--LY2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FFpH22R6O0utMiwOYYX1DKMDPhng1nc5/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.63",
+    title:
+      "Exploring the Prestigious Global Media Outlets at the London School of Economics and Political Science (LSE)",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Mastering Media Visibility & Public Speaking at LSE",
+        image: "assets/img/impact/public-policy/Mastering Media Visibility & Public Speaking at LSE.png",
+        description:
+          "Yesterday was an incredible opportunity to deepen my understanding of how to get featured in prestigious global media outlets and enhance my public speaking skills, particularly for voiceovers and broadcast...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7336784631742025728-Zdr5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1pg8cGJg7uXd0DbcO27uvNx9edpTf4lz3/view",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.62",
+    title:
+      "Exploring the themes of storytelling at the London School of Economics and Political Science (LSE)",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Mastering Ethical Storytelling & Lightning Pitches at LSE",
+        image:
+          "assets/img/impact/public-policy/Mastering Ethical Storytelling & Lightning Pitches at LSE.png",
+        description:
+          "Yesterday, I explored the themes of storytelling, influencing myths, and raising voices through ethical storytelling in the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE) here in London...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7336317420191608832-Pt3t?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ua7EM3YurS6H_2ER4iRvJb3pVk02PTdu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.61",
+    title:
+      "Participating in the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE)",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Strategic Communication Masterclass Begins at LSE",
+        image: "assets/img/impact/public-policy/Strategic Communication Masterclass.png",
+        description:
+          "Today, we kicked off the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE) in London, UK. Nick Leimu-Brown’s session on Land Degradation and Ecosystem Services offered fascinating insights...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7335372948188344321-ziTj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1xvbMyNZfBzKceeDyvCD6YbdwNlxzvLP5/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
     id: "7.60",
     title: "Participation in the Nagasaki Peace-Preneur Forum at BENEX Nagasaki Brick Hall",
     slides: [
@@ -6362,6 +6532,28 @@ const impacts = [
         date: "May 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Let’s Connect in St. Petersburg & Moscow: AgTech & Climate Action",
+        image: "assets/img/impact/public-policy/Let’s Connect in St. Petersburg & Moscow.jpeg",
+        description:
+          "I’ll be in St. Petersburg and Moscow next month, and I’m eager to connect with entrepreneurs, investors, and innovators...",
+        link: "https://www.linkedin.com/posts/lilanofficial_russia-petersburg-moscow-activity-7333852371405479936-ddG5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QNQjkJ-eBCc8hc_86V_8VMwNofdbcbax/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring the Future of Tech at London Tech Week 2025",
+        image: "assets/img/impact/public-policy/Exploring the Future of Tech at London Tech Week 2025.jpeg",
+        description:
+          "Next month, I'll be joining thousands of innovators, investors, and tech leaders at the #LondonTechWeek to...",
+        link: "https://www.linkedin.com/posts/lilanofficial_londontechweek-ai-ltw25-activity-7333876746326331392-uvo9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1O3zSZlIYf4HGsGg43-GHPH68Qd9unO-u/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Calling Change-Makers in NYC: Let’s Connect on Climate & Agriculture! 🌱🗽",
         image: "assets/img/impact/public-policy/Calling Change-Makers in NYC.jpeg",
         description:
@@ -6923,6 +7115,62 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.53",
+    title: "Speaking Live on Business FM Regarding International Economics",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Live on Business FM: Rethinking Global Economics for a Sustainable Future",
+        image: "assets/img/impact/leadership-economic/Live on Business FM.jpeg",
+        description:
+          "I had the exclusive opportunity to share my thoughts on international economics live on Business FM (87.5) during the St. Petersburg International Economic Forum (SPIEF), hosted by Roscongress...",
+        link: "https://www.linkedin.com/posts/lilanofficial_spief-roscongress-businessfm-activity-7345366484887445504-x4ev?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1tTWvQtuhWq-T-boCNOC_OdzbELnwSEQ1/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.52",
+    title: "Speaking on Russia’s Leading Television Channel on SME Importance",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Speaking on Russia’s Flagship TV Channel About SMEs and National Goals",
+        image:
+          "assets/img/impact/leadership-economic/Speaking on Russia’s Flagship TV Channel About SMEs and National Goals.jpeg",
+        description:
+          "It was an honour to speak on Russia’s leading television channel, Rossiya-1, and to be exclusively invited to the session...",
+        link: "https://www.linkedin.com/posts/lilanofficial_media-entrepreneurship-startup-activity-7344647512563077120-lmC8?utm_source=share&utm_medium=member_android&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1KnjWzk0bjvrASO-yYypfQQEiGf-HcM4b/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.51",
+    title: "Addressing the New Generation's Friends for Leadership Community",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Advancing Sustainable Development with Global Young Leaders",
+        image:
+          "assets/img/impact/leadership-economic/Advancing Sustainable Development with Global Young Leader.png",
+        description:
+          "It was a valuable opportunity to connect with the Friends for Leadership community at New Generation’s gathering in St. Petersburg, Russian Federation. Friends for Leadership is a global network...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-sdgs-sustainable-activity-7344125866018263045-L-8Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1JxYzxhdinrMOBMZNMRQOv6AAvtVIP_3-/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.50",
@@ -7958,6 +8206,25 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.32",
+    title: "Addressing the New Generation's Friends for Leadership Community",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Advancing Sustainable Development with Global Young Leaders",
+        image:
+          "assets/img/impact/youth-women-empowerment/Advancing Sustainable Development with Global Young Leader.png",
+        description:
+          "It was a valuable opportunity to connect with the Friends for Leadership community at New Generation’s gathering in St. Petersburg, Russian Federation. Friends for Leadership is a global network...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-sdgs-sustainable-activity-7344125866018263045-L-8Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1JxYzxhdinrMOBMZNMRQOv6AAvtVIP_3-/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-youth-women-empowerment",
     id: "9.31",
@@ -9209,7 +9476,7 @@ const impacts = [
 
   {
     filter: "filter-aerospace-outer-space",
-    id: "11.4",
+    id: "11.5",
     title: 'MELTINGPOT session on the topic "Why Should Artists Fly to Space?"',
     slides: [
       {
@@ -9222,6 +9489,24 @@ const impacts = [
           'I had the opportunity to participate in an insightful plenary session on the topic "Why Should Artists Fly to Space?" at the MELTINGPOT by Colours of Ostrava, conducted by the Moonshot Platform...',
         link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7224021339634876416-TRXB?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1-QMPb6DB_k64Ug25dUckP006mer66bPX/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-aerospace-outer-space",
+    id: "11.4",
+    title: "Exploring Russian Innovations in Robotics and Artificial Intelligence (AI) for Aerospace",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Robotics and AI at SPIEF: From Innovation to Real-World Impact",
+        image: "assets/img/impact/aerospace-outer-space/Robotics and AI at SPIEF.png",
+        description:
+          "Attending the flagship economic forum of the Russian Federation was a powerful reminder of how robotics and AI are rapidly reshaping economies and societies...",
+        link: "https://www.linkedin.com/posts/lilanofficial_tech-technology-robo-activity-7344943068887859200-68_-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15_Gtr6z6qJhmcPwRe4XKpbcGApnixRXg/view?usp=sharing",
       },
     ],
   },
