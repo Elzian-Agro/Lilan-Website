@@ -844,6 +844,7 @@ section,
   font-size: 32px;
   padding-right: 10px;
   line-height: 0;
+  color: var(--accent-color);
 }
 
 .interests .features-item h3 {
