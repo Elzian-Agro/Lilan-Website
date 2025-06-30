@@ -1496,6 +1496,61 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.86",
+    title: "Speaking Live on Business FM Regarding International Economics",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Live on Business FM: Rethinking Global Economics for a Sustainable Future",
+        image: "assets/img/impact/innovation-social/Live on Business FM.jpeg",
+        description:
+          "I had the exclusive opportunity to share my thoughts on international economics live on Business FM (87.5) during the St. Petersburg International Economic Forum (SPIEF), hosted by Roscongress...",
+        link: "https://www.linkedin.com/posts/lilanofficial_spief-roscongress-businessfm-activity-7345366484887445504-x4ev?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1tTWvQtuhWq-T-boCNOC_OdzbELnwSEQ1/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.85",
+    title: "Exploring Russian Innovations in Robotics and Artificial Intelligence (AI)",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Robotics and AI at SPIEF: From Innovation to Real-World Impact",
+        image: "assets/img/impact/innovation-social/Robotics and AI at SPIEF.png",
+        description:
+          "Attending the flagship economic forum of the Russian Federation was a powerful reminder of how robotics and AI are rapidly reshaping economies and societies...",
+        link: "https://www.linkedin.com/posts/lilanofficial_tech-technology-robo-activity-7344943068887859200-68_-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15_Gtr6z6qJhmcPwRe4XKpbcGApnixRXg/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.84",
+    title: "Speaking on Russia’s Leading Television Channel on SME Importance",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Speaking on Russia’s Flagship TV Channel About SMEs and National Goals",
+        image:
+          "assets/img/impact/innovation-social/Speaking on Russia’s Flagship TV Channel About SMEs and National Goals.jpeg",
+        description:
+          "It was an honour to speak on Russia’s leading television channel, Rossiya-1, and to be exclusively invited to the session...",
+        link: "https://www.linkedin.com/posts/lilanofficial_media-entrepreneurship-startup-activity-7344647512563077120-lmC8?utm_source=share&utm_medium=member_android&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1KnjWzk0bjvrASO-yYypfQQEiGf-HcM4b/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.83",
     title: "Exploring Health Tech Innovation",
     slides: [
@@ -3216,6 +3271,63 @@ const impacts = [
 
   {
     filter: "filter-food-agriculture",
+    id: "4.40",
+    title: "Agricultural Zones Exploration with the Russian Agricultural Bank",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Agritech Innovation and Food Security at SPIEF’s Agricultural Zones",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Exploring Agritech Innovation and Food Security at SPIEF’s Agricultural Zones.png",
+        description:
+          "I was honored to be invited by the Russian Agricultural Bank to explore the Agricultural Zones, an experience that left me energized about the future of agritech and cross-border collaboration...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-technology-activity-7343138280214863872-c3wF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1t99FpqUQ-ADP09hQNXi0kDAJwYmzRYC2/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.39",
+    title:
+      "Participating the Session on the Striving for Leadership: The New Generation of High-Tech Industry Leaders",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building the Future: Insights from Emerging High-Tech Leaders in Russia",
+        image: "assets/img/impact/food-agriculture-forestry/Building the Future Insights.png",
+        description:
+          "Technology is transforming our world at an unprecedented pace. AI, machine learning, robotics, and cloud databases are no longer optional; they’re essential to humanity’s progress...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-robotics-activity-7341654754013429762-EWFa?utm_source=share&utm_medium=member_android&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1A_Xgs4ozdDKqzZDze2m7K3AjVqXrKkG1/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.38",
+    title: "Visiting the Greenwich Peninsula Ecology Park in South London, England",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Urban Biodiversity at Greenwich Peninsula Ecology Park",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Exploring Urban Biodiversity at Greenwich Peninsula Ecology Park.png",
+        description:
+          "I had the opportunity to visit the Greenwich Peninsula Ecology Park situated along the River Thames in the Greenwich Peninsula in South London, England...",
+        link: "https://www.linkedin.com/posts/lilanofficial_greenwich-peninsula-ecologypark-activity-7339953118735998976-ivW6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QZR-v-I2c8IuzDOm4ZBF5S_FcSveepds/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
     id: "4.37",
     title: "Participation in the Strategic Communication for Land Restoration Masterclass in London",
     slides: [
@@ -3230,6 +3342,28 @@ const impacts = [
           "For agritech entrepreneurs, land restoration isn’t just an environmental responsibility; it's a powerful business advantage for ELZIAN AGRO...",
         link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7331791776904605697-SP0X?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1qyLzMakV1qp1_dpDRmuG1F-rPY5E0MFV/view?usp=sharing",
+      },
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Strategic Communication Masterclass Begins at LSE",
+        image: "assets/img/impact/food-agriculture-forestry/Strategic Communication Masterclass.png",
+        description:
+          "Today, we kicked off the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE) in London, UK. Nick Leimu-Brown’s session on Land Degradation and Ecosystem Services offered fascinating insights...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7335372948188344321-ziTj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1xvbMyNZfBzKceeDyvCD6YbdwNlxzvLP5/view?usp=sharing",
+      },
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "AI and Strategic Communication: Reflections from LSE’s Masterclass in London",
+        image: "assets/img/impact/food-agriculture-forestry/AI and Strategic Communication.png",
+        description:
+          "Today, I explored the opportunities and challenges of working with AI in the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE), here in London, UK...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7335720779981930498-Rsuz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1JeeyQ724ZCapq6bOgIRXbhpxLUzNS7iE/view?usp=sharing",
       },
     ],
   },
