@@ -31,6 +31,24 @@ const meadia = [
 
   {
     filter: "filter-other-media-appearances",
+    id: "12.48",
+    title: "Top Voices in Young Innovators - New in Asia (03-June-2025)",
+    slides: [
+      {
+        date: "June 3, 2025",
+        source_name: "New In Asia",
+        source_link: "https://www.linkedin.com/company/newinasia/posts/",
+        title: "Young Asian Innovators Redefining the Future",
+        image: "assets/img/meadia/other-media/Young Asian Innovators Redefining the Future.jpeg",
+        description:
+          "Across Asia, a new wave of bold, tech-savvy, mission-led voices are building what they want to see in the world...",
+        link: "https://www.linkedin.com/posts/newinasia_innovationinasia-nextgenleaders-emergingvoices-activity-7346341935592194048-z6ym?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1-iYoQB9fItJXL4tF2M5MlNHuhN_8urSh/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
     id: "12.47",
     title: "One Young World (OYW) Accelerating impact through systems thinking (16-April-2025)",
     slides: [
