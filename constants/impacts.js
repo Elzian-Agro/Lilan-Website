@@ -1496,6 +1496,138 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.92",
+    title: "Participating in the Youth Zone at the ‘AI for Good Summit’ by ITU",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "AI for Good Summit: Empowering Youth to Drive Global Impact",
+        image: "assets/img/impact/innovation-social/AI for Good Summit.png",
+        description:
+          "I had the incredible opportunity to participate in the Youth Zone at the ‘AI for Good Summit’ (on going these days) in Geneva, Switzerland; an event that stands as the United Nations’ leading platform on Artificial Intelligence...",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-tech-technology-activity-7348719997252182017-VQUO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1O_tamuqlb_AXX5Ema5rOw67XSmOUlzvg/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.91",
+    title:
+      "Visiting the G20 Global Land Initiative at the UN in Bonn to Pitch the Intergenerational Podcast Series",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Strengthening Synergies: ELZIAN AGRO at the G20 Global Land Initiative in Bonn",
+        image: "assets/img/impact/innovation-social/Strengthening Synergies.png",
+        description:
+          "Today, I had the privilege of visiting the G20 Global Land Initiative at the UNCCD in Bonn, Germany, to discuss one of our (ELZIAN AGRO’s) upcoming digital awareness initiatives...",
+        link: "https://www.linkedin.com/posts/lilanofficial_un-unccd-sustainability-activity-7346550762048507908-J7zU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dAfH4sFWr97mWTqr7vzEE9cWOSuGRaEy/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.90",
+    title:
+      "World Summit Award's session at the WSIS Forum on Futurizing Democracy, Threats and Opportunities in the Digital Age",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Futurizing Democracy: Join the Dialogue at WSIS 2025",
+        image: "assets/img/impact/innovation-social/Futurizing Democracy.png",
+        description:
+          "Join me at WSA’s session at the WSIS Forum 2025 in Geneva, Switzerland! We’ll discuss 'Futurizing Democracy, Threats and Opportunities in the Digital Age'. Together we'll discuss how disinformation, fake news, hate speech and malicious bots erode our civil discourse...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsis-wsa-connect4impact-activity-7346407176791277569-v700?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1OI6hs1gJKWoU4XCkjYOMOYHzAkkLrl0D/view?usp=sharing",
+      },
+      {
+        date: "July 8, 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Futurizing Democracy. Threats and Opportunities in the Digital Age",
+        image: "assets/img/impact/innovation-social/Threats and Opportunities in the Digital Age.png",
+        description:
+          "Our democracies are facing unprecedented digital pressure. As AI evolves rapidly and the digital public sphere becomes increasingly weaponized, core democratic principles...",
+        link: "https://www.itu.int/net4/wsis/forum/2025/Agenda/Session/204",
+        backup_image: "https://drive.google.com/file/d/1xaXUBXrEk8XlcUokElbs6pTa6PK-Zb9l/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.89",
+    title: "Top Voices in Young Innovators - New in Asia",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "New In Asia",
+        source_link: "https://www.linkedin.com/company/newinasia/posts/",
+        title: "Young Asian Innovators Redefining the Future",
+        image: "assets/img/impact/innovation-social/Young Asian Innovators Redefining the Future.jpeg",
+        description:
+          "Across Asia, a new wave of bold, tech-savvy, mission-led voices are building what they want to see in the world...",
+        link: "https://www.linkedin.com/posts/newinasia_innovationinasia-nextgenleaders-emergingvoices-activity-7346341935592194048-z6ym?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1-iYoQB9fItJXL4tF2M5MlNHuhN_8urSh/view?usp=sharing",
+      },
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored by New In Asia: Celebrating a Milestone with ELZIAN AGRO",
+        image: "assets/img/impact/innovation-social/Honored by New In Asia.jpeg",
+        description:
+          "A heartfelt thank you to the co-founders Pankajan Satkunam, Tharindu Priyankara, the dedicated ELZIAN AGRO team, and all our valued stakeholders. Your passion and commitment drive our mission forward every day...",
+        link: "https://www.linkedin.com/posts/lilanofficial_teamwork-elzianagro-ea-activity-7346398121813266432-Hz4B?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1_6tSMFPpQGYc_j1atJIUONwoT0cl9DPb/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.88",
+    title: "Contributing to Discussions Artificial Intelligence Technologies at SPIEF, Roscongress",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "AI Strategies in the Cloud Era: Insights from SPIEF with Yandex",
+        image: "assets/img/impact/innovation-social/AI Strategies in the Cloud Era.jpeg",
+        description:
+          "At ELZIAN AGRO, we’ve been regular users of Yandex Premium for over four years, and it was a pleasure to meet Alexander Krainov, Director for Development of Artificial Intelligence Technologies of Yandex...",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-artificialintelligence-intelligence-activity-7346280074750382081-gx4-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QMZ023Iwo2n7uQZW7gkjCZ6ALHY11zLr/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.87",
+    title: "Conducting Pilots of Precision Agriculture Technologies in the Russian Federation",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Russia's Precision Agriculture Boom: Tech-Driven Farming Amid Sanctions",
+        image: "assets/img/impact/innovation-social/Russia's Precision Agriculture Boom.jpeg",
+        description:
+          "Conducted a successful pilot of precision agriculture technologies in the Russian Federation with the support of the Russian Agricultural Bank. Precision agriculture holds immense potential in Russia, driven by economic...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-tech-activity-7345990582013476865-Y1ll?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1DTouc4oHIkuI_TWsHi7ckwGLIlxia_3O/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.86",
     title: "Speaking Live on Business FM Regarding International Economics",
     slides: [
@@ -3269,6 +3401,61 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-food-agriculture",
+    id: "4.43",
+    title: "Participating in Luxembourg’s flagship Agricultural Fair",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating Innovation and Tradition at Luxembourg’s Foire Agricole",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Celebrating Innovation and Tradition at Luxembourg’s Foire Agricole.png",
+        description:
+          "I had the pleasure of participating in Luxembourg’s flagship Agricultural Fair, the renowned “Foire Agricole” in Ettelbrück, which wrapped up yesterday. As always, the event proved to be a tremendous crowd-puller, drawing thousands...",
+        link: "https://www.linkedin.com/posts/lilanofficial_agricultural-fair-luxembourg-activity-7348059448050925568-bujh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1I0ghZxuHIxx2bT3mU0TLFRzSanCcs7J7/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.42",
+    title: "Visiting the European Commission Pavilion at the Agricultural Fair in Ettelbruck",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Labour, Policy & Climate: Reflections from Germany and Luxembourg",
+        image: "assets/img/impact/food-agriculture-forestry/Labour, Policy & Climate.png",
+        description:
+          "Just a couple of days ago in Cologne, Germany, I had the privilege of engaging in a thought-provoking discussion with Dr. Barbara Kauffmann, Director at the European Commission, alongside esteemed colleagues...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-europe-activity-7347400288829415424-deJc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1B_FATVXaA3A6byhm2ty3KGJNrJNcTcm_/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.41",
+    title: "Conducting Pilots of Precision Agriculture Technologies in the Russian Federation",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Russia's Precision Agriculture Boom: Tech-Driven Farming Amid Sanctions",
+        image: "assets/img/impact/food-agriculture-forestry/Russia's Precision Agriculture Boom.jpeg",
+        description:
+          "Conducted a successful pilot of precision agriculture technologies in the Russian Federation with the support of the Russian Agricultural Bank. Precision agriculture holds immense potential in Russia, driven by economic...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-tech-activity-7345990582013476865-Y1ll?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1DTouc4oHIkuI_TWsHi7ckwGLIlxia_3O/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-food-agriculture",
     id: "4.40",
@@ -5580,6 +5767,73 @@ const impacts = [
 
   {
     filter: "filter-public-policy",
+    id: "7.71",
+    title: "Visiting the European Commission Pavilion at the Agricultural Fair in Ettelbruck",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Labour, Policy & Climate: Reflections from Germany and Luxembourg",
+        image: "assets/img/impact/public-policy/Labour, Policy & Climate.png",
+        description:
+          "Just a couple of days ago in Cologne, Germany, I had the privilege of engaging in a thought-provoking discussion with Dr. Barbara Kauffmann, Director at the European Commission, alongside esteemed colleagues...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-europe-activity-7347400288829415424-deJc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1B_FATVXaA3A6byhm2ty3KGJNrJNcTcm_/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.70",
+    title:
+      "Visiting the G20 Global Land Initiative at the UN in Bonn to Pitch the Intergenerational Podcast Series",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Strengthening Synergies: ELZIAN AGRO at the G20 Global Land Initiative in Bonn",
+        image: "assets/img/impact/public-policy/Strengthening Synergies.png",
+        description:
+          "Today, I had the privilege of visiting the G20 Global Land Initiative at the UNCCD in Bonn, Germany, to discuss one of our (ELZIAN AGRO’s) upcoming digital awareness initiatives...",
+        link: "https://www.linkedin.com/posts/lilanofficial_un-unccd-sustainability-activity-7346550762048507908-J7zU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dAfH4sFWr97mWTqr7vzEE9cWOSuGRaEy/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.69",
+    title:
+      "World Summit Award's session at the WSIS Forum on Futurizing Democracy, Threats and Opportunities in the Digital Age",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Futurizing Democracy: Join the Dialogue at WSIS 2025",
+        image: "assets/img/impact/public-policy/Futurizing Democracy.png",
+        description:
+          "Join me at WSA’s session at the WSIS Forum 2025 in Geneva, Switzerland! We’ll discuss 'Futurizing Democracy, Threats and Opportunities in the Digital Age'. Together we'll discuss how disinformation, fake news, hate speech and malicious bots erode our civil discourse...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsis-wsa-connect4impact-activity-7346407176791277569-v700?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1OI6hs1gJKWoU4XCkjYOMOYHzAkkLrl0D/view?usp=sharing",
+      },
+      {
+        date: "July 8, 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Futurizing Democracy. Threats and Opportunities in the Digital Age",
+        image: "assets/img/impact/public-policy/Threats and Opportunities in the Digital Age.png",
+        description:
+          "Our democracies are facing unprecedented digital pressure. As AI evolves rapidly and the digital public sphere becomes increasingly weaponized, core democratic principles...",
+        link: "https://www.itu.int/net4/wsis/forum/2025/Agenda/Session/204",
+        backup_image: "https://drive.google.com/file/d/1xaXUBXrEk8XlcUokElbs6pTa6PK-Zb9l/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
     id: "7.68",
     title: "Visiting the Pitt Rivers Museum and Oxford Philharmonic Orchestra in Oxford",
     slides: [
@@ -6370,6 +6624,28 @@ const impacts = [
     title: "Connecting with the International Communities",
     slides: [
       {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Power of Reconnection: AI for Good, Geneva 2025",
+        image: "assets/img/impact/public-policy/The Power of Reconnection.png",
+        description:
+          "As 'reconnection' is one of my middle names, today felt like coming home. At the ‘AI for Good’ Summit in Geneva, I didn’t just shake hands; I rekindled partnerships, reignited old conversations...",
+        link: "https://www.linkedin.com/posts/lilanofficial_network-connection-community-activity-7348375679400296448-_qc-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1F-O7XkNZUSpulsOVAKk41gGsn9jn0UPo/view?usp=sharing",
+      },
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Innovation at Luxembourg’s Agri-Fair 2025",
+        image: "assets/img/impact/public-policy/Exploring Innovation at Luxembourg’s Agri-Fair 2025.jpeg",
+        description:
+          "Today, Luxembourg’s largest open-air agricultural event brings together farmers, foresters, horticulturists, and agri-biotech innovators. As an agritech entrepreneur, I’m eager to connect with industry leaders...",
+        link: "https://www.linkedin.com/posts/lilanofficial_agritech-sustainablefarming-innovation-activity-7346863099636826113-uVkl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1KtguXQOmRUvVORU25FwUCl1xaO2lHPsR/view?usp=sharing",
+      },
+      {
         date: "May 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -7115,6 +7391,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.54",
+    title: "Contributing to Discussions Artificial Intelligence Technologies at SPIEF, Roscongress",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "AI Strategies in the Cloud Era: Insights from SPIEF with Yandex",
+        image: "assets/img/impact/leadership-economic/AI Strategies in the Cloud Era.jpeg",
+        description:
+          "At ELZIAN AGRO, we’ve been regular users of Yandex Premium for over four years, and it was a pleasure to meet Alexander Krainov, Director for Development of Artificial Intelligence Technologies of Yandex...",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-artificialintelligence-intelligence-activity-7346280074750382081-gx4-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QMZ023Iwo2n7uQZW7gkjCZ6ALHY11zLr/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.53",
