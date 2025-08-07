@@ -1496,6 +1496,96 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.97",
+    title: "Participating in the WSIS+20 High-Level Event",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSIS+20 in Geneva: Advancing Digital Cooperation for a More Inclusive Future",
+        image: "assets/img/impact/innovation-social/WSIS+20 in Geneva.jpeg",
+        description:
+          "The WSIS+20 High-Level Event in Geneva, which marked 20 years since the launch of the World Summit on the Information Society (WSIS). Co-hosted by International Telecommunication Union and the Swiss Confederation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsis20-digitalinclusion-tech4good-activity-7353865395033853955-DMZz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1aIL_jhTF2uFoyl9sjaz-Y-tzRpq0G6i0/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.96",
+    title: "Visiting the Tesla Berlin Gigafactory",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inside Tesla Berlin: Exploring the Future of Automation and AI-Driven Manufacturing",
+        image: "assets/img/impact/innovation-social/Inside Tesla Berlin.png",
+        description:
+          "Yesterday, I had the incredible opportunity to tour the Tesla Berlin Gigafactory and dive deep into the latest advancements in automated driving, Full Self-Driving (FSD) testing, and cutting-edge production processes...",
+        link: "https://www.linkedin.com/posts/lilanofficial_tesla-gigafactory-automation-activity-7353800357535211520-jCv9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1PxqI5I3aqcmvkMU0ClcuWp5fK59P69hc/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.95",
+    title: "Speaking for Futurizing Democracy: Threats and Opportunities in the Digital Age",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Defending Democracy in the Digital Age: Reflections from AI for Good 2025",
+        image: "assets/img/impact/innovation-social/Defending Democracy in the Digital Age.jpeg",
+        description:
+          "Reflecting on the AI for Good Global Summit in Geneva, I was honored to participate in the session “Futurizing Democracy: Threats and Opportunities in the Digital Age.” It was a privilege to share the panel...",
+        link: "https://www.linkedin.com/posts/lilanofficial_tech-technology-ai-activity-7350032196394508288-i-SK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ES5yiAvhnevofdFl8s1u0ycBQ0rEtjZH/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.94",
+    title: "Participate in the 'AI for Good' Global Summit by ITU",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflecting on AI for Good 2025: Innovation, Ethics, and Collective Impact",
+        image: "assets/img/impact/innovation-social/Reflecting on AI for Good 2025.jpeg",
+        description:
+          "As the AI for Good Summit concluded yesterday in Geneva, I was truly inspired to be part of a gathering that brought together some of the brightest minds in artificial intelligence, social innovation, and global development...",
+        link: "https://www.linkedin.com/posts/lilanofficial_aiforgood-ai-social-activity-7349749968712196096-U4Ud?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Z0iB3EJANqS5jm2Q2oqgrGtVXLdA7QAm/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.93",
+    title: "Participating in the United Nations World Summit on the Information Society (WSIS)",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Discover Digital Innovation for Impact – Visit the WSA Stand at AI for Good",
+        image: "assets/img/impact/innovation-social/Discover Digital Innovation for Impact.jpeg",
+        description:
+          "As a WSA Youth Ambassador at the AI for Good Global Summit in Geneva, I am excited to invite all participants to visit the World Summit Awards (WSA) stand, a hub for digital innovation with real-world impact...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-aiforgood-digitalinnovation-activity-7349005646815469568-pyFu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gxQ8knn_ZnBTzOkMluOTX01I2sI-e9AF/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.92",
     title: "Participating in the Youth Zone at the ‘AI for Good Summit’ by ITU",
     slides: [
@@ -3401,6 +3491,45 @@ const impacts = [
     ],
   },
 
+
+  {
+    filter: "filter-food-agriculture",
+    id: "4.44",
+    title: "Cherry Plantation Exploration in Hamburg",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Tropical Cherry Farming: A Climate-Resilient Opportunity or Risky Venture?",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Tropical Cherry Farming.jpeg",
+        description:
+          "Inspired by the thriving cherries in Hamburg, a group of seasoned Berliners set out to start a cherry plantation in Sri Lanka. I recently had the opportunity to meet with them and share a reality check...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cherry-agriculture-food-activity-7355078951569936384-uIOv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1iSSoOKY9jqXpdAX2Sz4W3IK-WWrPOvcq/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.44",
+    title: "Representing FAO's World Food Programme's Youth Community at the AI for Good Global Summit",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Inclusive Digital Futures: Reflections from WSIS+20 and AI for Good 2025",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Empowering Inclusive Digital Futures.jpeg",
+        description:
+          "As a Youth Representative of FAO's World Food Programme, I had the opportunity to participate in the plenary sessions of FAO. Participating in the World Summit on the Information Society...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsis20-aiforgood-itu-activity-7349341686914797568-XiTx?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Mt_xJ-PugV864lJMnueXTZe5y7WImotS/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-food-agriculture",
     id: "4.43",
@@ -4466,7 +4595,7 @@ const impacts = [
 
   {
     filter: "filter-renewable-energy",
-    id: "5.8",
+    id: "5.9",
     title: "Presenting Sustainable Energy Transitions for AI at the United Nations Headquarters",
     slides: [
       {
@@ -4479,6 +4608,24 @@ const impacts = [
           "Yesterday, I had the pleasure of speaking at the session on “Making AI Accessible, Inclusive, and Beneficial for All” during the Multi-Stakeholder Forum on Science, Technology and Innovation...",
         link: "https://www.linkedin.com/posts/lilanofficial_aiforgood-stiforum-sustainable-activity-7326253314600226817-J4pG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1r1snxh8sc982vo1HcDnlNITJbJB0bVzu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
+    id: "5.8",
+    title: "Visiting the Tesla Berlin Gigafactory",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inside Tesla Berlin: Exploring the Future of Automation and AI-Driven Manufacturing",
+        image: "assets/img/impact/renewable-energy/Inside Tesla Berlin.png",
+        description:
+          "Yesterday, I had the incredible opportunity to tour the Tesla Berlin Gigafactory and dive deep into the latest advancements in automated driving, Full Self-Driving (FSD) testing, and cutting-edge production processes...",
+        link: "https://www.linkedin.com/posts/lilanofficial_tesla-gigafactory-automation-activity-7353800357535211520-jCv9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1PxqI5I3aqcmvkMU0ClcuWp5fK59P69hc/view?usp=sharing",
       },
     ],
   },
@@ -4629,6 +4776,25 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-climate-environmental",
+    id: "6.55",
+    title: "Participating in the Reflective Walk/Hike around Klempowsee, looping from Wusterhausen",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Walking into Clarity: A Reflective Journey Through Nature, Work, and Self-Discovery",
+        image:
+          "assets/img/impact/climate-environmental/Walking into Clarity.png",
+        description:
+          "Today, I had the opportunity to participate in an inspiring reflective walk around Klempowsee, looping from Wusterhausen (Dosse) and exploring the lush green spaces near Berlin, Germany...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nature-walk-hike-activity-7352882824594542592-lwfj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1SpebcKsNzWD4P2Tznl-Y0jWgRlKVq0Dt/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-climate-environmental",
     id: "6.54",
@@ -5767,6 +5933,168 @@ const impacts = [
 
   {
     filter: "filter-public-policy",
+    id: "7.80",
+    title: "Exploring Democratic Tools Tailored for Daily Life Practices",
+    slides: [
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Leading with Courage: Everyday Tools for Democratic Leadership",
+        image: "assets/img/impact/public-policy/Leading with Courage.jpeg",
+        description:
+          "On the seventh day of the Caux Creative Leadership Program at the historic Villa Maria and the inspiring Caux Palace, I delved deeply into the theme of ‘courage’, not just as a lofty ideal, but as a practical compass for everyday leadership...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-courage-inclusive-activity-7358399964630167552-z0wf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1cV7iIyW4hn0KmldZOeh6RPhf79Sokd0m/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.79",
+    title: "Participating in the Council of All Beings, Democracy Lab on Art and Theatre",
+    slides: [
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Listening Beyond Ourselves: Trust, Democracy, and the Voices of All Beings",
+        image: "assets/img/impact/public-policy/Listening Beyond Ourselves.jpeg",
+        description:
+          "On the Sixth day of the Caux Creative Leadership Program in Switzerland, I immersed myself into Trust, Expressive Democracy, and Listening Beyond Ourselves. It was a transformative journey...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-trust-forum-activity-7357961373865177088--2e9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1icFuudPM3MYI3P6Nl2kVdMIGyj6SScCG/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.78",
+    title: "Participating in the Collaborative Community Group Discussions at the Caux Democracy Forum",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Practicing Integrity: From Inner Reflection to Collective Action",
+        image: "assets/img/impact/public-policy/Practicing Integrity.jpeg",
+        description:
+          "On the fifth day of the Caux Creative Leadership Program in Switzerland, I immersed myself in the theme of Integrity, exploring its meaning through deeply personal stories, candid conversations, and collaborative community group discussions....",
+        link: "https://www.linkedin.com/posts/lilanofficial_creative-leadership-integrity-activity-7355856601225814020-Pu7f?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1xwDf8kdKeAHGVKXvozz5QCcEXFav2Ppb/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.77",
+    title: "Celebrating Swiss National Day at the historic Caux Palace",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating Swiss National Day at Caux Palace: A Day of Tradition, Community, and Alpine Beauty",
+        image: "assets/img/impact/public-policy/Celebrating Swiss National Day at Caux Palace.jpeg",
+        description:
+          "What an inspiring day (today) celebrating Swiss National Day at the historic Caux Palace! Perched 1,000 meters above Montreux, the Caux Palace offered a breathtaking backdrop...",
+        link: "https://www.linkedin.com/posts/lilanofficial_switzerland-national-celebration-activity-7357280053354795008-vAkl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Ew7v8gGCoe9WvEaXnXxtUY8Di2ZHhXSL/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.76",
+    title: "Diving into Creative Journaling and to the Caux Democracy Forum",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Leading with Integrity: Reflections from Day 4 of the Creative Leadership Program in Caux",
+        image: "assets/img/impact/public-policy/Leading with Integrity.png",
+        description:
+          "On the fourth day of the Caux Creative Leadership Program in Montreux, Switzerland, I began with a deep dive into creative journaling, an exercise...",
+        link: "https://www.linkedin.com/posts/lilanofficial_creative-leadership-integrity-activity-7355492953005436928-6UA0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Hp8gbU264SoubKPs1gpf9SoB1jXfLJRg/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.75",
+    title: "Participating Quiet Reflections, Trust-building and Community-building Activities",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Creative Leadership Day 2: Exploring Identity, Democracy, and Collective Growth in Caux",
+        image: "assets/img/impact/public-policy/Creative Leadership Day 2.jpeg",
+        description:
+          "The second day of the Creative Leadership Program at the Caux Palace in Switzerland began with a powerful moment of quiet reflection, a time to tune into our “inner weather,” to cultivate...",
+        link: "https://www.linkedin.com/posts/lilanofficial_creativeleadership-trustbuilding-community-activity-7350883995519238145-YBS6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1UCi9vfXxRsrCiygxU4fgxbXAx_lyU9bE/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.74",
+    title: "Aligning with IofC’s vision of a just, peaceful, and sustainable world through Creative Leadership Program",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Creative Leadership in Caux: Storytelling, Connection, and the Journey Within",
+        image: "assets/img/impact/public-policy/Creative Leadership in Caux.png",
+        description:
+          "Day one at the Creative Leadership Program in Caux, Switzerland, was all about building meaningful connections and fostering socialization among participants from around the world before diving into days of deep leadership...",
+        link: "https://www.linkedin.com/posts/lilanofficial_creative-leadership-storytelling-activity-7350362647789285377-nOWI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1aMgfeLWBu3ot62JCAjzaqhgRx2WLW4s0/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.73",
+    title: "Speaking for Futurizing Democracy: Threats and Opportunities in the Digital Age",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Defending Democracy in the Digital Age: Reflections from AI for Good 2025",
+        image: "assets/img/impact/public-policy/Defending Democracy in the Digital Age.jpeg",
+        description:
+          "Reflecting on the AI for Good Global Summit in Geneva, I was honored to participate in the session “Futurizing Democracy: Threats and Opportunities in the Digital Age.” It was a privilege to share the panel...",
+        link: "https://www.linkedin.com/posts/lilanofficial_tech-technology-ai-activity-7350032196394508288-i-SK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ES5yiAvhnevofdFl8s1u0ycBQ0rEtjZH/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.72",
+    title: "Participating in the United Nations World Summit on the Information Society (WSIS)",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Discover Digital Innovation for Impact – Visit the WSA Stand at AI for Good",
+        image: "assets/img/impact/public-policy/Discover Digital Innovation for Impact.jpeg",
+        description:
+          "As a WSA Youth Ambassador at the AI for Good Global Summit in Geneva, I am excited to invite all participants to visit the World Summit Awards (WSA) stand, a hub for digital innovation with real-world impact...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-aiforgood-digitalinnovation-activity-7349005646815469568-pyFu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gxQ8knn_ZnBTzOkMluOTX01I2sI-e9AF/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
     id: "7.71",
     title: "Visiting the European Commission Pavilion at the Agricultural Fair in Ettelbruck",
     slides: [
@@ -6624,6 +6952,17 @@ const impacts = [
     title: "Connecting with the International Communities",
     slides: [
       {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating Swiss National Day at Caux Palace: A Day of Tradition, Community, and Alpine Beauty",
+        image: "assets/img/impact/public-policy/Celebrating Swiss National Day at Caux Palace.jpeg",
+        description:
+          "What an inspiring day (today) celebrating Swiss National Day at the historic Caux Palace! Perched 1,000 meters above Montreux, the Caux Palace offered a breathtaking backdrop...",
+        link: "https://www.linkedin.com/posts/lilanofficial_switzerland-national-celebration-activity-7357280053354795008-vAkl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Ew7v8gGCoe9WvEaXnXxtUY8Di2ZHhXSL/view?usp=sharing",
+      },
+      {
         date: "July 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -7391,6 +7730,114 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.60",
+    title: "Participating in the Caux Creative Leadership Program under the Theme of Courage",
+    slides: [
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Leading with Courage: Everyday Tools for Democratic Leadership",
+        image: "assets/img/impact/leadership-economic/Leading with Courage.jpeg",
+        description:
+          "On the seventh day of the Caux Creative Leadership Program at the historic Villa Maria and the inspiring Caux Palace, I delved deeply into the theme of ‘courage’, not just as a lofty ideal, but as a practical compass for everyday leadership...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-courage-inclusive-activity-7358399964630167552-z0wf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1cV7iIyW4hn0KmldZOeh6RPhf79Sokd0m/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.59",
+    title: "Participating in the Council of All Beings, Lab on Art and Theatre",
+    slides: [
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Listening Beyond Ourselves: Trust, Democracy, and the Voices of All Beings",
+        image: "assets/img/impact/leadership-economic/Listening Beyond Ourselves.jpeg",
+        description:
+          "On the Sixth day of the Caux Creative Leadership Program in Switzerland, I immersed myself into Trust, Expressive Democracy, and Listening Beyond Ourselves. It was a transformative journey...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-trust-forum-activity-7357961373865177088--2e9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1icFuudPM3MYI3P6Nl2kVdMIGyj6SScCG/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.58",
+    title: "Diving into Creative Journaling and to the Caux Democracy Forum",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Leading with Integrity: Reflections from Day 4 of the Creative Leadership Program in Caux",
+        image: "assets/img/impact/leadership-economic/Leading with Integrity.png",
+        description:
+          "On the fourth day of the Caux Creative Leadership Program in Montreux, Switzerland, I began with a deep dive into creative journaling, an exercise...",
+        link: "https://www.linkedin.com/posts/lilanofficial_creative-leadership-integrity-activity-7355492953005436928-6UA0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Hp8gbU264SoubKPs1gpf9SoB1jXfLJRg/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.57",
+    title: "Participating in the Caux Creative Leadership Program",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Unfolding Peace Through Story: Day 3 of the Creative Leadership Program in Caux",
+        image: "assets/img/impact/leadership-economic/Unfolding Peace Through Story.jpeg",
+        description:
+          "On the third day of the Caux Creative Leadership Program, I was reminded of the profound power of stories, the narratives that shape our realities, our conflicts, and ultimately, our pathways to peace...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-transformation-narratives-activity-7351263906201292800-iMv0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1PIMeVLfXD-5PxdURiJFgdWch1bbpeUxH/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.56",
+    title: "Participating Quiet Reflections, Trust-building and Community-building Activities",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Creative Leadership Day 2: Exploring Identity, Democracy, and Collective Growth in Caux",
+        image: "assets/img/impact/leadership-economic/Creative Leadership Day 2.jpeg",
+        description:
+          "The second day of the Creative Leadership Program at the Caux Palace in Switzerland began with a powerful moment of quiet reflection, a time to tune into our “inner weather,” to cultivate...",
+        link: "https://www.linkedin.com/posts/lilanofficial_creativeleadership-trustbuilding-community-activity-7350883995519238145-YBS6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1UCi9vfXxRsrCiygxU4fgxbXAx_lyU9bE/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.55",
+    title: "Aligning with IofC’s vision of a just, peaceful, and sustainable world through Creative Leadership Program",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Creative Leadership in Caux: Storytelling, Connection, and the Journey Within",
+        image: "assets/img/impact/leadership-economic/Creative Leadership in Caux.png",
+        description:
+          "Day one at the Creative Leadership Program in Caux, Switzerland, was all about building meaningful connections and fostering socialization among participants from around the world before diving into days of deep leadership...",
+        link: "https://www.linkedin.com/posts/lilanofficial_creative-leadership-storytelling-activity-7350362647789285377-nOWI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1aMgfeLWBu3ot62JCAjzaqhgRx2WLW4s0/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.54",
@@ -8500,6 +8947,25 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.33",
+    title: "Aligning with IofC’s vision of a just, peaceful, and sustainable world through Creative Leadership Program",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Creative Leadership in Caux: Storytelling, Connection, and the Journey Within",
+        image:
+          "assets/img/impact/youth-women-empowerment/Creative Leadership in Caux.png",
+        description:
+          "Day one at the Creative Leadership Program in Caux, Switzerland, was all about building meaningful connections and fostering socialization among participants from around the world before diving into days of deep leadership...",
+        link: "https://www.linkedin.com/posts/lilanofficial_creative-leadership-storytelling-activity-7350362647789285377-nOWI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1aMgfeLWBu3ot62JCAjzaqhgRx2WLW4s0/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-youth-women-empowerment",
     id: "9.32",
@@ -9768,6 +10234,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-aerospace-outer-space",
+    id: "11.6",
+    title: "Participating in the WSIS+20 High-Level Event",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSIS+20 in Geneva: Advancing Digital Cooperation for a More Inclusive Future",
+        image: "assets/img/impact/aerospace-outer-space/WSIS+20 in Geneva.jpeg",
+        description:
+          "The WSIS+20 High-Level Event in Geneva, which marked 20 years since the launch of the World Summit on the Information Society (WSIS). Co-hosted by International Telecommunication Union and the Swiss Confederation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsis20-digitalinclusion-tech4good-activity-7353865395033853955-DMZz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1aIL_jhTF2uFoyl9sjaz-Y-tzRpq0G6i0/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-aerospace-outer-space",
     id: "11.5",
