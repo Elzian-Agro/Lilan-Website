@@ -5933,6 +5933,24 @@ const impacts = [
 
   {
     filter: "filter-public-policy",
+    id: "7.81",
+    title: "Participating in the Caux Reimagining Democracy(ies) Program",
+    slides: [
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Redefining Leadership at the Caux Reimagining Democracy(ies) Program",
+        image: "assets/img/impact/public-policy/Participating in the Caux Reimagining.jpeg",
+        description:
+          "Last month, I had the incredible opportunity to participate in the Caux Reimagining Democracy(ies) Program by the Creative Leadership Project, a week-long immersive experience that redefined my understanding...",
+        link: "https://www.linkedin.com/posts/lilanofficial_creative-leadership-development-activity-7359333162998534144-CBtt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dUTziU-J3Q6ofSGjVRrowkKOxF_9ksfo/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
     id: "7.80",
     title: "Exploring Democratic Tools Tailored for Daily Life Practices",
     slides: [
@@ -7041,6 +7059,18 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1jkyLj1aB5Zy5LMoGCQzzm2R76yhY_ktf/view?usp=drive_link",
       },
       {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Seeking Agricultural Experts in Kazan – Let’s Connect!",
+        image: "assets/img/impact/public-policy/Seeking Agricultural Experts in Kazan.jpeg",
+        description:
+          "I’ll be in Kazan next week and would like to connect with agricultural experts. If you’re interested in exchanging ideas or simply having a meaningful conversation, I’d be glad to meet you....",
+        link: "https://www.linkedin.com/posts/lilanofficial_russia-moscow-kazan-activity-7359349468074266624-iQC2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1LiKEvofxF_CH1Q6D85TSYRfNlqc9EJ8D/view?usp=sharing",
+      },
+      {
         date: "October 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -7099,6 +7129,18 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1SO1S8QUR7Vck-E2Rnfj5mjfPosU2tDo-/view?usp=drive_link",
       },
       {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting with Entrepreneurs & Changemakers in Japan – Tokyo, Kyoto, Osaka (October)",
+        image: "assets/img/impact/public-policy/Connecting with Entrepreneurs & Changemakers in Japan.jpeg",
+        description:
+          "I will be visiting Tokyo, Kyoto, and Osaka in the first week of October and would like to connect with fellow entrepreneurs, investors, and changemakers in Japan, especially those passionate about precision agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_japan-tokyo-kyoto-activity-7359381049065291776-Kxq-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/11xoomWTPlVJetN2HZpLkwh_KDIu7ICTL/view?usp=sharing",
+      },
+      {
         date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -7119,6 +7161,17 @@ const impacts = [
           "Exciting news! I’ll be in New York from August 12th to 22nd and would like to connect with the NYC community. If you're passionate about precision agriculture and climate action in the Global South, let’s meet up. Send me a message so we can schedule a convenient time.",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7224350106311876608-TPl-?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1MEy0_1Lhn9beWVq0AEMANT-ZM_z2VVpE/view?usp=drive_link",
+      },
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Entrepreneurs & Innovators in Brussels & Antwerp – September",
+        image: "assets/img/impact/public-policy/Connecting with Entrepreneurs.jpeg",
+        description:
+          "I’ll be in Brussels and Antwerp during the fourth week of September, and I’m eager to connect with entrepreneurs, investors, and innovators who are passionate about precision agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_belgium-brussels-antwerp-activity-7359342398059024384-hHk3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FzSKfU89KWqRwcB2zYxcbQX5zZTTdaWe/view?usp=sharing",
       },
       {
         date: "November 2024",
@@ -7730,6 +7783,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.61",
+    title: "Participating in the Caux Reimagining Democracy(ies) Program",
+    slides: [
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Redefining Leadership at the Caux Reimagining Democracy(ies) Program",
+        image: "assets/img/impact/leadership-economic/Participating in the Caux Reimagining.jpeg",
+        description:
+          "Last month, I had the incredible opportunity to participate in the Caux Reimagining Democracy(ies) Program by the Creative Leadership Project, a week-long immersive experience that redefined my understanding...",
+        link: "https://www.linkedin.com/posts/lilanofficial_creative-leadership-development-activity-7359333162998534144-CBtt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dUTziU-J3Q6ofSGjVRrowkKOxF_9ksfo/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.60",
@@ -8947,6 +9018,25 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.34",
+    title: "Contributing to the UNLEASH Hack Innovation Lab in Sri Lanka",
+    slides: [
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Applications are now open for the UNLEASH Hack Sri Lanka!",
+        image:
+          "assets/img/impact/youth-women-empowerment/Calling Young Innovators.png",
+        description:
+          "UNLEASH Hacks are local innovation sprints where young people collaborate to develop solutions addressing their region’s Sustainable Development Goals (SDGs). As a former UNLEASH Global Talent (India)...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-innovation-hack-activity-7359656844006494209-GWjz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1PZAtSELCl17UH55yx6IY_DzFIygPlEgv/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-youth-women-empowerment",
     id: "9.33",
