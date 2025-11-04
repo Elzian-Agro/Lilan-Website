@@ -1,5 +1,16 @@
 const recommendations = [
   {
+    date: "August 20, 2025",
+    name: "Simon Klinga",
+    position: "Chief Executive Officer",
+    company: "LASAR",
+    relationship: "Simon and Lilan studied together",
+    image: "assets/img/recommendation/Simon Klinga.jpeg",
+    linkedin: "https://www.linkedin.com/in/simon-klinga-199a62269/",
+    recommendation:
+      "I had the privilege of meeting Lilan in 2024 at the Moonshot Platform innovators accelerator, and from the very first moment he made a strong impression on me as a hardworking and visionary leader. Lilan combines an entrepreneurial spirit with a deep sense of responsibility for global challenges, especially in sustainability and development.\n\n What stands out most is his ability to transform ambitious ideas into concrete action. He works tirelessly, pairing vision with pragmatism, and brings both sharp focus and genuine passion to every project he leads. His leadership style inspires those around him, creating an environment where innovation and collaboration thrive.\n\n I am confident that Lilan will continue to drive meaningful change on a global scale, shaping the future of sustainable development and social entrepreneurship with the same determination and clarity of purpose that have already brought him international recognition.",
+  },
+  {
     date: "June 17, 2025",
     name: "Miguel Rischmaui",
     position: "Student Staff",
