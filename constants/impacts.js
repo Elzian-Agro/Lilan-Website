@@ -6498,9 +6498,110 @@ const impacts = [
 
   {
     filter: "filter-public-policy",
+    id: "7.86",
+    title: "Participating the Paris Peace Forum",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Paris Peace Forum 2025: Building New Coalitions for Peace, People, and the Planet",
+        image: "assets/img/impact/public-policy/Participating the Paris Peace Forum.jpeg",
+        description:
+          "I had the incredible opportunity to participate in the Paris Peace Forum, held at the historic Palais de Chaillot, right at the foot of the Eiffel Tower. This year’s Forum marked a special milestone...",
+        link: "https://www.linkedin.com/posts/lilanofficial_paris-peace-forum-activity-7390782373858172930-MQ9j?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/13_vLgWY6gr-7iK6VND3hmIRLusEP6Nfe/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.85",
+    title: "Participating in the 80th session of the United Nations General Assembly (UNGA80)",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "UN80: A Turning Point for Global Cooperation and Reform",
+        image: "assets/img/impact/public-policy/UN80 A Turning Point for Global Cooperation and Reform.jpeg",
+        description:
+          "The 80th session of the United Nations (UN) General Assembly is currently underway in New York, with world leaders in attendance. The United Nations is facing pressing calls for reform...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unga-unga80-sdgs-activity-7376530152719122432-JSaX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/10Ut4Pt2aD9U3LcKqkFgbEDaOcDV7hPZX/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.84",
+    title: "Embracing the Values of Non-violence, Understanding & Unity",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Prayers for Peace in Nepal: Reflections Amid Turmoil and Tradition",
+        image: "assets/img/impact/public-policy/Prayers for Peace in Nepal.jpeg",
+        description:
+          "Today, Kathmandu faces turmoil as Nepal’s younger generation, the Gen Z, voices strong protests against corruption and the recent ban on major social media platforms...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nepal-kathmandu-pokhara-activity-7370839936129961985-oBIV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1-zItb_65c_94xKMilgC2NaRzVReZfWcQ/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.83",
+    title: "Trekking to ‘Peace Heaven’ Advocating for Nuclear Disarmament",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Finding Peace in Nature: Reflections from My Trek to Peace Heaven, Pokhara",
+        image: "assets/img/impact/public-policy/Finding Peace in Nature.png",
+        description:
+          "During my recent trek to Peace Heaven, I was reminded of the profound connection between nature and inner peace. Trekking through such a serene environment in Pokhara, Nepal...",
+        link: "https://www.linkedin.com/posts/lilanofficial_trekking-climate-action-activity-7370370805731422208-NPeE?utm_source=share&utm_medium=member_android&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1cnbBGW6huTA04SRRhqtORYj9DMGao9Y-/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.82",
+    title: "Exploring the International Court of Justice (ICJ) Advisory Opinion (ICJ AO)",
+    slides: [
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inspiring First Day at the South Asian Climate Justice Camp in Nepal",
+        image: "assets/img/impact/public-policy/South Asian Climate Justice Camp.jpeg",
+        description:
+          "A truly inspiring first day at the South Asian Climate Justice Camp here at Annapurna Eco Village in Nepal. We began by unpacking what climate justice means in the South Asian context, reflecting...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-justice-climatejustice-activity-7367222774832037891-uBrm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/12O5rrnYIRk4_TzWehiwwUTnPh_vXh_CA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
     id: "7.81",
     title: "Participating in the Caux Reimagining Democracy(ies) Program",
     slides: [
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "City as a Code: Shaping Smarter and Sustainable Urban Futures",
+        image: "assets/img/impact/public-policy/Shaping Smarter and Sustainable Urban Futures.png",
+        description:
+          "Marking the inspiring conclusion of the International Architecture Camp in Kazan, Russia, held under the thought-provoking theme “City as a Code: Programmable Urbanism,” it was an incredible experience...",
+        link: "https://www.linkedin.com/posts/lilanofficial_architecture-urbanism-sustainability-activity-7364473588361424896-XDPL?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1NcWKvq2IYuGaX85-rLzElaqdY-rZtOqQ/view?usp=sharing",
+      },
       {
         date: "August 2025",
         source_name: "LinkedIn",
