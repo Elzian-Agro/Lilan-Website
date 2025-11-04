@@ -580,6 +580,24 @@ const impacts = [
 
   {
     filter: "filter-membership",
+    id: "2.33",
+    title: "Global Youth Constituency on Fisheries and Aquaculture",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth for Sustainable Aquatic Food Systems",
+        image: "assets/img/impact/membership/Empowering Youth for Sustainable Aquatic Food Systems.jpeg",
+        description:
+          "It is a great privilege to officially be part of the Global Youth Constituency on Fisheries and Aquaculture. The Constituency is part of the World Food Programme & World Food Forum (WFF) Youth Initiative and aims to empower...",
+        link: "https://www.linkedin.com/posts/lilanofficial_fao-food-agriculture-activity-7378101971993632768-WDEn?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1vKmkATO7uR9dFwOIeRvmi9yRzBy2OHJu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
     id: "2.32",
     title: "New Generation: Friends for Leadership Community",
     slides: [
@@ -642,6 +660,17 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1eQXnKdh3UjVQT8hnN5AJgDT9XEKXxmhg/view?usp=sharing",
       },
       {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Championing Responsible AI and Ethical Innovation",
+        image: "assets/img/impact/membership/Championing Responsible AI and Ethical Innovation.png",
+        description:
+          "It was an honour to participate in the One Young World France Forum hosted at L'Oréal’s head office in Paris. The event brought together OYW Ambassadors and partners to explore...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oyw-forum-france-activity-7374321571622137856-MNay?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1qroSXJyeiV4IMR_5zEQ5buFhS1FvKT_g/view?usp=sharing",
+      },
+      {
         date: "April 2025",
         source_name: "One Young World",
         source_link: "https://www.instagram.com/oneyoungworld/",
@@ -698,6 +727,28 @@ const impacts = [
           "ChangeNOW in Paris left me hopeful, motivated, and more connected than ever! Honored to represent the Youth Ecopreneur Program, powered by the International Trade Centre (ITC) and the G20 Global Land Initiative. Being among 40,000+ passionate changemakers was a powerful reminder: we’re not alone in the fight for a sustainable future...",
         link: "https://www.linkedin.com/posts/lilanofficial_changenow-youth-sustainability-activity-7325356902287044608-cmpq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1WYgahQtTWuObuD5I2280_mUPgje8v-fl/view?usp=sharing",
+      },
+      {
+        date: "September 2025",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Inspiring Innovation in Agriculture",
+        image: "assets/img/impact/membership/Inspiring Innovation in Agriculture.png",
+        description:
+          "🌱 Meet YECO alum Lilan Dayananda, founder of ELZIAN AGRO, an IoT-based agronomy solution that helps farmers optimize their crop yields and automate farmland management....",
+        link: "https://www.linkedin.com/posts/ye-community_yeco-youthecopreneur-generationrestoration-activity-7368216791786872833-ffwA?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BbK79J_hMcx2R8_eDOU13Wzuno70UK8A/view?usp=sharing",
+      },
+      {
+        date: "September 2025",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "🚀 Real Stories. Real Impact",
+        image: "assets/img/impact/membership/Real Stories. Real Impact.png",
+        description:
+          "Hear directly from past YECO participants on how the programme transformed their businesses, from refining their strategies to scaling their impact and connecting with global networks....",
+        link: "https://www.linkedin.com/posts/ye-community_yeco-youthecopreneur-generationrestoration-activity-7363140824148131840-XbX5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1U17fFtxThaU-mEFpCwSa7jqMCEv6oC28/view?usp=sharing",
       },
     ],
   },
@@ -1165,6 +1216,17 @@ const impacts = [
         link: "https://www.linkedin.com/posts/lilanofficial_wsa-wsayouthambassador-youth-activity-7128778758567710720-JnY9/?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1Xg5lyOu7cfCFesyoXkKHjyqrDjikxJsz/view?usp=drive_link",
       },
+       {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Innovation Through Connection – WSA Youth Ambassador Networking",
+        image: "assets/img/impact/membership/WSA Youth Ambassador Networking.png",
+        description:
+          "Being part of the WSA community means joining a global network of young changemakers, innovators, and entrepreneurs; each bringing unique ideas, passions, and impact...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-youthambassador-global-activity-7387008465027829760-nvW7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1NYZuHIP3be429yn0nyyUuHl3YThYMvTl/view?usp=sharing",
+      },
       {
         date: "December 2023",
         source_name: "WSA",
@@ -1197,6 +1259,17 @@ const impacts = [
           'Hear from WSA Youth Ambassadors at the World Summit on the Information Society Forum in the "Youth Engagement Around WSIS Action Lines" session. 🌐',
         link: "https://www.linkedin.com/posts/world-summit-awards_wsis-technology-networks-activity-7201107444255637505-ndlZ/?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1Jlxj37_pWsBkuA3Yw9DQA-iwW0MixJjR/view?usp=drive_link",
+      },
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Young Innovators for Global Impact",
+        image: "assets/img/impact/membership/Empowering Young Innovators for Global Impact.jpeg",
+        description:
+          "T-Hub stands as one of the world’s leading innovation ecosystems connecting startups, corporates, academia, investors, and governments at the heart of disruption...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-world-summit-activity-7389865140977971200-17u5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1208Po1OG47irwrhZBT9awYQnO66cc2Zy/view?usp=sharing",
       },
       {
         date: "April 2025",
@@ -1494,6 +1567,241 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-innovation-social",
+    id: "3.107",
+    title: "Visiting India's Largest Incubation Centre (T-Hub)",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Digital Impact: Apply for the WSA Young Innovators Award 2025",
+        image: "assets/img/impact/innovation-social/Driving Digital Impact.jpeg",
+        description:
+          "T-Hub stands as one of the world’s leading innovation ecosystems connecting startups, corporates, academia, investors, and governments at the heart of disruption. Spanning 585,000 sq. ft. and home to 1,000+ startups, it’s far more than an incubator...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-world-summit-activity-7389865140977971200-17u5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QXYpgV2L9td3RsY9iUMqc-NwXdaiSWHf/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.106",
+    title: "Participating in the FAO Science and Innovation Forum",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Advancing Sustainable Agrifood Systems at the FAO Science and Innovation Forum",
+        image: "assets/img/impact/innovation-social/Advancing Sustainable Agrifood Systems.jpeg",
+        description:
+          "It was an incredible opportunity to participate in the Science and Innovation Forum, held in parallel with the World Food Forum at the UN Food and Agriculture Organization (FAO) Headquarters in Rome, Italy...",
+        link: "https://www.linkedin.com/posts/lilanofficial_fao-world-food-activity-7388946889217454080-GraV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1788XzLaHIu1YK2gywfEwE9XvY__F5wFe/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.105",
+    title: "Participating in the Oslo Innovation Week",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Innovation and Impact at Oslo Innovation Week 2025",
+        image: "assets/img/impact/innovation-social/Innovation and Impact at Oslo Innovation Week 2025.png",
+        description:
+          "Oslo Innovation Week in Norway just wrapped up yesterday and what an inspiring showcase of real action it was; from renewable energy and health tech to the circular economy and ocean tech...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-sustainability-climate-activity-7387852527825960960-wH8u?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1LxZPlCw7lMuyXRHed-1Yd-9Lufg-Zf3L/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.104",
+    title: "Participating the UN Trade and Development (UNCTAD) Youth Forum",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Representing Youth Innovation at the UNCTAD Youth Forum 2025",
+        image: "assets/img/impact/innovation-social/Representing Youth Innovation at the UNCTAD Youth Forum 2025.jpeg",
+        description:
+          "It was a great privilege to participate as a Youth Delegate representing the social enterprise ELZIAN AGRO Agro, at the UN Trade and Development (UNCTAD) Youth Forum, held in Geneva, Switzerland....",
+        link: "https://www.linkedin.com/posts/lilanofficial_unctad-youth-forum-activity-7386794057047527425-2Yu5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1PQ6XUUBfk5iYRdKoiLn6t_pfni4g9tVv/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.103",
+    title: "Participate in the Clinton Global Initiative (CGI) Annual Meeting",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Convene. Connect. Catalyze. Driving Global Impact with CGI 2025",
+        image: "assets/img/impact/innovation-social/Driving Global Impact with CGI 2025.png",
+        description:
+          "Clinton Global Initiative (CGI) 2025 is about to start in New York with a unique model: Convene, Connect, Catalyze. Convene: Through its flagship Annual Meeting and year-round engagements, CGI brings together leaders of nonprofit and philanthropic organizations...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cgi-climate-action-activity-7376127759078653952-AfTu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/19oL9ZBEH9e0acF60hjqHCu6WCLdaBwHW/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.102",
+    title: "Participate in the Disrupt Asia – Sri Lanka's Premier Startup Conference and Innovation Festival",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inspiring Insights from Disrupt Asia 2025 – Sri Lanka’s Premier Startup Conference",
+        image: "assets/img/impact/innovation-social/Inspiring Insights from Disrupt Asia 2025.jpeg",
+        description:
+          "It was wonderful to find time today to attend Disrupt Asia – Sri Lanka's Premier Startup Conference and Innovation Festival. I had the privilege of joining the FI x Disrupt Asia Mentor Session, which featured two insightful fireside chats...",
+        link: "https://www.linkedin.com/posts/lilanofficial_fi-founderinstitute-accelerator-activity-7374874785417392128-1PpD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1wEHj023d-uCqnCUoyyyhfjhUA7BEkYn5/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.101",
+    title: "OYW France Forum: Responsible Technology and Artificial Intelligence (AI)",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Advancing Responsible Technology and Ethical AI at One Young World France Forum",
+        image: "assets/img/impact/innovation-social/Advancing Responsible Technology and Ethical AI.png",
+        description:
+          "It was an honour to participate in the One Young World France Forum hosted at L'Oréal’s head office in Paris. The event brought together OYW Ambassadors and partners to explore one of today’s most critical topics...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oyw-forum-france-activity-7374321571622137856-MNay?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1u6b3ExMlwgM0ei20DZVkL0TjPYJR_kkV/view?usp=sharing",
+      },
+      {
+        date: "June 2025",
+        source_name: "One Young World",
+        source_link: "https://www.linkedin.com/company/one-young-world/posts/",
+        title: "One Young World France Forum: Shaping the Future of Responsible Technology",
+        image: "assets/img/impact/innovation-social/One Young World France Forum.jpeg",
+        description:
+          "Last week were hosted at L'Oréal’s office in Paris where we held our first annual France Forum. The event brought together Ambassadors and partners to explore one of the most pressing topics: responsible technology and artificial intelligence...",
+        link: "https://www.linkedin.com/posts/one-young-world_oyw25-event-partnership-activity-7327787248404373504-1asT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAER_FOQBgw4eOXu14W-xhpRf6DYxwhIqJaI",
+        backup_image: "https://drive.google.com/file/d/1WpRpiawJjQW6BO79dlnMgWtyifO_k9bR/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.100",
+    title: "Visiting the International Trade Centre for Youth Ecopreneur Program",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Sustainable Entrepreneurship through the YECO Programme",
+        image: "assets/img/impact/innovation-social/Empowering Sustainable Entrepreneurship.png",
+        description:
+          "I had the privilege of visiting the International Trade Centre in Geneva, Switzerland. Being a part of the YECO Youth Ecopreneur Program...",
+        link: "https://www.linkedin.com/posts/lilanofficial_yeco-startup-entrepreneurship-activity-7372621921156440064-oZhv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1aV8iX2d3pB-j6m0-y5giZX4Jd0Vc81UV/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.99",
+    title: "Facilitating the the UNLEASH Hack Innovation Lab in Sri Lanka",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Facilitating Innovation and Collaboration at UNLEASH Hack Sri Lanka 2025",
+        image: "assets/img/impact/innovation-social/Facilitating Innovation and Collaboration.jpeg",
+        description:
+          "It was an absolute pleasure to serve as a Facilitator for UNLEASH Hack Sri Lanka 2025. A heartfelt thank you to the entire organizing committee for their dedication and hard work in making this transformative event possible...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-unleash2025-youth-activity-7372145636974120960-_foQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ShRh1m86LQCTEEwXzMs_p6lBwN34xwGr/view?usp=sharing",
+      },
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth Innovation at UNLEASH Hack Sri Lanka – Day Two",
+        image: "assets/img/impact/innovation-social/Empowering Youth Innovation at UNLEASH Hack Sri Lanka – Day Two.jpeg",
+        description:
+          "The second day of UNLEASH Hack Sri Lanka began with a comprehensive recap of Day One, setting a strong foundation for refining problem statements and diving deep into ideation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-unleash2025-youth-activity-7372508899834449921-WUPb?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1spvlsMLjLAnVxsVY29tD2d-EmthUDynW/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.98",
+    title: "Participating in the International Architecture Camp",
+    slides: [
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Bridging Precision Agriculture and Sustainable Architecture",
+        image: "assets/img/impact/innovation-social/Bridging Precision Agriculture and Sustainable Architecture.png",
+        description:
+          "Day three at the International Architecture Camp in Kazan, Russia, was an inspiring opportunity to exchange ideas with young architects and designers from around the world....",
+        link: "https://www.linkedin.com/posts/lilanofficial_architecture-technology-tech-activity-7363743077036929024-rHSm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Y28c6OhhPQZdRw250a9meU1CBTQRmxxy/view?usp=sharing",
+      },
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "From Fields to Cities: Biotech and Precision Thinking for a Sustainable Future",
+        image: "assets/img/impact/innovation-social/From Fields to Cities.png",
+        description:
+          "Day four at the International Architecture Camp in Kazan, Russia was all about the Environmental Cluster and the role of biotechnological solutions in shaping future cities....",
+        link: "https://www.linkedin.com/posts/lilanofficial_architecture-technology-tech-activity-7364091889580478464-a0PV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ihxKRIPE7WkCktBym7lHWraJcCxiKjr_/view?usp=sharing",
+      },
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "City as a Code: Merging Digital Urbanism with Precision Thinking",
+        image: "assets/img/impact/innovation-social/City as a Code.png",
+        description:
+          "It was an inspiring day at the International Architecture Camp in Kazan, Russia, held under the theme “City as a Code: Programmable Urbanism.” 🏙️ The camp, part of the larger International Congress of Young Architects and Designers...",
+        link: "https://www.linkedin.com/posts/lilanofficial_architecture-technology-tech-activity-7363154544689647618-uCYh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1f6lT6zHa3AnXdApGhQ5O_owFf2FbTwfg/view?usp=sharing",
+      },
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "City as a Code: Shaping Smarter and Sustainable Urban Futures",
+        image: "assets/img/impact/innovation-social/Shaping Smarter and Sustainable Urban Futures.png",
+        description:
+          "Marking the inspiring conclusion of the International Architecture Camp in Kazan, Russia, held under the thought-provoking theme “City as a Code: Programmable Urbanism,” it was an incredible experience...",
+        link: "https://www.linkedin.com/posts/lilanofficial_architecture-urbanism-sustainability-activity-7364473588361424896-XDPL?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1NcWKvq2IYuGaX85-rLzElaqdY-rZtOqQ/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-innovation-social",
     id: "3.97",
