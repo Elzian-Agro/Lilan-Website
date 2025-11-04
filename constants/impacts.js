@@ -1216,7 +1216,7 @@ const impacts = [
         link: "https://www.linkedin.com/posts/lilanofficial_wsa-wsayouthambassador-youth-activity-7128778758567710720-JnY9/?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1Xg5lyOu7cfCFesyoXkKHjyqrDjikxJsz/view?usp=drive_link",
       },
-       {
+      {
         date: "October 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -5142,7 +5142,7 @@ const impacts = [
 
   {
     filter: "filter-renewable-energy",
-    id: "5.9",
+    id: "5.10",
     title: "Presenting Sustainable Energy Transitions for AI at the United Nations Headquarters",
     slides: [
       {
@@ -5155,6 +5155,24 @@ const impacts = [
           "Yesterday, I had the pleasure of speaking at the session on “Making AI Accessible, Inclusive, and Beneficial for All” during the Multi-Stakeholder Forum on Science, Technology and Innovation...",
         link: "https://www.linkedin.com/posts/lilanofficial_aiforgood-stiforum-sustainable-activity-7326253314600226817-J4pG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1r1snxh8sc982vo1HcDnlNITJbJB0bVzu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
+    id: "5.9",
+    title: "The International Architecture Camp Exploration for Solar Energy Utilization",
+    slides: [
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "From Fields to Cities: Biotech and Precision Thinking for a Sustainable Future",
+        image: "assets/img/impact/renewable-energy/From Fields to Cities.png",
+         description:
+          "Day four at the International Architecture Camp in Kazan, Russia was all about the Environmental Cluster and the role of biotechnological solutions in shaping future cities....",
+        link: "https://www.linkedin.com/posts/lilanofficial_architecture-technology-tech-activity-7364091889580478464-a0PV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ihxKRIPE7WkCktBym7lHWraJcCxiKjr_/view?usp=sharing",
       },
     ],
   },
@@ -9567,9 +9585,130 @@ const impacts = [
 
   {
     filter: "filter-youth-women-empowerment",
+    id: "9.39",
+    title: "Participating the UN Trade and Development (UNCTAD) Youth Forum",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Representing Youth Innovation at the UNCTAD Youth Forum 2025",
+        image:
+          "assets/img/impact/youth-women-empowerment/Representing Youth Innovation at the UNCTAD Youth Forum 2025.jpeg",
+        description:
+          "It was a great privilege to participate as a Youth Delegate representing the social enterprise ELZIAN AGRO Agro, at the UN Trade and Development (UNCTAD) Youth Forum, held in Geneva, Switzerland....",
+        link: "https://www.linkedin.com/posts/lilanofficial_unctad-youth-forum-activity-7386794057047527425-2Yu5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1PQ6XUUBfk5iYRdKoiLn6t_pfni4g9tVv/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.38",
+    title: "Participating the WSA Youth Ambassador Speed Networking",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Innovation Through Connection – WSA Youth Ambassador Networking",
+        image:
+          "assets/img/impact/youth-women-empowerment/WSA Youth Ambassador Networking.png",
+        description:
+          "Being part of the WSA community means joining a global network of young changemakers, innovators, and entrepreneurs; each bringing unique ideas, passions, and impact...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-youthambassador-global-activity-7387008465027829760-nvW7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1NYZuHIP3be429yn0nyyUuHl3YThYMvTl/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.37",
+    title: "Participating in the World Food Forum (WFF) Youth Representatives Programme",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Youth Action for Sustainable Agrifood Systems",
+        image:
+          "assets/img/impact/youth-women-empowerment/Driving Youth Action for Sustainable Agrifood Systems.jpeg",
+        description:
+          "The World Food Forum (WFF) Youth Representatives Programme is a prestigious platform that empowers youth leaders to drive meaningful change across global agrifood systems, in collaboration...",
+        link: "https://www.linkedin.com/posts/lilanofficial_worldfoodforum-wff2025-youth-activity-7384990087429754881-pjHo?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/13jKA7YFa8qt4raiWBbpi4hHLNfezfqmK/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.36",
+    title: "Engaging with UNCCD Youth Caucus during COP16",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Empowerment for Climate Resilience: UNCCD COP16 Capacity-Building Session",
+        image:
+          "assets/img/impact/youth-women-empowerment/UNCCD COP16 Capacity-Building Session.jpeg",
+        description:
+          "I was deeply impressed and proud of the commitment and action demonstrated by the UNCCD Youth Caucus during COP16 in Riyadh, Saudi Arabia...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unccd-youth-caucus-activity-7377160281296130048-u4xD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1eWin9U-H8arwluLLkTGs_GQR_z7YxVzc/view?usp=sharing",
+
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.35",
+    title: "Facilitating the the UNLEASH Hack Innovation Lab in Sri Lanka",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Facilitating Innovation and Collaboration at UNLEASH Hack Sri Lanka 2025",
+        image:
+          "assets/img/impact/youth-women-empowerment/Facilitating Innovation and Collaboration.jpeg",
+        description:
+          "It was an absolute pleasure to serve as a Facilitator for UNLEASH Hack Sri Lanka 2025. A heartfelt thank you to the entire organizing committee for their dedication and hard work in making this transformative event possible...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-unleash2025-youth-activity-7372145636974120960-_foQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ShRh1m86LQCTEEwXzMs_p6lBwN34xwGr/view?usp=sharing",
+      },
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth Innovation at UNLEASH Hack Sri Lanka – Day Two",
+        image:
+          "assets/img/impact/youth-women-empowerment/Empowering Youth Innovation at UNLEASH Hack Sri Lanka – Day Two.jpeg",
+        description:
+          "The second day of UNLEASH Hack Sri Lanka began with a comprehensive recap of Day One, setting a strong foundation for refining problem statements and diving deep into ideation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-unleash2025-youth-activity-7372508899834449921-WUPb?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1spvlsMLjLAnVxsVY29tD2d-EmthUDynW/view?usp=sharing",
+
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
     id: "9.34",
     title: "Contributing to the UNLEASH Hack Innovation Lab in Sri Lanka",
     slides: [
+       {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Excited to Facilitate UNLEASH Hack Sri Lanka 2025",
+        image:
+          "assets/img/impact/youth-women-empowerment/Excited to Facilitate UNLEASH Hack Sri Lanka 2025.png",
+        description:
+          "UNLEASH Hack Sri Lanka is happening today and tomorrow. I am excited to dedicate my time as a facilitator for this powerful local innovation sprint, where young changemakers come together to address urgent regional challenges...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-hack-sustainabledevelopment-activity-7364789469230583808-w4HV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1YkrHK3IKzV3Y0DJ3C4s8TOoDl-4H6mKN/view?usp=sharing",
+      },
       {
         date: "August 2025",
         source_name: "LinkedIn",
@@ -9581,6 +9720,18 @@ const impacts = [
           "UNLEASH Hacks are local innovation sprints where young people collaborate to develop solutions addressing their region’s Sustainable Development Goals (SDGs). As a former UNLEASH Global Talent (India)...",
         link: "https://www.linkedin.com/posts/lilanofficial_unleash-innovation-hack-activity-7359656844006494209-GWjz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1PZAtSELCl17UH55yx6IY_DzFIygPlEgv/view?usp=sharing",
+      },
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Final Call: Apply for UNLEASH Hack Sri Lanka by Tomorrow!",
+        image:
+          "assets/img/impact/youth-women-empowerment/Final Call.png",
+        description:
+          "The EXTENDED DEADLINE for UNLEASH Hack Talent applications is TOMORROW, 14 August 2025. Applications are open exclusively to Sri Lankan nationals between the ages of 18 and 35...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-innovation-hack-activity-7361106082758356994-rm4y?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FRHzHb-9PLZ242g_bIdtNpIvreV-rWR4/view?usp=sharing",
       },
     ],
   },
@@ -10281,6 +10432,36 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-meeting-changemakers-vips",
+    id: "10.33",
+    title:
+      "Meeting Prof. Magnus Andersson (High-level Representative of United Nations 10-Member-Group)",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "Magnus Andersson",
+        source_link: "https://www.linkedin.com/in/magnus-andersson-mau/",
+        title: "🌱 Ready to revolutionize your farm using #AgriTech?",
+        image: "assets/img/impact/meeting-changemakers-vips/Ready to revolutionize your farm.png",
+        description:
+          "In my role as member of #the10MemberGroup at United Nations I met a young innovator Lilan Dayananda at the UN STI forum 2025 and was so inspired to learn about his company ELZIAN AGRO. ELZIAN AGRO offers customised precision agriculture solutions through...",
+        link: "https://www.linkedin.com/posts/magnus-andersson-mau_agritech-the10membergroup-spacetechnology-activity-7385963075339882496-ZJtT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Wh3b28tQ-UcY1vVkHJYCXPFvHouCNmYE/view?usp=sharing",
+      },
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honoured to Collaborate with Prof. Magnus Andersson and the UN 10-Member Group",
+        image: "assets/img/impact/meeting-changemakers-vips/Honoured to Collaborate with Prof. Magnus Andersson.png",
+        description:
+          "It was a great honour to meet with the United Nations Group of Ten High-Level Representatives of Civil Society, the Private Sector, and the Scientific Community...",
+        link: "https://www.linkedin.com/posts/lilanofficial_agritech-the10membergroup-spacetechnology-activity-7385969313309982720-CtC7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1RDsrzjSUlHqiuR_nPYqUliJ-DNMG5ZYX/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-meeting-changemakers-vips",
     id: "10.32",
