@@ -1569,6 +1569,24 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.108",
+    title: "Volunteering for the World Exposition (Expo Osaka)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Volunteering at the World Expo in Osaka: A Celebration of Innovation and Culture",
+        image: "assets/img/impact/innovation-social/Volunteering at the World Expo in Osaka.jpeg",
+        description:
+          "It was an incredible opportunity to volunteer at the World Exposition in Osaka, Japan also known as the World’s Fair, one of those rare global events where nations come together to celebrate culture, innovation, and the future...",
+        link: "https://www.linkedin.com/posts/lilanofficial_osaka-japan-expo-activity-7391752716903096321-PnJ4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/186OBUJ3FbSTZ40r59xqy8rCywYid1x83/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.107",
     title: "Visiting India's Largest Incubation Centre (T-Hub)",
     slides: [
@@ -6724,6 +6742,24 @@ const impacts = [
 
   {
     filter: "filter-public-policy",
+    id: "7.87",
+    title: "Volunteering for the World Exposition (Expo Osaka)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Volunteering at the World Expo in Osaka: A Celebration of Innovation and Culture",
+        image: "assets/img/impact/public-policy/Volunteering at the World Expo in Osaka.jpeg",
+        description:
+          "It was an incredible opportunity to volunteer at the World Exposition in Osaka, Japan also known as the World’s Fair, one of those rare global events where nations come together to celebrate culture, innovation, and the future...",
+        link: "https://www.linkedin.com/posts/lilanofficial_osaka-japan-expo-activity-7391752716903096321-PnJ4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/186OBUJ3FbSTZ40r59xqy8rCywYid1x83/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
     id: "7.86",
     title: "Participating the Paris Peace Forum",
     slides: [
@@ -8675,6 +8711,186 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.69",
+    title: "Participating the UN Trade and Development (UNCTAD) Youth Forum",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Representing Youth Innovation at the UNCTAD Youth Forum 2025",
+        image: "assets/img/impact/leadership-economic/Representing Youth Innovation at the UNCTAD Youth Forum 2025.jpeg",
+         description:
+          "It was a great privilege to participate as a Youth Delegate representing the social enterprise ELZIAN AGRO Agro, at the UN Trade and Development (UNCTAD) Youth Forum, held in Geneva, Switzerland....",
+        link: "https://www.linkedin.com/posts/lilanofficial_unctad-youth-forum-activity-7386794057047527425-2Yu5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1PQ6XUUBfk5iYRdKoiLn6t_pfni4g9tVv/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.68",
+    title: "Participating in the 80th session of the United Nations General Assembly (UNGA80)",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "UN80: A Turning Point for Global Cooperation and Reform",
+        image: "assets/img/impact/leadership-economic/UN80 A Turning Point for Global Cooperation and Reform.jpeg",
+        description:
+          "The 80th session of the United Nations (UN) General Assembly is currently underway in New York, with world leaders in attendance. The United Nations is facing pressing calls for reform...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unga-unga80-sdgs-activity-7376530152719122432-JSaX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/10Ut4Pt2aD9U3LcKqkFgbEDaOcDV7hPZX/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.67",
+    title: "OYW France Forum: Responsible Technology and Artificial Intelligence (AI)",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Championing Responsible AI and Ethical Innovation",
+        image: "assets/img/impact/leadership-economic/Championing Responsible AI and Ethical Innovation.png",
+        description:
+          "...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oyw-forum-france-activity-7374321571622137856-MNay?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        description:
+          "It was an honour to participate in the One Young World France Forum hosted at L'Oréal’s head office in Paris. The event brought together OYW Ambassadors and partners to explore...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oyw-forum-france-activity-7374321571622137856-MNay?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1qroSXJyeiV4IMR_5zEQ5buFhS1FvKT_g/view?usp=sharing",
+      },
+      {
+        date: "June 2025",
+        source_name: "One Young World",
+        source_link: "https://www.linkedin.com/company/one-young-world/posts/",
+        title: "One Young World France Forum: Shaping the Future of Responsible Technology",
+        image: "assets/img/impact/leadership-economic/One Young World France Forum.jpeg",
+        description:
+          "Last week were hosted at L'Oréal’s office in Paris where we held our first annual France Forum. The event brought together Ambassadors and partners to explore one of the most pressing topics: responsible technology and artificial intelligence...",
+        link: "https://www.linkedin.com/posts/one-young-world_oyw25-event-partnership-activity-7327787248404373504-1asT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAER_FOQBgw4eOXu14W-xhpRf6DYxwhIqJaI",
+        backup_image: "https://drive.google.com/file/d/1WpRpiawJjQW6BO79dlnMgWtyifO_k9bR/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.66",
+    title: "Visiting the International Trade Centre for Youth Ecopreneur Program",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Sustainable Entrepreneurship through the YECO Programme",
+        image: "assets/img/impact/leadership-economic/Empowering Sustainable Entrepreneurship.png",
+        description:
+          "I had the privilege of visiting the International Trade Centre in Geneva, Switzerland. Being a part of the YECO Youth Ecopreneur Program...",
+        link: "https://www.linkedin.com/posts/lilanofficial_yeco-startup-entrepreneurship-activity-7372621921156440064-oZhv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1aV8iX2d3pB-j6m0-y5giZX4Jd0Vc81UV/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.65",
+    title: "Facilitating the UNLEASH Hack Innovation Lab in Sri Lanka",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth Innovation at UNLEASH Hack Sri Lanka – Day Two",
+        image: "assets/img/impact/leadership-economic/Empowering Youth Innovation at UNLEASH Hack Sri Lanka – Day Two.jpeg",
+        description:
+          "The second day of UNLEASH Hack Sri Lanka began with a comprehensive recap of Day One, setting a strong foundation for refining problem statements and diving deep into ideation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-unleash2025-youth-activity-7372508899834449921-WUPb?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1spvlsMLjLAnVxsVY29tD2d-EmthUDynW/view?usp=sharing",
+      },
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Facilitating Innovation and Collaboration at UNLEASH Hack Sri Lanka 2025",
+        image: "assets/img/impact/leadership-economic/Facilitating Innovation and Collaboration.jpeg",
+        description:
+          "It was an absolute pleasure to serve as a Facilitator for UNLEASH Hack Sri Lanka 2025. A heartfelt thank you to the entire organizing committee for their dedication and hard work in making this transformative event possible...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-unleash2025-youth-activity-7372145636974120960-_foQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ShRh1m86LQCTEEwXzMs_p6lBwN34xwGr/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.64",
+    title: "Contributing to Circular Economy through the International Council for Circular Economy (ICCE)",
+    slides: [
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ICCE at 5: Celebrating Five Years of Driving the Global Circular Economy Forward",
+        image: "assets/img/impact/leadership-economic/ICCE at 5.png",
+        description:
+          "Cheers to the International Council for Circular Economy (ICCE) on its fifth anniversary of advancing the circular economy agenda globally! 🎉 Since its inception, ICCE has been building awareness, influencing policy...",
+        link: "https://www.linkedin.com/posts/lilanofficial_circular-economy-icce-activity-7365623453145583616-s-lc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1R1rxazp_dDDhGjwRNnA_Vitfv6IHHU0M/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.63",
+    title: "Focusing on the Digitalization in Architecture and Construction",
+    slides: [
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building the Future: Insights from the International Architecture Camp in Kazan",
+        image: "assets/img/impact/leadership-economic/Building the Future.jpeg",
+        description:
+          "Wrapping up another productive day at the International Architecture Camp in Kazan, Russia, focused on digitalization in architecture and construction. The International Congress...",
+        link: "https://www.linkedin.com/posts/lilanofficial_architecture-technology-tech-activity-7363382371452145664-naAw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1OyEl-4Y-WaQ_0NkHRN0rWPBh2ZySpEtA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.62",
+    title: "Participating in the International Architecture Camp",
+    slides: [
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Bridging Precision Agriculture and Sustainable Architecture",
+        image: "assets/img/impact/leadership-economic/Bridging Precision Agriculture and Sustainable Architecture.png",
+        description:
+          "Day three at the International Architecture Camp in Kazan, Russia, was an inspiring opportunity to exchange ideas with young architects and designers from around the world....",
+        link: "https://www.linkedin.com/posts/lilanofficial_architecture-technology-tech-activity-7363743077036929024-rHSm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Y28c6OhhPQZdRw250a9meU1CBTQRmxxy/view?usp=sharing",
+      },
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Programmable Urbanism at the International Architecture Camp in Russia",
+        image: "assets/img/impact/leadership-economic/Exploring Programmable Urbanism.jpeg",
+        description:
+          "It was an inspiring day at the International Architecture Camp in Kazan, Russia, held under the theme “City as a Code: Programmable Urbanism.” The camp, part of the larger International Congress of Young Architects and Designers...",
+        link: "https://www.linkedin.com/posts/lilanofficial_architecture-technology-tech-activity-7363154544689647618-uCYh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1vDeJqljz3JilEpk-TK8RMkBrh8lz5he9/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.61",
