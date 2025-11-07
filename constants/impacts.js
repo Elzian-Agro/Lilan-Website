@@ -5343,6 +5343,232 @@ const impacts = [
 
   {
     filter: "filter-climate-environmental",
+    id: "6.65",
+    title: "Participating in the Oslo Innovation Week for Climate Innovation Research",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Innovation and Impact at Oslo Innovation Week 2025",
+        image:
+          "assets/img/impact/climate-environmental/Innovation and Impact at Oslo Innovation Week 2025.png",
+        description:
+          "Oslo Innovation Week in Norway just wrapped up yesterday and what an inspiring showcase of real action it was; from renewable energy and health tech to the circular economy and ocean tech...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-sustainability-climate-activity-7387852527825960960-wH8u?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1LxZPlCw7lMuyXRHed-1Yd-9Lufg-Zf3L/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.64",
+    title: "Participating the Global-Hub on Indigenous Peoples' Food and Knowledge Systems",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting Indigenous Wisdom with Climate Action at the FAO Global Hub",
+        image:
+          "assets/img/impact/climate-environmental/Connecting Indigenous Knowledge.jpeg",
+        description:
+          "Honoured to participate in the Global-Hub on Indigenous Peoples' Food and Knowledge Systems today in Rome, on this year’s Indigenous Peoples’ Day (the second Monday of October)...",
+        link: "https://www.linkedin.com/posts/lilanofficial_worldfoodforum-wff-indigenous-activity-7383570335889203200-_oS5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1M9EtLujGunA2F69X0lHwM4s7wzZ_TWoS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.63",
+    title: "Visiting the Paris Climate Academy (L'Académie du Climat)",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Learning by Doing at the Paris Climate Academy",
+        image:
+          "assets/img/impact/climate-environmental/Learning by Doing at the Paris Climate Academy.jpeg",
+        description:
+          "It was a great experience visiting the Paris Climate Academy (L'Académie du Climat) 🇫🇷 today and catching up with one of the Climate Reality Project Mentors. Thanks to Francesco Cara for giving me the opportunity...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climateaction-sustainability-paris-activity-7381078558925975552-OtUD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1UU7CXKZ3iR4s--s3BJDHp3udqBkipMM8/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.62",
+    title: "Attending the special screening of Sir David Attenborough’s documentary “Oceans”",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring “Ocean”: A Call to Protect Our Blue Planet",
+        image:
+          "assets/img/impact/climate-environmental/A Call to Protect Our Blue Planet.png",
+        description:
+          "It was a pleasure to join the special screening of Sir David Attenborough’s documentary “Ocean,” which offered a breathtaking exploration of our planet’s undersea habitats...",
+        link: "https://www.linkedin.com/posts/lilanofficial_ocean-documentary-sdgs-activity-7380443164832096256-fXkW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1xN2rocSkHZJZCXycJ1cNBJuOv88te_5l/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.61",
+    title: "Clinton Global Initiative (CGI) Commitments to Action: Climate Resilience",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Convene. Connect. Catalyze: CGI 2025 Begins in New York",
+        image:
+          "assets/img/impact/climate-environmental/Convene. Connect. Catalyze CGI 2025 Begins in New York.png",
+        description:
+          "Clinton Global Initiative (CGI) 2025 is about to start in New York with a unique model: Convene, Connect, Catalyze...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cgi-climate-action-activity-7376127759078653952-AfTu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/18x4WajdYzcQoUrH3SlhXZLgvaG-JRLle/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.60",
+    title: "Participating in the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation (#SB62)",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Navigating Challenges and Opportunities on the Road to COP30",
+        image:
+          "assets/img/impact/climate-environmental/Navigating Challenges and Opportunities on the Road to COP30.jpeg",
+        description:
+          "Political differences, particularly regarding Means of Implementation, hampered discussions at the sixty-second sessions of the Subsidiary Body for Scientific and Technological Advice and the Subsidiary ...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sb62-globalstocktake-sb62-activity-7373474073219092480-gYi8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1fvmddjk_-LQAO46tdgh8PnBfVwnewYo4/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.59",
+    title: "Exploration of Machhapuchhre Mountain Range in Nepal to Check the Rate of Glacier Melting",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Trekking Through Monsoon Clouds: Reflections on Climate and Resilience in the Himalayas",
+        image:
+          "assets/img/impact/climate-environmental/Trekking Through Monsoon Clouds.jpeg",
+        description:
+          "I recently had the opportunity to trek Machhapuchhre-1 - Khumai Danda during Nepal’s monsoon season, a period that typically lasts from June to September...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-himalayas-activity-7371529573370572800-hRYm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1V85MeR4H9icBIl9Bl255KePD5D3JIhjd/view?usp=drive_link",
+      },
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Trekking for Climate Justice in the Himalayas",
+        image:
+          "assets/img/impact/climate-environmental/Trekking for Climate Justice in the Himalayas.jpeg",
+        description:
+          "Astam village is an eco-tourism destination located northwest of Pokhara, Nepal, famous for its stunning Himalayan views, particularly the Annapurna range, and its immersion in traditional Nepali rural life...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climatejustice-climate-climatechange-activity-7369185808089608194-t3OF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1eb6h1m2z7kqBcdR7TuBMotjONpgzVhzf/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.58",
+    title: "Participating in the South Asian Climate Justice Camp",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Voices for Climate Justice in South Asia",
+        image:
+          "assets/img/impact/climate-environmental/Voices for Climate Justice in South Asia.jpeg",
+        description:
+          "Over three inspiring days at Annapurna Eco Village (near to Astam Village), Pokhara in Nepal, we delved deep into what climate justice means for South Asia, a region marked by profound inequalities, complex cross-border climate impacts, and rich resilience rooted in diverse communities....",
+        link: "https://www.linkedin.com/posts/lilanofficial_climatejustice-southasia-asia-activity-7371936779291197441-TSH4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/10m9z2wrs65_MK0m8CMpSFQ7-PKZUbJUA/view?usp=sharing",
+      },
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Bridging Voices and Policies for Climate Justice",
+        image:
+          "assets/img/impact/climate-environmental/Bridging Voices and Policies for Climate Justice.png",
+        description:
+          "With the Himalayan mountain range in the vicinity, the third day of the South Asian Climate Justice Camp in Astam Village in Nepal was both humbling and empowering. It brought together lived experiences, policy dialogues, legal perspectives...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climatejustice-climate-youthleadership-activity-7368466025811496960-dIhk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1buXBtpOOKi6iwyHhdN9DV-BrQI4gi4p_/view?usp=sharing",
+      },
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Leading the Dialogue on Climate Justice",
+        image:
+          "assets/img/impact/climate-environmental/Youth Leading the Dialogue on Climate Justice.jpeg",
+        description:
+          "The South Asian Climate Justice Camp (day 2) in Pokhara, Nepal was an inspiring deep dive into the evolving global and regional climate justice discourse. We began by exploring the evolution of international climate negotiations...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-action-activity-7367844069957386240-zlXK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1cc6AejMdfIp7uuZj-8WCjpAxywn6XV7b/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.57",
+    title: "Exploring the International Court of Justice (ICJ) Advisory Opinion (ICJ AO) on Climate Change",
+    slides: [
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Kicking Off the South Asian Climate Justice Camp in Nepal",
+        image:
+          "assets/img/impact/climate-environmental/South Asian Climate Justice Camp.jpeg",
+        description:
+          "A truly inspiring first day at the South Asian Climate Justice Camp here at Annapurna Eco Village in Nepal. We began by unpacking what climate justice means in the South Asian context, reflecting...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-justice-climatejustice-activity-7367222774832037891-uBrm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/12O5rrnYIRk4_TzWehiwwUTnPh_vXh_CA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.56",
+    title: "Contributing to Circular Economy through the ICCE",
+    slides: [
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ICCE at 5: Celebrating Five Years of Driving the Global Circular Economy Forward",
+        image:
+          "assets/img/impact/climate-environmental/ICCE at 5.png",
+        description:
+          "Cheers to the International Council for Circular Economy (ICCE) on its fifth anniversary of advancing the circular economy agenda globally! 🎉 Since its inception, ICCE has been building awareness, influencing policy...",
+        link: "https://www.linkedin.com/posts/lilanofficial_circular-economy-icce-activity-7365623453145583616-s-lc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1R1rxazp_dDDhGjwRNnA_Vitfv6IHHU0M/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
     id: "6.55",
     title: "Participating in the Reflective Walk/Hike around Klempowsee, looping from Wusterhausen",
     slides: [
