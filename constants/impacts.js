@@ -1569,6 +1569,24 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.108",
+    title: "Volunteering for the World Exposition (Expo Osaka)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Volunteering at the World Expo in Osaka: A Celebration of Innovation and Culture",
+        image: "assets/img/impact/innovation-social/Volunteering at the World Expo in Osaka.jpeg",
+        description:
+          "It was an incredible opportunity to volunteer at the World Exposition in Osaka, Japan also known as the World’s Fair, one of those rare global events where nations come together to celebrate culture, innovation, and the future...",
+        link: "https://www.linkedin.com/posts/lilanofficial_osaka-japan-expo-activity-7391752716903096321-PnJ4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/186OBUJ3FbSTZ40r59xqy8rCywYid1x83/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.107",
     title: "Visiting India's Largest Incubation Centre (T-Hub)",
     slides: [
@@ -5343,6 +5361,232 @@ const impacts = [
 
   {
     filter: "filter-climate-environmental",
+    id: "6.65",
+    title: "Participating in the Oslo Innovation Week for Climate Innovation Research",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Innovation and Impact at Oslo Innovation Week 2025",
+        image:
+          "assets/img/impact/climate-environmental/Innovation and Impact at Oslo Innovation Week 2025.png",
+        description:
+          "Oslo Innovation Week in Norway just wrapped up yesterday and what an inspiring showcase of real action it was; from renewable energy and health tech to the circular economy and ocean tech...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-sustainability-climate-activity-7387852527825960960-wH8u?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1LxZPlCw7lMuyXRHed-1Yd-9Lufg-Zf3L/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.64",
+    title: "Participating the Global-Hub on Indigenous Peoples' Food and Knowledge Systems",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting Indigenous Wisdom with Climate Action at the FAO Global Hub",
+        image:
+          "assets/img/impact/climate-environmental/Connecting Indigenous Knowledge.jpeg",
+        description:
+          "Honoured to participate in the Global-Hub on Indigenous Peoples' Food and Knowledge Systems today in Rome, on this year’s Indigenous Peoples’ Day (the second Monday of October)...",
+        link: "https://www.linkedin.com/posts/lilanofficial_worldfoodforum-wff-indigenous-activity-7383570335889203200-_oS5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1M9EtLujGunA2F69X0lHwM4s7wzZ_TWoS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.63",
+    title: "Visiting the Paris Climate Academy (L'Académie du Climat)",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Learning by Doing at the Paris Climate Academy",
+        image:
+          "assets/img/impact/climate-environmental/Learning by Doing at the Paris Climate Academy.jpeg",
+        description:
+          "It was a great experience visiting the Paris Climate Academy (L'Académie du Climat) 🇫🇷 today and catching up with one of the Climate Reality Project Mentors. Thanks to Francesco Cara for giving me the opportunity...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climateaction-sustainability-paris-activity-7381078558925975552-OtUD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1UU7CXKZ3iR4s--s3BJDHp3udqBkipMM8/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.62",
+    title: "Attending the special screening of Sir David Attenborough’s documentary “Oceans”",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring “Ocean”: A Call to Protect Our Blue Planet",
+        image:
+          "assets/img/impact/climate-environmental/A Call to Protect Our Blue Planet.png",
+        description:
+          "It was a pleasure to join the special screening of Sir David Attenborough’s documentary “Ocean,” which offered a breathtaking exploration of our planet’s undersea habitats...",
+        link: "https://www.linkedin.com/posts/lilanofficial_ocean-documentary-sdgs-activity-7380443164832096256-fXkW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1xN2rocSkHZJZCXycJ1cNBJuOv88te_5l/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.61",
+    title: "Clinton Global Initiative (CGI) Commitments to Action: Climate Resilience",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Convene. Connect. Catalyze: CGI 2025 Begins in New York",
+        image:
+          "assets/img/impact/climate-environmental/Convene. Connect. Catalyze CGI 2025 Begins in New York.png",
+        description:
+          "Clinton Global Initiative (CGI) 2025 is about to start in New York with a unique model: Convene, Connect, Catalyze...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cgi-climate-action-activity-7376127759078653952-AfTu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/18x4WajdYzcQoUrH3SlhXZLgvaG-JRLle/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.60",
+    title: "Participating in the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation (#SB62)",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Navigating Challenges and Opportunities on the Road to COP30",
+        image:
+          "assets/img/impact/climate-environmental/Navigating Challenges and Opportunities on the Road to COP30.jpeg",
+        description:
+          "Political differences, particularly regarding Means of Implementation, hampered discussions at the sixty-second sessions of the Subsidiary Body for Scientific and Technological Advice and the Subsidiary ...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sb62-globalstocktake-sb62-activity-7373474073219092480-gYi8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1fvmddjk_-LQAO46tdgh8PnBfVwnewYo4/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.59",
+    title: "Exploration of Machhapuchhre Mountain Range in Nepal to Check the Rate of Glacier Melting",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Trekking Through Monsoon Clouds: Reflections on Climate and Resilience in the Himalayas",
+        image:
+          "assets/img/impact/climate-environmental/Trekking Through Monsoon Clouds.jpeg",
+        description:
+          "I recently had the opportunity to trek Machhapuchhre-1 - Khumai Danda during Nepal’s monsoon season, a period that typically lasts from June to September...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-himalayas-activity-7371529573370572800-hRYm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1V85MeR4H9icBIl9Bl255KePD5D3JIhjd/view?usp=drive_link",
+      },
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Trekking for Climate Justice in the Himalayas",
+        image:
+          "assets/img/impact/climate-environmental/Trekking for Climate Justice in the Himalayas.jpeg",
+        description:
+          "Astam village is an eco-tourism destination located northwest of Pokhara, Nepal, famous for its stunning Himalayan views, particularly the Annapurna range, and its immersion in traditional Nepali rural life...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climatejustice-climate-climatechange-activity-7369185808089608194-t3OF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1eb6h1m2z7kqBcdR7TuBMotjONpgzVhzf/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.58",
+    title: "Participating in the South Asian Climate Justice Camp",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Voices for Climate Justice in South Asia",
+        image:
+          "assets/img/impact/climate-environmental/Voices for Climate Justice in South Asia.jpeg",
+        description:
+          "Over three inspiring days at Annapurna Eco Village (near to Astam Village), Pokhara in Nepal, we delved deep into what climate justice means for South Asia, a region marked by profound inequalities, complex cross-border climate impacts, and rich resilience rooted in diverse communities....",
+        link: "https://www.linkedin.com/posts/lilanofficial_climatejustice-southasia-asia-activity-7371936779291197441-TSH4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/10m9z2wrs65_MK0m8CMpSFQ7-PKZUbJUA/view?usp=sharing",
+      },
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Bridging Voices and Policies for Climate Justice",
+        image:
+          "assets/img/impact/climate-environmental/Bridging Voices and Policies for Climate Justice.png",
+        description:
+          "With the Himalayan mountain range in the vicinity, the third day of the South Asian Climate Justice Camp in Astam Village in Nepal was both humbling and empowering. It brought together lived experiences, policy dialogues, legal perspectives...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climatejustice-climate-youthleadership-activity-7368466025811496960-dIhk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1buXBtpOOKi6iwyHhdN9DV-BrQI4gi4p_/view?usp=sharing",
+      },
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Leading the Dialogue on Climate Justice",
+        image:
+          "assets/img/impact/climate-environmental/Youth Leading the Dialogue on Climate Justice.jpeg",
+        description:
+          "The South Asian Climate Justice Camp (day 2) in Pokhara, Nepal was an inspiring deep dive into the evolving global and regional climate justice discourse. We began by exploring the evolution of international climate negotiations...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-action-activity-7367844069957386240-zlXK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1cc6AejMdfIp7uuZj-8WCjpAxywn6XV7b/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.57",
+    title: "Exploring the International Court of Justice (ICJ) Advisory Opinion (ICJ AO) on Climate Change",
+    slides: [
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Kicking Off the South Asian Climate Justice Camp in Nepal",
+        image:
+          "assets/img/impact/climate-environmental/South Asian Climate Justice Camp.jpeg",
+        description:
+          "A truly inspiring first day at the South Asian Climate Justice Camp here at Annapurna Eco Village in Nepal. We began by unpacking what climate justice means in the South Asian context, reflecting...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-justice-climatejustice-activity-7367222774832037891-uBrm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/12O5rrnYIRk4_TzWehiwwUTnPh_vXh_CA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.56",
+    title: "Contributing to Circular Economy through the ICCE",
+    slides: [
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ICCE at 5: Celebrating Five Years of Driving the Global Circular Economy Forward",
+        image:
+          "assets/img/impact/climate-environmental/ICCE at 5.png",
+        description:
+          "Cheers to the International Council for Circular Economy (ICCE) on its fifth anniversary of advancing the circular economy agenda globally! 🎉 Since its inception, ICCE has been building awareness, influencing policy...",
+        link: "https://www.linkedin.com/posts/lilanofficial_circular-economy-icce-activity-7365623453145583616-s-lc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1R1rxazp_dDDhGjwRNnA_Vitfv6IHHU0M/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
     id: "6.55",
     title: "Participating in the Reflective Walk/Hike around Klempowsee, looping from Wusterhausen",
     slides: [
@@ -6496,6 +6740,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-public-policy",
+    id: "7.87",
+    title: "Volunteering for the World Exposition (Expo Osaka)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Volunteering at the World Expo in Osaka: A Celebration of Innovation and Culture",
+        image: "assets/img/impact/public-policy/Volunteering at the World Expo in Osaka.jpeg",
+        description:
+          "It was an incredible opportunity to volunteer at the World Exposition in Osaka, Japan also known as the World’s Fair, one of those rare global events where nations come together to celebrate culture, innovation, and the future...",
+        link: "https://www.linkedin.com/posts/lilanofficial_osaka-japan-expo-activity-7391752716903096321-PnJ4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/186OBUJ3FbSTZ40r59xqy8rCywYid1x83/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-public-policy",
     id: "7.86",
@@ -8449,6 +8711,186 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.69",
+    title: "Participating the UN Trade and Development (UNCTAD) Youth Forum",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Representing Youth Innovation at the UNCTAD Youth Forum 2025",
+        image: "assets/img/impact/leadership-economic/Representing Youth Innovation at the UNCTAD Youth Forum 2025.jpeg",
+         description:
+          "It was a great privilege to participate as a Youth Delegate representing the social enterprise ELZIAN AGRO Agro, at the UN Trade and Development (UNCTAD) Youth Forum, held in Geneva, Switzerland....",
+        link: "https://www.linkedin.com/posts/lilanofficial_unctad-youth-forum-activity-7386794057047527425-2Yu5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1PQ6XUUBfk5iYRdKoiLn6t_pfni4g9tVv/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.68",
+    title: "Participating in the 80th session of the United Nations General Assembly (UNGA80)",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "UN80: A Turning Point for Global Cooperation and Reform",
+        image: "assets/img/impact/leadership-economic/UN80 A Turning Point for Global Cooperation and Reform.jpeg",
+        description:
+          "The 80th session of the United Nations (UN) General Assembly is currently underway in New York, with world leaders in attendance. The United Nations is facing pressing calls for reform...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unga-unga80-sdgs-activity-7376530152719122432-JSaX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/10Ut4Pt2aD9U3LcKqkFgbEDaOcDV7hPZX/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.67",
+    title: "OYW France Forum: Responsible Technology and Artificial Intelligence (AI)",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Championing Responsible AI and Ethical Innovation",
+        image: "assets/img/impact/leadership-economic/Championing Responsible AI and Ethical Innovation.png",
+        description:
+          "...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oyw-forum-france-activity-7374321571622137856-MNay?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        description:
+          "It was an honour to participate in the One Young World France Forum hosted at L'Oréal’s head office in Paris. The event brought together OYW Ambassadors and partners to explore...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oyw-forum-france-activity-7374321571622137856-MNay?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1qroSXJyeiV4IMR_5zEQ5buFhS1FvKT_g/view?usp=sharing",
+      },
+      {
+        date: "June 2025",
+        source_name: "One Young World",
+        source_link: "https://www.linkedin.com/company/one-young-world/posts/",
+        title: "One Young World France Forum: Shaping the Future of Responsible Technology",
+        image: "assets/img/impact/leadership-economic/One Young World France Forum.jpeg",
+        description:
+          "Last week were hosted at L'Oréal’s office in Paris where we held our first annual France Forum. The event brought together Ambassadors and partners to explore one of the most pressing topics: responsible technology and artificial intelligence...",
+        link: "https://www.linkedin.com/posts/one-young-world_oyw25-event-partnership-activity-7327787248404373504-1asT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAER_FOQBgw4eOXu14W-xhpRf6DYxwhIqJaI",
+        backup_image: "https://drive.google.com/file/d/1WpRpiawJjQW6BO79dlnMgWtyifO_k9bR/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.66",
+    title: "Visiting the International Trade Centre for Youth Ecopreneur Program",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Sustainable Entrepreneurship through the YECO Programme",
+        image: "assets/img/impact/leadership-economic/Empowering Sustainable Entrepreneurship.png",
+        description:
+          "I had the privilege of visiting the International Trade Centre in Geneva, Switzerland. Being a part of the YECO Youth Ecopreneur Program...",
+        link: "https://www.linkedin.com/posts/lilanofficial_yeco-startup-entrepreneurship-activity-7372621921156440064-oZhv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1aV8iX2d3pB-j6m0-y5giZX4Jd0Vc81UV/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.65",
+    title: "Facilitating the UNLEASH Hack Innovation Lab in Sri Lanka",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth Innovation at UNLEASH Hack Sri Lanka – Day Two",
+        image: "assets/img/impact/leadership-economic/Empowering Youth Innovation at UNLEASH Hack Sri Lanka – Day Two.jpeg",
+        description:
+          "The second day of UNLEASH Hack Sri Lanka began with a comprehensive recap of Day One, setting a strong foundation for refining problem statements and diving deep into ideation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-unleash2025-youth-activity-7372508899834449921-WUPb?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1spvlsMLjLAnVxsVY29tD2d-EmthUDynW/view?usp=sharing",
+      },
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Facilitating Innovation and Collaboration at UNLEASH Hack Sri Lanka 2025",
+        image: "assets/img/impact/leadership-economic/Facilitating Innovation and Collaboration.jpeg",
+        description:
+          "It was an absolute pleasure to serve as a Facilitator for UNLEASH Hack Sri Lanka 2025. A heartfelt thank you to the entire organizing committee for their dedication and hard work in making this transformative event possible...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-unleash2025-youth-activity-7372145636974120960-_foQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ShRh1m86LQCTEEwXzMs_p6lBwN34xwGr/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.64",
+    title: "Contributing to Circular Economy through the International Council for Circular Economy (ICCE)",
+    slides: [
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ICCE at 5: Celebrating Five Years of Driving the Global Circular Economy Forward",
+        image: "assets/img/impact/leadership-economic/ICCE at 5.png",
+        description:
+          "Cheers to the International Council for Circular Economy (ICCE) on its fifth anniversary of advancing the circular economy agenda globally! 🎉 Since its inception, ICCE has been building awareness, influencing policy...",
+        link: "https://www.linkedin.com/posts/lilanofficial_circular-economy-icce-activity-7365623453145583616-s-lc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1R1rxazp_dDDhGjwRNnA_Vitfv6IHHU0M/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.63",
+    title: "Focusing on the Digitalization in Architecture and Construction",
+    slides: [
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building the Future: Insights from the International Architecture Camp in Kazan",
+        image: "assets/img/impact/leadership-economic/Building the Future.jpeg",
+        description:
+          "Wrapping up another productive day at the International Architecture Camp in Kazan, Russia, focused on digitalization in architecture and construction. The International Congress...",
+        link: "https://www.linkedin.com/posts/lilanofficial_architecture-technology-tech-activity-7363382371452145664-naAw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1OyEl-4Y-WaQ_0NkHRN0rWPBh2ZySpEtA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.62",
+    title: "Participating in the International Architecture Camp",
+    slides: [
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Bridging Precision Agriculture and Sustainable Architecture",
+        image: "assets/img/impact/leadership-economic/Bridging Precision Agriculture and Sustainable Architecture.png",
+        description:
+          "Day three at the International Architecture Camp in Kazan, Russia, was an inspiring opportunity to exchange ideas with young architects and designers from around the world....",
+        link: "https://www.linkedin.com/posts/lilanofficial_architecture-technology-tech-activity-7363743077036929024-rHSm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Y28c6OhhPQZdRw250a9meU1CBTQRmxxy/view?usp=sharing",
+      },
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Programmable Urbanism at the International Architecture Camp in Russia",
+        image: "assets/img/impact/leadership-economic/Exploring Programmable Urbanism.jpeg",
+        description:
+          "It was an inspiring day at the International Architecture Camp in Kazan, Russia, held under the theme “City as a Code: Programmable Urbanism.” The camp, part of the larger International Congress of Young Architects and Designers...",
+        link: "https://www.linkedin.com/posts/lilanofficial_architecture-technology-tech-activity-7363154544689647618-uCYh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1vDeJqljz3JilEpk-TK8RMkBrh8lz5he9/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.61",
