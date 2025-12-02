@@ -4013,8 +4013,84 @@ const impacts = [
 
   {
     filter: "filter-food-agriculture",
+    id: "4.61",
+    title: "Participating in the Symposium of Strategies for the Remediation of Soil & Groundwater",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Tackling Soil & Groundwater Challenges at DECHEMA Symposium",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Tackling Soil & Groundwater Challenges at DECHEMA Symposium.jpeg",
+        description:
+          "The Symposium “Strategies for the Remediation of Soil & Groundwater” brought together leading experts to tackle some of the most pressing challenges in soil and groundwater management...",
+        link: "https://www.linkedin.com/posts/lilanofficial_soil-land-sustainability-activity-7399468687675617280-nfg_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/12NaNhifh37qv6RMz6MeTRZ_qhqr9d-sa/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.60",
+    title: "Delivering a Guest Lecture for the Master's Program in Service Design at Politecnico di Milano (POLIMI), University of Milan",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inspiring Students at POLIMI on Drought Resilience Projects",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Inspiring Students at POLIMI on Drought Resilience Projects.jpeg",
+        description:
+          "I’m thrilled to share that I will be delivering a Guest Session on November 27th for 100 talented students pursuing the Service Design Master’s Degree at Politecnico di Milano. Excitingly, half of the students come from countries outside the EU...",
+        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-service-design-activity-7398167515308404736-bbHv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QrxQn6GCxKkUuGqVyYcCSWzI2nhx8-Wv/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.59",
+    title: "Addressing the Asia-Pacific Forum on Sustainable Development (APFSD) on Agri-tech Inclusion",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Speaking at the APFSD 2025 in Bangkok",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Speaking at the APFSD 2025 in Bangkok.jpeg",
+        description:
+          "I had the incredible opportunity to speak at the Asia-Pacific Forum on Sustainable Development (APFSD) in Bangkok, Thailand. Preceding the Forum, the APFSD Youth Forum brought together 549 young leaders...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7393604817316872193-V1WD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dUNipTgce0XVWThhEWMwrKU7uXfDNRCU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.58",
+    title: "Exhibiting at the Asia-Pacific Forum on Sustainable Development (APFSD)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exhibiting at the APFSD Youth Forum 2025",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Exhibiting at the APFSD Youth Forum 2025.jpeg",
+        description:
+          "I had the incredible opportunity to be an exhibitor at the APFSD Youth Forum in Bangkok, Thailand. This experience was truly enriching; it deepened my understanding of the Sustainable Development Goals (SDGs)...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7392773580519841792-9T8O?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1WPNoGyic-5W2O1EB4wDsVv64JAICT0Ny/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
     id: "4.57",
-    title: " Participating in the FAO Science and Innovation Forum",
+    title: "Participating in the FAO Science and Innovation Forum",
     slides: [
       {
         date: "October 2025",
@@ -5352,6 +5428,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-renewable-energy",
+    id: "5.11",
+    title: "Participating in the Foam Expo Europe, the Adhesives & Bonding Expo and the Thermal Management Expo Europe",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Innovation at Europe’s Leading Manufacturing Expo",
+        image: "assets/img/impact/renewable-energy/Leading Manufacturing Expo.jpeg",
+        description:
+          "Europe’s largest free trade fair and conference for industrial bonding products and manufacturing is currently taking place at Messe Stuttgart, Germany. This dynamic event brings together industry leaders, innovators, and professionals...",
+        link: "https://www.linkedin.com/posts/lilanofficial_manufacturing-innovation-sustainability-activity-7394321216863514624-n6on?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16hstob0zAicDsFfZ92J_sscALJDz2v-I/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-renewable-energy",
     id: "5.10",
@@ -10322,6 +10416,118 @@ const impacts = [
 
   {
     filter: "filter-youth-women-empowerment",
+    id: "9.45",
+    title: "Delivering a Guest Lecture for the Master's Program in Service Design at Politecnico di Milano (POLIMI), University of Milan",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inspiring Students at POLIMI on Drought Resilience Projects",
+        image: "assets/img/impact/youth-women-empowerment/Inspiring Students at POLIMI on Drought Resilience Projects.jpeg",
+        description:
+          "I’m thrilled to share that I will be delivering a Guest Session on November 27th for 100 talented students pursuing the Service Design Master’s Degree at Politecnico di Milano. Excitingly, half of the students come from countries outside the EU...",
+        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-service-design-activity-7398167515308404736-bbHv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QrxQn6GCxKkUuGqVyYcCSWzI2nhx8-Wv/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.44",
+    title: "Mentoring the Adventure Club, University of Kelaniya",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Proud to Mentor the Adventure Club – UoK",
+        image:
+          "assets/img/impact/youth-women-empowerment/Proud to Mentor the Adventure Club.jpeg",
+        description: "It has been a true pleasure and privilege to serve as a mentor for the Adventure Club - UoK, an initiative I had the honour of founding as President back in 2020. What began as a passionate vision...",
+        link: "https://www.linkedin.com/posts/lilanofficial_adventure-club-adventureclub-share-7395954696433258497-EcXX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1_aaBR8qgvPiiOghJl85zCRNKkxZkQkAc/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.43",
+    title: "Participating in the Asia-Pacific Youth Forum on Sustainable Development (APFSD)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Leadership at APFSD 2025",
+        image:
+          "assets/img/impact/youth-women-empowerment/Youth Leadership at APFSD 2025.jpeg",
+        description:
+          "The Asia-Pacific Forum on Sustainable Development (APFSD) in Bangkok generated remarkable momentum, driven by hundreds of young leaders united by a shared mission. Even before the main Forum began, the APFSD Youth Forum...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7395126166652825600-CsPj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1qNgRvZNXCZmqoNYehzwjjndqMj3NGwgh/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.42",
+    title: "Addressing the Asia-Pacific Youth Forum on Sustainable Development (APFSD)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Speaking at the APFSD 2025 in Bangkok",
+        image:
+          "assets/img/impact/youth-women-empowerment/Speaking at the APFSD 2025 in Bangkok.jpeg",
+        description:
+          "I had the incredible opportunity to speak at the Asia-Pacific Forum on Sustainable Development (APFSD) in Bangkok, Thailand. Preceding the Forum, the APFSD Youth Forum brought together 549 young leaders...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7393604817316872193-V1WD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dUNipTgce0XVWThhEWMwrKU7uXfDNRCU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.41",
+    title: "Conducting Systems Thinking Workshops at the One Young World Summit",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Bringing Systems Thinking to the Global Stage",
+        image:
+          "assets/img/impact/youth-women-empowerment/Bringing Systems Thinking to the Global Stage.png",
+        description:
+          "After diving into systems thinking during a Strategic Masterclass with the G20 Global Land Initiative at The London School of Economics and Political Science (LSE), I just brought that experience to the global stage as a Virgin Unite NewNow Leader at the One Young World Summit in Munich, Germany...",
+        link: "https://www.linkedin.com/posts/lilanofficial_g20gli-oneyoungworld-youthinaction-activity-7393225361410605056-T1T5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/11IGMIhfCci_T4OixsSUcUoZWBVzQuEp2/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.40",
+    title: "Exhibiting at the Asia-Pacific Youth Forum on Sustainable Development (APFSD)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exhibiting at the APFSD Youth Forum 2025",
+        image:
+          "assets/img/impact/youth-women-empowerment/Exhibiting at the APFSD Youth Forum 2025.jpeg",
+        description:
+          "I had the incredible opportunity to be an exhibitor at the APFSD Youth Forum in Bangkok, Thailand. This experience was truly enriching; it deepened my understanding of the Sustainable Development Goals (SDGs)...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7392773580519841792-9T8O?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1WPNoGyic-5W2O1EB4wDsVv64JAICT0Ny/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
     id: "9.39",
     title: "Participating the UN Trade and Development (UNCTAD) Youth Forum",
     slides: [
@@ -11789,6 +11995,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-aerospace-outer-space",
+    id: "11.7",
+    title: "Participating in Europe's Largest B2B Space Tech Expo",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Innovation at Europe’s Space Engineering Expo",
+        image: "assets/img/impact/aerospace-outer-space/Exploring Innovation at Europe’s Space Engineering Expo.jpeg",
+        description:
+          "Europe’s premier gathering for space engineering and technology is currently underway in MESSE Bremen, Germany; bringing together the brightest minds and leading organizations shaping the future of the space industry...",
+        link: "https://www.linkedin.com/posts/lilanofficial_space-technology-innovation-activity-7396845316479606784-RtMA?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1SqALCgNZnkrbMGiGceDvDXABGYynTvFN/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-aerospace-outer-space",
     id: "11.6",
