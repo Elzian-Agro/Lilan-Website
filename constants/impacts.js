@@ -5649,6 +5649,158 @@ const impacts = [
 
   {
     filter: "filter-climate-environmental",
+    id: "6.73",
+    title: "Participating in the Symposium of Strategies for the Remediation of Soil & Groundwater",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Tackling Soil & Groundwater Challenges at DECHEMA Symposium",
+        image:
+          "assets/img/impact/climate-environmental/Tackling Soil & Groundwater Challenges at DECHEMA Symposium.jpeg",
+        description:
+          "The Symposium “Strategies for the Remediation of Soil & Groundwater” brought together leading experts to tackle some of the most pressing challenges in soil and groundwater management...",
+        link: "https://www.linkedin.com/posts/lilanofficial_soil-land-sustainability-activity-7399468687675617280-nfg_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/12NaNhifh37qv6RMz6MeTRZ_qhqr9d-sa/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.72",
+    title: "Delivering a Guest Lecture for the Master's Program in Service Design at Politecnico di Milano (POLIMI), University of Milan",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inspiring Students at POLIMI on Drought Resilience Projects",
+        image:
+          "assets/img/impact/climate-environmental/Inspiring Students at POLIMI on Drought Resilience Projects.jpeg",
+        description:
+          "I’m thrilled to share that I will be delivering a Guest Session on November 27th for 100 talented students pursuing the Service Design Master’s Degree at Politecnico di Milano. Excitingly, half of the students come from countries outside the EU...",
+        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-service-design-activity-7398167515308404736-bbHv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QrxQn6GCxKkUuGqVyYcCSWzI2nhx8-Wv/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.71",
+    title: "Participating in the Asia-Pacific Forum on Sustainable Development (APFSD)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+         title: "Youth Leadership at APFSD 2025",
+        image:
+          "assets/img/impact/climate-environmental/Youth Leadership at APFSD 2025.jpeg",
+        description:
+          "The Asia-Pacific Forum on Sustainable Development (APFSD) in Bangkok generated remarkable momentum, driven by hundreds of young leaders united by a shared mission. Even before the main Forum began, the APFSD Youth Forum...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7395126166652825600-CsPj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1qNgRvZNXCZmqoNYehzwjjndqMj3NGwgh/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.70",
+    title: "Participating in the Global Climate Action Partnership (GCAP) at the Global Workshop",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honoured with the Climate Action Leadership Award",
+        image:
+          "assets/img/impact/climate-environmental/Climate Action Leadership Award 2025.jpeg",
+        description:
+          "I’m deeply honoured to receive the Climate Action Leadership Award from the Global Climate Action Partnership (GCAP) at the Global Workshop in Brazil, alongside Foz do Iguaçu falls...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-climateaction-activity-7396230553613746177-jm7p?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16ucZ-ekQWkAQ_OEMfi0PHutUff82qikT/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.69",
+    title: "Addressing the Asia-Pacific Forum on Sustainable Development (APFSD) on Climate Adaptation",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Speaking at the APFSD 2025 in Bangkok",
+        image:
+          "assets/img/impact/climate-environmental/Speaking at the APFSD 2025 in Bangkok.jpeg",
+        description:
+          "I had the incredible opportunity to speak at the Asia-Pacific Forum on Sustainable Development (APFSD) in Bangkok, Thailand. Preceding the Forum, the APFSD Youth Forum brought together 549 young leaders...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7393604817316872193-V1WD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dUNipTgce0XVWThhEWMwrKU7uXfDNRCU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.68",
+    title: "Participating in the Catalyzing Change Week (CCW)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the Catalyzing Change Week (CCW)",
+        image:
+          "assets/img/impact/climate-environmental/Participating in the Catalyzing Change Week (CCW).jpeg",
+        description:
+          "Catalyzing Change Week (CCW) was the world's largest vitual gathering where social innovators, business leaders, and funders from around the world will meet in over 160 sessions organized across 65+ countries and in 7 languages to drive real systemic change....",
+        link: "https://www.linkedin.com/posts/lilanofficial_health-change-climate-activity-7393396123715002368-SdS7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/13Px2KdwhHGh5eVmamQsPNE4g0Micd6AD/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.67",
+    title: "Blue Planet Alliance at COP30",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Peace Boat US & Blue Planet Alliance at COP30 Brazil",
+        image:
+          "assets/img/impact/climate-environmental/Peace Boat US & Blue Planet Alliance at COP30 Brazil.jpeg",
+        description:
+          "Peace Boat US and Blue Planet Alliance are at COP 30 UN Climate Change Conference in Belém, Brazil. Starting next week, Peace Boat US will participate in the UN Climate Change Conference, COP 30 in Belém, Brazil...",
+        link: "https://www.linkedin.com/posts/lilanofficial_peaceboat-blueplanetalliance-bpa-activity-7393385589401759744-IalQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1b4sZtUSZImA0IWlUXvC3RW5spD_1yz8h/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.66",
+    title: "Conducting Systems Thinking Workshops at the One Young World Summit",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Bringing Systems Thinking to the Global Stage",
+        image:
+          "assets/img/impact/climate-environmental/Bringing Systems Thinking to the Global Stage.png",
+        description:
+          "After diving into systems thinking during a Strategic Masterclass with the G20 Global Land Initiative at The London School of Economics and Political Science (LSE), I just brought that experience to the global stage as a Virgin Unite NewNow Leader at the One Young World Summit in Munich, Germany...",
+        link: "https://www.linkedin.com/posts/lilanofficial_g20gli-oneyoungworld-youthinaction-activity-7393225361410605056-T1T5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/11IGMIhfCci_T4OixsSUcUoZWBVzQuEp2/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
     id: "6.65",
     title: "Participating in the Oslo Innovation Week for Climate Innovation Research",
     slides: [
