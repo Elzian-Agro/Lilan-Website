@@ -5,6 +5,17 @@ const impacts = [
     title: "Moonshot Awards - Global Connector Winner 2024",
     slides: [
       {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating the Moonshot Awards and Global Young Leaders",
+        image: "assets/img/impact/recognition/moonshot-awards/Moonshot Awards and Global Young Leaders.jpeg",
+        description:
+          "Today, the Moonshot Awards take place in Chelsea, Manhattan, celebrating and supporting exceptional young leaders who are driving transformative impact for society and the environment...",
+        link: "https://www.linkedin.com/posts/lilanofficial_moonshot-awards-sdgs-activity-7394710352904695808-HD4c?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1s_YNP-R-gDtBckbCkNCjahXSzDLGb115/view?usp=sharing",
+      },
+      {
         date: "December 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -435,6 +446,18 @@ const impacts = [
         link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-climatechange-activity-7260618274957111296-ACg5?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/18tfWjk8krOaiYA9hURbklOGqngpWiNtR/view?usp=drive_link",
       },
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honoured with the Climate Action Leadership Award",
+        image:
+          "assets/img/impact/recognition/climate-action-leadership-award/Climate Action Leadership Award 2025.jpeg",
+        description:
+          "I’m deeply honoured to receive the Climate Action Leadership Award from the Global Climate Action Partnership (GCAP) at the Global Workshop in Brazil, alongside Foz do Iguaçu falls...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-climateaction-activity-7396230553613746177-jm7p?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16ucZ-ekQWkAQ_OEMfi0PHutUff82qikT/view?usp=sharing",
+      },
     ],
   },
   {
@@ -578,6 +601,33 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-membership",
+    id: "2.34",
+    title: "Founding President of the Adventure Club UoK",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Proud to Mentor the Adventure Club – UoK",
+        image: "assets/img/impact/membership/Proud to Mentor the Adventure Club.jpeg",
+        description: "It has been a true pleasure and privilege to serve as a mentor for the Adventure Club - UoK, an initiative I had the honour of founding as President back in 2020. What began as a passionate vision...",
+        link: "https://www.linkedin.com/posts/lilanofficial_adventure-club-adventureclub-share-7395954696433258497-EcXX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1_aaBR8qgvPiiOghJl85zCRNKkxZkQkAc/view?usp=sharing",
+      },
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflecting on the 2025 Adventure Club Gathering",
+        image: "assets/img/impact/membership/Reflecting on the 2025 Adventure Club Gathering.png",
+        description: "Reflecting on the 2025 Annual General Meeting of the Adventure Club at the University of Kelaniya fills my heart with warmth and inspiration. What started in 2020 as a passionate initiative by a diverse group of undergraduates...",
+        link: "https://www.linkedin.com/posts/lilanofficial_agm-adventureclub-uok-activity-7395571362163093504-tWK-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BAnU6T5RFbyDuoUHfUm3bwA7h7cppb73/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-membership",
     id: "2.33",
@@ -1567,6 +1617,150 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-innovation-social",
+    id: "3.116",
+    title: "Delivering a Guest Lecture for the Master's Program in Service Design at Politecnico di Milano (POLIMI), University of Milan",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inspiring Students at POLIMI on Drought Resilience Projects",
+        image: "assets/img/impact/innovation-social/Inspiring Students at POLIMI on Drought Resilience Projects.jpeg",
+        description:
+          "I’m thrilled to share that I will be delivering a Guest Session on November 27th for 100 talented students pursuing the Service Design Master’s Degree at Politecnico di Milano. Excitingly, half of the students come from countries outside the EU...",
+        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-service-design-activity-7398167515308404736-bbHv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QrxQn6GCxKkUuGqVyYcCSWzI2nhx8-Wv/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.115",
+    title: "Participating in Europe's Largest B2B Space Tech Expo",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Innovation at Europe’s Space Engineering Expo",
+        image: "assets/img/impact/innovation-social/Exploring Innovation at Europe’s Space Engineering Expo.jpeg",
+        description:
+          "Europe’s premier gathering for space engineering and technology is currently underway in MESSE Bremen, Germany; bringing together the brightest minds and leading organizations shaping the future of the space industry...",
+        link: "https://www.linkedin.com/posts/lilanofficial_space-technology-innovation-activity-7396845316479606784-RtMA?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1SqALCgNZnkrbMGiGceDvDXABGYynTvFN/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.114",
+    title: "Participating in the Asia-Pacific Forum on Sustainable Development (APFSD)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Leadership at APFSD 2025",
+        image: "assets/img/impact/innovation-social/Youth Leadership at APFSD 2025.jpeg",
+        description:
+          "The Asia-Pacific Forum on Sustainable Development (APFSD) in Bangkok generated remarkable momentum, driven by hundreds of young leaders united by a shared mission. Even before the main Forum began, the APFSD Youth Forum...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7395126166652825600-CsPj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1qNgRvZNXCZmqoNYehzwjjndqMj3NGwgh/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.113",
+    title: "Addressing the Asia-Pacific Forum on Sustainable Development (APFSD)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Speaking at the APFSD 2025 in Bangkok",
+        image: "assets/img/impact/innovation-social/Speaking at the APFSD 2025 in Bangkok.jpeg",
+        description:
+          "I had the incredible opportunity to speak at the Asia-Pacific Forum on Sustainable Development (APFSD) in Bangkok, Thailand. Preceding the Forum, the APFSD Youth Forum brought together 549 young leaders...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7393604817316872193-V1WD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dUNipTgce0XVWThhEWMwrKU7uXfDNRCU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.112",
+    title: "Participating in the Foam Expo Europe, the Adhesives & Bonding Expo and the Thermal Management Expo Europe",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Innovation at Europe’s Leading Manufacturing Expo",
+        image: "assets/img/impact/innovation-social/Leading Manufacturing Expo.jpeg",
+        description:
+          "Europe’s largest free trade fair and conference for industrial bonding products and manufacturing is currently taking place at Messe Stuttgart, Germany. This dynamic event brings together industry leaders, innovators, and professionals...",
+        link: "https://www.linkedin.com/posts/lilanofficial_manufacturing-innovation-sustainability-activity-7394321216863514624-n6on?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16hstob0zAicDsFfZ92J_sscALJDz2v-I/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.111",
+    title: "Participating in the Catalyzing Change Week (CCW)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the Catalyzing Change Week (CCW)",
+        image: "assets/img/impact/innovation-social/Participating in the Catalyzing Change Week (CCW).jpeg",
+        description:
+          "Catalyzing Change Week (CCW) was the world's largest vitual gathering where social innovators, business leaders, and funders from around the world will meet in over 160 sessions organized across 65+ countries and in 7 languages to drive real systemic change....",
+        link: "https://www.linkedin.com/posts/lilanofficial_health-change-climate-activity-7393396123715002368-SdS7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/13Px2KdwhHGh5eVmamQsPNE4g0Micd6AD/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.110",
+    title: "Conducting Systems Thinking Workshops at the One Young World Summit",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Bringing Systems Thinking to the Global Stage",
+        image: "assets/img/impact/innovation-social/Bringing Systems Thinking to the Global Stage.png",
+        description:
+          "After diving into systems thinking during a Strategic Masterclass with the G20 Global Land Initiative at The London School of Economics and Political Science (LSE), I just brought that experience to the global stage as a Virgin Unite NewNow Leader at the One Young World Summit in Munich, Germany...",
+        link: "https://www.linkedin.com/posts/lilanofficial_g20gli-oneyoungworld-youthinaction-activity-7393225361410605056-T1T5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/11IGMIhfCci_T4OixsSUcUoZWBVzQuEp2/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.109",
+    title: "Exhibiting at the Asia-Pacific Forum on Sustainable Development (APFSD)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exhibiting at the APFSD Youth Forum 2025",
+        image: "assets/img/impact/innovation-social/Exhibiting at the APFSD Youth Forum 2025.jpeg",
+        description:
+          "I had the incredible opportunity to be an exhibitor at the APFSD Youth Forum in Bangkok, Thailand. This experience was truly enriching; it deepened my understanding of the Sustainable Development Goals (SDGs)...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7392773580519841792-9T8O?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1WPNoGyic-5W2O1EB4wDsVv64JAICT0Ny/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-innovation-social",
     id: "3.108",
