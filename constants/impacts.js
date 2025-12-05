@@ -1619,19 +1619,37 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.117",
+    title: "Delivering a Guest Lecture to Service Design Master’s program at Politecnico di Milano (POLIMI), University of Milan",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Guest Session at Politecnico di Milano",
+        image: "assets/img/impact/innovation-social/Politecnico di Milano.jpeg",
+        description:
+          "A few days ago, I had the privilege of delivering a guest session to 100 talented students in the Service Design Master’s program at Politecnico di Milano (POLIMI). Nearly half of the cohort comes from outside the EU, bringing an incredible diversity...",
+        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-milan-polimi-activity-7402429699429507072-Ck7_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1-ZK9Lc20F9Z5Ya0urlmrsaqtm7pn78XS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.116",
-    title: "Delivering a Guest Lecture for the Master's Program in Service Design at Politecnico di Milano (POLIMI), University of Milan",
+    title: "Participating in the Startup Career Day at Politecnico di Milano (POLIMI), University of Milan",
     slides: [
       {
         date: "November 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Inspiring Students at POLIMI on Drought Resilience Projects",
-        image: "assets/img/impact/innovation-social/Inspiring Students at POLIMI on Drought Resilience Projects.jpeg",
+        title: "Honored to Deliver a Guest Session at Politecnico di Milano",
+        image: "assets/img/impact/innovation-social/Guest Session at Politecnico di Milano.jpeg",
         description:
           "I’m thrilled to share that I will be delivering a Guest Session on November 27th for 100 talented students pursuing the Service Design Master’s Degree at Politecnico di Milano. Excitingly, half of the students come from countries outside the EU...",
         link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-service-design-activity-7398167515308404736-bbHv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1QrxQn6GCxKkUuGqVyYcCSWzI2nhx8-Wv/view?usp=sharing",
+        backup_image: "https://drive.google.com/file/d/1ycp9AuzKPpT2PDPQblfsRFaNV8OxXTkI/view?usp=sharing",
       },
     ],
   },
@@ -4033,19 +4051,19 @@ const impacts = [
   {
     filter: "filter-food-agriculture",
     id: "4.60",
-    title: "Delivering a Guest Lecture for the Master's Program in Service Design at Politecnico di Milano (POLIMI), University of Milan",
+    title: "Delivering a Guest Lecture to Service Design Master’s program at Politecnico di Milano (POLIMI)",
     slides: [
       {
-        date: "November 2025",
+        date: "December 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Inspiring Students at POLIMI on Drought Resilience Projects",
+        title: "Guest Session at Politecnico di Milano",
         image:
-          "assets/img/impact/food-agriculture-forestry/Inspiring Students at POLIMI on Drought Resilience Projects.jpeg",
+          "assets/img/impact/food-agriculture-forestry/Politecnico di Milano.jpeg",
         description:
-          "I’m thrilled to share that I will be delivering a Guest Session on November 27th for 100 talented students pursuing the Service Design Master’s Degree at Politecnico di Milano. Excitingly, half of the students come from countries outside the EU...",
-        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-service-design-activity-7398167515308404736-bbHv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1QrxQn6GCxKkUuGqVyYcCSWzI2nhx8-Wv/view?usp=sharing",
+          "A few days ago, I had the privilege of delivering a guest session to 100 talented students in the Service Design Master’s program at Politecnico di Milano (POLIMI). Nearly half of the cohort comes from outside the EU, bringing an incredible diversity...",
+        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-milan-polimi-activity-7402429699429507072-Ck7_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1-ZK9Lc20F9Z5Ya0urlmrsaqtm7pn78XS/view?usp=sharing",
       },
     ],
   },
@@ -5430,6 +5448,24 @@ const impacts = [
 
   {
     filter: "filter-renewable-energy",
+    id: "5.12",
+    title: "Delivering a Guest Lecture to Service Design Master’s program at Politecnico di Milano (POLIMI)",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Guest Session at Politecnico di Milano",
+        image: "assets/img/impact/renewable-energy/Politecnico di Milano.jpeg",
+        description:
+          "A few days ago, I had the privilege of delivering a guest session to 100 talented students in the Service Design Master’s program at Politecnico di Milano (POLIMI). Nearly half of the cohort comes from outside the EU, bringing an incredible diversity...",
+        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-milan-polimi-activity-7402429699429507072-Ck7_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1-ZK9Lc20F9Z5Ya0urlmrsaqtm7pn78XS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
     id: "5.11",
     title: "Participating in the Foam Expo Europe, the Adhesives & Bonding Expo and the Thermal Management Expo Europe",
     slides: [
@@ -5669,19 +5705,19 @@ const impacts = [
   {
     filter: "filter-climate-environmental",
     id: "6.72",
-    title: "Delivering a Guest Lecture for the Master's Program in Service Design at Politecnico di Milano (POLIMI), University of Milan",
+    title: "Delivering a Guest Lecture to Service Design Master’s program at Politecnico di Milano (POLIMI)",
     slides: [
       {
-        date: "November 2025",
+        date: "December 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Inspiring Students at POLIMI on Drought Resilience Projects",
+        title: "Guest Session at Politecnico di Milano",
         image:
-          "assets/img/impact/climate-environmental/Inspiring Students at POLIMI on Drought Resilience Projects.jpeg",
+          "assets/img/impact/climate-environmental/Politecnico di Milano.jpeg",
         description:
-          "I’m thrilled to share that I will be delivering a Guest Session on November 27th for 100 talented students pursuing the Service Design Master’s Degree at Politecnico di Milano. Excitingly, half of the students come from countries outside the EU...",
-        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-service-design-activity-7398167515308404736-bbHv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1QrxQn6GCxKkUuGqVyYcCSWzI2nhx8-Wv/view?usp=sharing",
+          "A few days ago, I had the privilege of delivering a guest session to 100 talented students in the Service Design Master’s program at Politecnico di Milano (POLIMI). Nearly half of the cohort comes from outside the EU, bringing an incredible diversity...",
+        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-milan-polimi-activity-7402429699429507072-Ck7_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1-ZK9Lc20F9Z5Ya0urlmrsaqtm7pn78XS/view?usp=sharing",
       },
     ],
   },
@@ -7219,18 +7255,18 @@ const impacts = [
   {
     filter: "filter-public-policy",
     id: "7.93",
-    title: "Delivering a Guest Lecture for the Master's Program in Service Design at Politecnico di Milano (POLIMI), University of Milan",
+    title: "Delivering a Guest Lecture to Service Design Master’s program at Politecnico di Milano (POLIMI)",
     slides: [
       {
-        date: "November 2025",
+        date: "December 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Inspiring Students at POLIMI on Drought Resilience Projects",
-        image: "assets/img/impact/public-policy/Inspiring Students at POLIMI on Drought Resilience Projects.jpeg",
+        title: "Guest Session at Politecnico di Milano",
+        image: "assets/img/impact/public-policy/Politecnico di Milano.jpeg",
         description:
-          "I’m thrilled to share that I will be delivering a Guest Session on November 27th for 100 talented students pursuing the Service Design Master’s Degree at Politecnico di Milano. Excitingly, half of the students come from countries outside the EU...",
-        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-service-design-activity-7398167515308404736-bbHv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1QrxQn6GCxKkUuGqVyYcCSWzI2nhx8-Wv/view?usp=sharing",
+          "A few days ago, I had the privilege of delivering a guest session to 100 talented students in the Service Design Master’s program at Politecnico di Milano (POLIMI). Nearly half of the cohort comes from outside the EU, bringing an incredible diversity...",
+        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-milan-polimi-activity-7402429699429507072-Ck7_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1-ZK9Lc20F9Z5Ya0urlmrsaqtm7pn78XS/view?usp=sharing",
       },
     ],
   },
@@ -9297,6 +9333,24 @@ const impacts = [
 
   {
     filter: "filter-leadership-economic",
+    id: "8.80",
+    title: "Delivering a Guest Lecture to Service Design Master’s program at Politecnico di Milano (POLIMI), University of Milan",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Guest Session at Politecnico di Milano",
+        image: "assets/img/impact/leadership-economic/Politecnico di Milano.jpeg",
+        description:
+          "A few days ago, I had the privilege of delivering a guest session to 100 talented students in the Service Design Master’s program at Politecnico di Milano (POLIMI). Nearly half of the cohort comes from outside the EU, bringing an incredible diversity...",
+        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-milan-polimi-activity-7402429699429507072-Ck7_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1-ZK9Lc20F9Z5Ya0urlmrsaqtm7pn78XS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
     id: "8.79",
     title: "Participating in the Asia Berlin Summit",
     slides: [
@@ -9316,7 +9370,7 @@ const impacts = [
   {
     filter: "filter-leadership-economic",
     id: "8.78",
-    title: "Delivering a Guest Lecture for the Master's Program in Service Design at Politecnico di Milano (POLIMI), University of Milan",
+    title: "Participating in the Startup Career Day at Politecnico di Milano (POLIMI), University of Milan",
     slides: [
       {
         date: "November 2025",
@@ -10891,8 +10945,26 @@ const impacts = [
 
   {
     filter: "filter-youth-women-empowerment",
+    id: "9.46",
+    title: "Delivering a Guest Lecture to Service Design Master’s program at Politecnico di Milano (POLIMI), University of Milan",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Guest Session at Politecnico di Milano",
+        image: "assets/img/impact/youth-women-empowerment/Politecnico di Milano.jpeg",
+        description:
+          "A few days ago, I had the privilege of delivering a guest session to 100 talented students in the Service Design Master’s program at Politecnico di Milano (POLIMI). Nearly half of the cohort comes from outside the EU, bringing an incredible diversity...",
+        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-milan-polimi-activity-7402429699429507072-Ck7_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1-ZK9Lc20F9Z5Ya0urlmrsaqtm7pn78XS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
     id: "9.45",
-    title: "Delivering a Guest Lecture for the Master's Program in Service Design at Politecnico di Milano (POLIMI), University of Milan",
+    title: "Participating in the Career Day at Politecnico di Milano (POLIMI), University of Milan",
     slides: [
       {
         date: "November 2025",
