@@ -790,6 +790,17 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1BbK79J_hMcx2R8_eDOU13Wzuno70UK8A/view?usp=sharing",
       },
       {
+        date: "December 2025",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Together We Built Impact: ITC Ye! 2025",
+        image: "assets/img/impact/membership/Together We Built Impact.jpg",
+        description:
+          "As we reflect on 2025, we celebrate the people who made the ITC Ye! Community what it is. Our ITC Ye! Advisors who strengthened local ecosystems, our YECO entrepreneurs building bold climate and green solutions...",
+        link: "https://www.linkedin.com/posts/ye-community_yecommunity-activity-7407691181649780736-Qyt5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1yTGE6Zcx6wtQvrzS5IRmVgDNEAADqPP1/view?usp=sharing",
+      },
+      {
         date: "September 2025",
         source_name: "ITC Ye! Community",
         source_link: "https://www.linkedin.com/company/ye-community/posts/",
@@ -1617,6 +1628,42 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-innovation-social",
+    id: "3.119",
+    title: "Participating the Special Digital@UNGA WSIS+20 Edition at United Nations Headquarters",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping an Inclusive Digital Future: Digital@UNGA WSIS+20",
+        image: "assets/img/impact/innovation-social/Shaping an Inclusive Digital Future.jpg",
+        description:
+          "Following the success of the Digital@UNGA Anchor Event held during the United Nations General Assembly, the International Telecommunication Union (ITU) and the United Nations Development Programme (UNDP) hosted a special...",
+        link: "https://www.linkedin.com/posts/lilanofficial_digital-unga-wsis20-activity-7407073926519885824-sPpH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ZGhZYMn2Huv99uE39XySr22iwJ-9Owv9/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.118",
+    title: "Participating in the SelectUSA Investment Summit Awareness Session at the Ceylon Chamber of Commerce",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Global Opportunities at SelectUSA",
+        image: "assets/img/impact/innovation-social/Exploring Global Opportunities at SelectUSA.jpg",
+        description:
+          "Attended an eye-opening session today at the Ceylon Chamber of Commerce on the SelectUSA Investment Summit, the U.S. federal government's flagship program, launched in 2007...",
+        link: "https://www.linkedin.com/posts/lilanofficial_selectusa-investment-summit-activity-7406739576322646017-UDQ5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16yTv5pcPIYGIXu2D-YQHOvg3abmKuOe-/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-innovation-social",
     id: "3.117",
@@ -5448,6 +5495,24 @@ const impacts = [
 
   {
     filter: "filter-renewable-energy",
+    id: "5.13",
+    title: "Facilitating the I ACT (Italy-IRENA Action for Climate Toolkit) Training Program",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "I ACT Sri Lanka: Building Climate Leaders",
+        image: "assets/img/impact/renewable-energy/I ACT Sri Lanka.jpg",
+        description:
+          "Excited to share that the I ACT Sri Lanka Training Program is happening tomorrow at the Social Sciences Auditorium, University of Kelaniya. The I ACT (Italy–IRENA Action for Climate Toolkit) is a powerful global initiative...",
+        link: "https://www.linkedin.com/posts/lilanofficial_iact-climateaction-climate-activity-7406391839685193728-iZV8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1HMobyYY4q59xZkRo5gb6tLEIeCol4suW/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
     id: "5.12",
     title: "Delivering a Guest Lecture to Service Design Master’s program at Politecnico di Milano (POLIMI)",
     slides: [
@@ -5683,6 +5748,25 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-climate-environmental",
+    id: "6.74",
+    title: "Facilitating the I ACT (Italy-IRENA Action for Climate Toolkit) Training Program",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "I ACT Sri Lanka: Building Climate Leaders",
+        image:
+          "assets/img/impact/climate-environmental/I ACT Sri Lanka.jpg",
+        description:
+          "Excited to share that the I ACT Sri Lanka Training Program is happening tomorrow at the Social Sciences Auditorium, University of Kelaniya. The I ACT (Italy–IRENA Action for Climate Toolkit) is a powerful global initiative...",
+        link: "https://www.linkedin.com/posts/lilanofficial_iact-climateaction-climate-activity-7406391839685193728-iZV8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1HMobyYY4q59xZkRo5gb6tLEIeCol4suW/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-climate-environmental",
     id: "6.73",
@@ -7216,6 +7300,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-public-policy",
+    id: "7.96",
+    title: "Participating the Special Digital@UNGA WSIS+20 Edition at the United Nations Headquarters",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping an Inclusive Digital Future: Digital@UNGA WSIS+20",
+        image: "assets/img/impact/public-policy/Shaping an Inclusive Digital Future.jpg",
+        description:
+          "Following the success of the Digital@UNGA Anchor Event held during the United Nations General Assembly, the International Telecommunication Union (ITU) and the United Nations Development Programme (UNDP) hosted a special...",
+        link: "https://www.linkedin.com/posts/lilanofficial_digital-unga-wsis20-activity-7407073926519885824-sPpH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ZGhZYMn2Huv99uE39XySr22iwJ-9Owv9/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-public-policy",
     id: "7.95",
@@ -9331,6 +9433,42 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.82",
+    title: "Participating the Special Digital@UNGA WSIS+20 Edition at the United Nations Headquarters",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping an Inclusive Digital Future: Digital@UNGA WSIS+20",
+        image: "assets/img/impact/leadership-economic/Shaping an Inclusive Digital Future.jpg",
+        description:
+          "Following the success of the Digital@UNGA Anchor Event held during the United Nations General Assembly, the International Telecommunication Union (ITU) and the United Nations Development Programme (UNDP) hosted a special...",
+        link: "https://www.linkedin.com/posts/lilanofficial_digital-unga-wsis20-activity-7407073926519885824-sPpH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ZGhZYMn2Huv99uE39XySr22iwJ-9Owv9/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.81",
+    title: "Participating in the SelectUSA Investment Summit Awareness Session at the Ceylon Chamber of Commerce",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Global Opportunities at SelectUSA",
+        image: "assets/img/impact/leadership-economic/Exploring Global Opportunities at SelectUSA.jpg",
+        description:
+          "Attended an eye-opening session today at the Ceylon Chamber of Commerce on the SelectUSA Investment Summit, the U.S. federal government's flagship program, launched in 2007...",
+        link: "https://www.linkedin.com/posts/lilanofficial_selectusa-investment-summit-activity-7406739576322646017-UDQ5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16yTv5pcPIYGIXu2D-YQHOvg3abmKuOe-/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.80",
