@@ -1630,6 +1630,24 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.120",
+    title: "Osaka Expo Sri Lankan Delegation within the \"Empowering Lives\" Zone",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Sri Lanka at Expo 2025 Osaka, Japan",
+        image: "assets/img/impact/innovation-social/Sri Lanka at Expo 2025 Osaka.jpg",
+        description:
+          "It was great to be part of the Sri Lankan Delegation to Expo 2025 Osaka, Japan; within the \"Empowering Lives\" zone (D-3), showcased the nation's Ceylon Tea, spices, Ayurveda, handicrafts, gems, and tourism potential, aiming to boost trade, investment...",
+        link: "https://www.linkedin.com/posts/lilanofficial_expo-osaka-economy-activity-7410873580185370624-xlEt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1jCsb6IK0R0wVHIl9zJcj-p6SWDS8pnAt/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.119",
     title: "Participating the Special Digital@UNGA WSIS+20 Edition at United Nations Headquarters",
     slides: [
@@ -7302,6 +7320,24 @@ const impacts = [
 
   {
     filter: "filter-public-policy",
+    id: "7.97",
+    title: "Osaka Expo Sri Lankan Delegation within the \"Empowering Lives\" Zone",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Sri Lanka at Expo 2025 Osaka, Japan",
+        image: "assets/img/impact/public-policy/Sri Lanka at Expo 2025 Osaka.jpg",
+        description:
+          "It was great to be part of the Sri Lankan Delegation to Expo 2025 Osaka, Japan; within the \"Empowering Lives\" zone (D-3), showcased the nation's Ceylon Tea, spices, Ayurveda, handicrafts, gems, and tourism potential, aiming to boost trade, investment...",
+        link: "https://www.linkedin.com/posts/lilanofficial_expo-osaka-economy-activity-7410873580185370624-xlEt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1jCsb6IK0R0wVHIl9zJcj-p6SWDS8pnAt/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
     id: "7.96",
     title: "Participating the Special Digital@UNGA WSIS+20 Edition at the United Nations Headquarters",
     slides: [
@@ -9433,6 +9469,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.83",
+    title: "Osaka Expo Sri Lankan Delegation within the \"Empowering Lives\" Zone",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Sri Lanka at Expo 2025 Osaka, Japan",
+        image: "assets/img/impact/leadership-economic/Sri Lanka at Expo 2025 Osaka.jpg",
+        description:
+          "It was great to be part of the Sri Lankan Delegation to Expo 2025 Osaka, Japan; within the \"Empowering Lives\" zone (D-3), showcased the nation's Ceylon Tea, spices, Ayurveda, handicrafts, gems, and tourism potential, aiming to boost trade, investment...",
+        link: "https://www.linkedin.com/posts/lilanofficial_expo-osaka-economy-activity-7410873580185370624-xlEt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1jCsb6IK0R0wVHIl9zJcj-p6SWDS8pnAt/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.82",
