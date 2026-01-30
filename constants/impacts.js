@@ -7648,6 +7648,78 @@ const impacts = [
 
   {
     filter: "filter-public-policy",
+    id: "7.101",
+    title: "Participating in the Vienna Conversation Series on Multilateral Disarmament, and Nuclear Non-proliferation",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflecting on Disarmament and Peace at the Vienna Conversation Series",
+        image: "assets/img/impact/public-policy/vienna-conversation-series.jpg",
+        description:
+          "The Vienna Conversation Series commemorated the 80th anniversary of the United Nations, offering a timely reflection on the past, present, and future of multilateral disarmament, nuclear non-proliferation, and the Peace and Security agenda amid growing global uncertainty...",
+        link: "https://www.linkedin.com/posts/lilanofficial_disarmament-nuclear-peace-activity-7422644716032307200-JxLc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FwTWOcj6bWuTNFqjkzeq473uTq0MNsYO/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.100",
+    title: "Participating in the World Summit on the Information Society (WSIS) Forum's Open Consultation Process",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSIS Forum 2026: Shaping the Future of Global Digital Cooperation",
+        image: "assets/img/impact/public-policy//WSIS 2026.jpg",
+        description:
+          "The World Summit on the Information Society (WSIS) Forum's Open Consultation Process (OCP) officially commenced today at the International Telecommunication Union (ITU) Headquarters in Geneva, bringing together stakeholders from across sectors to participate in Meeting 1 of this inclusive multistakeholder dialogue...",
+        link: "https://www.linkedin.com/posts/lilanofficial_itu-technology-wsis-activity-7419770247949299712-MTDS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BqPPePhQVy4TPlylENoY05WvC5TMxHs6/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.99",
+    title: "Participating in the World Economic Forum",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "World Economic Forum 2026: Building Prosperity Within Planetary Boundaries",
+        image: "assets/img/impact/public-policy/WEF 2026.png",
+        description:
+          "The World Economic Forum 2026 programme is structured around five key global challenges where meaningful public–private collaboration across all stakeholders is essential for progress. One of the most critical questions it raises is: How can we build prosperity within planetary boundaries...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wef-davos-economy-activity-7419119529106255872-ZkSI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Xpcg7_0_hQi7RiQBz2lNIPZvwM-3sIUA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.98",
+    title: "Visiting the UN Pavilion at the Expo Osaka",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Innovation and Global Collaboration at Expo 2025 Osaka",
+        image: "assets/img/impact/public-policy/Expo 2025 Osaka.jpg",
+        description:
+          "Expo 2025 Osaka in Japan, transformed Yumeshima Island into a global platform for innovation and collaboration under the theme “Designing Future Society for Our Lives.” With more than 160 countries and regions participating, the Expo explored solutions ...",
+        link: "https://www.linkedin.com/posts/lilanofficial_expo2025-unitednations-sdgs-activity-7411611837043019776-kwYu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BTyCUC17c2hnnnHobBjeo15y9G4z2R6b/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
     id: "7.97",
     title: "Osaka Expo Sri Lankan Delegation within the \"Empowering Lives\" Zone",
     slides: [
@@ -9797,6 +9869,60 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.86",
+    title: "Participating in the World Summit on the Information Society (WSIS) Forum's Open Consultation Process",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSIS Forum 2026: Shaping the Future of Global Digital Cooperation",
+        image: "assets/img/impact/leadership-economic/WSIS 2026.jpg",
+        description:
+          "The World Summit on the Information Society (WSIS) Forum's Open Consultation Process (OCP) officially commenced today at the International Telecommunication Union (ITU) Headquarters in Geneva, bringing together stakeholders from across sectors to participate in Meeting 1 of this inclusive multistakeholder dialogue...",
+        link: "https://www.linkedin.com/posts/lilanofficial_itu-technology-wsis-activity-7419770247949299712-MTDS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BqPPePhQVy4TPlylENoY05WvC5TMxHs6/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.85",
+    title: "Participating in the World Economic Forum (WEF)",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "World Economic Forum 2026: Building Prosperity Within Planetary Boundaries",
+        image: "assets/img/impact/leadership-economic/WEF 2026.png",
+        description:
+          "The World Economic Forum 2026 programme is structured around five key global challenges where meaningful public–private collaboration across all stakeholders is essential for progress. One of the most critical questions it raises is: How can we build prosperity within planetary boundaries...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wef-davos-economy-activity-7419119529106255872-ZkSI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Xpcg7_0_hQi7RiQBz2lNIPZvwM-3sIUA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.84",
+    title: "Facilitating for the UNLEASH Hack (Sustainable Development) Sri Lanka",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth Innovation at UNLEASH Hack Sri Lanka 2025",
+        image: "assets/img/impact/leadership-economic/UNLEASH Hack Sri Lanka 2025.jpg",
+        description:
+          "It was an absolute pleasure to serve as a Facilitator at UNLEASH Hack Sri Lanka 2025. This year, Sri Lankan Hack Talents came together with a shared purpose: to design innovative solutions for cleaner, healthier, and more sustainable urban environments...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-unleash2025-youth-activity-7412114393355878401-3ebi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/14b395HCJt5HSP2YCuyYCsyCgAne1krp2/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.83",
