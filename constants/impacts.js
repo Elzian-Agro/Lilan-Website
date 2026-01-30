@@ -5728,6 +5728,43 @@ const impacts = [
 
   {
     filter: "filter-renewable-energy",
+    id: "5.15",
+    title: "Participating in the Annual General Meeting of the International Society for Energy Transition Studies (ISETS)",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Advancing Global Energy Transition at ISETS AGM 2026 in Tokyo",
+        image: "assets/img/impact/renewable-energy/ISETS AGM 2026 Tokyo.jpg",
+        description:
+          "Thrilled to have participated in the Annual General Meeting of the International Society for Energy Transition Studies (ISETS) in Tokyo, a vibrant hybrid gathering that brought together global minds in energy transition! ISETS greenlit dedicated Council member roles for ISETS branches and networks proposed by Kaveh Khalilpour...",
+        link: "https://www.linkedin.com/posts/lilanofficial_energy-transition-sustainableenergy-activity-7417322260325310464-vN0o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/18X6iGotk-mhFrdlMp_pbx8vfkPoYPigx/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
+    id: "5.14",
+    title: "Facilitating for the UNLEASH Hack (Renewable Energy Transition) Sri Lanka",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth Innovation at UNLEASH Hack Sri Lanka 2025",
+        image: "assets/img/impact/renewable-energy/UNLEASH Hack Sri Lanka 2025.jpg",
+        description:
+          "It was an absolute pleasure to serve as a Facilitator at UNLEASH Hack Sri Lanka 2025. This year, Sri Lankan Hack Talents came together with a shared purpose: to design innovative solutions for cleaner, healthier, and more sustainable urban environments...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-unleash2025-youth-activity-7412114393355878401-3ebi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/14b395HCJt5HSP2YCuyYCsyCgAne1krp2/view?usp=sharing",
+      },
+    ],
+  },
+
+  {
+    filter: "filter-renewable-energy",
     id: "5.13",
     title: "Facilitating the I ACT (Italy-IRENA Action for Climate Toolkit) Training Program",
     slides: [
@@ -5981,6 +6018,82 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-climate-environmental",
+    id: "6.78",
+    title: "Participating in the World Economic Forum under the Climate & Environmental Agenda",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "World Economic Forum 2026: Building Prosperity Within Planetary Boundaries",
+        image:
+          "assets/img/impact/climate-environmental/WEF 2026.png",
+        description:
+          "The World Economic Forum 2026 programme is structured around five key global challenges where meaningful public–private collaboration across all stakeholders is essential for progress. One of the most critical questions it raises is: How can we build prosperity within planetary boundaries...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wef-davos-economy-activity-7419119529106255872-ZkSI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Xpcg7_0_hQi7RiQBz2lNIPZvwM-3sIUA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.77",
+    title: "The International Association of Horticultural Producers (AIPH) Youth Jury Member Contribution",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Join the 2026 AIPH World Green City Awards Youth Jury",
+        image:
+          "assets/img/impact/climate-environmental/2026 AIPH World Green City Awards Youth Jury.jpg",
+        description:
+          "Imagine shaping the future of urban greening by judging innovative city projects that harness plants and nature to tackle climate challenges, biodiversity loss, and livable cities. As a Youth Jury Member for the 2024 AIPH World Green City Awards, I had the privilege of collaborating with global peers through...",
+        link: "https://www.linkedin.com/posts/lilanofficial_urbangreening-climateaction-sustainablecities-activity-7418711495330500608-85S9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1DMjxoAeGCBAZaRbGpwik89TNW_pRHz-0/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.76",
+    title: "Showcasing Climate Adaptation Innovations at the Global Forum for Food and Agriculture (GFFA)",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "GFFA 2026: Global Dialogue on Water, Food, and Agriculture",
+        image:
+          "assets/img/impact/climate-environmental/GFFA 2026.jpg",
+        description:
+          "The Global Forum for Food and Agriculture (GFFA) is currently taking place in Berlin, Germany, with a central focus on the theme of water. GFFA is a leading international conference dedicated to shaping the future of food and agriculture by bringing together experts, policymakers, scientists, businesses, and civil society...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-water-activity-7418344916726067200-g7Xb?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1nt8NmG-msn6bWqv2xKC2ueShejT1JhEz/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.75",
+    title: "Facilitating for the UNLEASH Hack (Climate Action) Sri Lanka",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth Innovation at UNLEASH Hack Sri Lanka 2025",
+        image:
+          "assets/img/impact/climate-environmental/UNLEASH Hack Sri Lanka 2025.jpg",
+        description:
+          "It was an absolute pleasure to serve as a Facilitator at UNLEASH Hack Sri Lanka 2025. This year, Sri Lankan Hack Talents came together with a shared purpose: to design innovative solutions for cleaner, healthier, and more sustainable urban environments...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-unleash2025-youth-activity-7412114393355878401-3ebi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/14b395HCJt5HSP2YCuyYCsyCgAne1krp2/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-climate-environmental",
     id: "6.74",
@@ -11352,6 +11465,60 @@ const impacts = [
 
   {
     filter: "filter-youth-women-empowerment",
+    id: "9.49",
+    title: "The International Association of Horticultural Producers (AIPH) Youth Jury Member Contribution",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Join the 2026 AIPH World Green City Awards Youth Jury",
+        image: "assets/img/impact/youth-women-empowerment/2026 AIPH World Green City Awards Youth Jury.jpg",
+        description:
+          "Imagine shaping the future of urban greening by judging innovative city projects that harness plants and nature to tackle climate challenges, biodiversity loss, and livable cities. As a Youth Jury Member for the 2024 AIPH World Green City Awards, I had the privilege of collaborating with global peers through...",
+        link: "https://www.linkedin.com/posts/lilanofficial_urbangreening-climateaction-sustainablecities-activity-7418711495330500608-85S9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1DMjxoAeGCBAZaRbGpwik89TNW_pRHz-0/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.48",
+    title: "Contributing to the Generation Restoration Dialogues",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Generation Restoration Dialogues: Learning to Heal the Planet",
+        image: "assets/img/impact/youth-women-empowerment/Generation Restoration Dialogues.png",
+        description:
+          "In this webinar, UN experts share real tools, free learning resources, and strategies you can use in your community or your career....",
+        link: "https://www.linkedin.com/posts/lilanofficial_generationrestoration-restorationeducation-activity-7418599259257843712-4xWZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/198GAxvxsoHsNqCfG2h29rfCr_sjeOxrF/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.47",
+    title: "Facilitating for the UNLEASH Hack (Youth Empowerment) Sri Lanka",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth Innovation at UNLEASH Hack Sri Lanka 2025",
+        image: "assets/img/impact/youth-women-empowerment/UNLEASH Hack Sri Lanka 2025.jpg",
+        description:
+          "It was an absolute pleasure to serve as a Facilitator at UNLEASH Hack Sri Lanka 2025. This year, Sri Lankan Hack Talents came together with a shared purpose: to design innovative solutions for cleaner, healthier, and more sustainable urban environments...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-unleash2025-youth-activity-7412114393355878401-3ebi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/14b395HCJt5HSP2YCuyYCsyCgAne1krp2/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
     id: "9.46",
     title: "Delivering a Guest Lecture to Service Design Master’s program at Politecnico di Milano (POLIMI), University of Milan",
     slides: [
@@ -12949,6 +13116,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-aerospace-outer-space",
+    id: "11.8",
+    title: "Participating in the World Economic Forum under Beyond Earth – The Next Space Race Agenda",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "World Economic Forum 2026: Building Prosperity Within Planetary Boundaries",
+        image: "assets/img/impact/aerospace-outer-space/WEF 2026.png",
+        description:
+          "The World Economic Forum 2026 programme is structured around five key global challenges where meaningful public–private collaboration across all stakeholders is essential for progress. One of the most critical questions it raises is: How can we build prosperity within planetary boundaries...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wef-davos-economy-activity-7419119529106255872-ZkSI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Xpcg7_0_hQi7RiQBz2lNIPZvwM-3sIUA/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-aerospace-outer-space",
     id: "11.7",
