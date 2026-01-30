@@ -1058,6 +1058,17 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1XNmLTzk9E4T5-ZlIcWGM3zujw5V51fg7/view?usp=drive_link",
       },
       {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Join the 2026 AIPH World Green City Awards Youth Jury",
+        image: "assets/img/impact/membership/2026 AIPH World Green City Awards Youth Jury.jpg",
+        description:
+          "Imagine shaping the future of urban greening by judging innovative city projects that harness plants and nature to tackle climate challenges, biodiversity loss, and livable cities. As a Youth Jury Member for the 2024 AIPH World Green City Awards, I had the privilege of collaborating with global peers through...",
+        link: "https://www.linkedin.com/posts/lilanofficial_urbangreening-climateaction-sustainablecities-activity-7418711495330500608-85S9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1DMjxoAeGCBAZaRbGpwik89TNW_pRHz-0/view?usp=sharing",
+      },
+      {
         date: "April 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -1628,6 +1639,96 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-innovation-social",
+    id: "3.125",
+    title: "Participating in the World Summit on the Information Society (WSIS) Forum's Open Consultation Process",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSIS Forum 2026: Shaping the Future of Global Digital Cooperation",
+        image: "assets/img/impact/innovation-social/WSIS 2026.jpg",
+        description:
+          "The World Summit on the Information Society (WSIS) Forum's Open Consultation Process (OCP) officially commenced today at the International Telecommunication Union (ITU) Headquarters in Geneva, bringing together stakeholders from across sectors to participate in Meeting 1 of this inclusive multistakeholder dialogue...",
+        link: "https://www.linkedin.com/posts/lilanofficial_itu-technology-wsis-activity-7419770247949299712-MTDS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BqPPePhQVy4TPlylENoY05WvC5TMxHs6/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.124",
+    title: "Participating in the World Economic Forum (WEF)",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "World Economic Forum 2026: Building Prosperity Within Planetary Boundaries",
+        image: "assets/img/impact/innovation-social/WEF 2026.png",
+        description:
+          "The World Economic Forum 2026 programme is structured around five key global challenges where meaningful public–private collaboration across all stakeholders is essential for progress. One of the most critical questions it raises is: How can we build prosperity within planetary boundaries...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wef-davos-economy-activity-7419119529106255872-ZkSI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Xpcg7_0_hQi7RiQBz2lNIPZvwM-3sIUA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.123",
+    title: "Showcasing Innovations at the Global Forum for Food and Agriculture (GFFA)",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "GFFA 2026: Global Dialogue on Water, Food, and Agriculture",
+        image: "assets/img/impact/innovation-social/GFFA 2026.jpg",
+        description:
+          "The Global Forum for Food and Agriculture (GFFA) is currently taking place in Berlin, Germany, with a central focus on the theme of water. GFFA is a leading international conference dedicated to shaping the future of food and agriculture by bringing together experts, policymakers, scientists, businesses, and civil society...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-water-activity-7418344916726067200-g7Xb?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1nt8NmG-msn6bWqv2xKC2ueShejT1JhEz/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.122",
+    title: "Participating in the WIPO Intellectual Property Moot Court Competition Info Session",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring the 2026 WIPO Intellectual Property Moot Court Competition",
+        image: "assets/img/impact/innovation-social/WIPO Moot Court Competition 2026.jpg",
+        description:
+          "I recently had the opportunity to visit the headquarters of the World Intellectual Property Organization – WIPO in Geneva, Switzerland, where I learned about the 2026 edition of the WIPO Intellectual Property Moot Court Competition. The 2026 moot problem focuses on industrial property law, covering key areas...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wipo-innovation-branding-activity-7417695156260286464-GpSu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/13P5SSYpblcb1uCA5JTXAUbZbZew9YGec/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.121",
+    title: "Facilitating for the UNLEASH Hack (Entrepreneurship Empowerment) Sri Lanka",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth Innovation at UNLEASH Hack Sri Lanka 2025",
+        image: "assets/img/impact/innovation-social/UNLEASH Hack Sri Lanka 2025.jpg",
+        description:
+          "It was an absolute pleasure to serve as a Facilitator at UNLEASH Hack Sri Lanka 2025. This year, Sri Lankan Hack Talents came together with a shared purpose: to design innovative solutions for cleaner, healthier, and more sustainable urban environments...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-unleash2025-youth-activity-7412114393355878401-3ebi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/14b395HCJt5HSP2YCuyYCsyCgAne1krp2/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-innovation-social",
     id: "3.120",
@@ -4094,6 +4195,120 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-food-agriculture",
+    id: "4.67",
+    title: "Participating in the First South Asian Agroforestry and Trees Outside Forests Congress (TREESCAPES 2026)",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting in New Delhi at TREESCAPES 2026",
+        image:
+          "assets/img/impact/food-agriculture-forestry/TREESCAPES 2026.png",
+        description:
+          "I will be visiting New Delhi in the first week of February to attend the First South Asian Agroforestry and Trees Outside Forests Congress (TREESCAPES 2026). During my time in the city, I would be glad to connect with entrepreneurs, investors, and changemakers, particularly those passionate about precision agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_forestry-asia-agroforestry-activity-7420958809138900992-dP3Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/131obee9U89y0ke71tEiTM8baYE41o63U/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.66",
+    title: "Participating in the World Economic Forum under the Food & Agriculture Agenda",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "World Economic Forum 2026: Building Prosperity Within Planetary Boundaries",
+        image:
+          "assets/img/impact/food-agriculture-forestry/WEF 2026.png",
+        description:
+          "The World Economic Forum 2026 programme is structured around five key global challenges where meaningful public–private collaboration across all stakeholders is essential for progress. One of the most critical questions it raises is: How can we build prosperity within planetary boundaries...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wef-davos-economy-activity-7419119529106255872-ZkSI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Xpcg7_0_hQi7RiQBz2lNIPZvwM-3sIUA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.65",
+    title: "Contributing to the Generation Restoration Dialogues",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Generation Restoration Dialogues: Learning to Heal the Planet",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Generation Restoration Dialogues.png",
+        description:
+          "In this webinar, UN experts share real tools, free learning resources, and strategies you can use in your community or your career....",
+        link: "https://www.linkedin.com/posts/lilanofficial_generationrestoration-restorationeducation-activity-7418599259257843712-4xWZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/198GAxvxsoHsNqCfG2h29rfCr_sjeOxrF/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.64",
+    title: "Participating in the Global Forum for Food and Agriculture (GFFA)",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "GFFA 2026: Global Dialogue on Water, Food, and Agriculture",
+        image:
+          "assets/img/impact/food-agriculture-forestry/GFFA 2026.jpg",
+       description:
+          "The Global Forum for Food and Agriculture (GFFA) is currently taking place in Berlin, Germany, with a central focus on the theme of water. GFFA is a leading international conference dedicated to shaping the future of food and agriculture by bringing together experts, policymakers, scientists, businesses, and civil society...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-water-activity-7418344916726067200-g7Xb?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1nt8NmG-msn6bWqv2xKC2ueShejT1JhEz/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.63",
+    title: "Participating in the Mekong Regional Land Forum",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Mekong Regional Land Forum: Advancing Climate-Resilient Land Governance",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Mekong Regional Land Forum.jpg",
+        description:
+          "I was glad to take part in the Mekong Regional Land Forum in Bangkok, which brought together an inspiring mix of policymakers, practitioners, researchers, and civil society representatives for an engaging exchange...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-land-activity-7412859173580922880-_ks8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1l_rjsh9smuzSv0plOa4sBHew9Uv5qm6I/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.62",
+    title: "Facilitating for the UNLEASH Hack (Food & Agriculture) Sri Lanka",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth Innovation at UNLEASH Hack Sri Lanka 2025",
+        image:
+          "assets/img/impact/food-agriculture-forestry/UNLEASH Hack Sri Lanka 2025.jpg",
+        description:
+          "It was an absolute pleasure to serve as a Facilitator at UNLEASH Hack Sri Lanka 2025. This year, Sri Lankan Hack Talents came together with a shared purpose: to design innovative solutions for cleaner, healthier, and more sustainable urban environments...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unleash-unleash2025-youth-activity-7412114393355878401-3ebi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/14b395HCJt5HSP2YCuyYCsyCgAne1krp2/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-food-agriculture",
     id: "4.61",
