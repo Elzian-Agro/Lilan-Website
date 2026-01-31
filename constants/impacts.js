@@ -5728,6 +5728,24 @@ const impacts = [
 
   {
     filter: "filter-renewable-energy",
+    id: "5.16",
+    title: "Participating in the World Economic Forum under the Clean Energy Agenda",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "World Economic Forum 2026: Building Prosperity Within Planetary Boundaries",
+        image: "assets/img/impact/renewable-energy/WEF 2026.png",
+        description:
+          "The World Economic Forum 2026 programme is structured around five key global challenges where meaningful public–private collaboration across all stakeholders is essential for progress. One of the most critical questions it raises is: How can we build prosperity within planetary boundaries...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wef-davos-economy-activity-7419119529106255872-ZkSI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Xpcg7_0_hQi7RiQBz2lNIPZvwM-3sIUA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
     id: "5.15",
     title: "Participating in the Annual General Meeting of the International Society for Energy Transition Studies (ISETS)",
     slides: [
