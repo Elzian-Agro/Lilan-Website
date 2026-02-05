@@ -149,6 +149,26 @@
                 id="filter-aerospace-and-outer-space-protection">
                 <button>Aerospace & Outer Space Protection</button>
               </li>
+              <li
+                data-filter=".filter-nuclear-applications-nuclear-disarmament"
+                id="filter-nuclear-applications-and-nuclear-disarmament">
+                <button>Nuclear Applications & Nuclear Disarmament</button>
+              </li>
+              <li
+                data-filter=".filter-arts-philosophy-mindfulness-inner-development-goals"
+                id="filter-arts-philosophy-mindfulness-inner-development-goals">
+                <button>Arts, Philosophy, Mindfulness & Inner Development Goals</button>
+              </li>
+              <li
+                data-filter=".filter-journalism-media-mass-communication"
+                id="filter-journalism-media-mass-communication">
+                <button>Journalism, Media & Mass Communication</button>
+              </li>
+              <li
+                data-filter=".filter-nature-based-explorations-adventures"
+                id="filter-nature-based-explorations-adventures">
+                <button>Nature-Based Explorations & Adventures</button>
+              </li>
             </ul>
             <!-- End Impact Filters -->
 
@@ -410,17 +430,21 @@
       (function () {
         // Define a color mapping for each filter type
         const filterColors = {
-          "filter-recognition": { bgColor: "#4f4f4f", textColor: "black" },
-          "filter-membership": { bgColor: "#0d723c", textColor: "black" },
-          "filter-innovation-social": { bgColor: "#5f5f5f", textColor: "black" },
-          "filter-food-agriculture": { bgColor: "#13a055", textColor: "black" },
-          "filter-renewable-energy": { bgColor: "#6f6f6f", textColor: "black" },
-          "filter-climate-environmental": { bgColor: "#18cd6d", textColor: "black" },
-          "filter-public-policy": { bgColor: "#7f7f7f", textColor: "black" },
-          "filter-leadership-economic": { bgColor: "#1be479", textColor: "black" },
-          "filter-youth-women-empowerment": { bgColor: "#8f8f8f", textColor: "black" },
-          "filter-meeting-changemakers-vips": { bgColor: "#48ea94", textColor: "black" },
-          "filter-aerospace-outer-space": { bgColor: "#9f9f9f", textColor: "black" },
+          "filter-recognition": { bgColor: "#3a3a3a", textColor: "black" },
+          "filter-membership": { bgColor: "#0b5b30", textColor: "black" },
+          "filter-innovation-social": { bgColor: "#4f4f4f", textColor: "black" },
+          "filter-food-agriculture": { bgColor: "#0d723c", textColor: "black" },
+          "filter-renewable-energy": { bgColor: "#5f5f5f", textColor: "black" },
+          "filter-climate-environmental": { bgColor: "#13a055", textColor: "black" },
+          "filter-public-policy": { bgColor: "#6f6f6f", textColor: "black" },
+          "filter-leadership-economic": { bgColor: "#18cd6d", textColor: "black" },
+          "filter-youth-women-empowerment": { bgColor: "#7f7f7f", textColor: "black" },
+          "filter-meeting-changemakers-vips": { bgColor: "#1be479", textColor: "black" },
+          "filter-aerospace-outer-space": { bgColor: "#8f8f8f", textColor: "black" },
+          "filter-nuclear-applications-nuclear-disarmament": { bgColor: "#48ea94", textColor: "black" },
+          "filter-arts-philosophy-mindfulness-inner-development-goals": { bgColor: "#9f9f9f", textColor: "black" },
+          "filter-journalism-media-mass-communication": { bgColor: "#6bf1aa", textColor: "black" },
+          "filter-nature-based-explorations-adventures": { bgColor: "#b7b6b6", textColor: "black" },
         };
 
         // Select all elements with the class 'impact-content'
