@@ -13520,19 +13520,91 @@ const impacts = [
 
   {
     filter: "filter-nuclear-applications-nuclear-disarmament",
-    id: "12.1",
-    title: "",
+    id: "12.5",
+    title: "Trekking to ‘Peace Heaven’ Advocating for Nuclear Disarmament",
     slides: [
       {
-        date: "January 2026",
+        date: "October 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "",
-        image: "assets/img/impact/nuclear-applications/.png",
+        title: "Finding Peace in Nature: Reflections from My Trek to Peace Heaven, Pokhara",
+        image: "assets/img/impact/nuclear-applications/Finding Peace in Nature.png",
         description:
-          "...",
-        link: "",
-        backup_image: "",
+          "During my recent trek to Peace Heaven, I was reminded of the profound connection between nature and inner peace. Trekking through such a serene environment in Pokhara, Nepal...",
+        link: "https://www.linkedin.com/posts/lilanofficial_trekking-climate-action-activity-7370370805731422208-NPeE?utm_source=share&utm_medium=member_android&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1cnbBGW6huTA04SRRhqtORYj9DMGao9Y-/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nuclear-applications-nuclear-disarmament",
+    id: "12.4",
+    title: "Engagement at the Nagasaki Peace-Preneur Forum at BENEX Nagasaki Brick Hall",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflections from the BENEX Nagasaki Peace-preneur Gathering",
+        image: "assets/img/impact/nuclear-applications/BENEX Nagasaki.jpeg",
+        description:
+          '"Peace-preneur” is a coined term that combines the words peace and entrepreneur. It refers to individuals who take action on global and social challenges from a perspective that transcends nationality, race, religion, or gender...',
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-trust-japan-activity-7330245254106742785-LMBO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1I5-fizGW9qdfi4xUZqi0qzYWoH8GUlL7/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nuclear-applications-nuclear-disarmament",
+    id: "12.3",
+    title: "Engagement at the Nagasaki Peace-Preneur Forum at Happiness Arena",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Nagasaki Peace-preneur Forum: Fostering Dialogue, Diversity & a Shared Future for Peace",
+        image: "assets/img/impact/nuclear-applications/Nagasaki Peace-preneur Forum.png",
+        description:
+          "To build peace by believing in a better future this year, as Nagasaki marks the 80th anniversary of the atomic bombing, the OYW Nagasaki Council...",
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-trust-japan-activity-7329968399646646273-PUWx?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1l0m9I20qi2ZzXdgSZchQGql2zlzFppdS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nuclear-applications-nuclear-disarmament",
+    id: "12.2",
+    title: "Delivering the Opening Speech on behalf of the Youth at the Nagasaki Peace-Preneur Forum for Nuclear Disarmament",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Opening for Peace: Honoured to Represent Youth at the Nagasaki Peace-Preneur Forum",
+        image: "assets/img/impact/nuclear-applications/Opening for Peace.png",
+        description:
+          "Honoured to deliver the opening speech on behalf of the youth at the Nagasaki Peace-Preneur Forum yesterday, held at the remarkable Stadium City Nagasaki, Japan...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nagasaki-peace-youthforpeace-activity-7329398373063577600-97Qv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1G_YDm5WP3ZqJigAw6DCRuP3IC1azWRNx/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nuclear-applications-nuclear-disarmament",
+    id: "12.1",
+    title: "European Council for Nuclear Research (CERN) First Visit",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "CERN Laboratory",
+        image: "assets/img/impact/nuclear-applications/CERN-laboratory.png",
+        description:
+          "Founded in 1954, the CERN laboratory sits astride the Franco-Swiss border near Geneva. It was one of Europe's first joint ventures. At CERN, the European Organization for Nuclear Research, physicists and engineers are probing the fundamental structure of the universe. They use the world's largest and most complex scientific instruments to study the basic constituents of matter the fundamental particles. The particles are made to collide together at close to the speed of light. The process gives the physicists clues about how the particles interact, and provides insights into the fundamental laws of nature.",
+        link: "https://www.linkedin.com/posts/lilanofficial_cern-nuclear-nuclearenergy-activity-7123375218328289280-dw55?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1j7or0i5wYUnGtbkXNkQ-8Eb2tGea7mTI/view?usp=drive_link",
       },
     ],
   },
