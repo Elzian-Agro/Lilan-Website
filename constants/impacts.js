@@ -13517,4 +13517,80 @@ const impacts = [
       },
     ],
   },
+
+  {
+    filter: "filter-nuclear-applications-nuclear-disarmament",
+    id: "12.1",
+    title: "",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "",
+        image: "assets/img/impact/nuclear-applications/.png",
+        description:
+          "...",
+        link: "",
+        backup_image: "",
+      },
+    ],
+  },
+
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.1",
+    title: "",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "",
+        image: "assets/img/impact/arts-philosophy-mindfulness/.png",
+        description:
+          "...",
+        link: "",
+        backup_image: "",
+      },
+    ],
+  },
+
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.1",
+    title: "",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "",
+        image: "assets/img/impact/journalism-media-mass-communication/.png",
+        description:
+          "...",
+        link: "",
+        backup_image: "",
+      },
+    ],
+  },
+
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.1",
+    title: "",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "",
+        image: "assets/img/impact/nature-based-explorations/.png",
+        description:
+          "...",
+        link: "",
+        backup_image: "",
+      },
+    ],
+  },
 ];
