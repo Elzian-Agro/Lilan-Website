@@ -8390,7 +8390,7 @@ const impacts = [
         description:
           "Yesterday was an incredible opportunity to deepen my understanding of how to get featured in prestigious global media outlets and enhance my public speaking skills, particularly for voiceovers and broadcast...",
         link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7336784631742025728-Zdr5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1pg8cGJg7uXd0DbcO27uvNx9edpTf4lz3/view",
+        backup_image: "https://drive.google.com/file/d/1CP8SbzVufg65wZi18U5ysYIcuHL2MHhY/view?usp=sharing",
       },
     ],
   },
@@ -10646,7 +10646,7 @@ const impacts = [
         description:
           "Yesterday was an incredible opportunity to deepen my understanding of how to get featured in prestigious global media outlets and enhance my public speaking skills, particularly for voiceovers and broadcast...",
         link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7336784631742025728-Zdr5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1pg8cGJg7uXd0DbcO27uvNx9edpTf4lz3/view?usp=sharing",
+        backup_image: "https://drive.google.com/file/d/1CP8SbzVufg65wZi18U5ysYIcuHL2MHhY/view?usp=sharing",
       },
     ],
   },
@@ -13611,57 +13611,263 @@ const impacts = [
 
   {
     filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
-    id: "13.1",
-    title: "",
+    id: "13.5",
+    title: "Distribution of books with an in-depth and authentic exploration of Theravada Buddhism",
     slides: [
       {
-        date: "January 2026",
+        date: "July 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "",
-        image: "assets/img/impact/arts-philosophy-mindfulness/.png",
+        title:
+          "Exclusive Insights into Theravada Buddhism: A Unique Book Now Available at the Walpola Rahula Institute Library",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Theravada Buddhism.png",
         description:
-          "...",
-        link: "",
-        backup_image: "",
+          "This unique book, available exclusively in Thailand, provided me with great insights while I was there. The book offers an in-depth and authentic exploration of Theravada Buddhism...",
+        link: "https://www.linkedin.com/posts/lilanofficial_buddhism-peace-meditation-activity-7208792523471749120-s5YU?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1d_fpvwdTr3CohoCR6i2NqO4NOAhkJm1a/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.4",
+    title: "Contributing to the Dialogue between Cultures at the ‘House of Religions",
+    slides: [
+      {
+        date: "January 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Unity in Diversity: Exploring the House of Religions in Bern, Switzerland",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Unity in Diversity.png",
+        description:
+          "This is not a regular Chess Board; this is the entrance to the “House of Religions” in Bern, Switzerland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-peacebuilding-trust-activity-7146588827229335553-Qj4i?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1zxL0qie1FMomHc9Ry-ZzaTCkFG_EmsKR/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.3",
+    title: "Workshops & studios at the Berlin University of the Arts (UdK)",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Exploring the Creative Works of Young Artists at Berlin University of the Arts Summer Open Studios",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Creative Works.png",
+        description:
+          "Every summer, at the end of the academic year, the Berlin University of the Arts (UdK) opens the workshops, studios and rehearsal rooms of its faculties for three days...",
+        link: "https://www.linkedin.com/posts/lilanofficial_art-music-summer-activity-7222802749162242048-g9jN?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1-tOT8VpMpno3M-hUoiz1osGYmECF_Hr3/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.2",
+    title: "Meditation for the Bohemian Gravity, the CORE of Creativity, and the Creativity Tree",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+       title:
+          "Exploring Creativity and Presence: Insights from Yemi A.D.'s Meditation Session at the Moonshot Platform",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Creativity and Presence.png",
+        description:
+          "I had the opportunity to take part in a meditation session conducted by phenomenal Yemi A.D. at the Moonshot Platform. During the session, we delved into Bohemian Gravity, the CORE of Creativity....",
+        link: "https://www.linkedin.com/posts/lilanofficial_creativity-energy-moonshot-activity-7221374273293103104-C0Ot?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1JUfhfV95rvzJ4JVoldFYnPGElYDYEMDf/view?usp=drive_link",
+
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.1",
+    title: "Addressing at the Geneva United Nations Office",
+    slides: [
+      {
+        date: "January 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Bridging the Gap: How IDGs Drive SDG Achievement",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Bridging the Gap.png",
+        description:
+          "Many people are familiar with the concept of ‘Sustainable Development Goals’ (SDGs), yet a lesser-known fact is that achieving SDGs necessitates the adoption of the ‘Inner Development Goals’ (IDGs) framework.",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdgs-un-youth-activity-7148971507283603457-Wx6G?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1fSkaze8KBfMjeF2mxYi0iPvETLTN_zIt/view?usp=drive_link",
       },
     ],
   },
 
   {
     filter: "filter-journalism-media-mass-communication",
-    id: "14.1",
-    title: "",
+    id: "14.5",
+    title: "Exploring the Prestigious Global Media Outlets at the London School of Economics and Political Science (LSE)",
     slides: [
       {
-        date: "January 2026",
+        date: "June 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "",
-        image: "assets/img/impact/journalism-media-mass-communication/.png",
+        title: "Mastering Media Visibility & Public Speaking at LSE",
+        image: "assets/img/impact/journalism-media-mass-communication/Mastering Media Visibility & Public Speaking at LSE.png",
         description:
-          "...",
-        link: "",
-        backup_image: "",
+          "Yesterday was an incredible opportunity to deepen my understanding of how to get featured in prestigious global media outlets and enhance my public speaking skills, particularly for voiceovers and broadcast...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7336784631742025728-Zdr5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1CP8SbzVufg65wZi18U5ysYIcuHL2MHhY/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.4",
+    title: "Exploring the themes of storytelling at the London School of Economics and Political Science (LSE)",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Mastering Ethical Storytelling & Lightning Pitches at LSE",
+        image: "assets/img/impact/journalism-media-mass-communication/Mastering Ethical Storytelling & Lightning Pitches at LSE.png",
+        description:
+          "Yesterday, I explored the themes of storytelling, influencing myths, and raising voices through ethical storytelling in the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE) here in London...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7336317420191608832-Pt3t?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ua7EM3YurS6H_2ER4iRvJb3pVk02PTdu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.3",
+    title: "Engagement in the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE)",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Strategic Communication Masterclass Begins at LSE",
+        image: "assets/img/impact/journalism-media-mass-communication/Strategic Communication Masterclass.png",
+        description:
+          "Today, we kicked off the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE) in London, UK. Nick Leimu-Brown’s session on Land Degradation and Ecosystem Services offered fascinating insights...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7335372948188344321-ziTj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Qr0JHiu1rEyEPNHt-cnEwMp27wp1pOCr/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.2",
+    title: "Visiting National Broadcasting Company (NBC) Universal",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "A Thrilling Visit to NBC Studios at Rockefeller Center: Exploring the Home of Iconic TV Shows and Legendary Broadcasts",
+        image: "assets/img/impact/journalism-media-mass-communication/NBC Studios.png",
+        description:
+          "It was a pleasure to visit NBC Universe where some of today's most popular television shows are made, like Saturday Night Live...",
+        link: "https://www.linkedin.com/posts/lilanofficial_media-news-actors-activity-7246466750412718080-fdK_?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1IASFZKpKdnfaUoC-xjdgEP-fyO5WG6Ft/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.1",
+    title: "Visiting Transparency International",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Hanno Pevkur (Minister of Defence of the Republic of Estonia)",
+        image: "assets/img/impact/journalism-media-mass-communication/Hanno Pevkur.png",
+        description:
+          "The keynote remarks from Hanno Pevkur, Minister of Defence of the Republic of Estonia, added tremendous value to the second day of the Generation Democracy Global Summit. I had the opportunity to visit Transparency International and engage in a productive discussion with Ingrida Kalinauskienė, CEO of Transparency International Lithuania.",
+        link: "https://www.linkedin.com/posts/lilanofficial_globaldemocracy-youthleadership-civicengagement-activity-7242968354313887744-tDmO?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1-V_vs0dvKClfuPCp6WJILP4Rzq-Rp05z/view?usp=drive_link",
       },
     ],
   },
 
   {
     filter: "filter-nature-based-explorations-adventures",
-    id: "15.1",
-    title: "",
+    id: "15.0",
+    title: "Connecting with the International Communities for Nature-based Explorations",
     slides: [
       {
-        date: "January 2026",
+        date: "February 2026",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "",
-        image: "assets/img/impact/nature-based-explorations/.png",
+        title: "Calling the Nepal-based Network",
+        image: "assets/img/impact/nature-based-explorations/Nepal Network.jpg",
         description:
-          "...",
-        link: "",
-        backup_image: "",
+          "I’ll be visiting Southern Nepal (Lumbini, Labani, Pakadi, Kapilvastu, Dohani, and Gauri) during the second week of February, and I’d love to connect with entrepreneurs, investors, and changemakers across Nepal...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nepal-food-agriculture-activity-7424256085013921792-FgoD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16g9UNDMmCyjtDPzb76I0IbFqigrwQeMU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.6",
+    title: "Founding President of the Adventure Club UoK",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Proud to Mentor the Adventure Club – UoK",
+        image: "assets/img/impact/nature-based-explorations/Proud to Mentor the Adventure Club.jpeg",
+        description: "It has been a true pleasure and privilege to serve as a mentor for the Adventure Club - UoK, an initiative I had the honour of founding as President back in 2020. What began as a passionate vision...",
+        link: "https://www.linkedin.com/posts/lilanofficial_adventure-club-adventureclub-share-7395954696433258497-EcXX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1_aaBR8qgvPiiOghJl85zCRNKkxZkQkAc/view?usp=sharing",
+      },
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflecting on the 2025 Adventure Club Gathering",
+        image: "assets/img/impact/nature-based-explorations/Reflecting on the 2025 Adventure Club Gathering.png",
+        description: "Reflecting on the 2025 Annual General Meeting of the Adventure Club at the University of Kelaniya fills my heart with warmth and inspiration. What started in 2020 as a passionate initiative by a diverse group of undergraduates...",
+        link: "https://www.linkedin.com/posts/lilanofficial_agm-adventureclub-uok-activity-7395571362163093504-tWK-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BAnU6T5RFbyDuoUHfUm3bwA7h7cppb73/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.5",
+    title: "Exploration of Machhapuchhre Mountain Range",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Trekking Through Monsoon Clouds: Reflections on Climate and Resilience in the Himalayas",
+        image: "assets/img/impact/nature-based-explorations/Trekking Through Monsoon Clouds.jpeg",
+        description:
+          "I recently had the opportunity to trek Machhapuchhre-1 - Khumai Danda during Nepal’s monsoon season, a period that typically lasts from June to September...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-himalayas-activity-7371529573370572800-hRYm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1V85MeR4H9icBIl9Bl255KePD5D3JIhjd/view?usp=drive_link",
+      },
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Trekking for Climate Justice in the Himalayas",
+        image: "assets/img/impact/nature-based-explorations/Trekking for Climate Justice in the Himalayas.jpeg",
+        description:
+          "Astam village is an eco-tourism destination located northwest of Pokhara, Nepal, famous for its stunning Himalayan views, particularly the Annapurna range, and its immersion in traditional Nepali rural life...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climatejustice-climate-climatechange-activity-7369185808089608194-t3OF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1eb6h1m2z7kqBcdR7TuBMotjONpgzVhzf/view?usp=sharing",
       },
     ],
   },
