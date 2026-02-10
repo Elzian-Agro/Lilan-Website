@@ -13813,6 +13813,288 @@ const impacts = [
         link: "https://www.linkedin.com/posts/lilanofficial_nepal-food-agriculture-activity-7424256085013921792-FgoD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/16g9UNDMmCyjtDPzb76I0IbFqigrwQeMU/view?usp=sharing",
       },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling the Swedish Network",
+        image: "assets/img/impact/nature-based-explorations/Sweden Network.jpg",
+        description:
+          "I’ll be visiting Stockholm, Uppsala, Malmö, Lund, Kiruna, and Abisko during the third and fourth weeks of March, and I’d love to connect with entrepreneurs, investors, and changemakers across Sweden...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sweden-stockholm-uppsala-activity-7423774183555440640-713H?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1aPn9NvJNOMwCZdH-M2J5JcKLxDouBxZi/view?usp=sharing",
+      },
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Power of Reconnection: AI for Good, Geneva 2025",
+        image: "assets/img/impact/nature-based-explorations/The Power of Reconnection.png",
+        description:
+          "As 'reconnection' is one of my middle names, today felt like coming home. At the ‘AI for Good’ Summit in Geneva, I didn’t just shake hands; I rekindled partnerships, reignited old conversations...",
+        link: "https://www.linkedin.com/posts/lilanofficial_network-connection-community-activity-7348375679400296448-_qc-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1F-O7XkNZUSpulsOVAKk41gGsn9jn0UPo/view?usp=sharing",
+      },
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Innovation at Luxembourg’s Agri-Fair 2025",
+        image: "assets/img/impact/nature-based-explorations/Exploring Innovation at Luxembourg’s Agri-Fair 2025.jpeg",
+        description:
+          "Today, Luxembourg’s largest open-air agricultural event brings together farmers, foresters, horticulturists, and agri-biotech innovators. As an agritech entrepreneur, I’m eager to connect with industry leaders...",
+        link: "https://www.linkedin.com/posts/lilanofficial_agritech-sustainablefarming-innovation-activity-7346863099636826113-uVkl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1KtguXQOmRUvVORU25FwUCl1xaO2lHPsR/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting for Sustainable Digital Inclusion: London & Oxford Meet-Up Opportunity",
+        image: "assets/img/impact/nature-based-explorations/London & Oxford Meet-Up Opportunity.png",
+        description:
+          "I will be visiting The London School of Economics and Political Science (LSE) during the first week of June, followed by a week at the University of Oxford. During my time in the...",
+        link: "https://www.linkedin.com/posts/lilanofficial_uk-england-london-activity-7330224625563369472-Sii3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1AFN9x6yOSG-dndqNXM4JsGIHgY95JQPg/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building Bridges in New York: Celebrating New & Enduring Connections for Global Impact",
+        image: "assets/img/impact/nature-based-explorations/Building Bridges in New York.png",
+        description:
+          "It was truly a pleasure to meet Clinton Fellows, Obama Fellows, representatives from Peace Boat, Blue Planet Alliance, and the UN community and more, last week in New ...",
+        link: "https://www.linkedin.com/posts/lilanofficial_networking-team-youth-activity-7329041369312690177-9rBm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Djr-ulUS4EjHdY66-MtUCJ1ppYusVHF0/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling Innovators in the Netherlands: Let’s Connect on Climate & AgTech in June!",
+        image: "assets/img/impact/nature-based-explorations/Calling Innovators in the Netherlands.png",
+        description:
+          "I’ll be in Amsterdam and Maastricht during the fourth week of June, and I’m eager to connect with entrepreneurs, investors, and innovators...",
+        link: "https://www.linkedin.com/posts/lilanofficial_netherlands-amsterdam-maastricht-activity-7327402135640252418-FX0F?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1516nz9409t7bi716OKXP1Swnfrr7waju/view?usp=sharing",
+      },
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Excited to Attend the Science Summit at UNGA 79 – Let's Connect in NYC!",
+        image: "assets/img/impact/nature-based-explorations/UNGA 79.png",
+        description:
+          "Exciting News! I will participate in the Science Summit at UNGA 79 (the UN General Assembly) in the fourth week of September...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7239589530331140096-lu5O?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1s_k1UpM-JAmzP9LDvJTZCuOjIHvosNW9/view?usp=drive_link",
+      },
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting in Vilnius: Let's Meet to Discuss Social Entrepreneurship, Precision Agriculture, and Climate Action!",
+        image: "assets/img/impact/nature-based-explorations/Vilnius and eager.png",
+        description:
+          "I'm currently in the beautiful city of Vilnius and eager to connect with fellow Lithuanians and visitors who share a passion for social entrepreneurship, precision agriculture, and climate action...",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-social-youth-activity-7240183246896914433-dxe8?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1jkyLj1aB5Zy5LMoGCQzzm2R76yhY_ktf/view?usp=drive_link",
+      },
+      {
+        date: "February 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exciting news! Tomorrow, I’ll be in Singapore!",
+        image: "assets/img/impact/nature-based-explorations/Singapore.jpg",
+        description:
+          "I’m eager to connect with those passionate about precision agriculture and climate action in both the Global South and Global North...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7238919595179286529-z1Yn?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/18xf44MPWqix8leBjfakn_XgfL2PXtLqO/view?usp=sharing",
+      },
+      {
+        date: "November 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+         title:
+          "Thrilled to Connect in NYC: Let's Discuss Precision Agriculture and Climate Action in September",
+        image: "assets/img/impact/nature-based-explorations/Connect in NYC.png",
+         description:
+          "Exciting News! I’m thrilled to announce that I’ll be in New York, USA, during the third and fourth weeks of September! I’m eager to connect with fellow New Yorkers and others visiting NYC this month, especially those passionate about precision agriculture and climate action in both the Global South and Global North.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7238235886688030721-qLmD?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ZSzGtdLD-1q3wiCqpDdxmDIRf-acIBeh/view?usp=drive_link",
+      },
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Seeking Agricultural Experts in Kazan – Let’s Connect!",
+        image: "assets/img/impact/nature-based-explorations/Seeking Agricultural Experts in Kazan.jpeg",
+        description:
+          "I’ll be in Kazan next week and would like to connect with agricultural experts. If you’re interested in exchanging ideas or simply having a meaningful conversation, I’d be glad to meet you....",
+        link: "https://www.linkedin.com/posts/lilanofficial_russia-moscow-kazan-activity-7359349468074266624-iQC2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1LiKEvofxF_CH1Q6D85TSYRfNlqc9EJ8D/view?usp=sharing",
+      },
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Excited to Connect in Foz do Iguaçu, Brazil: Let's Discuss Precision Agriculture and Climate Action in October",
+        image: "assets/img/impact/nature-based-explorations/Foz do Iguaçu.png",
+        description:
+          "Exciting News! I’m thrilled to share that I’ll be in Foz do Iguaçu, Brazil, during the first week of October. I'm eager to connect with the local Brazilian communities passionate about precision agriculture and climate action, especially in the Global South and South America.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7234189432709373952-v3nK?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1C6SyBjnGw2UIhlk8EWfj0RQaK2m2MaXs/view?usp=drive_link",
+      },
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting in Helsinki and Vilnius: Let's Discuss Precision Agriculture and Climate Action in September",
+        image: "assets/img/impact/nature-based-explorations/Helsinki and Vilnius.png",
+        description:
+          "Exciting news! I’ll be in Finland (Helsinki) and Lithuania (Vilnius) in the Second week of September and would like to connect with the Finnish and Lithuanian communities. If you're passionate about precision agriculture and climate action in the Global South and Europe, let’s meet up. Please send me a message so we can schedule a convenient time.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7232802314900684800-hULd?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/13znoyY-qKKUAqd5KwEnH7Y6NRr4F4u0o/view?usp=drive_link",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Changemakers in India",
+        image: "assets/img/impact/nature-based-explorations/India.jpg",
+        description:
+          " I’ll be traveling to New Delhi, Agra, Bihar, Uttar Pradesh, Gujarat, Pune, Panchgani, and Lucknow in the third and fourth weeks of February and am keen to connect with entrepreneurs, investors, and changemakers in these regions...",
+        link: "https://www.linkedin.com/posts/lilanofficial_india-food-agriculture-activity-7425592231035822081-Zb-S?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1B23cvPp34pkCXG2HU3LJ87n8epTR_LbP/view?usp=sharing",
+      },
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting in Bangkok: Let's Discuss Precision Agriculture and Climate Action in September",
+        image: "assets/img/impact/nature-based-explorations/Connecting in Bangkok.png",
+        description:
+          "Exciting news! I’ll be in Bangkok in the third week of September and would like to connect with the Thai community. If you're passionate about precision agriculture and climate action in the Global South, let’s meet up. Send me a message so we can schedule a convenient time.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7224861421937770496-wK3A?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1mTesoQP7sYpLmoYyCqmCk23hOPsbubj9/view?usp=drive_link",
+      },
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting with the NYC Community: Let's Meet to Discuss Precision Agriculture and Climate Action",
+        image: "assets/img/impact/nature-based-explorations/NYC Community.png",
+        description:
+          "Exciting news! I’ll be in New York from August 12th to 22nd and would like to connect with the NYC community. If you're passionate about precision agriculture and climate action in the Global South, let’s meet up. Send me a message so we can schedule a convenient time.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7224350106311876608-TPl-?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Njbe-lFXDv-lqCeqEnMSY2o-Z9VAVMwv/view?usp=drive_link",
+      },
+      {
+        date: "November 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting in Riyadh: Let’s Talk Climate, Agriculture, and Collaboration 🌱🌍",
+        image: "assets/img/impact/nature-based-explorations/Connecting in Riyadh.jpeg",
+        description:
+          "Exciting news! I’ll be in Riyadh, Saudi Arabia, during the second week of December, and I’m eager to connect with professionals passionate about precision agriculture, land restoration, and climate action across both the Global South and Global North...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7252629805420969984-qShC?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1e06AdMorUB90PR-J6alcZZvF3h5M7en_/view?usp=sharing",
+      },
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Copenhagen Visit: Open to Collaborations in Climate & Agriculture",
+        image: "assets/img/impact/nature-based-explorations/Copenhagen Visit.jpg",
+        description:
+          "Exciting news! I’ll be in Copenhagen, Denmark, during the fourth week of May, and I’m eager to connect with professionals passionate about precision agriculture, land restoration...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-agriculture-climate-activity-7319900542682509312-C0qP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FDxkLKSbSWKhwqh12U6FEQlM9AAZlzWB/view?usp=sharing",
+      },
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Entrepreneurs & Innovators in Brussels & Antwerp – September",
+        image: "assets/img/impact/nature-based-explorations/Connecting with Entrepreneurs.jpeg",
+        description:
+          "I’ll be in Brussels and Antwerp during the fourth week of September, and I’m eager to connect with entrepreneurs, investors, and innovators who are passionate about precision agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_belgium-brussels-antwerp-activity-7359342398059024384-hHk3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FzSKfU89KWqRwcB2zYxcbQX5zZTTdaWe/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling Change-Makers in NYC: Let’s Connect on Climate & Agriculture! 🌱🗽",
+        image: "assets/img/impact/nature-based-explorations/Calling Change-Makers in NYC.jpeg",
+        description:
+          "I’ll be in New York next week and would love to connect with fellow New Yorkers; especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7323476341884887040-DGyu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1g5WMyY2Q74MZ04mPpf-VBi578WYzD1Hb/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Let’s Connect in St. Petersburg & Moscow: AgTech & Climate Action",
+        image: "assets/img/impact/nature-based-explorations/Let’s Connect in St. Petersburg & Moscow.jpeg",
+        description:
+          "I’ll be in St. Petersburg and Moscow next month, and I’m eager to connect with entrepreneurs, investors, and innovators...",
+        link: "https://www.linkedin.com/posts/lilanofficial_russia-petersburg-moscow-activity-7333852371405479936-ddG5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QNQjkJ-eBCc8hc_86V_8VMwNofdbcbax/view?usp=sharing",
+      },
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting with Entrepreneurs & Changemakers in Japan – Tokyo, Kyoto, Osaka (October)",
+        image: "assets/img/impact/nature-based-explorations/Connecting with Entrepreneurs & Changemakers in Japan.jpeg",
+        description:
+          "I will be visiting Tokyo, Kyoto, and Osaka in the first week of October and would like to connect with fellow entrepreneurs, investors, and changemakers in Japan, especially those passionate about precision agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_japan-tokyo-kyoto-activity-7359381049065291776-Kxq-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/11xoomWTPlVJetN2HZpLkwh_KDIu7ICTL/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring the Future of Tech at London Tech Week 2025",
+        image: "assets/img/impact/nature-based-explorations/Exploring the Future of Tech at London Tech Week 2025.jpeg",
+        description:
+          "Next month, I'll be joining thousands of innovators, investors, and tech leaders at the #LondonTechWeek to...",
+        link: "https://www.linkedin.com/posts/lilanofficial_londontechweek-ai-ltw25-activity-7333876746326331392-uvo9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1O3zSZlIYf4HGsGg43-GHPH68Qd9unO-u/view?usp=sharing",
+      },
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting in New Delhi at TREESCAPES 2026",
+        image: "assets/img/impact/nature-based-explorations/TREESCAPES 2026.png",
+        description:
+          "I will be visiting New Delhi in the first week of February to attend the First South Asian Agroforestry and Trees Outside Forests Congress (TREESCAPES 2026). During my time in the city, I would be glad to connect with entrepreneurs, investors, and changemakers, particularly those passionate about precision agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_forestry-asia-agroforestry-activity-7420958809138900992-dP3Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/131obee9U89y0ke71tEiTM8baYE41o63U/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Hello Tokyo & Nagasaki: Let’s Connect on Climate Innovation & AgTech This May!",
+        image: "assets/img/impact/nature-based-explorations/Hello Tokyo & Nagasaki.png",
+        description:
+          "I’ll be visiting Tokyo and Nagasaki in mid-May and would love to connect with fellow entrepreneurs, investors, and changemakers in Japan especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
+        link: "https://www.linkedin.com/posts/lilanofficial_japan-tokyo-nagasaki-activity-7324494310429642754-7CG3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/112Gj84-NJrItepbftyfOKaks3OICK_Ly/view?usp=sharing",
+      },
     ],
   },
   {
