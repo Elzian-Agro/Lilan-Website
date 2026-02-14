@@ -13520,6 +13520,43 @@ const impacts = [
 
   {
     filter: "filter-nuclear-applications-nuclear-disarmament",
+    id: "12.7",
+    title: "Youth for Treaty on the Prohibition of Nuclear Weapons (TPNW)",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Mobilizing Global Youth for Nuclear Disarmament: The 2nd Annual Youth MSP for the Treaty on the Prohibition of Nuclear Weapons",
+        image: "assets/img/impact/nuclear-applications/Mobilizing Global Youth.png",
+        description:
+          "Youth for Treaty on the Prohibition of Nuclear Weapons (TPNW) are excited to present the 2nd annual Youth MSP for the Treaty...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-for-treaty-on-the-prohibition-of-nuclear-activity-7051977271905038336-ODMw?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1WbdtXga8jNWFC9hPwIw0GbYeEJvOyGwH/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-nuclear-applications-nuclear-disarmament",
+    id: "12.6",
+    title: "Engagement at the Vienna Conversation Series on Multilateral Disarmament, and Nuclear Non-proliferation",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflecting on Disarmament and Peace at the Vienna Conversation Series",
+        image: "assets/img/impact/nuclear-applications/vienna-conversation-series.jpg",
+        description:
+          "The Vienna Conversation Series commemorated the 80th anniversary of the United Nations, offering a timely reflection on the past, present, and future of multilateral disarmament, nuclear non-proliferation, and the Peace and Security agenda amid growing global uncertainty...",
+        link: "https://www.linkedin.com/posts/lilanofficial_disarmament-nuclear-peace-activity-7422644716032307200-JxLc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FwTWOcj6bWuTNFqjkzeq473uTq0MNsYO/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nuclear-applications-nuclear-disarmament",
     id: "12.5",
     title: "Trekking to ‘Peace Heaven’ Advocating for Nuclear Disarmament",
     slides: [
@@ -13609,6 +13646,96 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.10",
+    title: "Participating in the Reflective Walk/Hike with Mindfulness",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Walking into Clarity: A Reflective Journey Through Nature, Work, and Self-Discovery",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Walking into Clarity.png",
+        description:
+          "Today, I had the opportunity to participate in an inspiring reflective walk around Klempowsee, looping from Wusterhausen (Dosse) and exploring the lush green spaces near Berlin, Germany...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nature-walk-hike-activity-7352882824594542592-lwfj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1SpebcKsNzWD4P2Tznl-Y0jWgRlKVq0Dt/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.9",
+    title: "Meditation and Mindfulness for Self-reliance for Inner Peace at Das Buddhistische Haus",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating a Century of Peace: The 100th Anniversary of Das Buddhistische Haus in Berlin",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Century of Peace.png",
+        description:
+          "The 100th anniversary of Das Buddhistische Haus in Berlin is happening tomorrow. My recent visit to Berlin, Germany, was such a pleasant experience, especially spending five full days...",
+        link: "https://www.linkedin.com/posts/lilanofficial_meditation-mindfulness-awareness-activity-7225076439585284097-Q5R5?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1CIVZfL2fADg3GFkOEzLdMzSqCu8sYAsj/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.8",
+    title: "Promoting IDG Ambassador Programme (Harmattan cohort)",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Promoting IDG Ambassador Programme (Harmattan cohort)",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Promoting IDG Ambassador Programme.png",
+        description:
+          "The Inner Development Goals (IDG) Ambassador Programme is a training initiative led by the IDG organization. It is designed to equip changemakers with the skills needed to foster inner development for sustainable change, using the IDG framework through workshops, facilitated dialogues, and peer networking...",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-mindfulness-activity-7424508936332099585-FZSQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QHJUOFwb02cz3aiQdGeEB3VRhQ0F_cYs/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.7",
+    title: "Visiting the Pitt Rivers Museum and Oxford Philharmonic Orchestra in Oxford",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Hawai‘i Ma uka to Ma kai: A Powerful Cultural Journey at Oxford’s Pitt Rivers Museum",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Hawai‘i Ma uka to Ma kai.jpeg",
+        description:
+          "Yesterday, on June 12, 2025, The Pitt Rivers Museum in Oxford opened a powerful and immersive special exhibition...",
+        link: "https://www.linkedin.com/posts/lilanofficial_hawaii-culturalheritage-hula-activity-7339300527173718016-j4g7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gi7H0pjNhca-GmGZC4MtmUiu8evIjUtD/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.6",
+    title: "Performing at the Stage on Mars Studio Exploring Human Perspectives",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Unveiling Human Perspectives: The Transformative Experience at Stage on Mars",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Human Perspectives.png",
+        description:
+          "Stage on Mars is a unique studio dedicated to exploring human perspectives. Here, individuals transform their questions into theatrical performances...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-moonshotplatform-moonshotcamp-activity-7223271914230755328-2BqN?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1dEUUAQnJbH-C08gmwSNtKAI-sXrwl5bs/view?usp=drive_link",
+      },
+    ],
+  },
   {
     filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
     id: "13.5",
@@ -13705,6 +13832,79 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.9",
+    title: "Conducting Systems Thinking Workshops Related to Strategic Communication",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Bringing Systems Thinking to the Global Stage",
+        image: "assets/img/impact/journalism-media-mass-communication/Bringing Systems Thinking to the Global Stage.png",
+        description:
+          "After diving into systems thinking during a Strategic Masterclass with the G20 Global Land Initiative at The London School of Economics and Political Science (LSE), I just brought that experience to the global stage as a Virgin Unite NewNow Leader at the One Young World Summit in Munich, Germany...",
+        link: "https://www.linkedin.com/posts/lilanofficial_g20gli-oneyoungworld-youthinaction-activity-7393225361410605056-T1T5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/11IGMIhfCci_T4OixsSUcUoZWBVzQuEp2/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.8",
+    title: "Op-ed the MOSAIQUE Magazine",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Presenting MOSAICUE Magazine to Dr. Chelsea Clinton: A Call to Action on Climate Change, Nutrition, and Healthcare",
+        image: "assets/img/impact/journalism-media-mass-communication/Featuring on the MOSAICUE Magazine.png",
+        description:
+          "It was an incredible honor to present MOSAICUE Magazine to Dr. Chelsea Clinton during the Clinton Global Initiative Annual Meeting...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climatechange-climateaction-activity-7251063029629366272-Id9d?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1WC62GMcZ-j_UbaGEM93yLTaNULtSEznv/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.7",
+    title: "Participating in the United Nations World Summit on the Information Society (WSIS)",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Discover Digital Innovation for Impact – Visit the WSA Stand at AI for Good",
+        image: "assets/img/impact/journalism-media-mass-communication/Discover Digital Innovation for Impact.jpeg",
+        description:
+          "As a WSA Youth Ambassador at the AI for Good Global Summit in Geneva, I am excited to invite all participants to visit the World Summit Awards (WSA) stand, a hub for digital innovation with real-world impact...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-aiforgood-digitalinnovation-activity-7349005646815469568-pyFu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gxQ8knn_ZnBTzOkMluOTX01I2sI-e9AF/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.6",
+    title: "Visiting the G20 Global Land Initiative to Pitch the Intergenerational Podcast Series",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Strengthening Synergies: ELZIAN AGRO at the G20 Global Land Initiative in Bonn",
+        image: "assets/img/impact/journalism-media-mass-communication/Strengthening Synergies.png",
+        description:
+          "Today, I had the privilege of visiting the G20 Global Land Initiative at the UNCCD in Bonn, Germany, to discuss one of our (ELZIAN AGRO’s) upcoming digital awareness initiatives...",
+        link: "https://www.linkedin.com/posts/lilanofficial_un-unccd-sustainability-activity-7346550762048507908-J7zU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dAfH4sFWr97mWTqr7vzEE9cWOSuGRaEy/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-journalism-media-mass-communication",
     id: "14.5",
@@ -14150,6 +14350,78 @@ const impacts = [
           "Astam village is an eco-tourism destination located northwest of Pokhara, Nepal, famous for its stunning Himalayan views, particularly the Annapurna range, and its immersion in traditional Nepali rural life...",
         link: "https://www.linkedin.com/posts/lilanofficial_climatejustice-climate-climatechange-activity-7369185808089608194-t3OF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1eb6h1m2z7kqBcdR7TuBMotjONpgzVhzf/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.4",
+    title: "Participating in the Reflective Walk/Hike around Klempowsee, looping from Wusterhausen",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Walking into Clarity: A Reflective Journey Through Nature, Work, and Self-Discovery",
+        image: "assets/img/impact/nature-based-explorations/Walking into Clarity.png",
+        description:
+          "Today, I had the opportunity to participate in an inspiring reflective walk around Klempowsee, looping from Wusterhausen (Dosse) and exploring the lush green spaces near Berlin, Germany...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nature-walk-hike-activity-7352882824594542592-lwfj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1SpebcKsNzWD4P2Tznl-Y0jWgRlKVq0Dt/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.3",
+    title: "Exploring the Scientific Efforts in the Arctic Region",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Tracking Polar Bears: The Arctic’s Climate Crisis in Motion",
+        image: "assets/img/impact/nature-based-explorations/Tracking Polar Bears The Arctic’s Climate Crisis in Motion.png",
+        description:
+          "During my time at the St. Petersburg International Economic Forum in the Russian Federation, I had the uniq..ue opportunity to delve into Russia's scientific exploration efforts in the Arctic region.",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-arctic-exploration-activity-7343497166897782784-txA_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/187YppClLykysqxvP79gXsmsbzqlc5qfN/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.2",
+    title: "Experiencing the Technology Inclusion at Berlin Botanical Garden Night",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "An Enchanting Evening at the Botanical Night in Berlin",
+        image: "assets/img/impact/nature-based-explorations/Botanical Night.png",
+        description:
+          "Once a year the Botanical Garden Berlin hosts the Botanical Night and it was nice to experience the manifold plants and flowers. On the occasion of the Botanical Night, the paths of the Botanical Garden in Berlin-Dahlen are illuminated and guide visitors to many attractions. The garden grounds are divided into eight themed areas that form the enchanted land of Botania.",
+        link: "https://www.linkedin.com/posts/lilanofficial_botanical-night-garden-activity-7223302333558841344-UtVc?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1lSN-s2JQ0-s9Gb6sqFkpnY0CwguvwJmS/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.1",
+    title: "Visiting the Greenwich Peninsula Ecology Park in South London",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Urban Biodiversity at Greenwich Peninsula Ecology Park",
+        image: "assets/img/impact/nature-based-explorations/Exploring Urban Biodiversity at Greenwich Peninsula Ecology Park.png",
+        description:
+          "I had the opportunity to visit the Greenwich Peninsula Ecology Park situated along the River Thames in the Greenwich Peninsula in South London, England...",
+        link: "https://www.linkedin.com/posts/lilanofficial_greenwich-peninsula-ecologypark-activity-7339953118735998976-ivW6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QZR-v-I2c8IuzDOm4ZBF5S_FcSveepds/view?usp=sharing",
       },
     ],
   },
