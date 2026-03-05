@@ -6461,6 +6461,81 @@ const impacts = [
 
   {
     filter: "filter-climate-environmental",
+    id: "6.82",
+    title: "Designing Futures 2050: Elzian Agro Precision Agriculture Solutions",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Elzian Agro Precision Agriculture Solutions",
+        image:
+          "assets/img/impact/climate-environmental/elzian-agro-precision-agriculture-solutions.png",
+        description:
+          "We (Elzian Agro) provide customized/tailored precision agriculture solutions (through web/mobile applications) with integrated monitoring (IoT-based) and automation systems (drip/sprinkler irrigation) tailored to the requirements of farmers to utilise their limited resources...",
+        link: "https://my.designingfutures2050.com/projects/elzian-agro-precision-agriculture-solutions/",
+        backup_image: "https://drive.google.com/file/d/1C39XEFV8yc2YcUcsH380VXnL4VuCYWES/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.81",
+    title: "Expansion with a Boost from the United Nations Multi-stakeholder Forum on Science, Technology and Innovation for the SDGs",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Elzian Agro Expands with a Boost from the UN STI Forum",
+        image:
+          "assets/img/impact/climate-environmental/un-sti-forum.png",
+        description: "Lilan Dayananda has expanded his agritech startup Elzian Agro’s global network by connecting with UN high-level representatives and technical experts since participating in the 2025 UN Science...",
+        link: "https://www.engineeringforchange.org/news/elzian-agro-expanded-globally-through-the-un-sti-forum/",
+        backup_image: "https://drive.google.com/file/d/1tDrGCZcs9zXgKCjBuRA4rvxkgBdNSGNW/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.80",
+    title: "The United Nations Convention to Combat Desertification (UNCCD) COP: Innovation Stage",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://g20land.org/wp-content/uploads/2024/10/restoration-pavilion-banner-mobile.svg",
+        title: "Providing climate-smart, data - driven precision agriculture solutions to farmers",
+        image:
+          "assets/img/impact/climate-environmental/driven precision agriculture solutions to farmers.png",
+        description:
+          "ELZIAN AGRO provides climate-smart, data-driven precision agriculture solutions with integrated monitoring and automation systems tailored to the requirements of farmers. Our patent-pending IoT-enabled devices allow farmers to monitor soil and atmospheric elements in real-time, predict issues...",
+        link: "https://g20land.org/cop-16events/providing-climate-smart-data-driven-precision-agriculture-solutions-to-farmers/?mc_id=76",
+        backup_image: "https://drive.google.com/file/d/1oH70ikJBkpmEF00lLb-uUI65g3PfMXuW/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.79",
+    title: "Engagement at the AI Impact Summit on AI for Climate Action",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "AI for Inclusive Agriculture & Climate Action",
+        image:
+          "assets/img/impact/climate-environmental/ai-impact-summit-2026.jpg",
+        description:
+          "From hands-on workshops to rapid prototyping, the energy was intense and deeply practical. One session that stood out was on AI for supply chain transparency in agriculture. We worked on a blockchain-powered AI prototype designed to trace carbon footprints from farm to fork...",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-tech-technology-activity-7431521273953992705-i8tu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zWZ1BgC13wSzJPzM-89DN0hPlqTBKasf/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
     id: "6.78",
     title: "Participating in the World Economic Forum under the Climate & Environmental Agenda",
     slides: [
@@ -8087,6 +8162,90 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-public-policy",
+    id: "7.105",
+    title: "Stranded in Doha (First Time) by Geopolitical Tensions",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Doha Delays, Determined Arrival",
+        image: "assets/img/impact/public-policy/Doha Delays, Determined Arrival.jpg",
+        description:
+          "Stranded once again in Doha due to the temporary closure of Qatari airspace. As I write this from Hamad International Airport, I’m reminded that this is not my first experience of being grounded here by geopolitical tensions and airspace disruptions...",
+        link: "https://www.linkedin.com/posts/lilanofficial_stranded-once-again-in-doha-due-to-the-temporary-activity-7433795270074880000-lB5L?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1L9lTnLK9s5EJQh3TsKKj7C0fvQyC4pY4/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.104",
+    title: "Engagement at the AI Impact Summit on Diplomacy & Public Policy",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Day 2 at AI Impact Summit 2026",
+        image: "assets/img/impact/public-policy/ai-impact-summit-2026.jpg",
+        description:
+          "From hands-on workshops to rapid prototyping, the energy was intense and deeply practical. One session that stood out was on AI for supply chain transparency in agriculture. We worked on a blockchain-powered AI prototype designed to trace carbon footprints from farm to fork...",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-tech-technology-activity-7431521273953992705-i8tu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zWZ1BgC13wSzJPzM-89DN0hPlqTBKasf/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflections on the third day and overall review of the AI Impact Summit",
+        image: "assets/img/impact/public-policy/ai-impact-summit.jpg",
+        description:
+          "I stepped into the AI Impact Summit 2026 expecting inspiration. What I got was a full-spectrum recharge for my mission, three days of immersive learning, networking, and prototyping...",
+        link: "https://www.linkedin.com/posts/lilanofficial_aiimpactsummit-agritechinnovation-climateaction-activity-7432575179505057792-DKNq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1akiVeI8NA07VMqUINn7QpC3FLCLy2IuD/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.103",
+    title: "Engagement at the International Chanting and Dhamma Talk for Peacebuilding in Bodhgaya",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Under the Bodhi Tree: Buddhism, Science & SDGs",
+        image: "assets/img/impact/public-policy/Under the Bodhi Tree.jpg",
+        description:
+          "Under the sacred Bodhi Tree at Mahabodhi Mahavihara in Bodhgaya, India; the very Land of Enlightenment where the Buddha attained awakening, I've had the profound privilege of participating in the ongoing Annual International Chanting and Dhamma Talk...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdgs-mindfulness-science-activity-7427283671541460992-ZkO1?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Sr5XVWEWGQRWd6YsKXe3EHCBp1xL1Ce2/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.102",
+    title: "Engagement at the World Nuclear Exhibition (WNE) for Nuclear Disarmament and Peace",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "WNE Paris: Innovation in Nuclear Energy",
+        image: "assets/img/impact/public-policy/WNE Paris.jpg",
+        description:
+          "Grateful for the opportunity to participate in the world’s leading civil nuclear exhibition, the World Nuclear Exhibition (WNE) held in Paris, France. The WNE brought together key players and innovators from across the entire civil nuclear value chain from safety and certification...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nuclear-energy-cleanenergy-activity-7423478073121222656--CeV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1X0lf5MXDVikMdMRY3yrSqM5NgMAvwS-O/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-public-policy",
     id: "7.101",
@@ -10310,6 +10469,71 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.89",
+    title: "Engagement at the AI Impact Summit on Economic & Social Empowerment",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflections on the third day and overall review of the AI Impact Summit",
+        image: "assets/img/impact/leadership-economic/ai-impact-summit.jpg",
+        description:
+          "I stepped into the AI Impact Summit 2026 expecting inspiration. What I got was a full-spectrum recharge for my mission, three days of immersive learning, networking, and prototyping...",
+        link: "https://www.linkedin.com/posts/lilanofficial_aiimpactsummit-agritechinnovation-climateaction-activity-7432575179505057792-DKNq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1akiVeI8NA07VMqUINn7QpC3FLCLy2IuD/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.88",
+    title: "Engagement at the AI Impact Summit on Public-Private Sector Interaction",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Day 2 at AI Impact Summit 2026",
+        image: "assets/img/impact/leadership-economic/ai-impact-summit-2026.jpg",
+        description:
+          "From hands-on workshops to rapid prototyping, the energy was intense and deeply practical. One session that stood out was on AI for supply chain transparency in agriculture. We worked on a blockchain-powered AI prototype designed to trace carbon footprints from farm to fork...",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-tech-technology-activity-7431521273953992705-i8tu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zWZ1BgC13wSzJPzM-89DN0hPlqTBKasf/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.87",
+    title: "Engagement at the India AI Impact Summit",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting at the India AI Impact Summit 2026",
+        image: "assets/img/impact/leadership-economic/India-AI-Impact-Summit-2026.jpg",
+        description:
+          "Over 80 foreign leaders and 500 global AI leaders are gathering in New Delhi for the India AI Impact Summit 2026, focusing on how artificial intelligence can drive inclusive growth and sustainable development...",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-tech-technology-activity-7429571225946923008-2X2_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1pSIbSWwzh4_Am5B1uqLIqq4a_XCIIkqi/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "AI Summit India 2026 | The Aula Fellowship Delegation",
+        image: "assets/img/impact/leadership-economic/aula-fellowship-ai-summit-2026.png",
+        description:
+          "Conferences shape fields. People go and build alliances, surface new ideas. Most importantly these are places where we can expand who gets to participate in critical conversations...",
+        link: "https://www.linkedin.com/posts/aula-fellowship_india-ai-impact-summit-2026-activity-7429149139872956418-EEEP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1iSXXl7d0W_Qr7Qisr3G707ldXwv-2FtH/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.86",
