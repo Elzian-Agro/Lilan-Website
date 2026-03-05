@@ -1762,6 +1762,160 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.133",
+    title: "Engagement at the AI Impact Summit on Innovation and Social Entrepreneurship",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflections on the third day and overall review of the AI Impact Summit",
+        image: "assets/img/impact/innovation-social/ai-impact-summit.jpg",
+        description:
+          "I stepped into the AI Impact Summit 2026 expecting inspiration. What I got was a full-spectrum recharge for my mission, three days of immersive learning, networking, and prototyping...",
+        link: "https://www.linkedin.com/posts/lilanofficial_aiimpactsummit-agritechinnovation-climateaction-activity-7432575179505057792-DKNq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1akiVeI8NA07VMqUINn7QpC3FLCLy2IuD/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.132",
+    title: "Young Innovator: United Nations Department of Economic and Social Affairs",
+    slides: [
+      {
+        date: "",
+        source_name: "ONU News",
+        source_link: "https://news.un.org/pt/",
+        title: "Young innovators redefining sustainability—from the ground up",
+        image: "assets/img/impact/innovation-social/young-un-sti-forum.png",
+        description:
+          "6 June 2025 - When Joseph Nguthiru got stuck in a boat due to invasive water hyacinth while on a class trip, he didn't just see an obstacle—he saw an opportunity...",
+        link: "https://www.un.org/pt/node/230823",
+        backup_image: "https://drive.google.com/file/d/18CuzWr83EO6U0b5EwH5xU8ZedS7dnTjJ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.131",
+    title: "Exposure Boost from the United Nations Multi-stakeholder Forum on Science, Technology and Innovation for the SDGs",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "Engineering for Change",
+        source_link: "https://www.engineeringforchange.org/",
+        title: "Elzian Agro Expands with a Boost from the UN STI Forum",
+        image: "assets/img/impact/innovation-social/un-sti-forum.png",
+        description: "Lilan Dayananda has expanded his agritech startup Elzian Agro’s global network by connecting with UN high-level representatives and technical experts since participating in the 2025 UN Science...",
+        link: "https://www.engineeringforchange.org/news/elzian-agro-expanded-globally-through-the-un-sti-forum/",
+        backup_image: "https://drive.google.com/file/d/1tDrGCZcs9zXgKCjBuRA4rvxkgBdNSGNW/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.130",
+    title: "Engagement at the AI Impact Summit on AI Inclusive Transformation",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Day 2 at AI Impact Summit 2026",
+        image: "assets/img/impact/innovation-social/ai-impact-summit-2026.jpg",
+        description:
+          "From hands-on workshops to rapid prototyping, the energy was intense and deeply practical. One session that stood out was on AI for supply chain transparency in agriculture. We worked on a blockchain-powered AI prototype designed to trace carbon footprints from farm to fork...",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-tech-technology-activity-7431521273953992705-i8tu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zWZ1BgC13wSzJPzM-89DN0hPlqTBKasf/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.129",
+    title: "Engagement at the AI Impact Summit with Ethical Foundations of Artificial intelligence (AI)",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Day 2 at AI Impact Summit 2026",
+        image: "assets/img/impact/innovation-social/ai-climate-resilient-farming.jpg",
+        description:
+          "My first day dove deep into the ethical foundations of AI, with pioneers challenging us to build technology that serves humanity, not just profits. As an agritech entrepreneur from the Global South, I was particularly encouraged to see panels on AI for climate resilience...",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-tech-technology-activity-7431419721146863616-MtSF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1J8yjrg8ut1xx0XZcMS4Yc6eL_rGWm3pn/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.128",
+    title: "Engagement at the India AI Impact Summit",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting at the India AI Impact Summit 2026",
+        image: "assets/img/impact/innovation-social/India-AI-Impact-Summit-2026.jpg",
+        description:
+          "Over 80 foreign leaders and 500 global AI leaders are gathering in New Delhi for the India AI Impact Summit 2026, focusing on how artificial intelligence can drive inclusive growth and sustainable development...",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-tech-technology-activity-7429571225946923008-2X2_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1pSIbSWwzh4_Am5B1uqLIqq4a_XCIIkqi/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "The Aula Fellowship",
+        source_link: "https://www.linkedin.com/company/aula-fellowship/posts/",
+        title: "AI Summit India 2026 | The Aula Fellowship Delegation",
+        image: "assets/img/impact/innovation-social/aula-fellowship-ai-summit-2026.png",
+        description:
+          "Conferences shape fields. People go and build alliances, surface new ideas. Most importantly these are places where we can expand who gets to participate in critical conversations...",
+        link: "https://www.linkedin.com/posts/aula-fellowship_india-ai-impact-summit-2026-activity-7429149139872956418-EEEP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1iSXXl7d0W_Qr7Qisr3G707ldXwv-2FtH/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.127",
+    title: "Contributing to UNLEASH Prototyping Program",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Innovation with UNLEASH Philippines",
+        image: "assets/img/impact/innovation-social/UNLEASH-Philippines.jpg",
+        description:
+          "Grateful to be part of the ongoing UNLEASH Prototyping Program. Through UNLEASH Philippines Innovation Lab, Changemakers/Talents from the Philippines spent a week conceptualizing a solution and building a rapid prototype. After the Innovation Lab...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-entrepreneurship-startup-activity-7425647254344122369-mf15?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1_bk-ijE8SYhWCRRMwo9NHEPU-3Dj7Kvc/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.126",
+    title: "Jury member for World Summit Awards (WSA) Young Innovators",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSA Young Innovators 2025 Shortlist Announced",
+        image: "assets/img/impact/innovation-social/WSA-Young-Innovators-2025-Shortlist.jpg",
+        description:
+          "After an intense selection process led by WSA expert jurors, a new group of inspiring young changemakers has been revealed. It has been a great privilege to serve as an online Jury member for consecutive years, and I’m excited to share that the WSA Young Innovators 2025 Shortlist is officially out...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-world-summit-activity-7423962581855485952-jgpc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1c6N6yqHqifQHVJE0x6NwM1DlKxfljzAo/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.125",
     title: "Participating in the World Summit on the Information Society (WSIS) Forum's Open Consultation Process",
     slides: [
