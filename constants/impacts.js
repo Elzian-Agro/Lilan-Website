@@ -603,6 +603,116 @@ const impacts = [
 
   {
     filter: "filter-membership",
+    id: "2.37",
+    title: "The Aula Fellow",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "The Aula Fellowship",
+        source_link: "https://theaulafellowship.org/",
+        title: "Lilan Dayananda Archives - The Aula Fellowship",
+        image: "assets/img/impact/membership/The Aula Fellowship.png",
+        description:
+          "Lilan Dayananda is a social technology entrepreneur working at the intersection of agriculture, climate resilience, and sustainable development. He is the co-founder and CEO of ELZIAN AGRO, a company developing smart agronomy solutions to support farmers facing extreme weather conditions and resource constraints. His work focuses on food security, biodiversity, nature conservation, and climate adaptation through the application of advanced digital technologies...",
+        link: "https://theaulafellowship.org/category/fellow/lilan-dayananda/",
+        backup_image: "https://drive.google.com/file/d/16ovYMaIz9gqrgXDNGjLVN-R_EGH46fOI/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.36",
+    title: "Inner Development Goals (IDG) Ambassador",
+    slides: [
+      {
+        date: "January 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Bridging the Gap: How Inner Development Goals (IDGs) Empower the Achievement of Sustainable Development Goals (SDGs)",
+        image: "assets/img/impact/membership/Bridging the Gap.png",
+        description:
+          "Many people are familiar with the concept of ‘Sustainable Development Goals’ (SDGs), yet a lesser-known fact is that achieving SDGs necessitates the adoption of the ‘Inner Development Goals’ (IDGs) framework.",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdgs-un-youth-activity-7148971507283603457-Wx6G?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1fSkaze8KBfMjeF2mxYi0iPvETLTN_zIt/view?usp=drive_link",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Promoting IDG Ambassador Programme (Harmattan cohort)",
+        image: "assets/img/impact/membership/Promoting IDG Ambassador Programme.png",
+        description:
+          "The Inner Development Goals (IDG) Ambassador Programme is a training initiative led by the IDG organization. It is designed to equip changemakers with the skills needed to foster inner development for sustainable change, using the IDG framework through workshops, facilitated dialogues, and peer networking...",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-mindfulness-activity-7424508936332099585-FZSQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QHJUOFwb02cz3aiQdGeEB3VRhQ0F_cYs/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
+    id: "2.35",
+    title: "Initiatives of Change International (IofC) Community Member",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflections from the Caux Forum 2023: Inspiring Conversations in the Heart of the Swiss Alps",
+        image: "assets/img/impact/membership/Caux Forum.png",
+        description:
+          "I had the pleasure of participating in the Caux Forum 2023, which was held at the Caux Palace, nestled in the mountains 1000 meters above sea level. With its breathtaking view of Lake Geneva and the Alps, it provided a unique and inspiring setting...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cauxforum-switzerland-iofc-activity-7104370335071801345-4N9U?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/14gYURES-xMIGV1f50EdmF1lNvKpHOeGZ/view?usp=drive_link",
+      },
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Creative Leadership in Caux: Storytelling, Connection, and the Journey Within",
+        image: "assets/img/impact/membership/Creative Leadership in Caux.png",
+        description:
+          "Day one at the Creative Leadership Program in Caux, Switzerland, was all about building meaningful connections and fostering socialization among participants from around the world before diving into days of deep leadership...",
+        link: "https://www.linkedin.com/posts/lilanofficial_creative-leadership-storytelling-activity-7350362647789285377-nOWI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1aMgfeLWBu3ot62JCAjzaqhgRx2WLW4s0/view?usp=sharing",
+      },
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "From Museum Marathon to Meaningful Conversations in Oxford",
+        image: "assets/img/impact/membership/From Museum Marathon to Meaningful Conversations in Oxford.jpeg",
+        description:
+          "I have the privilege of connecting with amazing individuals across the globe almost daily. While I usually don’t post about each encounter, this one in Oxford deserves a moment in the spotlight for several reasons...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oxford-initiativesofchange-iofc-activity-7338841045213814784-efhg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1KCPT4coS0UQddc4x9cIu_A0KAQARN7kk/view?usp=sharing",
+      },
+      {
+        date: "January 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Fostering Unity in Diversity: A Transformative Gathering at the Walpola Rahula Institute",
+        image: "assets/img/impact/membership/Transformative Gathering.png",
+        description:
+          "“It is easy to go with the trends and tides but it is difficult to go against the tides”. It was a pleasure to have orchestrated a meetup of diverse changemakers at the Walpola Rahula Institute (WRI). The institute, committed to transcending conventional religious teachings, endeavours to foster societal healing. Our gathering represented a rich tapestry of geographical origins, cultures, religions, income classes, ages, races, and genders; a true reflection of our shared humanity.",
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-trust-iofc-activity-7142531191932354561-opO5?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1MvUXNWTq5RdJ9Tm4xTAzrB8z3hpD9HBf/view?usp=drive_link",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inspiring Visit to Initiatives of Change France 🇫🇷",
+        image: "assets/img/impact/membership/Inspiring Visit to Initiatives of Change France.jpg",
+        description:
+          "I had the privilege of visiting Initiatives et Changement France in Paris, an organization dedicated to fostering peace, ethical leadership, trust-building, and sustainable living through personal transformation and meaningful dialogue. As part of the global Initiatives of Change (IofC) network, it empowers individuals...",
+        link: "https://www.linkedin.com/posts/lilanofficial_initiativesofchange-iofc-ethicalleadership-activity-7424712448022110209-PJal?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1_2s_cBQJQdPS-rr2loIhHtb_OvYX7F-R/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
     id: "2.34",
     title: "Founding President of the Adventure Club UoK",
     slides: [
@@ -1287,6 +1397,17 @@ const impacts = [
           "I am absolutely thrilled to share that I have been chosen as a WSA Youth Ambassador in Sri Lanka. For those unfamiliar, WSA which stands for the World Summit Awards, represents a distinctive awards system with a profound purpose: the selection and promotion of local digital innovations aimed at enhancing society. What sets WSA apart is its unique blend of ongoing international events, a rich array of activities, and an extensive network that encompasses startups, social entrepreneurs, mentors, distinguished jurors, influential speakers, experts, government leaders, esteemed academia, and members of civil society. WSA essentially serves as a global platform that showcases cutting-edge examples of how information and communication technologies can have a profoundly positive impact on society as a whole.",
         link: "https://www.linkedin.com/posts/lilanofficial_wsa-wsayouthambassador-youth-activity-7128778758567710720-JnY9/?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1Xg5lyOu7cfCFesyoXkKHjyqrDjikxJsz/view?usp=drive_link",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSA Young Innovators 2025 Shortlist Announced",
+        image: "assets/img/impact/membership/WSA-Young-Innovators-2025-Shortlist.jpg",
+        description:
+          "After an intense selection process led by WSA expert jurors, a new group of inspiring young changemakers has been revealed. It has been a great privilege to serve as an online Jury member for consecutive years, and I’m excited to share that the WSA Young Innovators 2025 Shortlist is officially out...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-world-summit-activity-7423962581855485952-jgpc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1c6N6yqHqifQHVJE0x6NwM1DlKxfljzAo/view?usp=sharing",
       },
       {
         date: "October 2025",
