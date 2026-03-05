@@ -9905,6 +9905,94 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1O3zSZlIYf4HGsGg43-GHPH68Qd9unO-u/view?usp=sharing",
       },
       {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting in New Delhi at TREESCAPES 2026",
+        image: "assets/img/impact/public-policy/TREESCAPES 2026.png",
+        description:
+          "I will be visiting New Delhi in the first week of February to attend the First South Asian Agroforestry and Trees Outside Forests Congress (TREESCAPES 2026). During my time in the city, I would be glad to connect with entrepreneurs, investors, and changemakers, particularly those passionate about precision agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_forestry-asia-agroforestry-activity-7420958809138900992-dP3Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/131obee9U89y0ke71tEiTM8baYE41o63U/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling the Nepal-based Network",
+        image: "assets/img/impact/public-policy/Nepal Network.jpg",
+        description:
+          "I’ll be visiting Southern Nepal (Lumbini, Labani, Pakadi, Kapilvastu, Dohani, and Gauri) during the second week of February, and I’d love to connect with entrepreneurs, investors, and changemakers across Nepal...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nepal-food-agriculture-activity-7424256085013921792-FgoD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16g9UNDMmCyjtDPzb76I0IbFqigrwQeMU/view?usp=sharing",
+      },     
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling the European Network 🇸🇮 🇵🇱 🇭🇺",
+        image: "assets/img/impact/public-policy/European Network.jpg",
+        description:
+          "I’ll be visiting Slovenia (Ljubljana), Poland (Warsaw, Gdańsk, Kraków, Wrocław), and Hungary (Budapest, Eger, Győr) during the first and second weeks of April, and I’d love to connect with entrepreneurs, investors, and changemakers across Europe...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-network-activity-7433008674723291136-28bu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/11ng0APMhlMVCRSm5MybhAjrW1CwaCDtD/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Changemakers in India",
+        image: "assets/img/impact/public-policy/India.jpg",
+        description:
+          " I’ll be traveling to New Delhi, Agra, Bihar, Uttar Pradesh, Gujarat, Pune, Panchgani, and Lucknow in the third and fourth weeks of February and am keen to connect with entrepreneurs, investors, and changemakers in these regions...",
+        link: "https://www.linkedin.com/posts/lilanofficial_india-food-agriculture-activity-7425592231035822081-Zb-S?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1B23cvPp34pkCXG2HU3LJ87n8epTR_LbP/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Iceland’s Climate & Innovation Network 🇮🇸",
+        image: "assets/img/impact/public-policy/Iceland.jpg",
+        description:
+          "I’ll be travelling to Reykjavík and Kópavogur during the second week of March and would welcome the opportunity to connect with entrepreneurs, agronomists, researchers, farmers, and climate innovators across Iceland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_iceland-arctic-food-activity-7429076418694717440-5UVa?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1F9XN5-jPKHQj_2huWGV5RTwydgYkDqBH/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Switzerland’s Innovation Network 🇨🇭",
+        image: "assets/img/impact/public-policy/Switzerland.jpg",
+        description:
+          "I’ll be travelling to Zurich, Bern, St. Gallen, and Basel during the first week of March and would welcome the opportunity to connect with entrepreneurs, investors, and changemakers across Switzerland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_switzerland-zurich-bern-activity-7426987032528367616-h9jg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Jzbfv2ntWsKxIQtginuQWOjK4J8oeOCZ/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Germany’s Innovation Network 🇩🇪",
+        image: "assets/img/impact/public-policy/Germany.jpg",
+        description:
+          "I’ll be travelling to Munich, Berlin, and Hamburg during the third week of March and would be glad to connect with entrepreneurs, investors, and changemakers across Germany...",
+        link: "https://www.linkedin.com/posts/lilanofficial_germany-munich-berlin-activity-7426067483499057152-IUJB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1v2Pg-PWFGTEFpQfJYrIzhRsGliUafPre/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling the Swedish Network",
+        image: "assets/img/impact/public-policy/Sweden Network.jpg",
+        description:
+          "I’ll be visiting Stockholm, Uppsala, Malmö, Lund, Kiruna, and Abisko during the third and fourth weeks of March, and I’d love to connect with entrepreneurs, investors, and changemakers across Sweden...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sweden-stockholm-uppsala-activity-7423774183555440640-713H?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1aPn9NvJNOMwCZdH-M2J5JcKLxDouBxZi/view?usp=sharing",
+      },
+      {
         date: "May 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -12254,6 +12342,42 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.51",
+    title: "Contributing to UNLEASH Prototyping Program",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Innovation with UNLEASH Philippines",
+        image: "assets/img/impact/youth-women-empowerment/UNLEASH-Philippines.jpg",
+        description:
+          "Grateful to be part of the ongoing UNLEASH Prototyping Program. Through UNLEASH Philippines Innovation Lab, Changemakers/Talents from the Philippines spent a week conceptualizing a solution and building a rapid prototype. After the Innovation Lab...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-entrepreneurship-startup-activity-7425647254344122369-mf15?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1_bk-ijE8SYhWCRRMwo9NHEPU-3Dj7Kvc/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.50",
+    title: "Jury member for World Summit Awards (WSA) Young Innovators",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSA Young Innovators 2025 Shortlist Announced",
+        image: "assets/img/impact/youth-women-empowerment/WSA-Young-Innovators-2025-Shortlist.jpg",
+        description:
+          "After an intense selection process led by WSA expert jurors, a new group of inspiring young changemakers has been revealed. It has been a great privilege to serve as an online Jury member for consecutive years, and I’m excited to share that the WSA Young Innovators 2025 Shortlist is officially out...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-world-summit-activity-7423962581855485952-jgpc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1c6N6yqHqifQHVJE0x6NwM1DlKxfljzAo/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-youth-women-empowerment",
     id: "9.49",
@@ -15041,6 +15165,50 @@ const impacts = [
           "Next month, I'll be joining thousands of innovators, investors, and tech leaders at the #LondonTechWeek to...",
         link: "https://www.linkedin.com/posts/lilanofficial_londontechweek-ai-ltw25-activity-7333876746326331392-uvo9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1O3zSZlIYf4HGsGg43-GHPH68Qd9unO-u/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling the European Network 🇸🇮 🇵🇱 🇭🇺",
+        image: "assets/img/impact/nature-based-explorations/European Network.jpg",
+        description:
+          "I’ll be visiting Slovenia (Ljubljana), Poland (Warsaw, Gdańsk, Kraków, Wrocław), and Hungary (Budapest, Eger, Győr) during the first and second weeks of April, and I’d love to connect with entrepreneurs, investors, and changemakers across Europe...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-network-activity-7433008674723291136-28bu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/11ng0APMhlMVCRSm5MybhAjrW1CwaCDtD/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Iceland’s Climate & Innovation Network 🇮🇸",
+        image: "assets/img/impact/nature-based-explorations/Iceland.jpg",
+        description:
+          "I’ll be travelling to Reykjavík and Kópavogur during the second week of March and would welcome the opportunity to connect with entrepreneurs, agronomists, researchers, farmers, and climate innovators across Iceland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_iceland-arctic-food-activity-7429076418694717440-5UVa?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1F9XN5-jPKHQj_2huWGV5RTwydgYkDqBH/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Switzerland’s Innovation Network 🇨🇭",
+        image: "assets/img/impact/nature-based-explorations/Switzerland.jpg",
+        description:
+          "I’ll be travelling to Zurich, Bern, St. Gallen, and Basel during the first week of March and would welcome the opportunity to connect with entrepreneurs, investors, and changemakers across Switzerland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_switzerland-zurich-bern-activity-7426987032528367616-h9jg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Jzbfv2ntWsKxIQtginuQWOjK4J8oeOCZ/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Germany’s Innovation Network 🇩🇪",
+        image: "assets/img/impact/nature-based-explorations/Germany.jpg",
+        description:
+          "I’ll be travelling to Munich, Berlin, and Hamburg during the third week of March and would be glad to connect with entrepreneurs, investors, and changemakers across Germany...",
+        link: "https://www.linkedin.com/posts/lilanofficial_germany-munich-berlin-activity-7426067483499057152-IUJB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1v2Pg-PWFGTEFpQfJYrIzhRsGliUafPre/view?usp=sharing",
       },
       {
         date: "January 2026",
