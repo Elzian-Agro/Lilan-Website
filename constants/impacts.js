@@ -8355,6 +8355,96 @@ const impacts = [
 
   {
     filter: "filter-public-policy",
+    id: "7.110",
+    title: "Participation in the Global Resilience Walk, organized by the Inner Green Deal, Focusing on European Green Deal",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Walking for Resilience at Table Land 🌄🌱",
+        image: "assets/img/impact/public-policy/global-resilience-walk.jpg",
+        description:
+          "I had the opportunity to participate in the Global Resilience Walk while exploring Table Land, Asia’s second-highest and longest mountain plateau. Located in the Sahyadri range in Maharashtra, this expansive laterite rock plateau offers panoramic views of the surrounding valleys and the Krishna River...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nature-walk-meditation-activity-7441518947885117440-fHXH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1yDZ1D1nq17IgHYoUCQiWyjfovQNiVbqu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.109",
+    title: "Flag Bearing at the Olympiahalle, Munich’s Olympic Park",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Proud Moment in Munich: Carrying Sri Lanka Forward",
+        image: "assets/img/impact/public-policy/A Proud Moment in Munich.jpg",
+        description:
+          "I had the honour of serving as the Sri Lankan Flag Bearer at the iconic Olympiahalle in Munich’s Olympic Park during the One Young World Summit Opening Ceremony. The hall, originally built for the 1972 Olympic Summer Games, is part of the Olympiapark München complex...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-network-activity-7438317748289507328-SZWN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/17X-t5ILn8m3KwDO7fZYSTPt_AmeOVCYI/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.108",
+    title: "Obama Presidential Center Grand Opening Ceremony",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Attend the Obama Presidential Center Opening 🇺🇸",
+        image: "assets/img/impact/public-policy/obama-presidential-center.png",
+        description:
+          "I’m honored to share that I will be visiting the Obama Presidential Center Museum in Chicago this June to attend its Grand Opening, nearly five years after its historic groundbreaking. The Center reflects the power of collective action and a continued commitment to empowering...",
+        link: "https://www.linkedin.com/posts/lilanofficial_democracy-leadership-museum-activity-7437732667900506114-178U?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1OIkTOe4-f99mLZlC3Q_-vakLLSXwI6bA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.107",
+    title: "Engagement at the Energy and Resources Institute's (TERI) World Sustainable Development Summit",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "AI, Climate Tech & Collaboration: Reflections from DCIW 2026",
+        image: "assets/img/impact/public-policy/ai-climate-tech-collaboration.jpg",
+        description:
+          "The Delhi Climate Innovation Week 2026 (DCIW) began immediately after the AI Impact Summit, and due to my commitments in Pune, I was not able to fully immerse myself in the entire week. However, I had the opportunity to engage with the event on both the opening...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-innovation-ai-activity-7435992390433271808-BZ0b?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Nmxum7N2VixAfs_qbou7AY4E1dqhf3Kj/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.106",
+    title: "Engagement at the Inaugural Nalanda Development Dialogue (NDD) on People-centered and Sustainable Development",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reimagining Development at Nalanda 2026 🌏",
+        image: "assets/img/impact/public-policy/Reimagining Development at Nalanda 2026.jpg",
+        description:
+          "The inaugural Nalanda Development Dialogue (NDD) is being held today and tomorrow at Nalanda University in Rajgir, India. This new flagship forum brings together policymakers, researchers, and institutional leaders to examine the future of people-centered development. By convening leading think tanks, scholars, and decision-makers, the Dialogue aims...",
+        link: "https://www.linkedin.com/posts/lilanofficial_development-sustainability-renewable-activity-7436148321779425280-5S6K?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/18uIoBB2tv7xagpSSt0gRZ8EAuwDobXjN/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
     id: "7.105",
     title: "Stranded in Doha (First Time) by Geopolitical Tensions",
     slides: [
@@ -10748,6 +10838,60 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.92",
+    title: "Participation in the Global Resilience Walk, organized by the Inner Green Deal, Focusing on Mindfulness & Leadership",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Walking for Resilience at Table Land 🌄🌱",
+        image: "assets/img/impact/leadership-economic/global-resilience-walk.jpg",
+        description:
+          "I had the opportunity to participate in the Global Resilience Walk while exploring Table Land, Asia’s second-highest and longest mountain plateau. Located in the Sahyadri range in Maharashtra, this expansive laterite rock plateau offers panoramic views of the surrounding valleys and the Krishna River...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nature-walk-meditation-activity-7441518947885117440-fHXH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1yDZ1D1nq17IgHYoUCQiWyjfovQNiVbqu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.91",
+    title: "Engagement at the Energy and Resources Institute's (TERI) World Sustainable Development Summit",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "AI, Climate Tech & Collaboration: Reflections from DCIW 2026",
+        image: "assets/img/impact/leadership-economic/ai-climate-tech-collaboration.jpg",
+        description:
+          "The Delhi Climate Innovation Week 2026 (DCIW) began immediately after the AI Impact Summit, and due to my commitments in Pune, I was not able to fully immerse myself in the entire week. However, I had the opportunity to engage with the event on both the opening...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-innovation-ai-activity-7435992390433271808-BZ0b?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Nmxum7N2VixAfs_qbou7AY4E1dqhf3Kj/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.90",
+    title: "Engagement at the Inaugural Nalanda Development Dialogue (NDD) on People-centered and Sustainable Development",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reimagining Development at Nalanda 2026 🌏",
+        image: "assets/img/impact/leadership-economic/Reimagining Development at Nalanda 2026.jpg",
+        description:
+          "The inaugural Nalanda Development Dialogue (NDD) is being held today and tomorrow at Nalanda University in Rajgir, India. This new flagship forum brings together policymakers, researchers, and institutional leaders to examine the future of people-centered development. By convening leading think tanks, scholars, and decision-makers, the Dialogue aims...",
+        link: "https://www.linkedin.com/posts/lilanofficial_development-sustainability-renewable-activity-7436148321779425280-5S6K?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/18uIoBB2tv7xagpSSt0gRZ8EAuwDobXjN/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.89",
@@ -14679,6 +14823,42 @@ const impacts = [
 
   {
     filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.13",
+    title: "Participation in the Global Resilience Walk, organized by the Inner Green Deal, Focusing on Mindfulness, Meditation & Inner Development",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Walking for Resilience at Table Land 🌄🌱",
+        image: "assets/img/impact/arts-philosophy-mindfulness/global-resilience-walk.jpg",
+        description:
+          "I had the opportunity to participate in the Global Resilience Walk while exploring Table Land, Asia’s second-highest and longest mountain plateau. Located in the Sahyadri range in Maharashtra, this expansive laterite rock plateau offers panoramic views of the surrounding valleys and the Krishna River...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nature-walk-meditation-activity-7441518947885117440-fHXH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1yDZ1D1nq17IgHYoUCQiWyjfovQNiVbqu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.12",
+    title: "Certified Ambassador for the Inner Development Goals (IDG) through the Zonda Cohort",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Certified IDG Ambassador: Leading Change from Within 🌱",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Certified IDG Ambassador.jpg",
+        description:
+          "I’m delighted to share that I have been certified as an Ambassador for the Inner Development Goals (IDG) through the Zonda Cohort...",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-mindfulness-activity-7435414644694908928-3f6v?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gl5WgbazH5JzpjE-c6nT5nj6ZOzCmCs6/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
     id: "13.11",
     title: "Engagement at the International Chanting and Dhamma Talk at for Mindfulness in Bodhgaya",
     slides: [
@@ -15414,6 +15594,17 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1v2Pg-PWFGTEFpQfJYrIzhRsGliUafPre/view?usp=sharing",
       },
       {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Sustainable Innovation at ChangeNOW 2026 🌱🚀",
+        image: "assets/img/impact/nature-based-explorations/Driving Sustainable Innovation at ChangeNOW 2026.jpg",
+        description:
+          "Counting down to ChangeNOW 2026 (March 30 – April 1, Paris) 🇫🇷🌱 Excited to represent ELZIAN AGRO and the YECO Youth Ecopreneur Program as we step into one of the world’s leading platforms for sustainability and innovation. From climate-resilient agri-tech to youth-driven SDG solutions...",
+        link: "https://www.linkedin.com/posts/lilanofficial_changenow-agritech-climateaction-activity-7441155259441491968-gI4z?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/13fhA_vh7PsB5lXWGn-xvAsKJdooSqMqj/view?usp=sharing",
+      },
+      {
         date: "January 2026",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -15434,6 +15625,42 @@ const impacts = [
           "I’ll be visiting Tokyo and Nagasaki in mid-May and would love to connect with fellow entrepreneurs, investors, and changemakers in Japan especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
         link: "https://www.linkedin.com/posts/lilanofficial_japan-tokyo-nagasaki-activity-7324494310429642754-7CG3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/112Gj84-NJrItepbftyfOKaks3OICK_Ly/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.11",
+    title: "Participation in the Global Resilience Walk, organized by the Inner Green Deal, Focusing on Nature Based Mindfulness",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Walking for Resilience at Table Land 🌄🌱",
+        image: "assets/img/impact/nature-based-explorations/global-resilience-walk.jpg",
+        description:
+          "I had the opportunity to participate in the Global Resilience Walk while exploring Table Land, Asia’s second-highest and longest mountain plateau. Located in the Sahyadri range in Maharashtra, this expansive laterite rock plateau offers panoramic views of the surrounding valleys and the Krishna River...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nature-walk-meditation-activity-7441518947885117440-fHXH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1yDZ1D1nq17IgHYoUCQiWyjfovQNiVbqu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.10",
+    title: "Flag Bearing at the Olympiahalle, Munich’s Olympic Park",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Proud Moment in Munich: Carrying Sri Lanka Forward",
+        image: "assets/img/impact/nature-based-explorations/A Proud Moment in Munich.jpg",
+        description:
+          "I had the honour of serving as the Sri Lankan Flag Bearer at the iconic Olympiahalle in Munich’s Olympic Park during the One Young World Summit Opening Ceremony. The hall, originally built for the 1972 Olympic Summer Games, is part of the Olympiapark München complex...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-network-activity-7438317748289507328-SZWN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/17X-t5ILn8m3KwDO7fZYSTPt_AmeOVCYI/view?usp=sharing",
       },
     ],
   },
