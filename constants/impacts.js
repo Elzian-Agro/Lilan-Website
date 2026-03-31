@@ -603,6 +603,24 @@ const impacts = [
 
   {
     filter: "filter-membership",
+    id: "2.38",
+    title: "iNaturalist Citizen Scientist",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Citizen Science & Biodiversity Exploration at Diyasaru Wetland Park",
+        image: "assets/img/impact/membership/Biodiversity Exploration at Diyasaru Wetland Park.jpg",
+        description:
+          "As iNaturalist marked its 18th anniversary last week, I’m pleased to share highlights from my most recent team engagement, which took place a few weeks ago at Diyasaru Wetland Park. This experience was organized in collaboration with the Youth Wing of the...",
+        link: "https://www.linkedin.com/posts/lilanofficial_biodiversity-exploration-wetland-ugcPost-7443284042604699649-MGXI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15gk5or8Za92GNpFRFnNIAHn5K8vhwR2t/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-membership",
     id: "2.37",
     title: "The Aula Fellow",
     slides: [
@@ -852,6 +870,28 @@ const impacts = [
         link: "https://www.linkedin.com/posts/one-young-world_oyw25-event-partnership-activity-7327787248404373504-1asT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1C_13O_YMIjaRijh67hhNMsBsr8BS6bv7/view?usp=sharing",
       },
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Proud Moment in Munich: Carrying Sri Lanka Forward",
+        image: "assets/img/impact/membership/A Proud Moment in Munich.jpg",
+        description:
+          "I had the honour of serving as the Sri Lankan Flag Bearer at the iconic Olympiahalle in Munich’s Olympic Park during the One Young World Summit Opening Ceremony. The hall, originally built for the 1972 Olympic Summer Games, is part of the Olympiapark München...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-network-activity-7438317748289507328-SZWN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/17X-t5ILn8m3KwDO7fZYSTPt_AmeOVCYI/view?usp=sharing",
+      },
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Systems Thinking & Connections at L'Oréal Paris",
+        image: "assets/img/impact/membership/Systems Thinking & Connections at L'Oréal Paris.jpg",
+        description:
+          "Heading back to the L'Oréal Global Headquarters in Paris tomorrow for an exclusive One Young World x L'Oréal event; this time, diving into conversations on systems thinking...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oyw-forum-france-ugcPost-7444153882982682624-dtUB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1i74FVjMx7dYYk1rZ2qtITJIlj5HYAmVQ/view?usp=sharing",
+      },
     ],
   },
   {
@@ -920,6 +960,17 @@ const impacts = [
           "Hear directly from past YECO participants on how the programme transformed their businesses, from refining their strategies to scaling their impact and connecting with global networks....",
         link: "https://www.linkedin.com/posts/ye-community_yeco-youthecopreneur-generationrestoration-activity-7363140824148131840-XbX5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1U17fFtxThaU-mEFpCwSa7jqMCEv6oC28/view?usp=sharing",
+      },
+      {
+        date: "March 2026",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/posts/",
+        title: "Meet the YECOs heading to ChangeNOW!",
+        image: "assets/img/impact/membership/Meet the YECOs heading to ChangeNOW.png",
+        description:
+          "This year, we’re proud to have a strong Youth Ecopreneur (YECO) delegation present at ChangeNOW — bringing together changemakers across different YECO cohorts alongside this year’s inspiring finalists...",
+        link: "https://www.linkedin.com/posts/ye-community_yeco-delegation-at-changenow-activity-7442898980688162816-hp0X?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1KhA839hnPOz1FV8yuuQNgakiJkIJiT_x/view?usp=sharing",
       },
       {
         date: "March 2026",
@@ -1771,6 +1822,42 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-innovation-social",
+    id: "3.136",
+    title: "Engagement at the Exclusive One Young World x L'Oréal Event Focusing on Systems Thinking in Social Entrepreneurship",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Systems Thinking & Connections at L'Oréal Paris",
+        image: "assets/img/impact/innovation-social/Systems Thinking & Connections at L'Oréal Paris.jpg",
+        description:
+          "Heading back to the L'Oréal Global Headquarters in Paris tomorrow for an exclusive One Young World x L'Oréal event; this time, diving into conversations on systems thinking...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oyw-forum-france-ugcPost-7444153882982682624-dtUB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1i74FVjMx7dYYk1rZ2qtITJIlj5HYAmVQ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.135",
+    title: "Engagement at the ChangeNOW Summit as part of the Change 100: Impact Entrepreneurship",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ELZIAN AGRO at ChangeNOW 2026",
+        image: "assets/img/impact/innovation-social/change100-changenow-2026.png",
+        description:
+          "We ELZIAN AGRO will be attending ChangeNOW next week and are available to schedule meetings throughout the week....",
+        link: "https://www.linkedin.com/posts/lilanofficial_change100-changenow-paris-activity-7441808077068169216-5LsT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1yDXT_HV6A6b36Zz-2MFuYU5ba_HI2GrD/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-innovation-social",
     id: "3.134",
@@ -6564,6 +6651,25 @@ const impacts = [
 
   {
     filter: "filter-climate-environmental",
+    id: "6.87",
+    title: "iNaturalist Citizen Science for Climate Action & Biodiversity Conservation",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Citizen Science & Biodiversity Exploration at Diyasaru Wetland Park",
+        image:
+          "assets/img/impact/climate-environmental/Biodiversity Exploration at Diyasaru Wetland Park.jpg",
+        description:
+          "As iNaturalist marked its 18th anniversary last week, I’m pleased to share highlights from my most recent team engagement, which took place a few weeks ago at Diyasaru Wetland Park. This experience was organized in collaboration with the Youth Wing of the...",
+        link: "https://www.linkedin.com/posts/lilanofficial_biodiversity-exploration-wetland-ugcPost-7443284042604699649-MGXI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15gk5or8Za92GNpFRFnNIAHn5K8vhwR2t/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
     id: "6.86",
     title: "Participation in the Global Resilience Walk, organized by the Inner Green Deal, Focusing on Promoting Nature Conservation & Climate Action",
     slides: [
@@ -10840,6 +10946,42 @@ const impacts = [
 
   {
     filter: "filter-leadership-economic",
+    id: "8.94",
+    title: "Engagement at the Exclusive One Young World x L'Oréal Event Focusing on Systems Thinking in Social Entrepreneurship",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Systems Thinking & Connections at L'Oréal Paris",
+        image: "assets/img/impact/leadership-economic/Systems Thinking & Connections at L'Oréal Paris.jpg",
+        description:
+          "Heading back to the L'Oréal Global Headquarters in Paris tomorrow for an exclusive One Young World x L'Oréal event; this time, diving into conversations on systems thinking...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oyw-forum-france-ugcPost-7444153882982682624-dtUB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1i74FVjMx7dYYk1rZ2qtITJIlj5HYAmVQ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.93",
+    title: "Engagement at the ChangeNOW Summit as part of the Change 100: Social Impact",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ELZIAN AGRO at ChangeNOW 2026",
+        image: "assets/img/impact/leadership-economic/change100-changenow-2026.png",
+        description:
+          "We ELZIAN AGRO will be attending ChangeNOW next week and are available to schedule meetings throughout the week....",
+        link: "https://www.linkedin.com/posts/lilanofficial_change100-changenow-paris-activity-7441808077068169216-5LsT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1yDXT_HV6A6b36Zz-2MFuYU5ba_HI2GrD/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
     id: "8.92",
     title: "Participation in the Global Resilience Walk, organized by the Inner Green Deal, Focusing on Mindfulness & Leadership",
     slides: [
@@ -14400,6 +14542,24 @@ const impacts = [
 
   {
     filter: "filter-aerospace-outer-space",
+    id: "11.9",
+    title: "Space Generation Advisory Council's Asteroid Search Campaign through the International Astronomical Search Collaboration (IASC)",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Asteroid Search Campaign with the Space Generation Advisory Council",
+        image: "assets/img/impact/aerospace-outer-space/Asteroid Search Campaign.jpg",
+        description:
+          "Thrilled to share that I recently campaigned with the Space Generation Advisory Council in their Asteroid Search Campaign!",
+        link: "https://www.linkedin.com/posts/lilanofficial_science-citizenscience-asteroid-activity-7442041989359042560-juDw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1rdbWXwM57xqD2E8tbM9XHjB72XwWb0Y5/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-aerospace-outer-space",
     id: "11.8",
     title: "Participating in the World Economic Forum under Beyond Earth – The Next Space Race Agenda",
     slides: [
@@ -15625,6 +15785,24 @@ const impacts = [
           "I’ll be visiting Tokyo and Nagasaki in mid-May and would love to connect with fellow entrepreneurs, investors, and changemakers in Japan especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
         link: "https://www.linkedin.com/posts/lilanofficial_japan-tokyo-nagasaki-activity-7324494310429642754-7CG3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/112Gj84-NJrItepbftyfOKaks3OICK_Ly/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.12",
+    title: "iNaturalist Citizen Science Work at Diyasaru Wetland Park",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Citizen Science & Biodiversity Exploration at Diyasaru Wetland Park",
+        image: "assets/img/impact/nature-based-explorations/Biodiversity Exploration at Diyasaru Wetland Park.jpg",
+        description:
+          "As iNaturalist marked its 18th anniversary last week, I’m pleased to share highlights from my most recent team engagement, which took place a few weeks ago at Diyasaru Wetland Park. This experience was organized in collaboration with the Youth Wing of the...",
+        link: "https://www.linkedin.com/posts/lilanofficial_biodiversity-exploration-wetland-ugcPost-7443284042604699649-MGXI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15gk5or8Za92GNpFRFnNIAHn5K8vhwR2t/view?usp=sharing",
       },
     ],
   },
