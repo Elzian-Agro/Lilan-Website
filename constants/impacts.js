@@ -7364,7 +7364,7 @@ const impacts = [
   {
     filter: "filter-climate-environmental",
     id: "6.52",
-    title: "Participation in the the Sustainable Environmental Materials Forum",
+    title: "Participation in the Sustainable Environmental Materials Forum",
     slides: [
       {
         date: "May 2025",
@@ -11927,7 +11927,7 @@ const impacts = [
   {
     filter: "filter-leadership-economic",
     id: "8.44",
-    title: "Participation in the the Sustainable Environmental Materials Forum",
+    title: "Participation in the Sustainable Environmental Materials Forum",
     slides: [
       {
         date: "May 2025",
