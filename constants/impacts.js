@@ -951,6 +951,17 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1yTGE6Zcx6wtQvrzS5IRmVgDNEAADqPP1/view?usp=sharing",
       },
       {
+        date: "April 2026",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.linkedin.com/company/g20-global-land-initiative/posts/",
+        title: "Day 1 at ChangeNOW: The Restoration Economy in Action",
+        image: "assets/img/impact/membership/Day 1 at ChangeNOW.jpg",
+        description:
+          "The opening day of ChangeNOW in Paris set a powerful tone for #GenerationRestoration. Our Youth Ecopreneurs (YECOs) hit the ground running, moving from the opening ceremony to a high-traffic ITC Ye! Community booth focused on scaling land restoration....",
+        link: "https://www.linkedin.com/posts/g20-global-land-initiative_generationrestoration-g20gli-changenow2026-activity-7444799362091704320-weea?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1MEgfWkjLrAcTJsTRTZrF3TfGDkAPIkS_/view?usp=sharing",
+      },
+      {
         date: "September 2025",
         source_name: "ITC Ye! Community",
         source_link: "https://www.linkedin.com/company/ye-community/posts/",
@@ -1729,6 +1740,17 @@ const impacts = [
           "Pleased to have joined @Meaningful Business as a member, alongside other leaders tackling the world's most pressing issues. It is a curated network designed to connect peers globally, strengthen social businesses and amplify positive impact, all in support of the @United Nations Global Goals.",
         link: "https://www.linkedin.com/posts/lilanofficial_business-network-leaders-activity-7056419759705239552-rjGW/?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1JSn3zsKijZINHgYOjenlEUOOTnFJmwmv/view?usp=drive_link",
+      },
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Global Changemakers",
+        image: "assets/img/impact/membership/Connecting with Global Changemakers.jpg",
+        description:
+          "It was great connecting with the Meaningful Business Community; truly inspiring to engage with such a passionate group driving positive impact across the globe 🌎!",
+        link: "https://www.linkedin.com/posts/lilanofficial_meaningfulbusiness-changenow-activity-7445724056622067712-xA4Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1MEF2FliXORk4D4nZjFUcdoeiPfFPdZ-o/view?usp=sharing",
       },
       {
         date: "October 2024",
@@ -4588,6 +4610,25 @@ const impacts = [
 
   {
     filter: "filter-food-agriculture",
+    id: "4.76",
+    title: "Showcasing Elzian-Agro-Aqua Innovation at Asia-Pacific Forum on Sustainable Development (APFSD)",
+    slides: [
+      {
+        date: "March 2025",
+        source_name: "Lanka Business News",
+        source_link: "https://www.lankabusinessnews.com/",
+        title: "Elzian-Agro-Aqua Innovation at Asia-Pacific Forum",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Elzian-Agro-Aqua Innovation at Asia-Pacific Forum.jpg",
+        description:
+          "The 2025 Asia-Pacific Forum on Sustainable Development (APFSD) concluded last month, highlighting the pivotal role of youth in driving sustainable development across the region. Preceding the forum, the Youth Forum 2025 brought together 549 young leaders from 34 countries and territories...",
+        link: "https://www.lankabusinessnews.com/lilan-dayananda-showcases-elzian-agro-aqua-innovation-at-apfsd-2025/",
+        backup_image: "https://drive.google.com/file/d/1KOJqJYRcYFWoOsAywQxHTv-ilf8HnTmf/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
     id: "4.75",
     title: "Engagement at Delhi Climate Innovation Week on Food & Agriculture Nexus",
     slides: [
@@ -6651,6 +6692,63 @@ const impacts = [
 
   {
     filter: "filter-climate-environmental",
+    id: "6.90",
+    title: "Engagement at the Conference on Transitioning Away from Fossil Fuels and the People’s Summit for a Fossil-Free Future",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Advancing a Fossil-Free Future in Santa Marta",
+        image:
+          "assets/img/impact/climate-environmental/Advancing a Fossil-Free Future in Santa Marta.jpg",
+        description:
+          "For over three decades, global climate negotiations have largely focused on managing the symptoms of the crisis, primarily greenhouse gas emissions while often overlooking its root cause: the continued expansion of coal, oil, and gas...",
+        link: "https://www.linkedin.com/posts/lilanofficial_parisagreement-climate-action-share-7447230629286440960-fQtM?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Nr9coR2bBetzfcE14NrsMIjb0X0xgFzX/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.89",
+    title: "Engagement at the World's Youth for Climate Justice (WYCJ) at ChangeNOW",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Voices Advancing Climate Justice",
+        image:
+          "assets/img/impact/climate-environmental/Youth Voices Advancing Climate Justice.jpg",
+        description:
+          "As a campaigner and a member of the WYCJ Asian Front, it was inspiring to witness the continued engagement of the World's Youth for Climate Justice (WYCJ) at ChangeNOW this year, the world’s largest event dedicated to solutions for the planet...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climatejustice-youthforclimate-changenow-ugcPost-7446467844009095168-Rbca?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1nT2wAy2qFutaeilzBEnxy11_pF4dD_DV/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.88",
+    title: "Engagement at the Nature Finance Forum Europe",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Investment in Nature-Based Solutions",
+        image:
+          "assets/img/impact/climate-environmental/Driving Investment in Nature-Based Solutions.jpg",
+        description:
+          "Yesterday, I had the privilege of attending the Nature Finance Forum Europe held at Pullman Montparnasse in Paris. The event brought together a diverse group of global stakeholders investors, policymakers, and innovators creating a dynamic platform for meaningful dialogue, collaboration...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-nature-finance-ugcPost-7445951560553181184-zuzJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1JAqK871eqDe1RF6INYhCwbOSoDfGw7mm/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
     id: "6.87",
     title: "iNaturalist Citizen Science for Climate Action & Biodiversity Conservation",
     slides: [
@@ -8461,6 +8559,42 @@ const impacts = [
 
   {
     filter: "filter-public-policy",
+    id: "7.112",
+    title: "Engagement at the Caux Democracy Forum",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Revitalising Democracy Through Hope, Healing, and Human Security",
+        image: "assets/img/impact/public-policy/Revitalising Democracy Through Hope, Healing, and Human Security.jpg",
+        description:
+          " Democracy is facing unprecedented challenges; disinformation, mistrust, and deepening divisions threaten the freedoms and values that underpin peaceful, resilient societies. The Caux Democracy Forum 2026 is bringing together...",
+        link: "https://www.linkedin.com/posts/lilanofficial_democracy-forum-sustainability-activity-7446732524401176576-I3JP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1v4ygB_TCViB8oF6w8PgO4EcaR12mzV5W/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.111",
+    title: "Engagement at the Initiatives of Change France Evensong Gathering 1",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Finding Harmony in Leadership and Change",
+        image: "assets/img/impact/public-policy/Finding Harmony in Leadership and Change.jpg",
+        description:
+          "Last week, during a visit to the Initiatives of Change office in Paris Initiatives of Change France, I joined the weekly Evensong gathering, a tradition that has echoed through the Anglican faith for centuries...",
+        link: "https://www.linkedin.com/posts/lilanofficial_socialentrepreneurship-systemsthinking-socialimpact-ugcPost-7446331948945530880-3aS3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15HHL4PotuLNWWgtUr4IYM5RhPTCA4ykZ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
     id: "7.110",
     title: "Participation in the Global Resilience Walk, organized by the Inner Green Deal, Focusing on European Green Deal",
     slides: [
@@ -10043,6 +10177,17 @@ const impacts = [
     title: "Connecting with the International Communities",
     slides: [
       {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting at ChangeNOW: Let’s Meet and Collaborate",
+        image: "assets/img/impact/public-policy/Connecting at ChangeNOW.jpg",
+        description:
+          "Excited to connect with so many inspiring changemakers shaping a better future. If you would like to meet in person or schedule a brief conversation, please feel free to stop by the Working Space next to the Agora Stage. I would be delighted to connect, exchange ideas, and explore potential collaborations...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-development-technology-activity-7444656427291553793-CZR-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1DEEpajcefxyMNbRhr39Bwm6aRfY6vjYS/view?usp=sharing",
+      },
+      {
         date: "August 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -10944,6 +11089,42 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.96",
+    title: "Engagement at the Initiatives of Change France Evensong Gathering 1",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Finding Harmony in Leadership and Change",
+        image: "assets/img/impact/leadership-economic/Finding Harmony in Leadership and Change.jpg",
+        description:
+          "Last week, during a visit to the Initiatives of Change office in Paris Initiatives of Change France, I joined the weekly Evensong gathering, a tradition that has echoed through the Anglican faith for centuries...",
+        link: "https://www.linkedin.com/posts/lilanofficial_socialentrepreneurship-systemsthinking-socialimpact-ugcPost-7446331948945530880-3aS3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15HHL4PotuLNWWgtUr4IYM5RhPTCA4ykZ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.95",
+    title: "Engagement at the Nature Finance Forum Europe",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Investment in Nature-Based Solutions",
+        image: "assets/img/impact/leadership-economic/Driving Investment in Nature-Based Solutions.jpg",
+        description:
+          "Yesterday, I had the privilege of attending the Nature Finance Forum Europe held at Pullman Montparnasse in Paris. The event brought together a diverse group of global stakeholders investors, policymakers, and innovators creating a dynamic platform for meaningful dialogue, collaboration...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-nature-finance-ugcPost-7445951560553181184-zuzJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1JAqK871eqDe1RF6INYhCwbOSoDfGw7mm/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.94",
@@ -14981,6 +15162,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.14",
+    title: "Engagement at the Initiatives of Change France Evensong Gathering 1",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Finding Harmony in Leadership and Change",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Finding Harmony in Leadership and Change.jpg",
+        description:
+          "Last week, during a visit to the Initiatives of Change office in Paris Initiatives of Change France, I joined the weekly Evensong gathering, a tradition that has echoed through the Anglican faith for centuries...",
+        link: "https://www.linkedin.com/posts/lilanofficial_socialentrepreneurship-systemsthinking-socialimpact-ugcPost-7446331948945530880-3aS3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15HHL4PotuLNWWgtUr4IYM5RhPTCA4ykZ/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
     id: "13.13",
