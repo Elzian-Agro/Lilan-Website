@@ -684,6 +684,17 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/14gYURES-xMIGV1f50EdmF1lNvKpHOeGZ/view?usp=drive_link",
       },
       {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reimagining the Future Through Youth Solidarity",
+        image: "assets/img/impact/membership/Reimagining the Future Through Youth Solidarity.jpg",
+        description:
+          "Change starts with me; it is a privilege to be engaged in the “Solidarity for the Future” initiative, a thoughtfully designed, youth-led platform convened alongside the IofC Global Fellowship Gathering...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youthleadership-global-change-activity-7448620764120899584-pQmO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1bVZdYFkWx-h7mq6nTsY9LAsmdLOmOA1L/view?usp=sharing",
+      },
+      {
         date: "July 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -1548,6 +1559,17 @@ const impacts = [
         link: "https://www.linkedin.com/posts/lilanofficial_wsa-global-congress-activity-7317604182402781187-scy_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/131SldRu_rIGxskx8v4jdfcqkUeMsCmuG/view?usp=drive_link",
       },
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSA Global Congress 2026: Shaping a Meaningful Digital Future",
+        image: "assets/img/impact/membership/WSA Global Congress 2026.jpg",
+        description:
+          "The WSA Global Congress is returning to its roots in Austria, and I’m pleased to share that I will be part of it this May. Five tech giants should not define our digital lives, control our data, or shape our choices. It’s time to reflect...",
+        link: "https://www.linkedin.com/posts/lilanofficial_meaningful-perspectives-wsa-ugcPost-7456242767506247680-Al3d?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1w112f7b6mfwsq8fMaz7N9plgge7p9HLB/view?usp=sharing",
+      },
     ],
   },
   {
@@ -1844,6 +1866,168 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-innovation-social",
+    id: "3.145",
+    title: "Participating the Course on Key Concepts for Economies in Conflict & Fragile Settings Centered on Growth Research Platform (GRP)",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Economies in Fragile and Conflict Affected Settings",
+        image: "assets/img/impact/innovation-social/Exploring Economies in Fragile and Conflict Affected Settings.jpg",
+        description:
+          "I’m pleased to share that I will be joining the course on “Key Concepts for Economies in Conflict and Fragile Settings”. The 9th session begins today with the session “How to Prepare a Grant Proposal,” led by Dominic Rohner and Olivier N. Baron....",
+        link: "https://www.linkedin.com/posts/lilanofficial_development-diversity-investment-share-7459413160505163776-V_YI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Gy_OdEt5UufQ3fUzF9OeHLkeZ6fJHScx/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.144",
+    title: "Engagement at We Don't Have Time’s Broadcast Hub During ChangeNOW Summit #MakeScienceGreatAgain",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ChangeNOW Summit Insights on Climate Action and Science for the Planet",
+        image: "assets/img/impact/innovation-social/ChangeNOW-Summit.jpg",
+        description:
+          "We’re at a turning point. Scientists are being silenced. Research labs are under threat. Disinformation is spreading faster than truth; risking a future where science is sidelined just when we need it most...",
+        link: "https://www.linkedin.com/posts/lilanofficial_makesciencegreatagain-changenow-climateaction-ugcPost-7459375023573626880-YULY?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Ir3hEsn4wY2GaixitIWMboxNgIHuMivz/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.143",
+    title: "Sharing Outcomes of the Technology Pilots at Reykjavík City Hall",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ELZIAN AGRO Pilot Success in Iceland at Reykjavík City Hall",
+        image: "assets/img/impact/innovation-social/Reykjavik-City-Hall-Pilot.jpg",
+        description:
+          "It was a truly enriching experience to visit Reykjavík City Hall, beautifully situated by the scenic Tjörnin in Iceland. The space not only houses the Office of the Mayor but also features an impressive large-scale 3D map of Iceland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-ea-ugcPost-7457123554728411137-wQ5m?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1K5hWuY2rYnTsvsQITziuHWirDruzEOl6/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.142",
+    title: "Engagement for the International Renewable Energy Agency (IRENA) NewGen Renewable Energy Accelerator Scaling Youth-led Climate Startups",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth Innovation for a Sustainable Energy Future",
+        image: "assets/img/impact/innovation-social/IRENA-NewGen-Accelerator.jpg",
+        description:
+          "I’m grateful to have been part of the inaugural International Renewable Energy Agency (IRENA) NewGen Renewable Energy Accelerator, a global initiative dedicated to scaling youth-led climate startups...",
+        link: "https://www.linkedin.com/posts/lilanofficial_renewable-energy-sustainability-ugcPost-7456544040054902785-_Svy?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1KhVV9wfeXRiwGBgkjhp3mlTWTH4d2XWn/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.141",
+    title: "Engagement at the WSA Global Congress on Social Innovation & Global Impact Solutions",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSA Global Congress 2026: Shaping a Meaningful Digital Future",
+        image: "assets/img/impact/innovation-social/WSA Global Congress 2026.jpg",
+        description:
+          "The WSA Global Congress is returning to its roots in Austria, and I’m pleased to share that I will be part of it this May. Five tech giants should not define our digital lives, control our data, or shape our choices. It’s time to reflect...",
+        link: "https://www.linkedin.com/posts/lilanofficial_meaningful-perspectives-wsa-ugcPost-7456242767506247680-Al3d?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1w112f7b6mfwsq8fMaz7N9plgge7p9HLB/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.140",
+    title: "Engaging at the World Beautiful Business Forum to Help Shape a Humanist Future in and through Business",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "World Beautiful Business Forum Shaping a Human-Centered Future",
+        image: "assets/img/impact/innovation-social/World-Beautiful-Business-Forum.jpg",
+        description:
+          "I will be participating in the World Beautiful Business Forum in Athens, Greece. This year’s forum marks a renewed mission to shape a humanist future in and through business, working in partnership with AI, for the benefit of all life on Earth...",
+        link: "https://www.linkedin.com/posts/lilanofficial_mindfulness-business-sustainability-ugcPost-7454042522018037760-18MS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FvzXDNqLTUsHn0rBCLRZo-cpYkI6zvFU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.139",
+    title: "Engagement at the Skoll World Forum for Advancing Social Entrepreneurship",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Skoll World Forum Driving Global Change",
+        image: "assets/img/impact/innovation-social/Skoll-World-Forum-Driving-Global-Change.jpg",
+        description:
+          "The Skoll World Forum is currently taking place in Oxford, United Kingdom, bringing together global changemakers committed to advancing social entrepreneurship, systems change, and cross-sector collaboration...",
+        link: "https://www.linkedin.com/posts/lilanofficial_skoll-forum-innovation-ugcPost-7452589208197783552-TPET?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1GHdHZe1tKaVyBPZmFc95neMFOM-dqHux/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.138",
+    title: "Engagement with UNESCO x Nestlé for Youth Social Entrepreneurship",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Youth Innovation for Global Impact | UNESCO, Nestlé & ELZIAN AGRO",
+        image: "assets/img/impact/innovation-social/Driving Youth Innovation for Global Impact.jpg",
+        description:
+          "I had the opportunity to visit the UNESCO Headquarters and the Nestlé Office in Paris, where I continued productive discussions with the UNESCO team....",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-nestle-global-ugcPost-7449395791904935936-9500?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1IAj6cRTvEimEGDsRY46otbMcYUbdZuF9/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.137",
+    title: "Engagement for the Solidarity for the Future Initiative Focusing on Systems Thinking in Social Entrepreneurship",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reimagining the Future Through Youth Solidarity",
+        image: "assets/img/impact/innovation-social/Reimagining the Future Through Youth Solidarity.jpg",
+        description:
+          "Change starts with me; it is a privilege to be engaged in the “Solidarity for the Future” initiative, a thoughtfully designed, youth-led platform convened alongside the IofC Global Fellowship Gathering...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youthleadership-global-change-activity-7448620764120899584-pQmO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1bVZdYFkWx-h7mq6nTsY9LAsmdLOmOA1L/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-innovation-social",
     id: "3.136",
@@ -4608,6 +4792,139 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-food-agriculture",
+    id: "4.83",
+    title: "Engagement at We Don't Have Time’s Broadcast Hub During ChangeNOW Summit #MakeScienceGreatAgain",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ChangeNOW Summit Insights on Climate Action and Science for the Planet",
+        image:
+          "assets/img/impact/food-agriculture-forestry/ChangeNOW-Summit.jpg",
+        description:
+          "We’re at a turning point. Scientists are being silenced. Research labs are under threat. Disinformation is spreading faster than truth; risking a future where science is sidelined just when we need it most...",
+        link: "https://www.linkedin.com/posts/lilanofficial_makesciencegreatagain-changenow-climateaction-ugcPost-7459375023573626880-YULY?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Ir3hEsn4wY2GaixitIWMboxNgIHuMivz/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.82",
+    title: "Sharing Outcomes of the Agri-tech Pilots at Reykjavík City Hall",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ELZIAN AGRO Pilot Success in Iceland at Reykjavík City Hall",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Reykjavik-City-Hall-Pilot.jpg",
+        description:
+          "It was a truly enriching experience to visit Reykjavík City Hall, beautifully situated by the scenic Tjörnin in Iceland. The space not only houses the Office of the Mayor but also features an impressive large-scale 3D map of Iceland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-ea-ugcPost-7457123554728411137-wQ5m?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1K5hWuY2rYnTsvsQITziuHWirDruzEOl6/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.81",
+    title: "Promoting Youth Voices for Smart Farming on Shaping Priorities for the Next Generation of Changemakers | UN STI (Science, Technology & Innovation)",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Voices for Smart Farming and Digital Agriculture",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Youth-Voices-for-Smart-Farming-and-Digital-Agriculture.jpg",
+        description:
+          "This online side event, organized as part of the WFF Youth Assembly and led by FAO’s Office of Youth and Women (OYW), brings together young farmers, innovators, researchers, youth leaders, and policymakers to collaboratively shape youth-driven priorities for smart farming and digital agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_aiforgood-stiforum-sustainable-ugcPost-7456414910797922304-pgO7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1YqufB-e-OZD_hfKI_62Rlu-akBoGxECx/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.80",
+    title: "Engagement at the PowerConnect Clean Energy Transition Gathering on Sustainable Precision Agriculture",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "PowerConnect Gdańsk | Driving Clean Energy and Climate Innovation",
+        image:
+          "assets/img/impact/food-agriculture-forestry/PowerConnect-Gdansk-Driving-Clean-Energy-and-Climate-Innovation.jpg",
+        description:
+          "hrilled to have experienced the vibrant energy of PowerConnect just a few weeks ago at AMBEREXPO in Gdańsk, Poland; a powerhouse gathering of innovators driving the clean energy transition. During the sessions, I had the opportunity to promote BPA in my role...",
+        link: "https://www.linkedin.com/posts/lilanofficial_power-energy-cleanenergy-ugcPost-7455530612750471169-0B1M?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1S8UJ2vXtm-dIeCTAREQpuLrzEl98Yzwr/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.79",
+    title: "Engagement at the Skoll World Forum for Advancing Social Entrepreneurship, Food & Agriculture",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Skoll World Forum Driving Global Change",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Skoll-World-Forum-Driving-Global-Change.jpg",
+        description:
+          "The Skoll World Forum is currently taking place in Oxford, United Kingdom, bringing together global changemakers committed to advancing social entrepreneurship, systems change, and cross-sector collaboration...",
+        link: "https://www.linkedin.com/posts/lilanofficial_skoll-forum-innovation-ugcPost-7452589208197783552-TPET?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1GHdHZe1tKaVyBPZmFc95neMFOM-dqHux/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.78",
+    title: "Engagement for the Global Man and the Biosphere (MAB) Youth Forum on Agriculture & Biodiversity",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Global MAB Youth Forum Biosphere Youth for Sustainable Future",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Global MAB Youth Forum Biosphere Youth for Sustainable Future.jpg",
+        description:
+          "I am honored to share that I have been officially invited to attend the Global Man and the Biosphere (MAB) Youth Forum, “Committed to the Future We Want,” taking place in Rosolina Mare, Italy, organized by the Government...",
+        link: "https://www.linkedin.com/posts/lilanofficial_forum-unesco-ecosoc-ugcPost-7451244641657667584-fKYN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1O7ezTrmFrXfSjeVEqP3kRrCLvwlgLJcP/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.77",
+    title: "Engagement with UNESCO x Nestlé for Agri-tech Education & Knowledge Transition",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Youth Innovation for Global Impact | UNESCO, Nestlé & ELZIAN AGRO",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Driving Youth Innovation for Global Impact.jpg",
+        description:
+          "I had the opportunity to visit the UNESCO Headquarters and the Nestlé Office in Paris, where I continued productive discussions with the UNESCO team....",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-nestle-global-ugcPost-7449395791904935936-9500?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1IAj6cRTvEimEGDsRY46otbMcYUbdZuF9/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-food-agriculture",
     id: "4.76",
