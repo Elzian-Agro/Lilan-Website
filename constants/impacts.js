@@ -11962,6 +11962,60 @@ const impacts = [
 
   {
     filter: "filter-leadership-economic",
+    id: "8.99",
+    title: "Engagement with UNESCO x Nestlé through 'Because Youth Matter' Initiative",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Youth Innovation for Global Impact | UNESCO, Nestlé & ELZIAN AGRO",
+        image: "assets/img/impact/leadership-economic/Driving Youth Innovation for Global Impact.jpg",
+        description:
+          "I had the opportunity to visit the UNESCO Headquarters and the Nestlé Office in Paris, where I continued productive discussions with the UNESCO team....",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-nestle-global-ugcPost-7449395791904935936-9500?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1IAj6cRTvEimEGDsRY46otbMcYUbdZuF9/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.98",
+    title: "Engagement for the Solidarity for the Future Initiative for Social Empowerment",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reimagining the Future Through Youth Solidarity",
+        image: "assets/img/impact/leadership-economic/Reimagining the Future Through Youth Solidarity.jpg",
+        description:
+          "Change starts with me; it is a privilege to be engaged in the “Solidarity for the Future” initiative, a thoughtfully designed, youth-led platform convened alongside the IofC Global Fellowship Gathering...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youthleadership-global-change-activity-7448620764120899584-pQmO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1bVZdYFkWx-h7mq6nTsY9LAsmdLOmOA1L/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.97",
+    title: "Engagement at the United Nations International Day of Conscience",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reinventing Peace with Youth at the United Nations",
+        image: "assets/img/impact/leadership-economic/Reinventing Peace with Youth at the United Nations.jpg",
+        description:
+          "In celebration of the United Nations International Day of Conscience, I had the opportunity to participating in a powerful gathering at the Palais des Nations in Geneva, centered on reinventing peace...",
+        link: "https://www.linkedin.com/posts/lilanofficial_internationaldayofconscience-youthforpeace-activity-7448136007880790016-tumk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/18RXg1Fp0JOYbXZPgsR0OuGVqSIdy7jJz/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
     id: "8.96",
     title: "Engagement at the Initiatives of Change France Evensong Gathering 1",
     slides: [
