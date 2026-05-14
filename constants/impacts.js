@@ -1886,6 +1886,24 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.146",
+    title: "Visiting Lund University for Sustainability & Social Entrepreneurial Discussions",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Returning to Lund University for New Collaborations & Impact",
+        image: "assets/img/impact/innovation-social/Returning to Lund University for New Collaborations & Impact.jpg",
+        description:
+          "I will be returning to Lund University next week. I’m really looking forward to reconnecting with the vibrant student and academic community, and to building new, meaningful collaborations...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-technology-agriculture-ugcPost-7460320870385893376-XM_u?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1n1OEZIJ6QOf7jArCP6E7r55nSelTPDSL/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.145",
     title: "Participating the Course on Key Concepts for Economies in Conflict & Fragile Settings Centered on Growth Research Platform (GRP)",
     slides: [
@@ -4810,6 +4828,44 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-food-agriculture",
+    id: "4.85",
+    title: "Youth Engagement Related to Land Restoration at United Nations Convention to Combat Desertification (UNCCD)",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping the Future of Youth Engagement in UNCCD",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Shaping the Future of Youth Engagement in UNCCD.jpg",
+        description:
+          "Young people are increasingly recognized as essential actors in addressing desertification, land degradation, and drought. But what does meaningful engagement truly look like in practice...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-policy-development-ugcPost-7460351954398052352-Pv-x?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1S0qBhVWV6wgxZe5oSjt5X2q14KVPM4L_/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.84",
+    title: "Visiting Lund University for Sustainability, Food & Agriculture Discussions",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Returning to Lund University for New Collaborations & Impact",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Returning to Lund University for New Collaborations & Impact.jpg",
+        description:
+          "I will be returning to Lund University next week. I’m really looking forward to reconnecting with the vibrant student and academic community, and to building new, meaningful collaborations...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-technology-agriculture-ugcPost-7460320870385893376-XM_u?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1n1OEZIJ6QOf7jArCP6E7r55nSelTPDSL/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-food-agriculture",
     id: "4.83",
@@ -9174,6 +9230,204 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-public-policy",
+    id: "7.123",
+    title: "Engagement for Reimagining Democracy(ies) with Creative Leadership",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Democracy Beyond Elections: Inclusion, Voice, and Accountability",
+        image: "assets/img/impact/public-policy/Democracy Beyond Elections.png",
+        description:
+          "To me, democracy today means more than elections; it means people having a genuine voice in the decisions that shape their lives, livelihoods, and future. It is about accountability, inclusion, and ensuring...",
+        link: "https://www.linkedin.com/posts/lilanofficial_democracy-technology-digital-share-7459696091811414016--dMP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1JAxJUXQQQ2RMvTCJf57wswnZKgttuICO/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.122",
+    title: "Participating the Course on Key Concepts for Economies in Conflict & Fragile Settings Centered on Growth Research Platform (GRP)",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Economies in Fragile and Conflict Affected Settings",
+        image: "assets/img/impact/public-policy/Exploring Economies in Fragile and Conflict Affected Settings.jpg",
+        description:
+          "I’m pleased to share that I will be joining the course on “Key Concepts for Economies in Conflict and Fragile Settings”. The 9th session begins today with the session “How to Prepare a Grant Proposal,” led by Dominic Rohner and Olivier N. Baron....",
+        link: "https://www.linkedin.com/posts/lilanofficial_development-diversity-investment-share-7459413160505163776-V_YI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Gy_OdEt5UufQ3fUzF9OeHLkeZ6fJHScx/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.121",
+    title: "Nuclear Ethics for Peace Carnegie Council Event",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Walking the Nuclear Tightrope: Lessons from History",
+        image: "assets/img/impact/public-policy/Walking the Nuclear Tightrope.jpg",
+        description:
+          "We are walking a fraying nuclear tightrope. Russia, China, and the U.S. are expanding their nuclear capabilities; extended deterrence is strained to the breaking point; and proliferation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nuclear-disarmament-peace-ugcPost-7458173276310216705-CRW5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1lkME5OFSqjXjSF4Cp-UZ27_nTzLkJIcQ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.120",
+    title: "Engagement at the WSA Global Congress on Digital Sovereignty, Building Digital Public Goods & Global Impact Solutions",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSA Global Congress 2026: Shaping a Meaningful Digital Future",
+        image: "assets/img/impact/public-policy/WSA Global Congress 2026.jpg",
+        description:
+          "The WSA Global Congress is returning to its roots in Austria, and I’m pleased to share that I will be part of it this May. Five tech giants should not define our digital lives, control our data, or shape our choices. It’s time to reflect...",
+        link: "https://www.linkedin.com/posts/lilanofficial_meaningful-perspectives-wsa-ugcPost-7456242767506247680-Al3d?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1w112f7b6mfwsq8fMaz7N9plgge7p9HLB/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.119",
+    title: "Engaging at the World Beautiful Business Forum to Help Shape a Humanist Future in and through Business",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "World Beautiful Business Forum Shaping a Human-Centered Future",
+        image: "assets/img/impact/public-policy/World-Beautiful-Business-Forum.jpg",
+        description:
+          "I will be participating in the World Beautiful Business Forum in Athens, Greece. This year’s forum marks a renewed mission to shape a humanist future in and through business, working in partnership with AI, for the benefit of all life on Earth...",
+        link: "https://www.linkedin.com/posts/lilanofficial_mindfulness-business-sustainability-ugcPost-7454042522018037760-18MS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FvzXDNqLTUsHn0rBCLRZo-cpYkI6zvFU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.118",
+    title: "Engagement at the Annual Cambridge International Law Journal (CILJ), themed “Reimagining International Law: Critical, Regional, and Trans-Disciplinary Perspectives",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Heading to Cambridge for the Annual CILJ Conference",
+        image: "assets/img/impact/public-policy/CILJ-Conference.jpg",
+        description:
+          "Heading to the University of Cambridge tomorrow for the Annual Cambridge International Law Journal (CILJ), themed “Reimagining International Law: Critical, Regional, and Trans-Disciplinary Perspectives...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cambridge-international-law-ugcPost-7453040209241337857-kdb2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1IarYTzXnch1M0L6K3rJ_j6qIFAYqA0ct/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.117",
+    title: "Engagement at the Skoll World Forum for Advancing Social Entrepreneurship, Peace & Inclusive Democracy",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Skoll World Forum Driving Global Change",
+        image: "assets/img/impact/public-policy/Skoll-World-Forum-Driving-Global-Change.jpg",
+        description:
+          "The Skoll World Forum is currently taking place in Oxford, United Kingdom, bringing together global changemakers committed to advancing social entrepreneurship, systems change, and cross-sector collaboration...",
+        link: "https://www.linkedin.com/posts/lilanofficial_skoll-forum-innovation-ugcPost-7452589208197783552-TPET?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1GHdHZe1tKaVyBPZmFc95neMFOM-dqHux/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.116",
+    title: "Sound/Frequency Immersion for Trustbuilding & Conflict Resolution",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Leadership Beyond Strategy: Aligning Inner Growth with Action",
+        image: "assets/img/impact/public-policy/Leadership Beyond Strategy.jpg",
+        description:
+          "There are those who lead change visibly, and those who enable it more quietly from within; both roles matter more than we often acknowledge. A few days ago, I visited...",
+        link: "https://www.linkedin.com/posts/lilanofficial_mindfulness-leadership-sound-activity-7451882573158494208-8iPY?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BwVdG81dgr-kNEZKC-9N6ISrW1SH27lj/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.115",
+    title: "Engagement with UNESCO x Nestlé through 'Because Youth Matter' Initiative",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Youth Innovation for Global Impact | UNESCO, Nestlé & ELZIAN AGRO",
+        image: "assets/img/impact/public-policy/Driving Youth Innovation for Global Impact.jpg",
+        description:
+          "I had the opportunity to visit the UNESCO Headquarters and the Nestlé Office in Paris, where I continued productive discussions with the UNESCO team....",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-nestle-global-ugcPost-7449395791904935936-9500?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1IAj6cRTvEimEGDsRY46otbMcYUbdZuF9/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.114",
+    title: "Engagement for the Solidarity for the Future Initiative for Diplomacy, Inclusive Democracy & Peace",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reimagining the Future Through Youth Solidarity",
+        image: "assets/img/impact/public-policy/Reimagining the Future Through Youth Solidarity.jpg",
+        description:
+          "Change starts with me; it is a privilege to be engaged in the “Solidarity for the Future” initiative, a thoughtfully designed, youth-led platform convened alongside the IofC Global Fellowship Gathering...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youthleadership-global-change-activity-7448620764120899584-pQmO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1bVZdYFkWx-h7mq6nTsY9LAsmdLOmOA1L/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.113",
+    title: "Engagement at the United Nations International Day of Conscience",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reinventing Peace with Youth at the United Nations",
+        image: "assets/img/impact/public-policy/Reinventing Peace with Youth at the United Nations.jpg",
+        description:
+          "In celebration of the United Nations International Day of Conscience, I had the opportunity to participating in a powerful gathering at the Palais des Nations in Geneva, centered on reinventing peace...",
+        link: "https://www.linkedin.com/posts/lilanofficial_internationaldayofconscience-youthforpeace-activity-7448136007880790016-tumk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/18RXg1Fp0JOYbXZPgsR0OuGVqSIdy7jJz/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-public-policy",
     id: "7.112",
@@ -15340,6 +15594,42 @@ const impacts = [
 
   {
     filter: "filter-aerospace-outer-space",
+    id: "11.11",
+    title: "Engagement at the Europe's SmallSat Technical & Business Conference",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Attending Europe’s SmallSat Technical & Business Conference",
+        image: "assets/img/impact/aerospace-outer-space/Attending Europe’s SmallSat Technical & Business Conference.jpg",
+        description:
+          "I will be attending the Europe's SmallSat Technical & Business Conference in Amsterdam. It is consistently an excellent forum for stepping back from specific technologies and engaging in discussions...",
+        link: "https://www.linkedin.com/posts/lilanofficial_space-esa-space-ugcPost-7456837418563072000-PSjw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1qwuh-_ziPPERFoSHGysElmGZwa6YY62c/view?usp=sharing",
+      },
+    ],
+  },
+    {
+    filter: "filter-aerospace-outer-space",
+    id: "11.10",
+    title: "Engagement at the Space Economy Summit Europe",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Attending the Space Economy Summit Europe 2026",
+        image: "assets/img/impact/aerospace-outer-space/Attending the Space Economy Summit Europe 2026.jpg",
+        description:
+          "I’ll be attending the Space Economy Summit Europe in Lisbon, Portugal next week, an event focused on advancing sovereignty in space to drive tangible impact on Earth...",
+        link: "https://www.linkedin.com/posts/lilanofficial_space-satellite-technology-ugcPost-7454603973627658240-4scG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1GMn3nHHu-dOy_fZKm7Nr5mQ0OIqyf16x/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-aerospace-outer-space",
     id: "11.9",
     title: "Space Generation Advisory Council's Asteroid Search Campaign through the International Astronomical Search Collaboration (IASC)",
     slides: [
@@ -15614,6 +15904,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-nuclear-applications-nuclear-disarmament",
+    id: "12.10",
+    title: "Carnegie Council Event for Values & Interests: Nuclear Ethics",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Walking the Nuclear Tightrope: Lessons from History",
+        image: "assets/img/impact/nuclear-applications/Walking the Nuclear Tightrope.jpg",
+        description:
+          "We are walking a fraying nuclear tightrope. Russia, China, and the U.S. are expanding their nuclear capabilities; extended deterrence is strained to the breaking point; and proliferation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nuclear-disarmament-peace-ugcPost-7458173276310216705-CRW5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1lkME5OFSqjXjSF4Cp-UZ27_nTzLkJIcQ/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-nuclear-applications-nuclear-disarmament",
     id: "12.9",
