@@ -11962,6 +11962,222 @@ const impacts = [
 
   {
     filter: "filter-leadership-economic",
+    id: "8.111",
+    title: "Visiting Lund University for Sustainability Discussions & Youth Leadership Actions",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Returning to Lund University for New Collaborations & Impact",
+        image: "assets/img/impact/leadership-economic/Returning to Lund University for New Collaborations & Impact.jpg",
+        description:
+          "I will be returning to Lund University next week. I’m really looking forward to reconnecting with the vibrant student and academic community, and to building new, meaningful collaborations...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-technology-agriculture-ugcPost-7460320870385893376-XM_u?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1n1OEZIJ6QOf7jArCP6E7r55nSelTPDSL/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.110",
+    title: "Engagement with the Creative Leadership Team at Caux",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Democracy Beyond Elections: Inclusion, Voice, and Accountability",
+        image: "assets/img/impact/leadership-economic/Democracy Beyond Elections.png",
+        description:
+          "To me, democracy today means more than elections; it means people having a genuine voice in the decisions that shape their lives, livelihoods, and future. It is about accountability, inclusion, and ensuring...",
+        link: "https://www.linkedin.com/posts/lilanofficial_democracy-technology-digital-share-7459696091811414016--dMP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1JAxJUXQQQ2RMvTCJf57wswnZKgttuICO/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.109",
+    title: "Participating the Course on Key Concepts for Economies in Conflict & Fragile Settings Centered on Growth Research Platform (GRP)",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Economies in Fragile and Conflict Affected Settings",
+        image: "assets/img/impact/leadership-economic/Exploring Economies in Fragile and Conflict Affected Settings.jpg",
+        description:
+          "I’m pleased to share that I will be joining the course on “Key Concepts for Economies in Conflict and Fragile Settings”. The 9th session begins today with the session “How to Prepare a Grant Proposal,” led by Dominic Rohner and Olivier N. Baron...",
+        link: "https://www.linkedin.com/posts/lilanofficial_development-diversity-investment-share-7459413160505163776-V_YI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Gy_OdEt5UufQ3fUzF9OeHLkeZ6fJHScx/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.108",
+    title: "Engagement at We Don't Have Time’s Broadcast Hub During ChangeNOW Summit #MakeScienceGreatAgain",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ChangeNOW Summit Insights on Climate Action and Science for the Planet",
+        image: "assets/img/impact/leadership-economic/ChangeNOW-Summit.jpg",
+        description:
+          "We’re at a turning point. Scientists are being silenced. Research labs are under threat. Disinformation is spreading faster than truth; risking a future where science is sidelined just when we need it most...",
+        link: "https://www.linkedin.com/posts/lilanofficial_makesciencegreatagain-changenow-climateaction-ugcPost-7459375023573626880-YULY?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Ir3hEsn4wY2GaixitIWMboxNgIHuMivz/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.107",
+    title: "Sharing Outcomes of the Technology Pilots at Reykjavík City Hall for Sustainable Development",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "ELZIAN AGRO Pilot Success in Iceland at Reykjavík City Hall",
+        image: "assets/img/impact/leadership-economic/Reykjavik-City-Hall-Pilot.jpg",
+       description:
+          "It was a truly enriching experience to visit Reykjavík City Hall, beautifully situated by the scenic Tjörnin in Iceland. The space not only houses the Office of the Mayor but also features an impressive large-scale 3D map of Iceland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-ea-ugcPost-7457123554728411137-wQ5m?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1K5hWuY2rYnTsvsQITziuHWirDruzEOl6/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.106",
+    title: "Engagement at the WSA Global Congress on Digital Sovereignty, Building Digital Public Goods & Global Impact Solutions",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSA Global Congress 2026: Shaping a Meaningful Digital Future",
+        image: "assets/img/impact/leadership-economic/WSA Global Congress 2026.jpg",
+        description:
+          "The WSA Global Congress is returning to its roots in Austria, and I’m pleased to share that I will be part of it this May. Five tech giants should not define our digital lives, control our data, or shape our choices. It’s time to reflect...",
+        link: "https://www.linkedin.com/posts/lilanofficial_meaningful-perspectives-wsa-ugcPost-7456242767506247680-Al3d?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1w112f7b6mfwsq8fMaz7N9plgge7p9HLB/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.105",
+    title: "Engagement with the Grassroots Justice Network (GJN) Academy Leadership Program",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Join the GJN Academy Leadership Program",
+        image: "assets/img/impact/leadership-economic/GJN-Academy-Leadership-Program.jpg",
+        description:
+          "I’m pleased to share that I have been selected for the Leadership Program, the inaugural offering of the Grassroots Justice Network (GJN) Academy Namati . This year’s program focuses on critical areas including gender justice...",
+        link: "https://www.linkedin.com/posts/lilanofficial_justice-climate-action-ugcPost-7455844789305892864-cEvy?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1g3RB0XeAcnA2sC5P3E2JF53wLQ9JifQW/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.104",
+    title: "Engaging at the World Beautiful Business Forum to Help Shape a Humanist Future in and through Business",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "World Beautiful Business Forum Shaping a Human-Centered Future",
+        image: "assets/img/impact/leadership-economic/World-Beautiful-Business-Forum.jpg",
+        description:
+          "I will be participating in the World Beautiful Business Forum in Athens, Greece. This year’s forum marks a renewed mission to shape a humanist future in and through business, working in partnership with AI, for the benefit of all life on Earth...",
+        link: "https://www.linkedin.com/posts/lilanofficial_mindfulness-business-sustainability-ugcPost-7454042522018037760-18MS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FvzXDNqLTUsHn0rBCLRZo-cpYkI6zvFU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.103",
+    title: "Engagement at the Annual Cambridge International Law Journal (CILJ), themed “Reimagining International Law: Critical, Regional, and Trans-Disciplinary Perspectives",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Heading to Cambridge for the Annual CILJ Conference",
+        image: "assets/img/impact/leadership-economic/CILJ-Conference.jpg",
+        description:
+          "Heading to the University of Cambridge tomorrow for the Annual Cambridge International Law Journal (CILJ), themed “Reimagining International Law: Critical, Regional, and Trans-Disciplinary Perspectives...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cambridge-international-law-ugcPost-7453040209241337857-kdb2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1IarYTzXnch1M0L6K3rJ_j6qIFAYqA0ct/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.102",
+    title: "Engagement at the Skoll World Forum for Advancing Social Entrepreneurship, Leadership, Economic & Social Empowerment",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Skoll World Forum Driving Global Change",
+        image: "assets/img/impact/leadership-economic/Skoll-World-Forum-Driving-Global-Change.jpg",
+        description:
+          "The Skoll World Forum is currently taking place in Oxford, United Kingdom, bringing together global changemakers committed to advancing social entrepreneurship, systems change, and cross-sector collaboration...",
+        link: "https://www.linkedin.com/posts/lilanofficial_skoll-forum-innovation-ugcPost-7452589208197783552-TPET?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1GHdHZe1tKaVyBPZmFc95neMFOM-dqHux/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.101",
+    title: "Sound/Frequency Immersion for Leadership Development & Presence of Mind",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Leadership Beyond Strategy: Aligning Inner Growth with Action",
+        image: "assets/img/impact/leadership-economic/Leadership Beyond Strategy.jpg",
+        description:
+          "There are those who lead change visibly, and those who enable it more quietly from within; both roles matter more than we often acknowledge. A few days ago, I visited...",
+        link: "https://www.linkedin.com/posts/lilanofficial_mindfulness-leadership-sound-activity-7451882573158494208-8iPY?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BwVdG81dgr-kNEZKC-9N6ISrW1SH27lj/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.100",
+    title: "Engagement for the Global Man and the Biosphere (MAB) Youth Forum on Biodiversity & Social Empowerment",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Global MAB Youth Forum Biosphere Youth for Sustainable Future",
+        image: "assets/img/impact/leadership-economic/Global MAB Youth Forum Biosphere Youth for Sustainable Future.jpg",
+        description:
+          "I am honored to share that I have been officially invited to attend the Global Man and the Biosphere (MAB) Youth Forum, “Committed to the Future We Want,” taking place in Rosolina Mare, Italy, organized by the Government...",
+        link: "https://www.linkedin.com/posts/lilanofficial_forum-unesco-ecosoc-ugcPost-7451244641657667584-fKYN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1O7ezTrmFrXfSjeVEqP3kRrCLvwlgLJcP/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
     id: "8.99",
     title: "Engagement with UNESCO x Nestlé through 'Because Youth Matter' Initiative",
     slides: [
@@ -17288,6 +17504,24 @@ const impacts = [
           "I’ll be visiting Tokyo and Nagasaki in mid-May and would love to connect with fellow entrepreneurs, investors, and changemakers in Japan especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
         link: "https://www.linkedin.com/posts/lilanofficial_japan-tokyo-nagasaki-activity-7324494310429642754-7CG3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/112Gj84-NJrItepbftyfOKaks3OICK_Ly/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.17",
+    title: "First Aid Training with Adventure Club x Red Cross",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "First Aid Training with Adventure Club x Red Cross",
+        image: "assets/img/impact/nature-based-explorations/First Aid Training with Adventure Club x Red Cross.png",
+        description:
+          "It’s always inspiring and proud to witness the steady growth and progress of the Adventure Club - UoK. The latest First Aid Training session marked an important step forward moving from the fundamentals of basic first aid into more advanced...",
+        link: "https://www.linkedin.com/posts/lilanofficial_firstaid-capacitybuilding-leadership-ugcPost-7460898058583629824-Juo9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1AAaoSADqaD2I-gKZ2MQZBi1GragJ9AAV/view?usp=sharing",
       },
     ],
   },
