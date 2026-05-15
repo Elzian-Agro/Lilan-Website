@@ -1,5 +1,16 @@
 const recommendations = [
   {
+    date: "April 5, 2026",
+    name: "Samadhika Ranaweera ",
+    position: "Food And Beverage Assistant",
+    company: "Sainsbury's",
+    relationship: "Samadhika worked with Lilan on the same team",
+    image: "assets/img/recommendation/Samadhika Ranaweera.jpg",
+    linkedin: "https://www.linkedin.com/in/samadhika-ranaweera/",
+    recommendation:
+      "​I had the pleasure of working closely with Lilan during our university years across various extracurricular initiatives, most notably within the Gavel Club. Even in those early stages, Lilan’s leadership and entrepreneurial drive were unmistakable; through and through he possessed a rare maturity in how he navigated complex team dynamics and shared goals, being the perfect team player.\n\n ​What truly sets Lilan apart is his unique ability to bridge the gap between innovativeness and pragmatic management. He doesn't just ideate; he executes with a focus on ensuring that \"big picture\" concepts result in tangible, real-world impact. Observing his journey from university leader to the global stage—spearheading ELZIAN AGRO and contributing to high-level UN climate initiatives—has been a natural progression of his talents.\n\n ​Lilan is a visionary communicator who champions digital inclusion, consistently proving that technology can be the greatest equalizer for social good. Whether he is managing a local project or influencing international policy, his commitment to excellence and sustainability is unwavering.\n\n I highly recommend Lilan as both a visionary leader and a dedicated collaborator for any venture looking to drive meaningful change.",
+  },
+  {
     date: "August 20, 2025",
     name: "Simon Klinga",
     position: "Chief Executive Officer",
