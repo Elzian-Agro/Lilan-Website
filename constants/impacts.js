@@ -16818,6 +16818,168 @@ const impacts = [
 
   {
     filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.28",
+    title: "Exploration Through Inner Development Goals Research Co-Creation Ecosystem",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inner Capacities for Systems Change: Insights from the Caux IDG Research Ecosystem",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Inner Capacities for Systems Change Insights from the Caux IDG Research Ecosystem.jpg",
+        description:
+          "Researchers, practitioners, policy-makers, educators, and community leaders from around the world gathered at the latest Caux Inner Development Goals (IDG) Forum to explore two important questions...",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-sustainability-ugcPost-7465414488779964416-Rz4E/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/14Cwnn2PU4qezrcgbXyBzPKyzv0DXkPha/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.27",
+    title: "Exploring Ideas Through Community Group Engagement at the Caux Inner Development Goals Forum",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Where Ideas Turn Into Action at the Caux IDG Forum",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Where Ideas Turn Into Action at the Caux IDG Forum.jpg",
+        description:
+          "One of the most inspiring aspects of the Caux Inner Development Goals Forum is the power of its Community Groups, spaces where ideas truly meet action. These sessions are more than discussions. They are collaborative environments...",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-sustainability-ugcPost-7465191838023536640-yWUp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1pZill4F-KOwas8UhgCA1og3HrnpDOKa7/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.26",
+    title: "Exploration of Presencing through Neuro Yoga",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Presencing Beyond Perception: Unlocking Inner Wisdom for Breakthrough Thinking",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Presencing Beyond Perception Unlocking Inner Wisdom for Breakthrough Thinking.jpg",
+        description:
+          "What does it really mean to rise above instability within ourselves and in the world to unlock breakthrough thinking for the common good?",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-sustainability-ugcPost-7464939313273843714-5KyQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1_EM8cYd0LhikpvYwcGehW1b1NU_3XM17/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.25",
+    title: "Engagement at Caux Inner Development Goals Forum Day 4: Co-Creating the Future, Prototyping & Designing Solutions",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Co-Creating Change: From Insight to Action at Caux IDG Forum",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Co-Creating Change From Insight to Action at Caux IDG Forum.jpg",
+        description:
+          "After days of reflection, sensing, and presencing, the focus shifted toward designing tangible solutions through collaboration and experimentation. The question was no longer “What do we see?” but “What can we build together?",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-sustainability-ugcPost-7464568728228151296-9_Fe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1_P_t4Jx_3S_H4ssKWabveUdCarttz9sf/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.24",
+    title: "Engagement at Caux Inner Development Goals Forum Day 3: Presencing, Inspiration & Theory U",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Presencing Change: Inner Clarity for Systems Transformation",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Presencing Change Inner Clarity for Systems Transformation.jpg",
+        description:
+          "The third day of the Caux Inner Development Goals Forum (in Switzerland) centered on Presencing & Inspiration; an invitation to slow down, cultivate self-awareness, and align purpose with action...",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-sustainability-activity-7464382037747978241-JFUR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1i1Dt57JK0qPsHxcpPvR45rOpp1ziNzUB/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.23",
+    title: "Engagement at Caux Inner Development Goals Forum Day 2: Sensing Reality",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Sensing Change: Reflections from Caux IDG Forum",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Sensing Change Reflections from Caux IDG Forum.jpg",
+        description:
+          "The second day of the Caux Inner Development Goals (IDG) Forum challenged a simple idea: what if we’re not truly seeing or sensing the world as it is?",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-development-mindfulness-activity-7462357689998888960-imhS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ELrLscNVBCeNZD_HlCGEN957lRxLDdFC/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.22",
+    title: "Participating in the TEDx Donauinsel",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inspired by Action at TEDxDonauinsel Vienna",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Inspired by Action at TEDxDonauinsel Vienna.jpg",
+        description:
+          "I just had the opportunity to participate in the latest TEDxDonauinsel held at MuTh in Vienna (Austria), an inspiring gathering of visionaries, creators, and changemakers....",
+        link: "https://www.linkedin.com/posts/lilanofficial_ted-tedx-technology-activity-7463958275655487488-jiSt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1GcUyQtrO-EC9RRqDvX2UmqF5TJX1lLqp/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.21",
+    title: "Engagement with Indigenous Practices to Foster Inner Development Goals",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Bridging Climate Innovation and Indigenous Wisdom",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Bridging Climate Innovation and Indigenous Wisdom.jpg",
+        description:
+          "Serving on the UN Climate Change Technology Executive Committee (TEC) over the past two years (2023-2025), representing YOUNGO, has been a deeply transformative journey. Leading work on adaptation technologies and engaging with Indigenous communities...",
+        link: "https://www.linkedin.com/posts/lilanofficial_indigeneus-sustainability-wisdom-ugcPost-7462705803880312832-UwCC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1DznKwEZVZrDjn08gU-HrD1iTjMWMOf6g/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.20",
+    title: "Engagement at Caux Inner Development Goals Forum Day 1: Connection",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inner Work, Real Change: Reflections from Caux IDG Forum",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Inner Work, Real Change Reflections from Caux IDG Forum.jpg",
+        description:
+          "Reflections of the opening day of the latest Caux Inner Development Goals Forum felt more like entering a shared space of intentional growth...",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-sustainability-ugcPost-7462154784922337280-c5TM?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QaqQTRUl4a-8xUgUKV7C_IzAIUAq9_cC/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
     id: "13.19",
     title: "Engaging at the World Beautiful Business Forum to Help Shape a Humanist Future in and through Business",
     slides: [
@@ -17735,6 +17897,28 @@ const impacts = [
           "I’ll be visiting Slovenia (Ljubljana), Poland (Warsaw, Gdańsk, Kraków, Wrocław), and Hungary (Budapest, Eger, Győr) during the first and second weeks of April, and I’d love to connect with entrepreneurs, investors, and changemakers across Europe...",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-network-activity-7433008674723291136-28bu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/11ng0APMhlMVCRSm5MybhAjrW1CwaCDtD/view?usp=sharing",
+      },
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "In Belgrade: Building Connections for Sustainability & Global Collaboration",
+        image: "assets/img/impact/nature-based-explorations/Belgrade.jpg",
+        description:
+          "Currently in Belgrade (Serbia) for the next seven days and excited to connect with people working at the forefront of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_expo-belgrade-serbia-activity-7464428786525130752-2Hbr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/19CMBL_l1i7FyPsr7MSXazMptw-cO0jAU/view?usp=sharing",
+      },
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting Paris for Climate, Innovation & Global Collaboration",
+        image: "assets/img/impact/nature-based-explorations/Connecting Paris.jpg",
+        description:
+          "I will be in Paris from June 1–7 and would welcome the opportunity to connect with individuals/entities working at the forefront of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sparis-france-eu-ugcPost-7464699697115348992-zPxe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/10iuqOjCVD-WS6W15d3PqUg7YJiSvHGX_/view?usp=sharing",
       },
       {
         date: "February 2026",
