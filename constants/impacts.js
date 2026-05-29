@@ -1886,6 +1886,114 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.152",
+    title: "Exploring Ideas Through Community Group Engagement",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Where Ideas Turn Into Action at the Caux IDG Forum",
+        image: "assets/img/impact/innovation-social/Where Ideas Turn Into Action at the Caux IDG Forum.jpg",
+        description:
+          "One of the most inspiring aspects of the Caux Inner Development Goals Forum is the power of its Community Groups, spaces where ideas truly meet action. These sessions are more than discussions. They are collaborative environments...",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-sustainability-ugcPost-7465191838023536640-yWUp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1pZill4F-KOwas8UhgCA1og3HrnpDOKa7/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.151",
+    title: "Engagement with the Global Sustainable Technology and Innovation Community",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Excited to Join G-STIC 2026 in Belgium",
+        image: "assets/img/impact/innovation-social/Excited to Join G-STIC 2026 in Belgium.jpg",
+        description:
+          "I am pleased to share that I will be returning to Belgium this June to participate in the G-STIC Conference, one of the leading global platforms dedicated to technological innovation for sustainable development...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-development-technology-activity-7465094968835985408-xsAE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1KGAg9EE6WZVTIDJ34g6ifXIeWS4BTD-Q/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.150",
+    title: "Impact with AI Episode Guide",
+    slides: [
+      {
+        date: "January 2025",
+        source_name: "Impact With AI",
+        source_link: "https://impactwithai.media/",
+        title: "Achieving Zero Hunger Through AI: Insights from Lilan Dayananda",
+        image: "assets/img/impact/innovation-social/Achieving Zero Hunger Through AI Insights from Lilan Dayananda.jpg",
+        description:
+          "I met Lilan Dayananda while serving as a mentor for a social entrepreneurship accelerator in Rwanda. Lilan and his Elzian Agro team distinguished themselves by having real tech to touch, feel, and use. In an era of digital innovation, the tactile engagement necessary to impact farming ...",
+        link: "https://impactwithai.media/episode-guide/f/achieving-zero-hunger-through-ai-insights-from-lilan-dayananda",
+        backup_image: "https://drive.google.com/file/d/1tqb-fTKOUK9t3aoTD_jkAArl47YgKlZL/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.149",
+    title: "Visiting the World Trade Organization to Explore Its Role in Accelerating Entrepreneurship",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building Innovation Ecosystems for the Future",
+        image: "assets/img/impact/innovation-social/Building Innovation Ecosystems for the Future.jpg",
+        description:
+          "A few days ago, I had the opportunity to visit the World Trade Organization in Stockholm, Sweden. What impressed me most was that it is not just a corporate landmark or a business hub; it is a living ecosystem for innovation, collaboration, and creativity....",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-entrepreneurship-digitaltransformation-activity-7464093490721746946-xLA9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1b0f8tFT_ih-GlbY2rCTTh08wtrOxCa8v/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.148",
+    title: "Participating in the TEDx Donauinsel",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inspired by Action at TEDxDonauinsel Vienna",
+        image: "assets/img/impact/innovation-social/Inspired by Action at TEDxDonauinsel Vienna.jpg",
+        description:
+          "I just had the opportunity to participate in the latest TEDxDonauinsel held at MuTh in Vienna (Austria), an inspiring gathering of visionaries, creators, and changemakers....",
+        link: "https://www.linkedin.com/posts/lilanofficial_ted-tedx-technology-activity-7463958275655487488-jiSt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1GcUyQtrO-EC9RRqDvX2UmqF5TJX1lLqp/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.147",
+    title: "Visiting Malmö University for Sustainability & Social Entrepreneurial Discussions",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building Global Connections for Sustainable Innovation",
+        image: "assets/img/impact/innovation-social/Building Global Connections for Sustainable Innovation.jpg",
+        description:
+          "Just a few days ago, I had the pleasure of reconnecting and building new connections at Malmö University in Sweden. It was truly wonderful to meet one of our valued advisors, Prof. Magnus Andersson, and engage in meaningful conversations...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-development-technology-activity-7463217964247474177-VmDn?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1XiF-ZxTYA8sLXvbFRT9M0XSUQkzJ0-Nd/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.146",
     title: "Visiting Lund University for Sustainability & Social Entrepreneurial Discussions",
     slides: [
@@ -4830,6 +4938,44 @@ const impacts = [
 
   {
     filter: "filter-food-agriculture",
+    id: "4.87",
+    title: "Impact with AI Episode Guide",
+    slides: [
+      {
+        date: "January 2025",
+        source_name: "Impact With AI",
+        source_link: "https://impactwithai.media/",
+        title: "Achieving Zero Hunger Through AI: Insights from Lilan Dayananda",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Achieving Zero Hunger Through AI Insights from Lilan Dayananda.jpg",
+        description:
+          "I met Lilan Dayananda while serving as a mentor for a social entrepreneurship accelerator in Rwanda. Lilan and his Elzian Agro team distinguished themselves by having real tech to touch, feel, and use. In an era of digital innovation, the tactile engagement necessary to impact farming ...",
+        link: "https://impactwithai.media/episode-guide/f/achieving-zero-hunger-through-ai-insights-from-lilan-dayananda",
+        backup_image: "https://drive.google.com/file/d/1tqb-fTKOUK9t3aoTD_jkAArl47YgKlZL/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.86",
+    title: "Visiting Malmö University for discussions on sustainability and social entrepreneurship",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building Global Connections for Sustainable Innovation",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Building Global Connections for Sustainable Innovation.jpg",
+        description:
+          "Just a few days ago, I had the pleasure of reconnecting and building new connections at Malmö University in Sweden. It was truly wonderful to meet one of our valued advisors, Prof. Magnus Andersson, and engage in meaningful conversations...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-development-technology-activity-7463217964247474177-VmDn?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1XiF-ZxTYA8sLXvbFRT9M0XSUQkzJ0-Nd/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
     id: "4.85",
     title: "Youth Engagement Related to Land Restoration at United Nations Convention to Combat Desertification (UNCCD)",
     slides: [
@@ -7137,6 +7283,25 @@ const impacts = [
 
   {
     filter: "filter-climate-environmental",
+    id: "6.103",
+    title: "Serving on the United Nations Framework Convention on Climate Change (UNFCCC) Technology Executive Committee (TEC)",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Bridging Climate Innovation and Indigenous Wisdom",
+        image:
+          "assets/img/impact/climate-environmental/Bridging Climate Innovation and Indigenous Wisdom.jpg",
+        description:
+          "Serving on the UN Climate Change Technology Executive Committee (TEC) over the past two years (2023-2025), representing YOUNGO, has been a deeply transformative journey. Leading work on adaptation technologies and engaging with Indigenous communities...",
+        link: "https://www.linkedin.com/posts/lilanofficial_indigeneus-sustainability-wisdom-ugcPost-7462705803880312832-UwCC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1DznKwEZVZrDjn08gU-HrD1iTjMWMOf6g/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
     id: "6.102",
     title: "Youth Engagement for Climate Adaptation at United Nations Convention to Combat Desertification (UNCCD)",
     slides: [
@@ -9232,6 +9397,42 @@ const impacts = [
 
   {
     filter: "filter-public-policy",
+    id: "7.125",
+    title: "Engagement with the International Institute for Peace Through Tourism (IIPT) Peace Parks Initiative",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Caux Forum & Peace Parks: A Living Ecosystem for Peace",
+        image: "assets/img/impact/public-policy/Caux Forum & Peace Parks.jpg",
+        description:
+          "The Caux Forum is more than a series of gatherings; it is a living ecosystem of interconnected spaces that reinforce one another through shared purpose and synergy...",
+        link: "https://www.linkedin.com/posts/lilanofficial_development-sustainability-nature-ugcPost-7465713331870486531-BDNB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1riVdqrPZPDX4RWQuz127y3dRIfkhX_sd/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.124",
+    title: "High-level Event on Building a New Era of Understanding and Cooperation: Meeting the Inequality Emergency",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Addressing Global Inequality Through Evidence-Based Action",
+        image: "assets/img/impact/public-policy/Addressing Global Inequality.jpg",
+        description:
+          "A few weeks ago, I had the opportunity to attend a high-level event titled “Building a New Era of Understanding and Cooperation: Meeting the Inequality Emergency” at the Palais des Nations in Geneva, Switzerland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_economy-market-peace-ugcPost-7465197709138829312-8WFc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16KvS68HBPsMa_h-m7DT7pTcDDwdwBCJT/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
     id: "7.123",
     title: "Engagement for Reimagining Democracy(ies) with Creative Leadership",
     slides: [
@@ -11194,6 +11395,30 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1w4E8nOVHbOyFXjipdiQQJ6e4mZ18ITPn/view?usp=drive_link",
       },
       {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting Paris for Climate, Innovation & Global Collaboration",
+        image: "assets/img/impact/public-policy/Connecting Paris.jpg",
+        description:
+          "I will be in Paris from June 1–7 and would welcome the opportunity to connect with individuals/entities working at the forefront of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sparis-france-eu-ugcPost-7464699697115348992-zPxe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/10iuqOjCVD-WS6W15d3PqUg7YJiSvHGX_/view?usp=sharing",
+      },
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting in Belgrade: Sustainability, Innovation & Global Collaboration",
+        image: "assets/img/impact/public-policy/Connecting Belgrade.jpg",
+        description:
+          "Currently in Belgrade (Serbia) for the next seven days and excited to connect with people working at the forefront of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_expo-belgrade-serbia-share-7464428783505432576-iEas/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Embpb2g5r8gHU_zuBPtIiFxgvDuwgYIm/view?usp=sharing",
+      },
+      {
         date: "September 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -11960,6 +12185,78 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.115",
+    title: "High-level Event on Building a New Era of Understanding and Cooperation: Meeting the Inequality Emergency",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Addressing Global Inequality Through Evidence-Based Action",
+        image: "assets/img/impact/leadership-economic/Addressing Global Inequality.jpg",
+        description:
+          "A few weeks ago, I had the opportunity to attend a high-level event titled “Building a New Era of Understanding and Cooperation: Meeting the Inequality Emergency” at the Palais des Nations in Geneva, Switzerland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_economy-market-peace-ugcPost-7465197709138829312-8WFc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16KvS68HBPsMa_h-m7DT7pTcDDwdwBCJT/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.114",
+    title: "Impact with AI Episode Guide",
+    slides: [
+      {
+       date: "January 2025",
+        source_name: "Impact With AI",
+        source_link: "https://impactwithai.media/",
+        title: "Achieving Zero Hunger Through AI: Insights from Lilan Dayananda",
+        image: "assets/img/impact/leadership-economic/Achieving Zero Hunger Through AI Insights from Lilan Dayananda.jpg",
+        description:
+          "I met Lilan Dayananda while serving as a mentor for a social entrepreneurship accelerator in Rwanda. Lilan and his Elzian Agro team distinguished themselves by having real tech to touch, feel, and use. In an era of digital innovation, the tactile engagement necessary to impact farming ...",
+        link: "https://impactwithai.media/episode-guide/f/achieving-zero-hunger-through-ai-insights-from-lilan-dayananda",
+        backup_image: "https://drive.google.com/file/d/1tqb-fTKOUK9t3aoTD_jkAArl47YgKlZL/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.113",
+    title: "Visiting the World Trade Organization to Explore Its Role in Accelerating Entrepreneurship",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building Innovation Ecosystems for the Future",
+        image: "assets/img/impact/leadership-economic/Building Innovation Ecosystems for the Future.jpg",
+        description:
+          "A few days ago, I had the opportunity to visit the World Trade Organization in Stockholm, Sweden. What impressed me most was that it is not just a corporate landmark or a business hub; it is a living ecosystem for innovation, collaboration, and creativity....",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-entrepreneurship-digitaltransformation-activity-7464093490721746946-xLA9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1b0f8tFT_ih-GlbY2rCTTh08wtrOxCa8v/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.112",
+    title: "Participating in the TEDx Donauinsel",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inspired by Action at TEDxDonauinsel Vienna",
+        image: "assets/img/impact/leadership-economic/Inspired by Action at TEDxDonauinsel Vienna.jpg",
+        description:
+          "I just had the opportunity to participate in the latest TEDxDonauinsel held at MuTh in Vienna (Austria), an inspiring gathering of visionaries, creators, and changemakers....",
+        link: "https://www.linkedin.com/posts/lilanofficial_ted-tedx-technology-activity-7463958275655487488-jiSt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1GcUyQtrO-EC9RRqDvX2UmqF5TJX1lLqp/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.111",
@@ -16521,6 +16818,168 @@ const impacts = [
 
   {
     filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.28",
+    title: "Exploration Through Inner Development Goals Research Co-Creation Ecosystem",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inner Capacities for Systems Change: Insights from the Caux IDG Research Ecosystem",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Inner Capacities for Systems Change Insights from the Caux IDG Research Ecosystem.jpg",
+        description:
+          "Researchers, practitioners, policy-makers, educators, and community leaders from around the world gathered at the latest Caux Inner Development Goals (IDG) Forum to explore two important questions...",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-sustainability-ugcPost-7465414488779964416-Rz4E/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/14Cwnn2PU4qezrcgbXyBzPKyzv0DXkPha/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.27",
+    title: "Exploring Ideas Through Community Group Engagement at the Caux Inner Development Goals Forum",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Where Ideas Turn Into Action at the Caux IDG Forum",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Where Ideas Turn Into Action at the Caux IDG Forum.jpg",
+        description:
+          "One of the most inspiring aspects of the Caux Inner Development Goals Forum is the power of its Community Groups, spaces where ideas truly meet action. These sessions are more than discussions. They are collaborative environments...",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-sustainability-ugcPost-7465191838023536640-yWUp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1pZill4F-KOwas8UhgCA1og3HrnpDOKa7/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.26",
+    title: "Exploration of Presencing through Neuro Yoga",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Presencing Beyond Perception: Unlocking Inner Wisdom for Breakthrough Thinking",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Presencing Beyond Perception Unlocking Inner Wisdom for Breakthrough Thinking.jpg",
+        description:
+          "What does it really mean to rise above instability within ourselves and in the world to unlock breakthrough thinking for the common good?",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-sustainability-ugcPost-7464939313273843714-5KyQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1_EM8cYd0LhikpvYwcGehW1b1NU_3XM17/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.25",
+    title: "Engagement at Caux Inner Development Goals Forum Day 4: Co-Creating the Future, Prototyping & Designing Solutions",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Co-Creating Change: From Insight to Action at Caux IDG Forum",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Co-Creating Change From Insight to Action at Caux IDG Forum.jpg",
+        description:
+          "After days of reflection, sensing, and presencing, the focus shifted toward designing tangible solutions through collaboration and experimentation. The question was no longer “What do we see?” but “What can we build together?",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-sustainability-ugcPost-7464568728228151296-9_Fe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1_P_t4Jx_3S_H4ssKWabveUdCarttz9sf/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.24",
+    title: "Engagement at Caux Inner Development Goals Forum Day 3: Presencing, Inspiration & Theory U",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Presencing Change: Inner Clarity for Systems Transformation",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Presencing Change Inner Clarity for Systems Transformation.jpg",
+        description:
+          "The third day of the Caux Inner Development Goals Forum (in Switzerland) centered on Presencing & Inspiration; an invitation to slow down, cultivate self-awareness, and align purpose with action...",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-sustainability-activity-7464382037747978241-JFUR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1i1Dt57JK0qPsHxcpPvR45rOpp1ziNzUB/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.23",
+    title: "Engagement at Caux Inner Development Goals Forum Day 2: Sensing Reality",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Sensing Change: Reflections from Caux IDG Forum",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Sensing Change Reflections from Caux IDG Forum.jpg",
+        description:
+          "The second day of the Caux Inner Development Goals (IDG) Forum challenged a simple idea: what if we’re not truly seeing or sensing the world as it is?",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-development-mindfulness-activity-7462357689998888960-imhS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ELrLscNVBCeNZD_HlCGEN957lRxLDdFC/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.22",
+    title: "Participating in the TEDx Donauinsel",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inspired by Action at TEDxDonauinsel Vienna",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Inspired by Action at TEDxDonauinsel Vienna.jpg",
+        description:
+          "I just had the opportunity to participate in the latest TEDxDonauinsel held at MuTh in Vienna (Austria), an inspiring gathering of visionaries, creators, and changemakers....",
+        link: "https://www.linkedin.com/posts/lilanofficial_ted-tedx-technology-activity-7463958275655487488-jiSt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1GcUyQtrO-EC9RRqDvX2UmqF5TJX1lLqp/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.21",
+    title: "Engagement with Indigenous Practices to Foster Inner Development Goals",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Bridging Climate Innovation and Indigenous Wisdom",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Bridging Climate Innovation and Indigenous Wisdom.jpg",
+        description:
+          "Serving on the UN Climate Change Technology Executive Committee (TEC) over the past two years (2023-2025), representing YOUNGO, has been a deeply transformative journey. Leading work on adaptation technologies and engaging with Indigenous communities...",
+        link: "https://www.linkedin.com/posts/lilanofficial_indigeneus-sustainability-wisdom-ugcPost-7462705803880312832-UwCC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1DznKwEZVZrDjn08gU-HrD1iTjMWMOf6g/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.20",
+    title: "Engagement at Caux Inner Development Goals Forum Day 1: Connection",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inner Work, Real Change: Reflections from Caux IDG Forum",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Inner Work, Real Change Reflections from Caux IDG Forum.jpg",
+        description:
+          "Reflections of the opening day of the latest Caux Inner Development Goals Forum felt more like entering a shared space of intentional growth...",
+        link: "https://www.linkedin.com/posts/lilanofficial_idg-development-sustainability-ugcPost-7462154784922337280-c5TM?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QaqQTRUl4a-8xUgUKV7C_IzAIUAq9_cC/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
     id: "13.19",
     title: "Engaging at the World Beautiful Business Forum to Help Shape a Humanist Future in and through Business",
     slides: [
@@ -17438,6 +17897,28 @@ const impacts = [
           "I’ll be visiting Slovenia (Ljubljana), Poland (Warsaw, Gdańsk, Kraków, Wrocław), and Hungary (Budapest, Eger, Győr) during the first and second weeks of April, and I’d love to connect with entrepreneurs, investors, and changemakers across Europe...",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-network-activity-7433008674723291136-28bu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/11ng0APMhlMVCRSm5MybhAjrW1CwaCDtD/view?usp=sharing",
+      },
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "In Belgrade: Building Connections for Sustainability & Global Collaboration",
+        image: "assets/img/impact/nature-based-explorations/Belgrade.jpg",
+        description:
+          "Currently in Belgrade (Serbia) for the next seven days and excited to connect with people working at the forefront of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_expo-belgrade-serbia-activity-7464428786525130752-2Hbr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/19CMBL_l1i7FyPsr7MSXazMptw-cO0jAU/view?usp=sharing",
+      },
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting Paris for Climate, Innovation & Global Collaboration",
+        image: "assets/img/impact/nature-based-explorations/Connecting Paris.jpg",
+        description:
+          "I will be in Paris from June 1–7 and would welcome the opportunity to connect with individuals/entities working at the forefront of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sparis-france-eu-ugcPost-7464699697115348992-zPxe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/10iuqOjCVD-WS6W15d3PqUg7YJiSvHGX_/view?usp=sharing",
       },
       {
         date: "February 2026",
