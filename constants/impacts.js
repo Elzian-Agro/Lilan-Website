@@ -1886,6 +1886,60 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.155",
+    title: "Engagement with the Intersection of Youth Innovation and Entrepreneurship at UNESCO Headquarters",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Day of Learning, Connection, and Opportunity at UNESCO",
+        image: "assets/img/impact/innovation-social/A Day of Learning, Connection, and Opportunity at UNESCO.jpg",
+        description:
+          "Yesterday, I had the privilege of experiencing an inspiring convergence of youth innovation, entrepreneurship, and global cultural exchange at UNESCO Headquarters in Paris...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-youth-ugcPost-7467911236240801792-8mND/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zK10uVXc1f1Bog4jIX7a8CJiLENYBH7k/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.154",
+    title: "Engagement with BeChangeMaker program (WorldSkills International ; The HP Foundation), a UNESCO Partnered Initiative",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Returning to UNESCO: Building Partnerships for Sustainable Impact",
+        image: "assets/img/impact/innovation-social/Returning to UNESCO Building Partnerships for Sustainable Impact.jpg",
+        description:
+          "I will be returning to UNESCO Headquarters in Paris tomorrow and spending the full week engaging with global leaders, innovators, and changemakers. I would be delighted to connect with individuals and organizations working at the forefront of sustainability...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-sustainability-ugcPost-7467221370192650240-bF2G/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1nOjGJfB8w1NJDMzgbngCKjPedjd-sL77/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.153",
+    title: "Intellectual Property Management Clinic & Global Forum for Intellectual Property Engagement",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Advancing Innovation Through Intellectual Property",
+        image: "assets/img/impact/innovation-social/Advancing Innovation Through Intellectual Property.jpg",
+        description:
+          "Today marked the launch event of the Intellectual Property Management Clinic organized by the World Intellectual Property Organization – WIPO. This opportunity came through the Youth Ecopreneur Programme (YECO), powered by the International Trade Centre, ITC Ye! Community...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wipo-ip-innovation-ugcPost-7466210052379582464-vP8p/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Gw81p5t1KyfYHRICV881EQ92IwTDSTHJ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.152",
     title: "Exploring Ideas Through Community Group Engagement",
     slides: [
@@ -4938,6 +4992,44 @@ const impacts = [
 
   {
     filter: "filter-food-agriculture",
+    id: "4.89",
+    title: "Engagement with the Intersection of Youth Innovation in Food & Agriculture at UNESCO Headquarters",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "Impact With AI",
+        source_link: "https://impactwithai.media/",
+        title: "A Day of Learning, Connection, and Opportunity at UNESCO",
+        image:
+          "assets/img/impact/food-agriculture-forestry/A Day of Learning, Connection, and Opportunity at UNESCO.jpg",
+        description:
+          "Yesterday, I had the privilege of experiencing an inspiring convergence of youth innovation, entrepreneurship, and global cultural exchange at UNESCO Headquarters in Paris...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-youth-ugcPost-7467911236240801792-8mND/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zK10uVXc1f1Bog4jIX7a8CJiLENYBH7k/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.88",
+    title: "Engagement with BeChangeMaker program (WorldSkills International ; The HP Foundation), a UNESCO Partnered Initiative",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "Impact With AI",
+        source_link: "https://impactwithai.media/",
+        title: "Returning to UNESCO: Building Partnerships for Sustainable Impact",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Returning to UNESCO Building Partnerships for Sustainable Impact.jpg",
+        description:
+          "I will be returning to UNESCO Headquarters in Paris tomorrow and spending the full week engaging with global leaders, innovators, and changemakers. I would be delighted to connect with individuals and organizations working at the forefront of sustainability...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-sustainability-ugcPost-7467221370192650240-bF2G/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1nOjGJfB8w1NJDMzgbngCKjPedjd-sL77/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
     id: "4.87",
     title: "Impact with AI Episode Guide",
     slides: [
@@ -6848,6 +6940,24 @@ const impacts = [
 
   {
     filter: "filter-renewable-energy",
+    id: "5.24",
+    title: "Engagement with the Intersection of Youth Innovation in Renewable Energy Transition at UNESCO Headquarters",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Day of Learning, Connection, and Opportunity at UNESCO",
+        image: "assets/img/impact/renewable-energy/A Day of Learning, Connection, and Opportunity at UNESCO.jpg",
+        description:
+          "Yesterday, I had the privilege of experiencing an inspiring convergence of youth innovation, entrepreneurship, and global cultural exchange at UNESCO Headquarters in Paris...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-youth-ugcPost-7467911236240801792-8mND/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zK10uVXc1f1Bog4jIX7a8CJiLENYBH7k/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-renewable-energy",
     id: "5.23",
     title: "Engagement for the International Renewable Energy Agency (IRENA) NewGen Renewable Energy Accelerator",
     slides: [
@@ -7281,6 +7391,44 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-climate-environmental",
+    id: "6.105",
+    title: "Engagement with the Intersection of Youth Innovation in Climate Action at UNESCO Headquarters",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Day of Learning, Connection, and Opportunity at UNESCO",
+        image:
+          "assets/img/impact/climate-environmental/A Day of Learning, Connection, and Opportunity at UNESCO.jpg",
+        description:
+          "Yesterday, I had the privilege of experiencing an inspiring convergence of youth innovation, entrepreneurship, and global cultural exchange at UNESCO Headquarters in Paris...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-youth-ugcPost-7467911236240801792-8mND/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zK10uVXc1f1Bog4jIX7a8CJiLENYBH7k/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.104",
+    title: "Engagement with BeChangeMaker program (WorldSkills International ; The HP Foundation), a UNESCO Partnered Initiative",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Returning to UNESCO: Building Partnerships for Sustainable Impact",
+        image:
+          "assets/img/impact/climate-environmental/Returning to UNESCO Building Partnerships for Sustainable Impact.jpg",
+        description:
+          "I will be returning to UNESCO Headquarters in Paris tomorrow and spending the full week engaging with global leaders, innovators, and changemakers. I would be delighted to connect with individuals and organizations working at the forefront of sustainability...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-sustainability-ugcPost-7467221370192650240-bF2G/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1nOjGJfB8w1NJDMzgbngCKjPedjd-sL77/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-climate-environmental",
     id: "6.103",
@@ -9395,6 +9543,60 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-public-policy",
+    id: "7.128",
+    title: "Engagement with the Intersection of Youth Innovation and Global Cultural Exchange at UNESCO Headquarters",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Day of Learning, Connection, and Opportunity at UNESCO",
+        image: "assets/img/impact/public-policy/A Day of Learning, Connection, and Opportunity at UNESCO.jpg",
+        description:
+          "Yesterday, I had the privilege of experiencing an inspiring convergence of youth innovation, entrepreneurship, and global cultural exchange at UNESCO Headquarters in Paris...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-youth-ugcPost-7467911236240801792-8mND/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zK10uVXc1f1Bog4jIX7a8CJiLENYBH7k/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.127",
+    title: "Engagement with BeChangeMaker program (WorldSkills International ; The HP Foundation), a UNESCO Partnered Initiative",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Returning to UNESCO: Building Partnerships for Sustainable Impact",
+        image: "assets/img/impact/public-policy/Returning to UNESCO Building Partnerships for Sustainable Impact.jpg",
+        description:
+          "I will be returning to UNESCO Headquarters in Paris tomorrow and spending the full week engaging with global leaders, innovators, and changemakers. I would be delighted to connect with individuals and organizations working at the forefront of sustainability...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-sustainability-ugcPost-7467221370192650240-bF2G/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1nOjGJfB8w1NJDMzgbngCKjPedjd-sL77/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.126",
+    title: "Venerate the Holy Belt of the Most Holy Theotokos (Virgin Mary)",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Journey of Faith, History, and Interfaith Understanding",
+        image: "assets/img/impact/public-policy/A Journey of Faith, History, and Interfaith Understanding.jpg",
+        description:
+          "As the Holy Belt of the Virgin Mary returns to Serbia for the first time in nearly 650 years, I had the unique opportunity to see and venerate this sacred relic at the Temple of Saint Sava in Belgrade...",
+        link: "https://www.linkedin.com/posts/lilanofficial_interfaithdialogue-religiousharmony-culturalexchange-ugcPost-7467114013622120448-RDmv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ZN0iLv_zt_V8Opp0lbGI8a7oebMM7Tsq/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-public-policy",
     id: "7.125",
@@ -12187,6 +12389,42 @@ const impacts = [
 
   {
     filter: "filter-leadership-economic",
+    id: "8.117",
+    title: "Engagement with the Intersection of Youth Innovation for Economic & Social Empowerment  at UNESCO Headquarters",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Day of Learning, Connection, and Opportunity at UNESCO",
+        image: "assets/img/impact/leadership-economic/A Day of Learning, Connection, and Opportunity at UNESCO.jpg",
+        description:
+          "Yesterday, I had the privilege of experiencing an inspiring convergence of youth innovation, entrepreneurship, and global cultural exchange at UNESCO Headquarters in Paris...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-youth-ugcPost-7467911236240801792-8mND/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zK10uVXc1f1Bog4jIX7a8CJiLENYBH7k/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.116",
+    title: "Engagement with BeChangeMaker program (WorldSkills International ; The HP Foundation), a UNESCO Partnered Initiative",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Returning to UNESCO: Building Partnerships for Sustainable Impact",
+        image: "assets/img/impact/leadership-economic/Returning to UNESCO Building Partnerships for Sustainable Impact.jpg",
+        description:
+          "I will be returning to UNESCO Headquarters in Paris tomorrow and spending the full week engaging with global leaders, innovators, and changemakers. I would be delighted to connect with individuals and organizations working at the forefront of sustainability...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-sustainability-ugcPost-7467221370192650240-bF2G/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1nOjGJfB8w1NJDMzgbngCKjPedjd-sL77/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
     id: "8.115",
     title: "High-level Event on Building a New Era of Understanding and Cooperation: Meeting the Inequality Emergency",
     slides: [
@@ -14452,6 +14690,42 @@ const impacts = [
 
   {
     filter: "filter-youth-women-empowerment",
+    id: "9.62",
+    title: "Engagement with the Intersection of Youth Innovation for Youth & Women Empowerment at UNESCO Headquarters",
+    slides: [
+      {
+        date: "june 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Day of Learning, Connection, and Opportunity at UNESCO",
+        image: "assets/img/impact/youth-women-empowerment/A Day of Learning, Connection, and Opportunity at UNESCO.jpg",
+        description:
+          "Yesterday, I had the privilege of experiencing an inspiring convergence of youth innovation, entrepreneurship, and global cultural exchange at UNESCO Headquarters in Paris...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-youth-ugcPost-7467911236240801792-8mND/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zK10uVXc1f1Bog4jIX7a8CJiLENYBH7k/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.61",
+    title: "Engagement with BeChangeMaker program (WorldSkills International ; The HP Foundation), a UNESCO Partnered Initiative",
+    slides: [
+      {
+        date: "june 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Returning to UNESCO: Building Partnerships for Sustainable Impact",
+        image: "assets/img/impact/youth-women-empowerment/Returning to UNESCO Building Partnerships for Sustainable Impact.jpg",
+        description:
+          "I will be returning to UNESCO Headquarters in Paris tomorrow and spending the full week engaging with global leaders, innovators, and changemakers. I would be delighted to connect with individuals and organizations working at the forefront of sustainability...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-sustainability-ugcPost-7467221370192650240-bF2G/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1nOjGJfB8w1NJDMzgbngCKjPedjd-sL77/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
     id: "9.60",
     title: "The Program “Caring Families for a Caring World” for the Initiatives of Change (IofC)",
     slides: [
@@ -16323,6 +16597,24 @@ const impacts = [
 
   {
     filter: "filter-aerospace-outer-space",
+    id: "11.12",
+    title: "Engagement at the International Conference on Aerospace Imaging, Pattern Recognition, and Engineering Applications",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflections from ICAIPREA-26: Advancing Research Through Collaboration",
+        image: "assets/img/impact/aerospace-outer-space/Reflections from ICAIPREA-26.jpg",
+        description:
+          "I had the opportunity to participate in the International Conference on Aerospace Imaging, Pattern Recognition, and Engineering Applications (ICAIPREA-26), held in Gdańsk (Poland), last month. The conference brought together researchers...",
+        link: "https://www.linkedin.com/posts/lilanofficial_research-innovation-aerospace-ugcPost-7468290052880642048-NhbP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zg9QQzXuGP7IaMtPf4aCfQRooYRKm_U4/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-aerospace-outer-space",
     id: "11.11",
     title: "Engagement at the Europe's SmallSat Technical & Business Conference",
     slides: [
@@ -16339,7 +16631,7 @@ const impacts = [
       },
     ],
   },
-    {
+  {
     filter: "filter-aerospace-outer-space",
     id: "11.10",
     title: "Engagement at the Space Economy Summit Europe",
@@ -16816,6 +17108,42 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.30",
+    title: "Engagement with the Intersection of Youth Involvement for Art and Global Cultural Exchange at UNESCO Headquarters",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Day of Learning, Connection, and Opportunity at UNESCO",
+        image: "assets/img/impact/arts-philosophy-mindfulness/A Day of Learning, Connection, and Opportunity at UNESCO.jpg",
+        description:
+          "Yesterday, I had the privilege of experiencing an inspiring convergence of youth innovation, entrepreneurship, and global cultural exchange at UNESCO Headquarters in Paris...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-youth-ugcPost-7467911236240801792-8mND/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zK10uVXc1f1Bog4jIX7a8CJiLENYBH7k/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.29",
+    title: "Engagement with BeChangeMaker program (WorldSkills International ; The HP Foundation), a UNESCO Partnered Initiative",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Returning to UNESCO: Building Partnerships for Sustainable Impact",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Returning to UNESCO Building Partnerships for Sustainable Impact.jpg",
+        description:
+          "I will be returning to UNESCO Headquarters in Paris tomorrow and spending the full week engaging with global leaders, innovators, and changemakers. I would be delighted to connect with individuals and organizations working at the forefront of sustainability...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-sustainability-ugcPost-7467221370192650240-bF2G/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1nOjGJfB8w1NJDMzgbngCKjPedjd-sL77/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
     id: "13.28",
