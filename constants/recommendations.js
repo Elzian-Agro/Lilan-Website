@@ -1,5 +1,27 @@
 const recommendations = [
   {
+    date: "June 1, 2026",
+    name: "Passang",
+    position: "Registrar",
+    company: "Bhutan Alternative Dispute Resolution Centre",
+    relationship: "Passang worked with Lilan on the same team",
+    image: "assets/img/recommendation/Passang.jpg",
+    linkedin: "https://www.linkedin.com/in/passang-5b1ab8184/",
+    recommendation:
+      "​I met Mr. Lilan Dayananda in Colombo, Sri Lanka in September 2023 at a Capacity Building Workshop convened by World's Youth for Climate Justice.\n\n Mr. Lilan is an enthusiast, a passionate leader and a relentless learner. I have attended his sessions and share with him the whole capacity building workshop.\n\n A technoexpert, an eloquent speaker and a natural leader, Mr. Lilan was easily noticeable and commendable. Not only is Mr. Lilan, one of the brilliant minds I have met but also hardworking person. \n\n I have corresponded with Mr. Lilan few times and I have always seen him on move making speeches, attending conferences and quite passionate seeking knowledge.\n\n He is still working with World's Youth for Climate Justice even today which makes him a committed climate and human rights justice advocate. He is a good person.",
+  },
+  {
+    date: "May 31, 2026",
+    name: "Syed Tanvir Azam Taif",
+    position: "Research Associate",
+    company: "Centre for Climate Justice - Bangladesh (CCJ-B)",
+    relationship: "Syed Tanvir Azam worked with Lilan but on different teams",
+    image: "assets/img/recommendation/Syed Tanvir Azam Taif.jpg",
+    linkedin: "https://www.linkedin.com/in/sta-taif/",
+    recommendation:
+      "I had the pleasure of observing Lilan Dayananda closely at the South Asian Climate Justice Camp 2025 in Nepal. His networking and communication skills were particularly impressive. Such skills usually take years to develop, yet these came to him completely naturally.\n\n I also had the chance to see his entrepreneurial side. He was managing his business responsibilities e.g. meeting with partners and handling discussions, throughout the Camp without it affecting his engagement with the programme. It demonstrated his focus and ability to multitask effectively.\n\n Lilan is a talented individual and I have no doubt he will continue to grow in everything he takes on.​",
+  },
+  {
     date: "April 5, 2026",
     name: "Samadhika Ranaweera ",
     position: "Food And Beverage Assistant",
