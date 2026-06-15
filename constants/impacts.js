@@ -1886,6 +1886,24 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.156",
+    title: "Engagement with the the South Summit for Entrepreneurship",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Innovation at South Summit Madrid",
+        image: "assets/img/impact/innovation-social/Driving Innovation at South Summit Madrid.jpg",
+        description:
+          "It was great to participate in the South Summit in Madrid, Spain; an inspiring gathering of entrepreneurs, investors, innovators, and ecosystem builders shaping the future of business and technology. South Summit demonstrated...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-entrepreneurship-startups-ugcPost-7468600443871547392-daz5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Rf7BqV9Tv_vSqd7hCGSmIc6Hm1Q3bKMg/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.155",
     title: "Engagement with the Intersection of Youth Innovation and Entrepreneurship at UNESCO Headquarters",
     slides: [
@@ -7393,6 +7411,25 @@ const impacts = [
 
   {
     filter: "filter-climate-environmental",
+    id: "6.106",
+    title: "The United Nations Framework Convention on Climate Change (UNFCCC) Subsidiary Bodies",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Monkeys of Bonn: A Reflection on Climate Leadership",
+        image:
+          "assets/img/impact/climate-environmental/The Monkeys of Bonn A Reflection on Climate Leadership.jpg",
+        description:
+          "While heading to the UN Climate Change Conference sessions of the Subsidiary Bodies in Germany, I came across this interesting installation in Bonn. It made me reflect on how bureaucratic systems can sometimes influence our response to the climate crisis. Some figures appear to cover their ears...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-ugcPost-7471198441839181825-U1GE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/166OjUfUswJOqjiijST1hC5M4grH3NLPQ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
     id: "6.105",
     title: "Engagement with the Intersection of Youth Innovation in Climate Action at UNESCO Headquarters",
     slides: [
@@ -9543,6 +9580,96 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-public-policy",
+    id: "7.133",
+    title: "Diplomacy at UNFCCC Subsidiary Bodies",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Seeing, Hearing, Speaking the Climate Truth",
+        image: "assets/img/impact/public-policy/Seeing, Hearing, Speaking the Climate Truth.jpg",
+        description:
+          "While heading to the UN Climate Change Conference sessions of the Subsidiary Bodies in Germany, I came across this interesting installation in Bonn. It made me reflect on how bureaucratic systems can sometimes influence our response to the climate crisis. Some figures appear to cover...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-ugcPost-7471198441839181825-U1GE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1l5eXnZBntocrMMDYHbx9LRhYxiXtNeFh/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.132",
+    title: "Participating in the Normandy World Peace Forum Day 2",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Final Reflections from the Normandy Peace Forum",
+        image: "assets/img/impact/public-policy/Final Reflections from the Normandy Peace Forum.jpg",
+        description:
+          "During the final day of the Normandy World Peace Forum in France, I had the opportunity to engage in thought-provoking discussions and debates on some of the most pressing challenges facing our world today...",
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-normandy-france-ugcPost-7469865879556632576-OuTF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1CusfD5iCOQDplCHpTHjvT60vYjVXDesj/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.131",
+    title: "Participating in the Normandy World Peace Forum Day 1",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Rethinking Peace in a Changing World",
+        image: "assets/img/impact/public-policy/Rethinking Peace in a Changing World.jpg",
+        description:
+          "Participating in the Normandy World Peace Forum in Normandy, France, was a powerful reminder that even in a world facing escalating conflicts, geopolitical tensions, and growing challenges to international law, there are still compelling reasons for hope...",
+        link: "https://www.linkedin.com/posts/lilanofficial_participating-in-the-normandy-world-peace-ugcPost-7469815284930015233--dWh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1UuCqtzGHF_ajkpx4JraDKFYVKRvUcvOS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.130",
+    title: "AI & Youth Engagement at the Normandy World Peace Forum",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth, AI, and Peacebuilding: Conversations That Shape Our Future",
+        image: "assets/img/impact/public-policy/Youth, AI, and Peacebuilding Conversations That Shape Our Future.jpg",
+        description:
+          "At the Normandy World Peace Forum in France, I had the opportunity to participate in the screening of the documentary \"I Am the Future\", followed by engaging discussions and debates on some of the most critical issues facing our world today, including peacebuilding...",
+        link: "https://www.linkedin.com/posts/lilanofficial_normandy-peace-world-ugcPost-7469453618400727040-qo8X/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/17AnUb0DL5hRaYPJsuSqMtJ4PALB1BQeJ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
+    id: "7.129",
+    title: "D-Day Anniversary: Normandy World Peace Forum",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "From D-Day to Dialogue: Lessons for Building Lasting Peace",
+        image: "assets/img/impact/public-policy/From D-Day to Dialogue Lessons for Building Lasting Peace.jpg",
+        description:
+          "Today marks the anniversary of D-Day (6 June 1944), the historic operation that brought together the land, air, and sea forces of the Allied armies in what became the largest amphibious invasion in military history. Under the codename...",
+        link: "https://www.linkedin.com/posts/lilanofficial_normandy-peace-dday-ugcPost-7468829851928584192-9taJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1YXV1lHKq4Ra_6qMDlld89YVnX6WzLas-/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-public-policy",
     id: "7.128",
@@ -12387,6 +12514,42 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.119",
+    title: "AI & Youth Engagement at the Normandy World Peace Forum",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth, AI, and Peacebuilding: Conversations That Shape Our Future",
+        image: "assets/img/impact/leadership-economic/Youth, AI, and Peacebuilding Conversations That Shape Our Future.jpg",
+        description:
+          "At the Normandy World Peace Forum in France, I had the opportunity to participate in the screening of the documentary \"I Am the Future\", followed by engaging discussions and debates on some of the most critical issues facing our world today, including peacebuilding...",
+        link: "https://www.linkedin.com/posts/lilanofficial_normandy-peace-world-ugcPost-7469453618400727040-qo8X/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/17AnUb0DL5hRaYPJsuSqMtJ4PALB1BQeJ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.118",
+    title: "Engagement with the the South Summit for Entrepreneurship",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Innovation at South Summit Madrid",
+        image: "assets/img/impact/leadership-economic/Driving Innovation at South Summit Madrid.jpg",
+        description:
+          "It was great to participate in the South Summit in Madrid, Spain; an inspiring gathering of entrepreneurs, investors, innovators, and ecosystem builders shaping the future of business and technology. South Summit demonstrated...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-entrepreneurship-startups-ugcPost-7468600443871547392-daz5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Rf7BqV9Tv_vSqd7hCGSmIc6Hm1Q3bKMg/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.117",
@@ -15957,6 +16120,26 @@ const impacts = [
 
   {
     filter: "filter-meeting-changemakers-vips",
+    id: "10.35",
+    title:
+      "Meeting Jens Jonathan Wilhelmsen",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Meeting Jens Jonathan Wilhelmsen",
+        image: "assets/img/impact/meeting-changemakers-vips/Meeting Jens Jonathan Wilhelmsen.jpg",
+        description:
+          "Tomorrow, Jens Jonathan Wilhelmsen turns 100. Recently, I had the opportunity to meet him in Oslo, Norway, and it became one of the most meaningful conversations I have had this year. Throughout 2026, I have met thousands of changemakers across the world, participated in numerous podcasts...",
+        link: "https://www.linkedin.com/posts/lilanofficial_tomorrow-jens-jonathan-wilhelmsen-turns-ugcPost-7470079826926891008-MXcC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/11_U6tNi1J0KvwzqStaRfHfB9wt06TyV3/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-meeting-changemakers-vips",
     id: "10.34",
     title:
       "Meeting Prof. Magnus Andersson (High-level Representative of United Nations 10-Member-Group)",
@@ -17108,6 +17291,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.31",
+    title: "My Interpretation of Monkey Sculptures & Globe (Earth) in Bonn",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Monkeys of Bonn: A Reflection on Climate Leadership",
+        image: "assets/img/impact/arts-philosophy-mindfulness/The Monkeys of Bonn A Reflection on Climate Leadership.jpg",
+        description:
+          "While heading to the UN Climate Change Conference sessions of the Subsidiary Bodies in Germany, I came across this interesting installation in Bonn. It made me reflect on how bureaucratic systems can sometimes influence our response to the climate crisis. Some figures appear to cover their ears...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-ugcPost-7471198441839181825-U1GE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/166OjUfUswJOqjiijST1hC5M4grH3NLPQ/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
     id: "13.30",
@@ -18313,6 +18514,24 @@ const impacts = [
           "I’ll be visiting Tokyo and Nagasaki in mid-May and would love to connect with fellow entrepreneurs, investors, and changemakers in Japan especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
         link: "https://www.linkedin.com/posts/lilanofficial_japan-tokyo-nagasaki-activity-7324494310429642754-7CG3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/112Gj84-NJrItepbftyfOKaks3OICK_Ly/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.18",
+    title: "Visit the Historic Headquarters of the Russian Geographical Society",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring the Russian Geographical Society",
+        image: "assets/img/impact/nature-based-explorations/Exploring the Russian Geographical Society.jpg",
+        description:
+          "I had the opportunity to visit the historic headquarters of the Russian Geographical Society in St. Petersburg, Russia, an institution with a remarkable legacy dating back to 1845. Established by the supreme order of Emperor Nicholas I, the Society was originally known as the Imperial Russian Geographical...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nature-climate-science-ugcPost-7471016738109923328-hNSt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1joKmBU2J5oQUfHUI8zSN0NELFhOw6Ajs/view?usp=sharing",
       },
     ],
   },
