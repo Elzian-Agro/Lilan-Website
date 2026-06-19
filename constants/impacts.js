@@ -5010,6 +5010,44 @@ const impacts = [
 
   {
     filter: "filter-food-agriculture",
+    id: "4.91",
+    title: "Engagement at the Global Youth Biodiversity Network (GYBN) Europe & Exploring the Role of Multilateral Environmental Agreements (MEAs)",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth in Global Biodiversity Policy",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Empowering Youth in Global Biodiversity Policy.jpg",
+        description:
+          "ne of the most valuable experiences during the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague was gaining a deeper understanding of international biodiversity governance and the critical role young people can play in shaping environmental policy...",
+        link: "https://www.linkedin.com/posts/lilanofficial_gybn-biodiversity-cbd-activity-7473459608536133632-ok4o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BboDQVXkKK3JYeTI2A8lKCsscGIQP3DO/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.90",
+    title: "Global Youth Biodiversity Network (GYBN) Europe In-Person Training for Understanding Objectives of the Convention on Biological Diversity (CBD)",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth for Biodiversity Action",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Empowering Youth for Biodiversity Action.jpg",
+        description:
+          "It was a great opportunity to participate in the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague, Czechia, alongside passionate young biodiversity advocates from across the region. The training gave us a chance to deepen our understanding...",
+        link: "https://www.linkedin.com/posts/lilanofficial_gybn-biodiversity-youthfornature-activity-7473026191596077057-pAew?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1jW4I4-5pJgBDp4MRA7sCvyAT2PVab_hU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
     id: "4.89",
     title: "Engagement with the Intersection of Youth Innovation in Food & Agriculture at UNESCO Headquarters",
     slides: [
@@ -7411,6 +7449,44 @@ const impacts = [
 
   {
     filter: "filter-climate-environmental",
+    id: "6.108",
+    title: "Engagement at the Global Youth Biodiversity Network (GYBN) Europe & Exploring the Role of Multilateral Environmental Agreements (MEAs)",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth in Global Biodiversity Policy",
+        image:
+          "assets/img/impact/climate-environmental/Empowering Youth in Global Biodiversity Policy.jpg",
+        description:
+          "ne of the most valuable experiences during the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague was gaining a deeper understanding of international biodiversity governance and the critical role young people can play in shaping environmental policy...",
+        link: "https://www.linkedin.com/posts/lilanofficial_gybn-biodiversity-cbd-activity-7473459608536133632-ok4o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BboDQVXkKK3JYeTI2A8lKCsscGIQP3DO/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.107",
+    title: "Global Youth Biodiversity Network (GYBN) Europe In-Person Training for Understanding Objectives of the Convention on Biological Diversity (CBD)",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth for Biodiversity Action",
+        image:
+          "assets/img/impact/climate-environmental/Empowering Youth for Biodiversity Action.jpg",
+        description:
+          "It was a great opportunity to participate in the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague, Czechia, alongside passionate young biodiversity advocates from across the region. The training gave us a chance to deepen our understanding...",
+        link: "https://www.linkedin.com/posts/lilanofficial_gybn-biodiversity-youthfornature-activity-7473026191596077057-pAew?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1jW4I4-5pJgBDp4MRA7sCvyAT2PVab_hU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
     id: "6.106",
     title: "The United Nations Framework Convention on Climate Change (UNFCCC) Subsidiary Bodies",
     slides: [
@@ -9580,6 +9656,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-public-policy",
+    id: "7.134",
+    title: "Engagement at the Global Youth Biodiversity Network (GYBN) Europe & Exploring United Nations Frameworks",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth in Global Biodiversity Policy",
+        image: "assets/img/impact/public-policy/Empowering Youth in Global Biodiversity Policy.jpg",
+        description:
+          "ne of the most valuable experiences during the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague was gaining a deeper understanding of international biodiversity governance and the critical role young people can play in shaping environmental policy...",
+        link: "https://www.linkedin.com/posts/lilanofficial_gybn-biodiversity-cbd-activity-7473459608536133632-ok4o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BboDQVXkKK3JYeTI2A8lKCsscGIQP3DO/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-public-policy",
     id: "7.133",
@@ -18519,8 +18613,26 @@ const impacts = [
   },
   {
     filter: "filter-nature-based-explorations-adventures",
+    id: "15.19",
+    title: "Examining \"Return of the Wild Horses\" (Przewalski’s Horses) Project, Prague Zoo",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Restoring Hope Through Species Recovery",
+        image: "assets/img/impact/nature-based-explorations/Restoring Hope Through Species Recovery.jpg",
+        description:
+          "During the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague, Czechia, I had the unique opportunity to visit Dívčí hrady, a nearly twenty-hectare natural area that has become home to one of the world's most remarkable conservation success stories, the Przewalski’s horse. Standing at one of the elevated viewpoints...",
+        link: "https://www.linkedin.com/posts/lilanofficial_gybn-biodiversity-conservation-activity-7473228692127633409-HxMK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/11g-4KbFE7bj-XpPXMtfce_4T4L10aAAC/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
     id: "15.18",
-    title: "Visit the Historic Headquarters of the Russian Geographical Society",
+    title: "Visiting the Historic Headquarters of the Russian Geographical Society",
     slides: [
       {
         date: "June 2026",
