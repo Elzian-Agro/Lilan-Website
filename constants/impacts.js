@@ -1752,6 +1752,28 @@ const impacts = [
         link: "https://www.linkedin.com/posts/lilanofficial_team-teamwork-work-activity-6950877215412617216-7bYL/?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1vp_5t86ygDX_EecRslO_Bg_x9o5ZsG_U/view?usp=drive_link",
       },
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping the Future of Work at the World Business Dialogue 2026",
+        image: "assets/img/impact/membership/Shaping the Future of Work at the World Business Dialogue 2026.jpg",
+        description:
+          "It was a great opportunity to participate in the latest World Business Dialogue at the University of Cologne, Germany; an inspiring gathering that brought together students, industry leaders, policymakers, entrepreneurs, and changemakers from around the world to explore...",
+        link: "https://www.linkedin.com/posts/lilanofficial_worldbusinessdialogue-wbd-futureofwork-ugcPost-7474782805281988608-MPsg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1x7Fbew9LNo3WYPWz1SQ6v-lNPp9Q3Hy7/view?usp=sharing",
+      },
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Looking Back at the World Business Dialogue as a New Edition Begins",
+        image: "assets/img/impact/membership/Looking Back at the World Business Dialogue as a New Edition Begins.jpg",
+        description:
+          "As the next World Business Dialogue begins this week at the University of Cologne, Germany, I find myself reflecting on the privilege of participating in the previous edition of this remarkable global gathering. The World Business Dialogue brought together an inspiring community of students, entrepreneurs, business leaders, policymakers, academics, and changemakers...",
+        link: "https://www.linkedin.com/posts/lilanofficial_as-the-next-world-business-dialogue-begins-ugcPost-7475265546314227713-bcOx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1uk0-JXEP7iMLexYjZrA4FNyNAsLQ9vI3/view?usp=sharing",
+      },
     ],
   },
   {
@@ -1884,6 +1906,78 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-innovation-social",
+    id: "3.160",
+    title: "World Business Dialogue Exploring AI & Human Collaboration",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Looking Back at the World Business Dialogue as a New Edition Begins",
+        image: "assets/img/impact/innovation-social/Looking Back at the World Business Dialogue as a New Edition Begins.jpg",
+        description:
+          "As the next World Business Dialogue begins this week at the University of Cologne, Germany, I find myself reflecting on the privilege of participating in the previous edition of this remarkable global gathering. The World Business Dialogue brought together an inspiring community of students, entrepreneurs, business leaders, policymakers, academics, and changemakers...",
+        link: "https://www.linkedin.com/posts/lilanofficial_as-the-next-world-business-dialogue-begins-ugcPost-7475265546314227713-bcOx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1uk0-JXEP7iMLexYjZrA4FNyNAsLQ9vI3/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.159",
+    title: "LinkedIn's London Headquarters Event Theatre: Community Learnings for Job Seekers",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Learning at LinkedIn London",
+        image: "assets/img/impact/innovation-social/Learning at LinkedIn London.jpg",
+        description:
+          "It was a pleasure to participate in the Event Theatre: Community Learnings for Job Seekers at LinkedIn's London Headquarters, an engaging session that brought together professionals, career experts, and job seekers to discuss the evolving world of work and the power of community-driven learning...",
+        link: "https://www.linkedin.com/posts/lilanofficial_linkedin-futureofwork-careerdevelopment-ugcPost-7476519636188942336-zXdw/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1XI50MVA5TcGkaXjm37_Kjq9RGv6PNW-q/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.158",
+    title: "WPP Media / GroupM / Mindshare Visit",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "From GroupM to WPP Media",
+        image: "assets/img/impact/innovation-social/From GroupM to WPP Media.jpg",
+        description:
+          "On my way to London Climate Action Week, I had the opportunity to visit the GroupM London office (now rebranded as WPP Media). Managing over US$60 billion in annual media investments, this transformation marks a significant shift toward a more integrated, AI-powered future for media and marketing...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wpp-groupm-mindshare-ugcPost-7476199096085778432-6Pf8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/14RjECLh9fj-FWsbtb2-rhgvuS6X6Gqid/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.157",
+    title: "Engagement with the World Business Dialogue Navigating Tomorrow’s Labour Markets",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping the Future of Work at the World Business Dialogue 2026",
+        image: "assets/img/impact/innovation-social/Shaping the Future of Work at the World Business Dialogue 2026.jpg",
+        description:
+          "It was a great opportunity to participate in the latest World Business Dialogue at the University of Cologne, Germany; an inspiring gathering that brought together students, industry leaders, policymakers, entrepreneurs, and changemakers from around the world to explore...",
+        link: "https://www.linkedin.com/posts/lilanofficial_worldbusinessdialogue-wbd-futureofwork-ugcPost-7474782805281988608-MPsg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1x7Fbew9LNo3WYPWz1SQ6v-lNPp9Q3Hy7/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-innovation-social",
     id: "3.156",
@@ -5010,6 +5104,44 @@ const impacts = [
 
   {
     filter: "filter-food-agriculture",
+    id: "4.93",
+    title: "Citizen Science City Nature Challenge in Prague through iNaturalist platform",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Discovering Urban Biodiversity in Prague",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Discovering Urban Biodiversity in Prague.jpg",
+        description:
+          "During the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague, participants had the opportunity to explore urban nature through the City Nature Challenge Praha using the iNaturalist platform. Combined with various nature-based group activities, the experience highlighted the richness and diversity of biodiversity that exists within cities, often unnoticed by many of us...",
+        link: "https://www.linkedin.com/posts/lilanofficial_gybn-citynaturechallenge-inaturalist-ugcPost-7473851103856459776-UTRB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/19IBT7O4gnBMyRvYA-AjtD4wneekyzW0I/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.92",
+    title: "Agrifood Leadership Education Programme on Water Action & the World Food Forum Thematic Youth Assembly on Water Management in Agriculture",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Shaping the Future of Water Governance",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Youth Shaping the Future of Water Governance.jpg",
+        description:
+          "Organized as part of a youth-led project developed by participants of the Agrifood Leadership Education Programme on Water Action (ALEP-WA) and the World Food Forum (WFF) Thematic Youth Assembly on Water Management in Agriculture, this consultation aims to actively engage youth in shaping the global dialogue on water governance...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-fao-share-7473759674429972480-T4pu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/11HsdV7jQU3rdqSu9ABE9xcNcOqGjG2Z0/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
     id: "4.91",
     title: "Engagement at the Global Youth Biodiversity Network (GYBN) Europe & Exploring the Role of Multilateral Environmental Agreements (MEAs)",
     slides: [
@@ -5021,7 +5153,7 @@ const impacts = [
         image:
           "assets/img/impact/food-agriculture-forestry/Empowering Youth in Global Biodiversity Policy.jpg",
         description:
-          "ne of the most valuable experiences during the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague was gaining a deeper understanding of international biodiversity governance and the critical role young people can play in shaping environmental policy...",
+          "One of the most valuable experiences during the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague was gaining a deeper understanding of international biodiversity governance and the critical role young people can play in shaping environmental policy...",
         link: "https://www.linkedin.com/posts/lilanofficial_gybn-biodiversity-cbd-activity-7473459608536133632-ok4o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1BboDQVXkKK3JYeTI2A8lKCsscGIQP3DO/view?usp=sharing",
       },
@@ -7449,6 +7581,25 @@ const impacts = [
 
   {
     filter: "filter-climate-environmental",
+    id: "6.109",
+    title: "Citizen Science City Nature Challenge in Prague through iNaturalist platform",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Discovering Urban Biodiversity in Prague",
+        image:
+          "assets/img/impact/climate-environmental/Discovering Urban Biodiversity in Prague.jpg",
+        description:
+          "During the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague, participants had the opportunity to explore urban nature through the City Nature Challenge Praha using the iNaturalist platform. Combined with various nature-based group activities, the experience highlighted the richness and diversity of biodiversity that exists within cities, often unnoticed by many of us...",
+        link: "https://www.linkedin.com/posts/lilanofficial_gybn-citynaturechallenge-inaturalist-ugcPost-7473851103856459776-UTRB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/19IBT7O4gnBMyRvYA-AjtD4wneekyzW0I/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
     id: "6.108",
     title: "Engagement at the Global Youth Biodiversity Network (GYBN) Europe & Exploring the Role of Multilateral Environmental Agreements (MEAs)",
     slides: [
@@ -7460,7 +7611,7 @@ const impacts = [
         image:
           "assets/img/impact/climate-environmental/Empowering Youth in Global Biodiversity Policy.jpg",
         description:
-          "ne of the most valuable experiences during the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague was gaining a deeper understanding of international biodiversity governance and the critical role young people can play in shaping environmental policy...",
+          "One of the most valuable experiences during the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague was gaining a deeper understanding of international biodiversity governance and the critical role young people can play in shaping environmental policy...",
         link: "https://www.linkedin.com/posts/lilanofficial_gybn-biodiversity-cbd-activity-7473459608536133632-ok4o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1BboDQVXkKK3JYeTI2A8lKCsscGIQP3DO/view?usp=sharing",
       },
@@ -9658,6 +9809,24 @@ const impacts = [
 
   {
     filter: "filter-public-policy",
+    id: "7.135",
+    title: "Engagement with the PolicyLink Summit",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Join the PolicyLink Summit 🇺🇸",
+        image: "assets/img/impact/public-policy/Honored to Join the PolicyLink Summit 🇺🇸.jpg",
+        description:
+          "I’m honored to share that I have been selected to participate in the PolicyLink Summit: We Are the Founders in the Washington, D.C. area, with a full scholarship...",
+        link: "https://www.linkedin.com/posts/lilanofficial_economy-usa-policy-ugcPost-7477465540626894849-QU9C/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1WvmhYm7jz_wez9Y1eL9OYZQoZ3UckKh5/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
     id: "7.134",
     title: "Engagement at the Global Youth Biodiversity Network (GYBN) Europe & Exploring United Nations Frameworks",
     slides: [
@@ -9668,7 +9837,7 @@ const impacts = [
         title: "Empowering Youth in Global Biodiversity Policy",
         image: "assets/img/impact/public-policy/Empowering Youth in Global Biodiversity Policy.jpg",
         description:
-          "ne of the most valuable experiences during the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague was gaining a deeper understanding of international biodiversity governance and the critical role young people can play in shaping environmental policy...",
+          "One of the most valuable experiences during the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague was gaining a deeper understanding of international biodiversity governance and the critical role young people can play in shaping environmental policy...",
         link: "https://www.linkedin.com/posts/lilanofficial_gybn-biodiversity-cbd-activity-7473459608536133632-ok4o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1BboDQVXkKK3JYeTI2A8lKCsscGIQP3DO/view?usp=sharing",
       },
@@ -11866,6 +12035,18 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1SO1S8QUR7Vck-E2Rnfj5mjfPosU2tDo-/view?usp=drive_link",
       },
       {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting for Sustainability & Innovation in Austria 🇦🇹",
+        image: "assets/img/impact/public-policy/Connecting for Sustainability & Innovation in Austria 🇦🇹.jpg",
+        description:
+          "Over the coming weeks, I will be in Vienna and Graz (from next week until the second week of July) and would welcome the opportunity to connect with individuals and organizations working at the intersection of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_austria-prague-eu-ugcPost-7476886588703105024-LW4X/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16SP-u6V752gD9gsQg4J8eHDrnS2f8R5D/view?usp=sharing",
+      },
+      {
         date: "August 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -11998,6 +12179,18 @@ const impacts = [
           " I’ll be traveling to New Delhi, Agra, Bihar, Uttar Pradesh, Gujarat, Pune, Panchgani, and Lucknow in the third and fourth weeks of February and am keen to connect with entrepreneurs, investors, and changemakers in these regions...",
         link: "https://www.linkedin.com/posts/lilanofficial_india-food-agriculture-activity-7425592231035822081-Zb-S?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1B23cvPp34pkCXG2HU3LJ87n8epTR_LbP/view?usp=sharing",
+      },
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "🇨🇿 Connecting with the Czech Sustainability Network",
+        image: "assets/img/impact/public-policy/🇨🇿 Connecting with the Czech Sustainability Network.jpg",
+        description:
+          "I will be in Prague during the third week of July and would welcome the opportunity to connect with individuals/entities working at the forefront of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_czechia-prague-eu-ugcPost-7475465652573478912-9Ebb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1VDK8s6Jgf4fD9kubdbHc_nniiJPlbbOB/view?usp=sharing",
       },
       {
         date: "February 2026",
@@ -12608,6 +12801,78 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.123",
+    title: "World Business Dialogue Exploring AI & Human Collaboration for Economic Stability",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Looking Back at the World Business Dialogue as a New Edition Begins",
+        image: "assets/img/impact/leadership-economic/Looking Back at the World Business Dialogue as a New Edition Begins.jpg",
+        description:
+          "As the next World Business Dialogue begins this week at the University of Cologne, Germany, I find myself reflecting on the privilege of participating in the previous edition of this remarkable global gathering. The World Business Dialogue brought together an inspiring community of students, entrepreneurs, business leaders, policymakers, academics, and changemakers...",
+        link: "https://www.linkedin.com/posts/lilanofficial_as-the-next-world-business-dialogue-begins-ugcPost-7475265546314227713-bcOx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1uk0-JXEP7iMLexYjZrA4FNyNAsLQ9vI3/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.122",
+    title: "LinkedIn's London Headquarters Event Theatre: Community Learnings for Job Seekers",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Learning at LinkedIn London",
+        image: "assets/img/impact/leadership-economic/Learning at LinkedIn London.jpg",
+        description:
+          "It was a pleasure to participate in the Event Theatre: Community Learnings for Job Seekers at LinkedIn's London Headquarters, an engaging session that brought together professionals, career experts, and job seekers to discuss the evolving world of work and the power of community-driven learning...",
+        link: "https://www.linkedin.com/posts/lilanofficial_linkedin-futureofwork-careerdevelopment-ugcPost-7476519636188942336-zXdw/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1XI50MVA5TcGkaXjm37_Kjq9RGv6PNW-q/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.121",
+    title: "WPP Media / GroupM / Mindshare Visit",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "From GroupM to WPP Media",
+        image: "assets/img/impact/leadership-economic/From GroupM to WPP Media.jpg",
+        description:
+          "On my way to London Climate Action Week, I had the opportunity to visit the GroupM London office (now rebranded as WPP Media). Managing over US$60 billion in annual media investments, this transformation marks a significant shift toward a more integrated, AI-powered future for media and marketing...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wpp-groupm-mindshare-ugcPost-7476199096085778432-6Pf8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/14RjECLh9fj-FWsbtb2-rhgvuS6X6Gqid/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.120",
+    title: "Engagement with the World Business Dialogue Navigating Tomorrow’s Labour Markets",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping the Future of Work at the World Business Dialogue 2026",
+        image: "assets/img/impact/leadership-economic/Shaping the Future of Work at the World Business Dialogue 2026.jpg",
+        description:
+          "It was a great opportunity to participate in the latest World Business Dialogue at the University of Cologne, Germany; an inspiring gathering that brought together students, industry leaders, policymakers, entrepreneurs, and changemakers from around the world to explore...",
+        link: "https://www.linkedin.com/posts/lilanofficial_worldbusinessdialogue-wbd-futureofwork-ugcPost-7474782805281988608-MPsg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1x7Fbew9LNo3WYPWz1SQ6v-lNPp9Q3Hy7/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.119",
@@ -14947,11 +15212,76 @@ const impacts = [
 
   {
     filter: "filter-youth-women-empowerment",
+    id: "9.65",
+    title: "ChildFund International : Cities on Fire – Art & Media Fellowship under the Art & Photography Track",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Join Cities on Fire 🔥",
+        image: "assets/img/impact/youth-women-empowerment/Honored to Join Cities on Fire.jpg",
+        description:
+          "I am honored to be part of Cities on Fire – Art & Media Fellowship under the Art & Photography Track, a youth-powered initiative by ChildFund International that aims to spotlight the growing impact of extreme heat on children and young people across Asian cities...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-share-7475859050367188993-x5Wt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15uzMi1PfcAeHOIXa2QaLeLsGe68tli1v/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.64",
+    title: "LinkedIn's London Headquarters Event Theatre: Community Learnings for Job Seekers",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Learning at LinkedIn London",
+        image: "assets/img/impact/youth-women-empowerment/Learning at LinkedIn London.jpg",
+        description:
+          "It was a pleasure to participate in the Event Theatre: Community Learnings for Job Seekers at LinkedIn's London Headquarters, an engaging session that brought together professionals, career experts, and job seekers to discuss the evolving world of work and the power of community-driven learning...",
+        link: "https://www.linkedin.com/posts/lilanofficial_linkedin-futureofwork-careerdevelopment-ugcPost-7476519636188942336-zXdw/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1XI50MVA5TcGkaXjm37_Kjq9RGv6PNW-q/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.63",
+    title: "Engagement with the World Business Dialogue at the University of Cologne as an Ambassador",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping the Future of Work at the World Business Dialogue 2026",
+        image: "assets/img/impact/youth-women-empowerment/Shaping the Future of Work at the World Business Dialogue 2026.jpg",
+        description:
+          "It was a great opportunity to participate in the latest World Business Dialogue at the University of Cologne, Germany; an inspiring gathering that brought together students, industry leaders, policymakers, entrepreneurs, and changemakers from around the world to explore...",
+        link: "https://www.linkedin.com/posts/lilanofficial_worldbusinessdialogue-wbd-futureofwork-ugcPost-7474782805281988608-MPsg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1x7Fbew9LNo3WYPWz1SQ6v-lNPp9Q3Hy7/view?usp=sharing",
+      },
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Looking Back at the World Business Dialogue as a New Edition Begins",
+        image: "assets/img/impact/youth-women-empowerment/Looking Back at the World Business Dialogue as a New Edition Begins.jpg",
+        description:
+          "As the next World Business Dialogue begins this week at the University of Cologne, Germany, I find myself reflecting on the privilege of participating in the previous edition of this remarkable global gathering. The World Business Dialogue brought together an inspiring community of students, entrepreneurs, business leaders, policymakers, academics, and changemakers...",
+        link: "https://www.linkedin.com/posts/lilanofficial_as-the-next-world-business-dialogue-begins-ugcPost-7475265546314227713-bcOx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1uk0-JXEP7iMLexYjZrA4FNyNAsLQ9vI3/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
     id: "9.62",
     title: "Engagement with the Intersection of Youth Innovation for Youth & Women Empowerment at UNESCO Headquarters",
     slides: [
       {
-        date: "june 2026",
+        date: "June 2026",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "A Day of Learning, Connection, and Opportunity at UNESCO",
@@ -14969,7 +15299,7 @@ const impacts = [
     title: "Engagement with BeChangeMaker program (WorldSkills International ; The HP Foundation), a UNESCO Partnered Initiative",
     slides: [
       {
-        date: "june 2026",
+        date: "June 2026",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
         title: "Returning to UNESCO: Building Partnerships for Sustainable Impact",
@@ -17387,6 +17717,24 @@ const impacts = [
 
   {
     filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.32",
+    title: "ChildFund International : Cities on Fire – Art & Media Fellowship under the Art & Photography Track",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Join Cities on Fire 🔥",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Honored to Join Cities on Fire.jpg",
+        description:
+          "I am honored to be part of Cities on Fire – Art & Media Fellowship under the Art & Photography Track, a youth-powered initiative by ChildFund International that aims to spotlight the growing impact of extreme heat on children and young people across Asian cities...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-share-7475859050367188993-x5Wt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15uzMi1PfcAeHOIXa2QaLeLsGe68tli1v/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
     id: "13.31",
     title: "My Interpretation of Monkey Sculptures & Globe (Earth) in Bonn",
     slides: [
@@ -17951,6 +18299,42 @@ const impacts = [
 
   {
     filter: "filter-journalism-media-mass-communication",
+    id: "14.17",
+    title: "LinkedIn's London Headquarters Event Theatre",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Learning at LinkedIn London",
+        image: "assets/img/impact/journalism-media-mass-communication/Learning at LinkedIn London.jpg",
+        description:
+          "It was a pleasure to participate in the Event Theatre: Community Learnings for Job Seekers at LinkedIn's London Headquarters, an engaging session that brought together professionals, career experts, and job seekers to discuss the evolving world of work and the power of community-driven learning...",
+        link: "https://www.linkedin.com/posts/lilanofficial_linkedin-futureofwork-careerdevelopment-ugcPost-7476519636188942336-zXdw/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1XI50MVA5TcGkaXjm37_Kjq9RGv6PNW-q/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.16",
+    title: "ChildFund International : Cities on Fire – Art & Media Fellowship under the Art & Photography Track",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Join Cities on Fire 🔥",
+        image: "assets/img/impact/journalism-media-mass-communication/Honored to Join Cities on Fire.jpg",
+        description:
+          "I am honored to be part of Cities on Fire – Art & Media Fellowship under the Art & Photography Track, a youth-powered initiative by ChildFund International that aims to spotlight the growing impact of extreme heat on children and young people across Asian cities...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-share-7475859050367188993-x5Wt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15uzMi1PfcAeHOIXa2QaLeLsGe68tli1v/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
     id: "14.15",
     title: "Participating the Course on Key Concepts for Economies in Conflict & Fragile Settings Centered on Growth Research Platform (GRP)",
     slides: [
@@ -18410,6 +18794,18 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1B23cvPp34pkCXG2HU3LJ87n8epTR_LbP/view?usp=sharing",
       },
       {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting for Sustainability & Innovation in Austria 🇦🇹",
+        image: "assets/img/impact/nature-based-explorations/Connecting for Sustainability & Innovation in Austria 🇦🇹.jpg",
+        description:
+          "Over the coming weeks, I will be in Vienna and Graz (from next week until the second week of July) and would welcome the opportunity to connect with individuals and organizations working at the intersection of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_austria-prague-eu-ugcPost-7476886588703105024-LW4X/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16SP-u6V752gD9gsQg4J8eHDrnS2f8R5D/view?usp=sharing",
+      },
+      {
         date: "August 2024",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -18544,6 +18940,18 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/10iuqOjCVD-WS6W15d3PqUg7YJiSvHGX_/view?usp=sharing",
       },
       {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "🇨🇿 Connecting with the Czech Sustainability Network",
+        image: "assets/img/impact/nature-based-explorations/🇨🇿 Connecting with the Czech Sustainability Network.jpg",
+        description:
+          "I will be in Prague during the third week of July and would welcome the opportunity to connect with individuals/entities working at the forefront of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_czechia-prague-eu-ugcPost-7475465652573478912-9Ebb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1VDK8s6Jgf4fD9kubdbHc_nniiJPlbbOB/view?usp=sharing",
+      },
+      {
         date: "February 2026",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -18608,6 +19016,42 @@ const impacts = [
           "I’ll be visiting Tokyo and Nagasaki in mid-May and would love to connect with fellow entrepreneurs, investors, and changemakers in Japan especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
         link: "https://www.linkedin.com/posts/lilanofficial_japan-tokyo-nagasaki-activity-7324494310429642754-7CG3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/112Gj84-NJrItepbftyfOKaks3OICK_Ly/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.21",
+    title: "ChildFund International : Cities on Fire – Art & Media Fellowship under the Art & Photography Track",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Join Cities on Fire 🔥",
+        image: "assets/img/impact/nature-based-explorations/Honored to Join Cities on Fire.jpg",
+        description:
+          "I am honored to be part of Cities on Fire – Art & Media Fellowship under the Art & Photography Track, a youth-powered initiative by ChildFund International that aims to spotlight the growing impact of extreme heat on children and young people across Asian cities...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-share-7475859050367188993-x5Wt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15uzMi1PfcAeHOIXa2QaLeLsGe68tli1v/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.20",
+    title: "Citizen Science City Nature Challenge in Prague through iNaturalist platform",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Discovering Urban Biodiversity in Prague",
+        image: "assets/img/impact/nature-based-explorations/Discovering Urban Biodiversity in Prague.jpg",
+        description:
+          "During the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague, participants had the opportunity to explore urban nature through the City Nature Challenge Praha using the iNaturalist platform. Combined with various nature-based group activities, the experience highlighted the richness and diversity of biodiversity that exists within cities, often unnoticed by many of us...",
+        link: "https://www.linkedin.com/posts/lilanofficial_gybn-citynaturechallenge-inaturalist-ugcPost-7473851103856459776-UTRB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/19IBT7O4gnBMyRvYA-AjtD4wneekyzW0I/view?usp=sharing",
       },
     ],
   },
