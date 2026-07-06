@@ -31,7 +31,6 @@ const meadia = [
 
   {
     filter: "filter-other-media-appearances",
-    id: "12.48",
     title: "Top Voices in Young Innovators - New in Asia (03-June-2025)",
     slides: [
       {
@@ -49,7 +48,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.47",
     title: "One Young World (OYW) Accelerating impact through systems thinking (16-April-2025)",
     slides: [
       {
@@ -67,7 +65,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.46",
     title: "Lanka Business News (25-Mar-2025)",
     slides: [
       {
@@ -85,7 +82,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.45",
     title: "News Asia (24-Mar-2025)",
     slides: [
       {
@@ -103,7 +99,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.44",
     title: "We Rise By Lifting Others (1-January-2025)",
     slides: [
       {
@@ -121,7 +116,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.43",
     title: "Biz Report (21-August-2024)",
     slides: [
       {
@@ -139,7 +133,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.42",
     title: "Sunday Times (20-August-2024)",
     slides: [
       {
@@ -158,7 +151,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.41",
     title: "Ceylon Tribune (16-August-2024)",
     slides: [
       {
@@ -176,7 +168,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.40",
     title: "Lanka News Network (16-August-2024)",
     slides: [
       {
@@ -194,7 +185,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.39",
     title: "Eye View (17-August-2024)",
     slides: [
       {
@@ -212,7 +202,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.38",
     title: "Biz Report (18-August-2024)",
     slides: [
       {
@@ -230,7 +219,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.37",
     title: "Business Cafe (17-August-2024)",
     slides: [
       {
@@ -248,7 +236,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.36",
     title: "Lanka Talks (16-August-2024)",
     slides: [
       {
@@ -266,7 +253,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.35",
     title: "Lanka Business News (12-August-2024)",
     slides: [
       {
@@ -284,7 +270,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.34",
     title: "Profit Magazine",
     slides: [
       {
@@ -303,7 +288,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.33",
     title: "Our Economics",
     slides: [
       {
@@ -332,7 +316,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.32",
     title: "Daily Mirror",
     slides: [
       {
@@ -350,7 +333,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.31",
     title: "The Morning",
     slides: [
       {
@@ -368,7 +350,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.30",
     title: "Ada Derana Business News",
     slides: [
       {
@@ -386,7 +367,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.29",
     title: "Sunday Times",
     slides: [
       {
@@ -404,7 +384,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.28",
     title: "Lanka Business News",
     slides: [
       {
@@ -422,7 +401,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.27",
     title: "Ada Derana Business News",
     slides: [
       {
@@ -440,7 +418,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.26",
     title: "Lanka News Network",
     slides: [
       {
@@ -459,7 +436,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.25",
     title: "Ceylon Tribune",
     slides: [
       {
@@ -478,7 +454,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.24",
     title: "Lanka Puvath (National News Agency of Sri Lanka)",
     slides: [
       {
@@ -496,7 +471,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.23",
     title: "Biz Report",
     slides: [
       {
@@ -516,7 +490,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.22",
     title: "Lanka Business News",
     slides: [
       {
@@ -534,7 +507,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.21",
     title: "Ceylon Tribune",
     slides: [
       {
@@ -552,7 +524,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.20",
     title: "Sri Lanka Foundation",
     slides: [
       {
@@ -571,7 +542,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.19",
     title: "Clinton Global Initiative",
     slides: [
       {
@@ -600,7 +570,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.18",
     title: "Eyeview Sri Lanka",
     slides: [
       {
@@ -628,7 +597,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.17",
     title: "Profit Magazine",
     slides: [
       {
@@ -646,7 +614,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.16",
     title: "Global Politics Affairs",
     slides: [
       {
@@ -664,7 +631,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.15",
     title: "BusinessCafe",
     slides: [
       {
@@ -682,7 +648,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.14",
     title: "The Colombo Express",
     slides: [
       {
@@ -700,7 +665,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.13",
     title: "Inventors Club - Wayamba University of Sri Lanka",
     slides: [
       {
@@ -717,7 +681,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.12",
     title: "Silumina News Paper (Sinhala Language)",
     slides: [
       {
@@ -736,7 +699,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.11",
     title: "News Asia",
     slides: [
       {
@@ -754,7 +716,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.10",
     title: "Serendib News",
     slides: [
       {
@@ -773,7 +734,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.9",
     title: "Biznomics",
     slides: [
       {
@@ -791,7 +751,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.8",
     title: "The Council for Inclusive Capitalism",
     slides: [
       {
@@ -853,7 +812,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.7",
     title: "Commonwealth News",
     slides: [
       {
@@ -871,7 +829,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.6",
     title: "Ceylon Business Reporter",
     slides: [
       {
@@ -889,7 +846,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.5",
     title: "Ceylon Tribune",
     slides: [
       {
@@ -907,7 +863,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.4",
     title: "Featuring on Colombo Gazette",
     slides: [
       {
@@ -935,7 +890,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.3",
     title: "Ada Derana Business News",
     slides: [
       {
@@ -953,7 +907,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.2",
     title:
       "Caribbean Broadcasting Corporation (CBC TV 8 - Mornin’ Barbados Program) - Exceptional Youth Segment",
     slides: [
@@ -972,7 +925,6 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
-    id: "12.1",
     title: "Featuring on the Commonwealth Youth Magazine",
     slides: [
       {
