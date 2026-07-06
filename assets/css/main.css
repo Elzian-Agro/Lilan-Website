@@ -899,130 +899,146 @@ section,
 }
 
 .impact .impact-filters #filter-overall-view button {
-  background-color: #084424;
+  background-color: #03331b;
 }
 
 .impact .impact-filters #filter-overall-view button:hover {
-  background-color: #06351c;
+  background-color: #042715;
 }
 
 .impact .impact-filters #filter-membership-volunteerism-and-affiliations button {
-  background-color: #0b5b30;
-}
-
-.impact .impact-filters #filter-membership-volunteerism-and-affiliations button:hover {
   background-color: #084424;
 }
 
-.impact .impact-filters #filter-food-agriculture-and-forestry button {
-  background-color: #0d723c;
+.impact .impact-filters #filter-membership-volunteerism-and-affiliations button:hover {
+  background-color: #06351c;
 }
 
-.impact .impact-filters #filter-food-agriculture-and-forestry button:hover {
+.impact .impact-filters #filter-food-agriculture-and-forestry button {
   background-color: #0b5b30;
 }
 
+.impact .impact-filters #filter-food-agriculture-and-forestry button:hover {
+  background-color: #084424;
+}
+
 .impact .impact-filters #filter-climate-action-and-environmental-restoration button {
-  background-color: #13a055;
+  background-color: #0d723c;
 }
 
 .impact .impact-filters #filter-climate-action-and-environmental-restoration button:hover {
-  background-color: #108948;
+  background-color: #0b5b30;
 }
 
 .impact .impact-filters #filter-leadership-economic-and-social-empowerment button {
-  background-color: #18cd6d;
+  background-color: #13a055;
 }
 
 .impact .impact-filters #filter-leadership-economic-and-social-empowerment button:hover {
-  background-color: #15b761;
+  background-color: #108948;
 }
 
 .impact .impact-filters #filter-meeting-extraordinary-changemakers-and-vips button {
-  background-color: #1be479;
+  background-color: #18cd6d;
 }
 
 .impact .impact-filters #filter-meeting-extraordinary-changemakers-and-vips button:hover {
-  background-color: #18d26e;
+  background-color: #15b761;
 }
 
 .impact .impact-filters #filter-nuclear-applications-and-nuclear-disarmament button {
-  background-color: #48ea94;
-}
-
-.impact .impact-filters #filter-nuclear-applications-and-nuclear-disarmament button:hover {
   background-color: #1be479;
 }
 
+.impact .impact-filters #filter-nuclear-applications-and-nuclear-disarmament button:hover {
+  background-color: #18d26e;
+}
+
 .impact .impact-filters #filter-journalism-media-mass-communication button {
-  background-color: #6bf1aa;
+  background-color: #48ea94;
 }
 
 .impact .impact-filters #filter-journalism-media-mass-communication button:hover {
+  background-color: #1be479;
+}
+
+.impact .impact-filters #filter-history-culture-art-archeology button {
+  background-color: #6bf1aa;
+}
+
+.impact .impact-filters #filter-history-culture-art-archeology button:hover {
   background-color: #48ea94;
 }
 
 .impact .impact-filters #filter-recognition-and-accolades button {
-  background-color: #3a3a3a;
+  background-color: #252525;
 }
 
 .impact .impact-filters #filter-recognition-and-accolades button:hover {
-  background-color: #2d2d2d;
+  background-color: #1d1c1c;
 }
 
 .impact .impact-filters #filter-innovation-and-social-entrepreneurship button {
-  background-color: #4f4f4f;
-}
-
-.impact .impact-filters #filter-innovation-and-social-entrepreneurship button:hover {
   background-color: #3a3a3a;
 }
 
+.impact .impact-filters #filter-innovation-and-social-entrepreneurship button:hover {
+  background-color: #2d2d2d;
+}
+
 .impact .impact-filters #filter-renewable-energy-and-energy-conservation button {
-  background-color: #5f5f5f;
+  background-color: #4f4f4f;
 }
 
 .impact .impact-filters #filter-renewable-energy-and-energy-conservation button:hover {
-  background-color: #4a4a4a;
+  background-color: #3a3a3a;
 }
 
 .impact .impact-filters #filter-public-policy-peace-diplomacy-and-inclusive-democracy button {
-  background-color: #6f6f6f;
+  background-color: #5f5f5f;
 }
 
 .impact .impact-filters #filter-public-policy-peace-diplomacy-and-inclusive-democracy button:hover {
-  background-color: #5a5a5a;
+  background-color: #4a4a4a;
 }
 
 .impact .impact-filters #filter-youth-and-women-empowerment button {
-  background-color: #7f7f7f;
+  background-color: #6f6f6f;
 }
 
 .impact .impact-filters #filter-youth-and-women-empowerment button:hover {
-  background-color: #6a6a6a;
+  background-color: #5a5a5a;
 }
 
 .impact .impact-filters #filter-aerospace-and-outer-space-protection button {
-  background-color: #8f8f8f;
+  background-color: #7f7f7f;
 }
 
 .impact .impact-filters #filter-aerospace-and-outer-space-protection button:hover {
-  background-color: #7a7a7a;
+  background-color: #6a6a6a;
 }
 
 .impact .impact-filters #filter-arts-philosophy-mindfulness-inner-development-goals button {
-  background-color: #9f9f9f;
+  background-color: #8f8f8f;
 }
 
 .impact .impact-filters #filter-arts-philosophy-mindfulness-inner-development-goals button:hover {
-  background-color: #8a8a8a;
+  background-color: #7a7a7a;
 }
 
 .impact .impact-filters #filter-nature-based-explorations-adventures button {
-  background-color: #b7b6b6;
+  background-color: #9f9f9f;
 }
 
 .impact .impact-filters #filter-nature-based-explorations-adventures button:hover {
+  background-color: #8a8a8a;
+}
+
+.impact .impact-filters #filter-diplomacy-international-relationship button {
+  background-color: #b7b6b6;
+}
+
+.impact .impact-filters #filter-diplomacy-international-relationship button:hover {
   background-color: #9f9f9f;
 }
 
