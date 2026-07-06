@@ -31,6 +31,23 @@ const meadia = [
 
   {
     filter: "filter-other-media-appearances",
+    title: "One World Media (02-July-2026)",
+    slides: [
+      {
+        date: "July 2, 2026",
+        source_name: "One World Media",
+        source_link: "https://www.linkedin.com/company/one-world-media---uk/posts/",
+        title: "Honored to Join the G20 Voices for Land Fellowship",
+        image: "assets/img/meadia/other-media/Honored to Join the G20 Voices for Land Fellowship.jpg",
+        description:
+          "We're thrilled to announce the G20 Fellowship – Voices for Land, a new partnership between One World Media, UN Convention to Combat Desertification and G20 Global Land Initiative...",
+        link: "https://www.linkedin.com/posts/g20fellowship-voicesforland-landrestoration-share-7478349278713827328-Z2Fj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ePN3RtyD6SdY3zY9abJbCAAsjD2cp4y9/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
     title: "Top Voices in Young Innovators - New in Asia (03-June-2025)",
     slides: [
       {
