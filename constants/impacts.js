@@ -1908,6 +1908,42 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.162",
+    title: "UN Forum on Science, Technology and Innovation for Artificial Intelligence",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "Nations Unies",
+        source_link: "https://www.un.org/fr",
+        title: "ECOSOC: dixième anniversaire du forum sur la science, la technologie et l’innovation, l’occasion de parler de l’intelligence artificielle et des jeunes",
+        image: "assets/img/impact/innovation-social/nations-unies.png",
+        description:
+          "C’est dans l’ambiance futuriste de la salle du Conseil économique et social (ECOSOC), transformée pour l’occasion...",
+        link: "https://press.un.org/fr/2025/ecosoc7202.doc.htm",
+        backup_image: "https://drive.google.com/file/d/1jE7ZU0lzp2lzYk1pv7UPXVbIbI2xQM9h/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.161",
+    title: "Engagement with the Moonshot Youth Innovation Summit",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Leading Change Through Youth Innovation and Collaboration",
+        image: "assets/img/impact/innovation-social/Leading Change Through Youth Innovation and Collaboration.jpg",
+        description:
+          "It was a great opportunity to participate in the latest Moonshot Youth Innovation Summit at Prague Castle in Czechia. From environmental sustainability and emerging technologies to peacebuilding and purpose-driven business, the summit explored what it truly means to lead with hope, purpose, and action...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-youth-empowerment-activity-7478391636000116736-hL8o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1tKfc1MLIxzl8-XLGtNZAG1kWYCAUkB74/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.160",
     title: "World Business Dialogue Exploring AI & Human Collaboration",
     slides: [
@@ -9809,7 +9845,7 @@ const impacts = [
 
   {
     filter: "filter-public-policy",
-    id: "7.135",
+    id: "7.79",
     title: "Engagement with the PolicyLink Summit",
     slides: [
       {
@@ -9827,43 +9863,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.134",
-    title: "Engagement at the Global Youth Biodiversity Network (GYBN) Europe & Exploring United Nations Frameworks",
-    slides: [
-      {
-        date: "June 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Empowering Youth in Global Biodiversity Policy",
-        image: "assets/img/impact/public-policy/Empowering Youth in Global Biodiversity Policy.jpg",
-        description:
-          "One of the most valuable experiences during the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague was gaining a deeper understanding of international biodiversity governance and the critical role young people can play in shaping environmental policy...",
-        link: "https://www.linkedin.com/posts/lilanofficial_gybn-biodiversity-cbd-activity-7473459608536133632-ok4o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1BboDQVXkKK3JYeTI2A8lKCsscGIQP3DO/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.133",
-    title: "Diplomacy at UNFCCC Subsidiary Bodies",
-    slides: [
-      {
-        date: "June 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Seeing, Hearing, Speaking the Climate Truth",
-        image: "assets/img/impact/public-policy/Seeing, Hearing, Speaking the Climate Truth.jpg",
-        description:
-          "While heading to the UN Climate Change Conference sessions of the Subsidiary Bodies in Germany, I came across this interesting installation in Bonn. It made me reflect on how bureaucratic systems can sometimes influence our response to the climate crisis. Some figures appear to cover...",
-        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-ugcPost-7471198441839181825-U1GE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1l5eXnZBntocrMMDYHbx9LRhYxiXtNeFh/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.132",
+    id: "7.77",
     title: "Participating in the Normandy World Peace Forum Day 2",
     slides: [
       {
@@ -9881,7 +9881,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.131",
+    id: "7.76",
     title: "Participating in the Normandy World Peace Forum Day 1",
     slides: [
       {
@@ -9899,7 +9899,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.130",
+    id: "7.75",
     title: "AI & Youth Engagement at the Normandy World Peace Forum",
     slides: [
       {
@@ -9917,7 +9917,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.129",
+    id: "7.74",
     title: "D-Day Anniversary: Normandy World Peace Forum",
     slides: [
       {
@@ -9935,7 +9935,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.128",
+    id: "7.73",
     title: "Engagement with the Intersection of Youth Innovation and Global Cultural Exchange at UNESCO Headquarters",
     slides: [
       {
@@ -9953,7 +9953,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.127",
+    id: "7.72",
     title: "Engagement with BeChangeMaker program (WorldSkills International ; The HP Foundation), a UNESCO Partnered Initiative",
     slides: [
       {
@@ -9971,7 +9971,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.126",
+    id: "7.71",
     title: "Venerate the Holy Belt of the Most Holy Theotokos (Virgin Mary)",
     slides: [
       {
@@ -9989,7 +9989,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.125",
+    id: "7.70",
     title: "Engagement with the International Institute for Peace Through Tourism (IIPT) Peace Parks Initiative",
     slides: [
       {
@@ -10007,7 +10007,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.124",
+    id: "7.69",
     title: "High-level Event on Building a New Era of Understanding and Cooperation: Meeting the Inequality Emergency",
     slides: [
       {
@@ -10025,7 +10025,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.123",
+    id: "7.68",
     title: "Engagement for Reimagining Democracy(ies) with Creative Leadership",
     slides: [
       {
@@ -10043,7 +10043,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.122",
+    id: "7.67",
     title: "Participating the Course on Key Concepts for Economies in Conflict & Fragile Settings Centered on Growth Research Platform (GRP)",
     slides: [
       {
@@ -10061,7 +10061,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.121",
+    id: "7.66",
     title: "Nuclear Ethics for Peace Carnegie Council Event",
     slides: [
       {
@@ -10079,8 +10079,8 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.120",
-    title: "Engagement at the WSA Global Congress on Digital Sovereignty, Building Digital Public Goods & Global Impact Solutions",
+    id: "7.65",
+    title: "Engagement at the WSA Global Congress on Digital Sovereignty for Peace",
     slides: [
       {
         date: "April 2026",
@@ -10097,8 +10097,8 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.119",
-    title: "Engaging at the World Beautiful Business Forum to Help Shape a Humanist Future in and through Business",
+    id: "7.64",
+    title: "Engaging at the World Beautiful Business Forum to Help Shape a Humanist Future through Peace",
     slides: [
       {
         date: "April 2026",
@@ -10115,7 +10115,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.118",
+    id: "7.63",
     title: "Engagement at the Annual Cambridge International Law Journal (CILJ), themed “Reimagining International Law: Critical, Regional, and Trans-Disciplinary Perspectives",
     slides: [
       {
@@ -10133,8 +10133,8 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.117",
-    title: "Engagement at the Skoll World Forum for Advancing Social Entrepreneurship, Peace & Inclusive Democracy",
+    id: "7.62",
+    title: "Engagement at the Skoll World Forum for Advancing Peace & Inclusive Democracy",
     slides: [
       {
         date: "April 2026",
@@ -10151,7 +10151,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.116",
+    id: "7.61",
     title: "Sound/Frequency Immersion for Trustbuilding & Conflict Resolution",
     slides: [
       {
@@ -10169,26 +10169,8 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.115",
-    title: "Engagement with UNESCO x Nestlé through 'Because Youth Matter' Initiative",
-    slides: [
-      {
-        date: "April 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Driving Youth Innovation for Global Impact | UNESCO, Nestlé & ELZIAN AGRO",
-        image: "assets/img/impact/public-policy/Driving Youth Innovation for Global Impact.jpg",
-        description:
-          "I had the opportunity to visit the UNESCO Headquarters and the Nestlé Office in Paris, where I continued productive discussions with the UNESCO team....",
-        link: "https://www.linkedin.com/posts/lilanofficial_unesco-nestle-global-ugcPost-7449395791904935936-9500?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1IAj6cRTvEimEGDsRY46otbMcYUbdZuF9/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.114",
-    title: "Engagement for the Solidarity for the Future Initiative for Diplomacy, Inclusive Democracy & Peace",
+    id: "7.60",
+    title: "Engagement for the Solidarity for the Future Initiative for Inclusive Democracy & Peace",
     slides: [
       {
         date: "April 2026",
@@ -10205,7 +10187,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.113",
+    id: "7.59",
     title: "Engagement at the United Nations International Day of Conscience",
     slides: [
       {
@@ -10223,7 +10205,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.112",
+    id: "7.58",
     title: "Engagement at the Caux Democracy Forum",
     slides: [
       {
@@ -10241,7 +10223,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.111",
+    id: "7.57",
     title: "Engagement at the Initiatives of Change France Evensong Gathering 1",
     slides: [
       {
@@ -10259,43 +10241,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.110",
-    title: "Participation in the Global Resilience Walk, organized by the Inner Green Deal, Focusing on European Green Deal",
-    slides: [
-      {
-        date: "March 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Walking for Resilience at Table Land 🌄🌱",
-        image: "assets/img/impact/public-policy/global-resilience-walk.jpg",
-        description:
-          "I had the opportunity to participate in the Global Resilience Walk while exploring Table Land, Asia’s second-highest and longest mountain plateau. Located in the Sahyadri range in Maharashtra, this expansive laterite rock plateau offers panoramic views of the surrounding valleys and the Krishna River...",
-        link: "https://www.linkedin.com/posts/lilanofficial_nature-walk-meditation-activity-7441518947885117440-fHXH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1yDZ1D1nq17IgHYoUCQiWyjfovQNiVbqu/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.109",
-    title: "Flag Bearing at the Olympiahalle, Munich’s Olympic Park",
-    slides: [
-      {
-        date: "March 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "A Proud Moment in Munich: Carrying Sri Lanka Forward",
-        image: "assets/img/impact/public-policy/A Proud Moment in Munich.jpg",
-        description:
-          "I had the honour of serving as the Sri Lankan Flag Bearer at the iconic Olympiahalle in Munich’s Olympic Park during the One Young World Summit Opening Ceremony. The hall, originally built for the 1972 Olympic Summer Games, is part of the Olympiapark München complex...",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-network-activity-7438317748289507328-SZWN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/17X-t5ILn8m3KwDO7fZYSTPt_AmeOVCYI/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.108",
+    id: "7.56",
     title: "Obama Presidential Center Grand Opening Ceremony",
     slides: [
       {
@@ -10313,26 +10259,8 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.107",
-    title: "Engagement at the Energy and Resources Institute's (TERI) World Sustainable Development Summit",
-    slides: [
-      {
-        date: "March 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "AI, Climate Tech & Collaboration: Reflections from DCIW 2026",
-        image: "assets/img/impact/public-policy/ai-climate-tech-collaboration.jpg",
-        description:
-          "The Delhi Climate Innovation Week 2026 (DCIW) began immediately after the AI Impact Summit, and due to my commitments in Pune, I was not able to fully immerse myself in the entire week. However, I had the opportunity to engage with the event on both the opening...",
-        link: "https://www.linkedin.com/posts/lilanofficial_climate-innovation-ai-activity-7435992390433271808-BZ0b?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1Nmxum7N2VixAfs_qbou7AY4E1dqhf3Kj/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.106",
-    title: "Engagement at the Inaugural Nalanda Development Dialogue (NDD) on People-centered and Sustainable Development",
+    id: "7.55",
+    title: "Engagement at the Inaugural Nalanda Development Dialogue (NDD) on People-centered Peacebuilding",
     slides: [
       {
         date: "March 2026",
@@ -10349,7 +10277,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.105",
+    id: "7.54",
     title: "Stranded in Doha (First Time) by Geopolitical Tensions",
     slides: [
       {
@@ -10367,8 +10295,8 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.104",
-    title: "Engagement at the AI Impact Summit on Diplomacy & Public Policy",
+    id: "7.53",
+    title: "Engagement at the AI Impact Summit on Public Policy",
     slides: [
       {
         date: "February 2026",
@@ -10396,7 +10324,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.103",
+    id: "7.52",
     title: "Engagement at the International Chanting and Dhamma Talk for Peacebuilding in Bodhgaya",
     slides: [
       {
@@ -10414,7 +10342,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.102",
+    id: "7.51",
     title: "Engagement at the World Nuclear Exhibition (WNE) for Nuclear Disarmament and Peace",
     slides: [
       {
@@ -10433,7 +10361,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.101",
+    id: "7.50",
     title: "Participating in the Vienna Conversation Series on Multilateral Disarmament, and Nuclear Non-proliferation",
     slides: [
       {
@@ -10451,259 +10379,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.100",
-    title: "Participating in the World Summit on the Information Society (WSIS) Forum's Open Consultation Process",
-    slides: [
-      {
-        date: "January 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "WSIS Forum 2026: Shaping the Future of Global Digital Cooperation",
-        image: "assets/img/impact/public-policy//WSIS 2026.jpg",
-        description:
-          "The World Summit on the Information Society (WSIS) Forum's Open Consultation Process (OCP) officially commenced today at the International Telecommunication Union (ITU) Headquarters in Geneva, bringing together stakeholders from across sectors to participate in Meeting 1 of this inclusive multistakeholder dialogue...",
-        link: "https://www.linkedin.com/posts/lilanofficial_itu-technology-wsis-activity-7419770247949299712-MTDS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1BqPPePhQVy4TPlylENoY05WvC5TMxHs6/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.99",
-    title: "Participating in the World Economic Forum",
-    slides: [
-      {
-        date: "January 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "World Economic Forum 2026: Building Prosperity Within Planetary Boundaries",
-        image: "assets/img/impact/public-policy/WEF 2026.png",
-        description:
-          "The World Economic Forum 2026 programme is structured around five key global challenges where meaningful public–private collaboration across all stakeholders is essential for progress. One of the most critical questions it raises is: How can we build prosperity within planetary boundaries...",
-        link: "https://www.linkedin.com/posts/lilanofficial_wef-davos-economy-activity-7419119529106255872-ZkSI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1Xpcg7_0_hQi7RiQBz2lNIPZvwM-3sIUA/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.98",
-    title: "Visiting the UN Pavilion at the Expo Osaka",
-    slides: [
-      {
-        date: "December 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Exploring Innovation and Global Collaboration at Expo 2025 Osaka",
-        image: "assets/img/impact/public-policy/Expo 2025 Osaka.jpg",
-        description:
-          "Expo 2025 Osaka in Japan, transformed Yumeshima Island into a global platform for innovation and collaboration under the theme “Designing Future Society for Our Lives.” With more than 160 countries and regions participating, the Expo explored solutions ...",
-        link: "https://www.linkedin.com/posts/lilanofficial_expo2025-unitednations-sdgs-activity-7411611837043019776-kwYu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1BTyCUC17c2hnnnHobBjeo15y9G4z2R6b/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.97",
-    title: "Osaka Expo Sri Lankan Delegation within the \"Empowering Lives\" Zone",
-    slides: [
-      {
-        date: "December 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Sri Lanka at Expo 2025 Osaka, Japan",
-        image: "assets/img/impact/public-policy/Sri Lanka at Expo 2025 Osaka.jpg",
-        description:
-          "It was great to be part of the Sri Lankan Delegation to Expo 2025 Osaka, Japan; within the \"Empowering Lives\" zone (D-3), showcased the nation's Ceylon Tea, spices, Ayurveda, handicrafts, gems, and tourism potential, aiming to boost trade, investment...",
-        link: "https://www.linkedin.com/posts/lilanofficial_expo-osaka-economy-activity-7410873580185370624-xlEt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1jCsb6IK0R0wVHIl9zJcj-p6SWDS8pnAt/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.96",
-    title: "Participating the Special Digital@UNGA WSIS+20 Edition at the United Nations Headquarters",
-    slides: [
-      {
-        date: "December 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Shaping an Inclusive Digital Future: Digital@UNGA WSIS+20",
-        image: "assets/img/impact/public-policy/Shaping an Inclusive Digital Future.jpg",
-        description:
-          "Following the success of the Digital@UNGA Anchor Event held during the United Nations General Assembly, the International Telecommunication Union (ITU) and the United Nations Development Programme (UNDP) hosted a special...",
-        link: "https://www.linkedin.com/posts/lilanofficial_digital-unga-wsis20-activity-7407073926519885824-sPpH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1ZGhZYMn2Huv99uE39XySr22iwJ-9Owv9/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.95",
-    title: "Visiting the Swiss Museum of Ceramics and Glass",
-    slides: [
-      {
-        date: "December 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Exploring Sustainability and Climate Action at Musée Ariana",
-        image: "assets/img/impact/public-policy/Exploring Sustainability and Climate Action at Musée Ariana.jpeg",
-        description:
-          "During my visit to the Musée Ariana (the Swiss Museum of Ceramics and Glass), I learned about a vibrant community of environmental collaboration centered around the Maison Internationale de l’Environnement (MIE), home to the Geneva Environment Network Secretariat...",
-        link: "https://www.linkedin.com/posts/lilanofficial_geneva-climateaction-sustainability-activity-7401342527079137280-BPpL?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/15StqtEYc12KmYV7R4aglh1_l0e6eLOpp/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.94",
-    title: "Participating in the Asia Berlin Summit",
-    slides: [
-      {
-        date: "November 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Berlin Hosts Global Innovation Summit 2025",
-        image: "assets/img/impact/public-policy/Berlin Hosts Global Innovation Summit 2025.jpeg",
-        description:
-          "Berlin opens its doors to founders, investors, policymakers, corporates, and ecosystem leaders from across Asia and Berlin. Over five days, the Summit will bring together innovation communities from 62+ countries to exchange ideas...",
-        link: "https://www.linkedin.com/posts/lilanofficial_asiaberlinsummit-berlininnovation-asiaberlinsummit-activity-7398507464637206529-0QGl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1fWE0sNbFjxO2TCayyMjFTIQmsHQECIzH/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.93",
-    title: "Delivering a Guest Lecture to Service Design Master’s program at Politecnico di Milano (POLIMI)",
-    slides: [
-      {
-        date: "December 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Guest Session at Politecnico di Milano",
-        image: "assets/img/impact/public-policy/Politecnico di Milano.jpeg",
-        description:
-          "A few days ago, I had the privilege of delivering a guest session to 100 talented students in the Service Design Master’s program at Politecnico di Milano (POLIMI). Nearly half of the cohort comes from outside the EU, bringing an incredible diversity...",
-        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-milan-polimi-activity-7402429699429507072-Ck7_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1-ZK9Lc20F9Z5Ya0urlmrsaqtm7pn78XS/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.92",
-    title: "Participating in the Asia-Pacific Forum on Sustainable Development (APFSD)",
-    slides: [
-      {
-        date: "November 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Youth Leadership at APFSD 2025",
-        image: "assets/img/impact/public-policy/Youth Leadership at APFSD 2025.jpeg",
-        description:
-          "The Asia-Pacific Forum on Sustainable Development (APFSD) in Bangkok generated remarkable momentum, driven by hundreds of young leaders united by a shared mission. Even before the main Forum began, the APFSD Youth Forum...",
-        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7395126166652825600-CsPj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1qNgRvZNXCZmqoNYehzwjjndqMj3NGwgh/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.91",
-    title: "Addressing the Asia-Pacific Forum on Sustainable Development (APFSD)",
-    slides: [
-      {
-        date: "November 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Speaking at the APFSD 2025 in Bangkok",
-        image: "assets/img/impact/public-policy/Speaking at the APFSD 2025 in Bangkok.jpeg",
-        description:
-          "I had the incredible opportunity to speak at the Asia-Pacific Forum on Sustainable Development (APFSD) in Bangkok, Thailand. Preceding the Forum, the APFSD Youth Forum brought together 549 young leaders...",
-        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7393604817316872193-V1WD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1dUNipTgce0XVWThhEWMwrKU7uXfDNRCU/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.90",
-    title: "Participating in the Catalyzing Change Week (CCW)",
-    slides: [
-      {
-        date: "November 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in the Catalyzing Change Week (CCW)",
-        image: "assets/img/impact/public-policy/Participating in the Catalyzing Change Week (CCW).jpeg",
-        description:
-          "Catalyzing Change Week (CCW) was the world's largest vitual gathering where social innovators, business leaders, and funders from around the world will meet in over 160 sessions organized across 65+ countries and in 7 languages to drive real systemic change....",
-        link: "https://www.linkedin.com/posts/lilanofficial_health-change-climate-activity-7393396123715002368-SdS7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/13Px2KdwhHGh5eVmamQsPNE4g0Micd6AD/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.89",
-    title: "Conducting Systems Thinking Workshops at the One Young World Summit",
-    slides: [
-      {
-        date: "November 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Bringing Systems Thinking to the Global Stage",
-        image: "assets/img/impact/public-policy/Bringing Systems Thinking to the Global Stage.png",
-        description:
-          "After diving into systems thinking during a Strategic Masterclass with the G20 Global Land Initiative at The London School of Economics and Political Science (LSE), I just brought that experience to the global stage as a Virgin Unite NewNow Leader at the One Young World Summit in Munich, Germany...",
-        link: "https://www.linkedin.com/posts/lilanofficial_g20gli-oneyoungworld-youthinaction-activity-7393225361410605056-T1T5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/11IGMIhfCci_T4OixsSUcUoZWBVzQuEp2/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.88",
-    title: "Exhibiting at the Asia-Pacific Forum on Sustainable Development (APFSD)",
-    slides: [
-      {
-        date: "November 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Exhibiting at the APFSD Youth Forum 2025",
-        image: "assets/img/impact/public-policy/Exhibiting at the APFSD Youth Forum 2025.jpeg",
-        description:
-          "I had the incredible opportunity to be an exhibitor at the APFSD Youth Forum in Bangkok, Thailand. This experience was truly enriching; it deepened my understanding of the Sustainable Development Goals (SDGs)...",
-        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7392773580519841792-9T8O?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1WPNoGyic-5W2O1EB4wDsVv64JAICT0Ny/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.87",
-    title: "Volunteering for the World Exposition (Expo Osaka)",
-    slides: [
-      {
-        date: "November 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Volunteering at the World Expo in Osaka: A Celebration of Innovation and Culture",
-        image: "assets/img/impact/public-policy/Volunteering at the World Expo in Osaka.jpeg",
-        description:
-          "It was an incredible opportunity to volunteer at the World Exposition in Osaka, Japan also known as the World’s Fair, one of those rare global events where nations come together to celebrate culture, innovation, and the future...",
-        link: "https://www.linkedin.com/posts/lilanofficial_osaka-japan-expo-activity-7391752716903096321-PnJ4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/186OBUJ3FbSTZ40r59xqy8rCywYid1x83/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.86",
+    id: "7.49",
     title: "Participating the Paris Peace Forum",
     slides: [
       {
@@ -10721,25 +10397,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.85",
-    title: "Participating in the 80th session of the United Nations General Assembly (UNGA80)",
-    slides: [
-      {
-        date: "October 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "UN80: A Turning Point for Global Cooperation and Reform",
-        image: "assets/img/impact/public-policy/UN80 A Turning Point for Global Cooperation and Reform.jpeg",
-        description:
-          "The 80th session of the United Nations (UN) General Assembly is currently underway in New York, with world leaders in attendance. The United Nations is facing pressing calls for reform...",
-        link: "https://www.linkedin.com/posts/lilanofficial_unga-unga80-sdgs-activity-7376530152719122432-JSaX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/10Ut4Pt2aD9U3LcKqkFgbEDaOcDV7hPZX/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.84",
+    id: "7.48",
     title: "Embracing the Values of Non-violence, Understanding & Unity",
     slides: [
       {
@@ -10757,7 +10415,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.83",
+    id: "7.47",
     title: "Trekking to ‘Peace Heaven’ Advocating for Nuclear Disarmament",
     slides: [
       {
@@ -10775,7 +10433,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.82",
+    id: "7.46",
     title: "Exploring the International Court of Justice (ICJ) Advisory Opinion (ICJ AO)",
     slides: [
       {
@@ -10793,7 +10451,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.81",
+    id: "7.45",
     title: "Participating in the Caux Reimagining Democracy(ies) Program",
     slides: [
       {
@@ -10822,7 +10480,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.80",
+    id: "7.44",
     title: "Exploring Democratic Tools Tailored for Daily Life Practices",
     slides: [
       {
@@ -10840,7 +10498,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.79",
+    id: "7.43",
     title: "Participating in the Council of All Beings, Democracy Lab on Art and Theatre",
     slides: [
       {
@@ -10858,7 +10516,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.78",
+    id: "7.42",
     title: "Participating in the Collaborative Community Group Discussions at the Caux Democracy Forum",
     slides: [
       {
@@ -10876,25 +10534,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.77",
-    title: "Celebrating Swiss National Day at the historic Caux Palace",
-    slides: [
-      {
-        date: "July 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Celebrating Swiss National Day at Caux Palace: A Day of Tradition, Community, and Alpine Beauty",
-        image: "assets/img/impact/public-policy/Celebrating Swiss National Day at Caux Palace.jpeg",
-        description:
-          "What an inspiring day (today) celebrating Swiss National Day at the historic Caux Palace! Perched 1,000 meters above Montreux, the Caux Palace offered a breathtaking backdrop...",
-        link: "https://www.linkedin.com/posts/lilanofficial_switzerland-national-celebration-activity-7357280053354795008-vAkl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1Ew7v8gGCoe9WvEaXnXxtUY8Di2ZHhXSL/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.76",
+    id: "7.41",
     title: "Diving into Creative Journaling and to the Caux Democracy Forum",
     slides: [
       {
@@ -10912,7 +10552,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.75",
+    id: "7.40",
     title: "Participating Quiet Reflections, Trust-building and Community-building Activities",
     slides: [
       {
@@ -10930,7 +10570,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.74",
+    id: "7.39",
     title: "Aligning with IofC’s vision of a just, peaceful, and sustainable world through Creative Leadership Program",
     slides: [
       {
@@ -10948,7 +10588,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.73",
+    id: "7.38",
     title: "Speaking for Futurizing Democracy: Threats and Opportunities in the Digital Age",
     slides: [
       {
@@ -10966,62 +10606,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.72",
-    title: "Participating in the United Nations World Summit on the Information Society (WSIS)",
-    slides: [
-      {
-        date: "July 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Discover Digital Innovation for Impact – Visit the WSA Stand at AI for Good",
-        image: "assets/img/impact/public-policy/Discover Digital Innovation for Impact.jpeg",
-        description:
-          "As a WSA Youth Ambassador at the AI for Good Global Summit in Geneva, I am excited to invite all participants to visit the World Summit Awards (WSA) stand, a hub for digital innovation with real-world impact...",
-        link: "https://www.linkedin.com/posts/lilanofficial_wsa-aiforgood-digitalinnovation-activity-7349005646815469568-pyFu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1gxQ8knn_ZnBTzOkMluOTX01I2sI-e9AF/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.71",
-    title: "Visiting the European Commission Pavilion at the Agricultural Fair in Ettelbruck",
-    slides: [
-      {
-        date: "July 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Labour, Policy & Climate: Reflections from Germany and Luxembourg",
-        image: "assets/img/impact/public-policy/Labour, Policy & Climate.png",
-        description:
-          "Just a couple of days ago in Cologne, Germany, I had the privilege of engaging in a thought-provoking discussion with Dr. Barbara Kauffmann, Director at the European Commission, alongside esteemed colleagues...",
-        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-europe-activity-7347400288829415424-deJc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1B_FATVXaA3A6byhm2ty3KGJNrJNcTcm_/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.70",
-    title:
-      "Visiting the G20 Global Land Initiative at the UN in Bonn to Pitch the Intergenerational Podcast Series",
-    slides: [
-      {
-        date: "July 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Strengthening Synergies: ELZIAN AGRO at the G20 Global Land Initiative in Bonn",
-        image: "assets/img/impact/public-policy/Strengthening Synergies.png",
-        description:
-          "Today, I had the privilege of visiting the G20 Global Land Initiative at the UNCCD in Bonn, Germany, to discuss one of our (ELZIAN AGRO’s) upcoming digital awareness initiatives...",
-        link: "https://www.linkedin.com/posts/lilanofficial_un-unccd-sustainability-activity-7346550762048507908-J7zU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1dAfH4sFWr97mWTqr7vzEE9cWOSuGRaEy/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.69",
+    id: "7.37",
     title:
       "World Summit Award's session at the WSIS Forum on Futurizing Democracy, Threats and Opportunities in the Digital Age",
     slides: [
@@ -11051,7 +10636,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.68",
+    id: "7.36",
     title: "Visiting the Pitt Rivers Museum and Oxford Philharmonic Orchestra in Oxford",
     slides: [
       {
@@ -11069,8 +10654,8 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.67",
-    title: "Meeting the Initiatives of Change United Kingdom community in Oxford",
+    id: "7.35",
+    title: "Meeting the Initiatives of Change United Kingdom Peacebuilding community in Oxford",
     slides: [
       {
         date: "June 2025",
@@ -11088,121 +10673,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.66",
-    title: "Visiting Linacre College, University of Oxford to reconnect with the staff",
-    slides: [
-      {
-        date: "June 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Meeting Dr. Nick Leimu-Brown at Linacre College, University of Oxford",
-        image: "assets/img/impact/public-policy/Nick Leimu-Brown.png",
-        description:
-          "I just had the opportunity to reconnect with Dr. Nick Leimu-Brown at Linacre College, University of Oxford. During our meeting, we discussed the Strategic Communication Masterclass...",
-        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7338267320496082944-Wjfw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/10RAfwiIMLqEfvr3ODXiMopHmSaSYVmaI/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.65",
-    title: "Exploring the Old Schools Quadrangle and Old Bodleian Library at the University of Oxford",
-    slides: [
-      {
-        date: "June 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Discovering Oxford’s Bodleian Library and Its Historic Quadrangle",
-        image:
-          "assets/img/impact/public-policy/Discovering Oxford’s Bodleian Library and Its Historic Quadrangle.jpeg",
-        description:
-          "During my visit to the University of Oxford, I was captivated by the historic charm of the Old Schools Quadrangle, an open courtyard nestled at the heart of the Old Bodleian Library...",
-        link: "https://www.linkedin.com/posts/lilanofficial_oxforduniversity-bodleianlibrary-academic-activity-7337684966782181377-lepf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1q9GcV4UpBQcCbCUxhoi8a2X4vS_iSofF/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.64",
-    title: "Exploring the Library Artefacts at St John's College, Oxford",
-    slides: [
-      {
-        date: "June 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Exploring Centuries of History at St John’s College, Oxford",
-        image:
-          "assets/img/impact/public-policy/Exploring Centuries of History at St John’s College, Oxford.png",
-        description:
-          "I had the pleasure of exploring the fascinating Library Artefacts at St John's College, Oxford, UK. The Library & Study Centre isn’t just a home for manuscripts...",
-        link: "https://www.linkedin.com/posts/lilanofficial_oxford-library-artefacts-activity-7337394574069248000--LY2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1FFpH22R6O0utMiwOYYX1DKMDPhng1nc5/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.63",
-    title:
-      "Exploring the Prestigious Global Media Outlets at the London School of Economics and Political Science (LSE)",
-    slides: [
-      {
-        date: "June 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Mastering Media Visibility & Public Speaking at LSE",
-        image: "assets/img/impact/public-policy/Mastering Media Visibility & Public Speaking at LSE.png",
-        description:
-          "Yesterday was an incredible opportunity to deepen my understanding of how to get featured in prestigious global media outlets and enhance my public speaking skills, particularly for voiceovers and broadcast...",
-        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7336784631742025728-Zdr5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1CP8SbzVufg65wZi18U5ysYIcuHL2MHhY/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.62",
-    title:
-      "Exploring the themes of storytelling at the London School of Economics and Political Science (LSE)",
-    slides: [
-      {
-        date: "June 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Mastering Ethical Storytelling & Lightning Pitches at LSE",
-        image:
-          "assets/img/impact/public-policy/Mastering Ethical Storytelling & Lightning Pitches at LSE.png",
-        description:
-          "Yesterday, I explored the themes of storytelling, influencing myths, and raising voices through ethical storytelling in the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE) here in London...",
-        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7336317420191608832-Pt3t?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1ua7EM3YurS6H_2ER4iRvJb3pVk02PTdu/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.61",
-    title:
-      "Participating in the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE)",
-    slides: [
-      {
-        date: "June 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Strategic Communication Masterclass Begins at LSE",
-        image: "assets/img/impact/public-policy/Strategic Communication Masterclass.png",
-        description:
-          "Today, we kicked off the Strategic Communication Masterclass at The London School of Economics and Political Science (LSE) in London, UK. Nick Leimu-Brown’s session on Land Degradation and Ecosystem Services offered fascinating insights...",
-        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7335372948188344321-ziTj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1xvbMyNZfBzKceeDyvCD6YbdwNlxzvLP5/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.60",
+    id: "7.34",
     title: "Participation in the Nagasaki Peace-Preneur Forum at BENEX Nagasaki Brick Hall",
     slides: [
       {
@@ -11220,7 +10691,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.59",
+    id: "7.33",
     title: "Participation in the Nagasaki Peace-Preneur Forum at Happiness Arena",
     slides: [
       {
@@ -11238,7 +10709,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.58",
+    id: "7.32",
     title:
       "Delivering the Opening Speech on behalf of the Youth at the Nagasaki Peace-Preneur Forum for Nuclear Disarmament",
     slides: [
@@ -11257,47 +10728,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.57",
-    title:
-      "Meeting the United Nations Group of Ten High-level Representatives of Civil Society, Private Sector, and the Scientific Community (10-Member-Group)",
-    slides: [
-      {
-        date: "May 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Bridging Grassroots Innovation & Global Policy: Engaging with the UN 10-Member-Group in New York",
-        image: "assets/img/impact/public-policy/Bridging Grassroots Innovation & Global Policy.png",
-        description:
-          "It was an honour to meet with the United Nations Group of Ten High-level Representatives of Civil Society, Private Sector, and the Scientific Community (10-Member-Group), a key component...",
-        link: "https://www.linkedin.com/posts/lilanofficial_science-technology-un-activity-7328054727437438976-iYmX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1fVudbvtoEl7jS5rwQNu2e3y2juWnz6jq/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.56",
-    title: "UN Forum on Science, Technology and Innovation for Artificial Intelligence and Young People",
-    slides: [
-      {
-        date: "May 7, 2025",
-        source_name: "Nations Unies",
-        source_link:
-          "https://www.un.org/fr?_gl=1*1cfmiqu*_ga*MTMyODc5MjM1OS4xNzQ3NjYyMjY5*_ga_TK9BQL5X7Z*czE3NDc2NjIyNjgkbzEkZzAkdDE3NDc2NjIyNjgkajAkbDAkaDA.*_ga_SCSJZ3XC0L*czE3NDc2NjIyNjgkbzEkZzAkdDE3NDc2NjIyNjgkajAkbDAkaDA.",
-        title:
-          "ECOSOC: Tenth anniversary of the forum on science, technology and innovation, an opportunity to discuss artificial intelligence and young people",
-        image: "assets/img/impact/public-policy/ECOSOC.png",
-        description:
-          "In the futuristic atmosphere of the Economic and Social Council (ECOSOC) chamber, transformed for the occasion...",
-        link: "https://press.un.org/fr/2025/ecosoc7202.doc.htm",
-        backup_image: "https://drive.google.com/file/d/1W-8GTxKPs6J0G1DoItce6arMzbSdK9uf/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.55",
+    id: "7.31",
     title: "Networking at ChangeNOW",
     slides: [
       {
@@ -11315,7 +10746,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.54",
+    id: "7.30",
     title:
       "A discussion on the vital role of the UN Economic and Social Council (ECOSOC) in coordinating with other United Nations agencies",
     slides: [
@@ -11334,7 +10765,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.53",
+    id: "7.29",
     title: "Participating in the WSA Global Congress based on Digital Democracy",
     slides: [
       {
@@ -11374,7 +10805,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.52",
+    id: "7.28",
     title: "Addressing the WSA Global Congress based on Digital Democracy",
     slides: [
       {
@@ -11392,7 +10823,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.51",
+    id: "7.27",
     title: "Contributing to Digital Democracy at the the WSA Global Congress",
     slides: [
       {
@@ -11410,7 +10841,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.50",
+    id: "7.26",
     title: "Participating in the Obama Foundation Democracy Forum",
     slides: [
       {
@@ -11428,26 +10859,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.49",
-    title: "Exploring Czech Philharmonic Performances",
-    slides: [
-      {
-        date: "December 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "An Evening of Legacy and Culture: Czech Philharmonic at Carnegie Hall with Moonshot Community",
-        image: "assets/img/impact/public-policy/An Evening of Legacy and Culture.png",
-        description:
-          "Today, I had the exciting opportunity to attend a performance by the Czech Philharmonic at Carnegie Hall in New York, alongside the Moonshot Community...",
-        link: "https://www.linkedin.com/posts/lilanofficial_czechphilharmonic-carnegiehall-czechculture-activity-7270652804468211712-8mwR?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1IRFMuqaKYfhijsolU3et2muQz5MJhMdn/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.48",
+    id: "7.25",
     title:
       "Participating in the declaration at the International Republican Institute’s Generation Democracy Global Summit",
     slides: [
@@ -11466,7 +10878,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.47",
+    id: "7.24",
     title: "Connecting with the Generation Democracy Affiliates",
     slides: [
       {
@@ -11485,7 +10897,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.46",
+    id: "7.23",
     title:
       "Participating in Introductory Sessions to the Global Democracy Coalition and Youth Democracy Cohort",
     slides: [
@@ -11505,7 +10917,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.45",
+    id: "7.22",
     title: "Participating in Leadership Practicums at the Generation Democracy Global Summit",
     slides: [
       {
@@ -11524,7 +10936,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.44",
+    id: "7.21",
     title: "Analysis of Presidential Campaigns",
     slides: [
       {
@@ -11543,48 +10955,9 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.43",
+    id: "7.20",
     title:
-      "Participating in the session on Cultivating Youth Leaders from All Backgrounds (Leadership in Diversity)",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Fostering Inclusive Democracies: Insights from the 'Leadership in Diversity' Session at the Generation Democracy Global Summit",
-        image: "assets/img/impact/public-policy/Fostering Inclusive Democracies.png",
-        description:
-          'I had the pleasure of participating in the "Cultivating Youth Leaders from All Backgrounds" (Leadership in Diversity) session at the Generation Democracy Global Summit in Vilnius, Lithuania.',
-        link: "https://www.linkedin.com/posts/lilanofficial_global-youthleadership-democracy-activity-7250886936259616770-7g4o?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1fG3EVEecH8kdQ-7cnW9Ax6nfbL9zMQlC/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.42",
-    title: "Supporting the regulation of tourist flow in Italy",
-    slides: [
-      {
-        date: "June 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Striking a Balance: Embracing Italy’s Tourism Regulations to Protect Cultural and Natural Heritage",
-        image: "assets/img/impact/public-policy/Striking a Balance.png",
-        description:
-          "Embarking on an iconic gondola ride through Venice’s canals and savouring the flavours of Rome’s streets have always been among my favourite experiences in Italy.",
-        link: "https://www.linkedin.com/posts/lilanofficial_italy-rome-venice-activity-7202231611512299521-xgD-?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1vjDJRT1KZYRSLsgixOE9GKpg9i0Vns_g/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.41",
-    title:
-      "Participating in the session on Empowering Youth through Civic-Tech and Practicum on Global Strategies for Strengthening Democratic Stability",
+      "Empowering Youth through Civic-Tech and Practicum on Global Strategies for Strengthening Democratic Stability",
     slides: [
       {
         date: "October 2024",
@@ -11602,44 +10975,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.40",
-    title: "Visiting in the Andrada Monument",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "José Bonifácio de Andrada e Silva Monument: Honoring Brazil’s Founding Father in Bryant Park, New York",
-        image: "assets/img/impact/public-policy/José Bonifácio.png",
-        description:
-          "José Bonifácio de Andrada e Silva, also known as the Andrada Monument, is an outdoor bronze sculpture of José Bonifácio de Andrada by José Otavio Correia Lima, located at Bryant Park in Manhattan, New York.",
-        link: "https://www.linkedin.com/posts/lilanofficial_newyork-nyc-manhattan-activity-7248457463073513472-dAN3?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1r7fVMmZoAy2I-3tINrCCi4eQ_vPvm-8M/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.39",
-    title: "Participating in the session on Meaningful Youth Participation in Eurasia ",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Empowering Eurasian Youth: Insights on Meaningful Participation in Civic and Political Life",
-        image: "assets/img/impact/public-policy/Empowering Eurasian Youth.png",
-        description:
-          "I had the opportunity to attend an insightful session on Meaningful Youth Participation in Eurasia. The discussion aimed to empower young leaders...",
-        link: "https://www.linkedin.com/posts/lilanofficial_globaldemocracy-youthleadership-civicengagement-activity-7249145208372649984-ClmV?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/11qNj98RTh4xNELzD9xWU8Tpavfpkc-CS/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.38",
+    id: "7.19",
     title: "Connecting with the Peace Boat & Peace Boat Disaster Relief Volunteer Centre",
     slides: [
       {
@@ -11657,9 +10993,20 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.37",
+    id: "7.18",
     title: "Participating in the Clinton Global Initiative (CGI) Annual Meeting",
     slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inspired by Global Leadership for Climate Action",
+        image: "assets/img/impact/public-policy/Inspired by Global Leadership for Climate Action.jpg",
+        description:
+          "Yesterday, I had the incredible opportunity to attend the evening gathering at the Clinton Global Initiative Meeting in New York, where I had the privilege of meeting President Bill Clinton and Secretary Hillary Clinton...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-cgi-activity-7244097914266927104-TNI1?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1JmvGUDH_dinSAlcw4KXmlBIttCQ_5AXc/view?usp=sharing",
+      },
       {
         date: "October 2024",
         source_name: "LinkedIn",
@@ -11671,30 +11018,55 @@ const impacts = [
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-tech-activity-7246628510948065280-nl9y?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1iFQxymJCTIGzPfryQM23PhxiB60IvPRb/view?usp=drive_link",
       },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.36",
-    title: "Visiting National Broadcasting Company (NBC) Universal",
-    slides: [
       {
-        date: "October 2024",
+        date: "July 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "A Thrilling Visit to NBC Studios at Rockefeller Center: Exploring the Home of Iconic TV Shows and Legendary Broadcasts",
-        image: "assets/img/impact/public-policy/NBC Studios.png",
+        title: "Tomorrow Starts with Today's Actions",
+        image: "assets/img/impact/public-policy/Tomorrow Starts with Today's Actions.jpg",
         description:
-          "It was a pleasure to visit NBC Universe where some of today's most popular television shows are made, like Saturday Night Live...",
-        link: "https://www.linkedin.com/posts/lilanofficial_media-news-actors-activity-7246466750412718080-fdK_?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1IASFZKpKdnfaUoC-xjdgEP-fyO5WG6Ft/view?usp=drive_link",
+          "Tomorrow represents both an inevitability and an opportunity. As the CGI community disperses to various corners of the globe to take collective action, we are reminded that much more remains to be done. The mainstage session, \"Tomorrow,\" focused on the future...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-action-activity-7252415957371899904-YE1O?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1JXcDTWKGTR_GLZOygSTBZ_H70bbYv7Hc/view?usp=sharing",
+      },
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Responding to the Perfect Storm of Global Challenges",
+        image: "assets/img/impact/public-policy/Responding to the Perfect Storm of Global Challenges.jpg",
+        description:
+          "There’s no shortage of global challenges to confront. The pressure, speed, and magnitude of these challenges like climate change, rising inequality, and natural and manmade disasters are creating the “perfect storm” for those of us committed to making progress on both new and longstanding...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-action-activity-7252578938537824256-fj6-?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/15KGkmlByk1CCwp_Sx1a8Bxa3difM2rzS/view?usp=sharing",
+      },
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Innovating Solutions in a Time of Crisis",
+        image: "assets/img/impact/public-policy/Innovating Solutions in a Time of Crisis.jpg",
+        description:
+          "The \"Innovating in a Time of Crisis\" session at the CGI Meeting in New York focused on the urgent threats facing vulnerable populations around the globe due to the climate crisis, diminishing resources, and growing humanitarian needs. This session explored solutions from various sectors, including government...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-action-activity-7253078637183213568-_yIX?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Zx9ACRiqNtuN0-qidkVbbH4K1WWEUTWb/view?usp=sharing",
+      },
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Scaling Solutions for a Sustainable and Equitable Future",
+        image: "assets/img/impact/public-policy/Scaling Solutions for a Sustainable and Equitable Future.jpg",
+        description:
+          "We all have a responsibility to move beyond focusing solely on what’s broken. It’s imperative that we identify, uplift, and scale solutions that are defying the odds. Acting with urgency is not just an option; it’s our duty, as the future (intergenerational rights) depends on it...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-action-activity-7253906505144360960-WObw?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1XNTvnZlBtevKrMUJ5Va-PGI4YXqQffaZ/view?usp=sharing",
       },
     ],
   },
   {
     filter: "filter-public-policy",
-    id: "7.35",
+    id: "7.17",
     title: "Participating in the Foreign Policy Health Forum at the United Nations General Assembly",
     slides: [
       {
@@ -11712,7 +11084,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.34",
+    id: "7.16",
     title: "Visiting Transparency International",
     slides: [
       {
@@ -11730,7 +11102,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.33",
+    id: "7.15",
     title:
       "Participating in the session on Strengthening Youth-led Grassroots Activism for Global Democracy and Visiting the Center for Equality Advancement",
     slides: [
@@ -11745,11 +11117,22 @@ const impacts = [
         link: "https://www.linkedin.com/posts/lilanofficial_youthactivism-globaldemocracy-grassrootsmovements-activity-7242448896088555522-kZf0?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1j1E-rrh84XX7RogyQk-0Ed4pa6LQE8-y/view?usp=drive_link",
       },
+      {
+        date: "July 2025",
+        source_name: "Lygių galimybių plėtros centras/Center for Equality Advancement",
+        source_link: "https://www.linkedin.com/company/lygiu-galimybiu-pletros-centras/posts/",
+        title: "Connecting with Global Youth Leaders",
+        image: "assets/img/impact/public-policy/Connecting with Global Youth Leaders.jpg",
+        description:
+          "The Centre for the Development of Equal Opportunities was visited by the participants of the 2024 Generation Democracy World Congress seeking to get to know civil society organisations better, get acquainted with their activities and the work they are implementing...",
+        link: "https://www.linkedin.com/posts/lygiu-galimybiu-pletros-centras_lyafjiahhlygybaft-genderequality-activity-7246431424994525184-IaTO?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1WC5UnOOTNUlx9-h-DIiGEG9_VSWbRiCI/view?usp=sharing",
+      },
     ],
   },
   {
     filter: "filter-public-policy",
-    id: "7.32",
+    id: "7.14",
     title: "Participating in the session on Impact on Civil Liberties and Human Rights",
     slides: [
       {
@@ -11767,7 +11150,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.31",
+    id: "7.13",
     title:
       "Participating in the session on Understanding the Global Significance of the Year of Elections and Introduction to Community of Democracies (CoD)",
     slides: [
@@ -11787,26 +11170,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.30",
-    title: "Participating in the Youth Perspectives on Global Security (Securing Tomorrow) Session",
-    slides: [
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Great Connections on Day One of the Generation Democracy Global Summit: Meeting Jetnor Kasmi and COL (ret) Vaidotas Malinionis",
-        image: "assets/img/impact/public-policy/Generation Democracy Global Summit.png",
-        description:
-          "It was a pleasure to meet Jetnor Kasmi and COL (ret) Vaidotas Malinionis on the first day of the Generation Democracy Global Summit in Vilnius, Lithuania.",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-global-security-activity-7241707044343332864-cqCC?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1Nt83iKcaUW34DS2QtBTpLJ9kmCmZVLtJ/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.29",
+    id: "7.12",
     title: "Addressing the Generation Democracy Global Summit",
     slides: [
       {
@@ -11837,457 +11201,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.28",
-    title: "Connecting with the International Communities",
-    slides: [
-      {
-        date: "April 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Connecting at ChangeNOW: Let’s Meet and Collaborate",
-        image: "assets/img/impact/public-policy/Connecting at ChangeNOW.jpg",
-        description:
-          "Excited to connect with so many inspiring changemakers shaping a better future. If you would like to meet in person or schedule a brief conversation, please feel free to stop by the Working Space next to the Agora Stage. I would be delighted to connect, exchange ideas, and explore potential collaborations...",
-        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-development-technology-activity-7444656427291553793-CZR-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1DEEpajcefxyMNbRhr39Bwm6aRfY6vjYS/view?usp=sharing",
-      },
-      {
-        date: "August 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Celebrating Swiss National Day at Caux Palace: A Day of Tradition, Community, and Alpine Beauty",
-        image: "assets/img/impact/public-policy/Celebrating Swiss National Day at Caux Palace.jpeg",
-        description:
-          "What an inspiring day (today) celebrating Swiss National Day at the historic Caux Palace! Perched 1,000 meters above Montreux, the Caux Palace offered a breathtaking backdrop...",
-        link: "https://www.linkedin.com/posts/lilanofficial_switzerland-national-celebration-activity-7357280053354795008-vAkl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1Ew7v8gGCoe9WvEaXnXxtUY8Di2ZHhXSL/view?usp=sharing",
-      },
-      {
-        date: "July 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "The Power of Reconnection: AI for Good, Geneva 2025",
-        image: "assets/img/impact/public-policy/The Power of Reconnection.png",
-        description:
-          "As 'reconnection' is one of my middle names, today felt like coming home. At the ‘AI for Good’ Summit in Geneva, I didn’t just shake hands; I rekindled partnerships, reignited old conversations...",
-        link: "https://www.linkedin.com/posts/lilanofficial_network-connection-community-activity-7348375679400296448-_qc-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1F-O7XkNZUSpulsOVAKk41gGsn9jn0UPo/view?usp=sharing",
-      },
-      {
-        date: "July 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Exploring Innovation at Luxembourg’s Agri-Fair 2025",
-        image: "assets/img/impact/public-policy/Exploring Innovation at Luxembourg’s Agri-Fair 2025.jpeg",
-        description:
-          "Today, Luxembourg’s largest open-air agricultural event brings together farmers, foresters, horticulturists, and agri-biotech innovators. As an agritech entrepreneur, I’m eager to connect with industry leaders...",
-        link: "https://www.linkedin.com/posts/lilanofficial_agritech-sustainablefarming-innovation-activity-7346863099636826113-uVkl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1KtguXQOmRUvVORU25FwUCl1xaO2lHPsR/view?usp=sharing",
-      },
-      {
-        date: "May 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Connecting for Sustainable Digital Inclusion: London & Oxford Meet-Up Opportunity",
-        image: "assets/img/impact/public-policy/London & Oxford Meet-Up Opportunity.png",
-        description:
-          "I will be visiting The London School of Economics and Political Science (LSE) during the first week of June, followed by a week at the University of Oxford. During my time in the...",
-        link: "https://www.linkedin.com/posts/lilanofficial_uk-england-london-activity-7330224625563369472-Sii3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1AFN9x6yOSG-dndqNXM4JsGIHgY95JQPg/view?usp=sharing",
-      },
-      {
-        date: "May 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Building Bridges in New York: Celebrating New & Enduring Connections for Global Impact",
-        image: "assets/img/impact/public-policy/Building Bridges in New York.png",
-        description:
-          "It was truly a pleasure to meet Clinton Fellows, Obama Fellows, representatives from Peace Boat, Blue Planet Alliance, and the UN community and more, last week in New ...",
-        link: "https://www.linkedin.com/posts/lilanofficial_networking-team-youth-activity-7329041369312690177-9rBm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1Djr-ulUS4EjHdY66-MtUCJ1ppYusVHF0/view?usp=sharing",
-      },
-      {
-        date: "May 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Hello Tokyo & Nagasaki: Let’s Connect on Climate Innovation & AgTech This May!",
-        image: "assets/img/impact/public-policy/Hello Tokyo & Nagasaki.png",
-        description:
-          "I’ll be visiting Tokyo and Nagasaki in mid-May and would love to connect with fellow entrepreneurs, investors, and changemakers in Japan especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
-        link: "https://www.linkedin.com/posts/lilanofficial_japan-tokyo-nagasaki-activity-7324494310429642754-7CG3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/112Gj84-NJrItepbftyfOKaks3OICK_Ly/view?usp=sharing",
-      },
-      {
-        date: "May 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Calling Innovators in the Netherlands: Let’s Connect on Climate & AgTech in June!",
-        image: "assets/img/impact/public-policy/Calling Innovators in the Netherlands.png",
-        description:
-          "I’ll be in Amsterdam and Maastricht during the fourth week of June, and I’m eager to connect with entrepreneurs, investors, and innovators...",
-        link: "https://www.linkedin.com/posts/lilanofficial_netherlands-amsterdam-maastricht-activity-7327402135640252418-FX0F?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1516nz9409t7bi716OKXP1Swnfrr7waju/view?usp=sharing",
-      },
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Connecting in Vilnius: Let's Meet to Discuss Social Entrepreneurship, Precision Agriculture, and Climate Action!",
-        image: "assets/img/impact/public-policy/Vilnius and eager.png",
-        description:
-          "I'm currently in the beautiful city of Vilnius and eager to connect with fellow Lithuanians and visitors who share a passion for social entrepreneurship, precision agriculture, and climate action...",
-        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-social-youth-activity-7240183246896914433-dxe8?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1jkyLj1aB5Zy5LMoGCQzzm2R76yhY_ktf/view?usp=drive_link",
-      },
-      {
-        date: "August 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Seeking Agricultural Experts in Kazan – Let’s Connect!",
-        image: "assets/img/impact/public-policy/Seeking Agricultural Experts in Kazan.jpeg",
-        description:
-          "I’ll be in Kazan next week and would like to connect with agricultural experts. If you’re interested in exchanging ideas or simply having a meaningful conversation, I’d be glad to meet you....",
-        link: "https://www.linkedin.com/posts/lilanofficial_russia-moscow-kazan-activity-7359349468074266624-iQC2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1LiKEvofxF_CH1Q6D85TSYRfNlqc9EJ8D/view?usp=sharing",
-      },
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Excited to Attend the Science Summit at UNGA 79 – Let's Connect in NYC!",
-        image: "assets/img/impact/public-policy/UNGA 79.png",
-        description:
-          "Exciting News! I will participate in the Science Summit at UNGA 79 (the UN General Assembly) in the fourth week of September...",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7239589530331140096-lu5O?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1s_k1UpM-JAmzP9LDvJTZCuOjIHvosNW9/view?usp=drive_link",
-      },
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Exciting news! Tomorrow, I’ll be in Singapore!",
-        image: "assets/img/impact/public-policy/be in Singapore.png",
-        description:
-          "I’m eager to connect with those passionate about precision agriculture and climate action in both the Global South and Global North.",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7238919595179286529-z1Yn/?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1981njYQ_5pWliWf-qnGvIVZsmTAoSEqz/view?usp=drive_link",
-      },
-      {
-        date: "October 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Thrilled to Connect in NYC: Let's Discuss Precision Agriculture and Climate Action in September",
-        image: "assets/img/impact/public-policy/Connect in NYC.png",
-        description:
-          "Exciting News! I’m thrilled to announce that I’ll be in New York, USA, during the third and fourth weeks of September! I’m eager to connect with fellow New Yorkers and others visiting NYC this month...",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7238235886688030721-qLmD?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1w4E8nOVHbOyFXjipdiQQJ6e4mZ18ITPn/view?usp=drive_link",
-      },
-      {
-        date: "May 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Connecting Paris for Climate, Innovation & Global Collaboration",
-        image: "assets/img/impact/public-policy/Connecting Paris.jpg",
-        description:
-          "I will be in Paris from June 1–7 and would welcome the opportunity to connect with individuals/entities working at the forefront of sustainability, innovation, and systems transformation...",
-        link: "https://www.linkedin.com/posts/lilanofficial_sparis-france-eu-ugcPost-7464699697115348992-zPxe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/10iuqOjCVD-WS6W15d3PqUg7YJiSvHGX_/view?usp=sharing",
-      },
-      {
-        date: "May 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Connecting in Belgrade: Sustainability, Innovation & Global Collaboration",
-        image: "assets/img/impact/public-policy/Connecting Belgrade.jpg",
-        description:
-          "Currently in Belgrade (Serbia) for the next seven days and excited to connect with people working at the forefront of sustainability, innovation, and systems transformation...",
-        link: "https://www.linkedin.com/posts/lilanofficial_expo-belgrade-serbia-share-7464428783505432576-iEas/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1Embpb2g5r8gHU_zuBPtIiFxgvDuwgYIm/view?usp=sharing",
-      },
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Excited to Connect in Foz do Iguaçu, Brazil: Let's Discuss Precision Agriculture and Climate Action in October",
-        image: "assets/img/impact/public-policy/Foz do Iguaçu.png",
-        description:
-          "Exciting News! I’m thrilled to share that I’ll be in Foz do Iguaçu, Brazil, during the first week of October. I'm eager to connect with the local Brazilian communities passionate about precision agriculture...",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7234189432709373952-v3nK?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1OXV6Rs2tzViiNcTNkg6fN7OzxbLebKWm/view?usp=drive_link",
-      },
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Connecting in Helsinki and Vilnius: Let's Discuss Precision Agriculture and Climate Action in September",
-        image: "assets/img/impact/public-policy/Helsinki and Vilnius.png",
-        description:
-          "Exciting news! I’ll be in Finland (Helsinki) and Lithuania (Vilnius) in the Second week of September and would like to connect with the Finnish and Lithuanian...",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7232802314900684800-hULd?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1SO1S8QUR7Vck-E2Rnfj5mjfPosU2tDo-/view?usp=drive_link",
-      },
-      {
-        date: "June 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Connecting for Sustainability & Innovation in Austria 🇦🇹",
-        image: "assets/img/impact/public-policy/Connecting for Sustainability & Innovation in Austria 🇦🇹.jpg",
-        description:
-          "Over the coming weeks, I will be in Vienna and Graz (from next week until the second week of July) and would welcome the opportunity to connect with individuals and organizations working at the intersection of sustainability, innovation, and systems transformation...",
-        link: "https://www.linkedin.com/posts/lilanofficial_austria-prague-eu-ugcPost-7476886588703105024-LW4X/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/16SP-u6V752gD9gsQg4J8eHDrnS2f8R5D/view?usp=sharing",
-      },
-      {
-        date: "August 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Connecting with Entrepreneurs & Changemakers in Japan – Tokyo, Kyoto, Osaka (October)",
-        image: "assets/img/impact/public-policy/Connecting with Entrepreneurs & Changemakers in Japan.jpeg",
-        description:
-          "I will be visiting Tokyo, Kyoto, and Osaka in the first week of October and would like to connect with fellow entrepreneurs, investors, and changemakers in Japan, especially those passionate about precision agriculture...",
-        link: "https://www.linkedin.com/posts/lilanofficial_japan-tokyo-kyoto-activity-7359381049065291776-Kxq-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/11xoomWTPlVJetN2HZpLkwh_KDIu7ICTL/view?usp=sharing",
-      },
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Connecting in Bangkok: Let's Discuss Precision Agriculture and Climate Action in September",
-        image: "assets/img/impact/public-policy/Connecting in Bangkok.png",
-        description:
-          "Exciting news! I’ll be in Bangkok in the third week of September and would like to connect with the Thai community. If you're passionate about precision agriculture and climate action in the Global South...",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7224861421937770496-wK3A?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1MS65c2f_ghh1J-bBKlGK-xBk5EQPEgYu/view?usp=drive_link",
-      },
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Exciting News: I'll Be in NYC from August 12th to 22nd - Let's Connect!",
-        image: "assets/img/impact/public-policy/NYC Community.png",
-        description:
-          "Exciting news! I’ll be in New York from August 12th to 22nd and would like to connect with the NYC community. If you're passionate about precision agriculture and climate action in the Global South, let’s meet up. Send me a message so we can schedule a convenient time.",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7224350106311876608-TPl-?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1MEy0_1Lhn9beWVq0AEMANT-ZM_z2VVpE/view?usp=drive_link",
-      },
-      {
-        date: "August 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Connecting with Entrepreneurs & Innovators in Brussels & Antwerp – September",
-        image: "assets/img/impact/public-policy/Connecting with Entrepreneurs.jpeg",
-        description:
-          "I’ll be in Brussels and Antwerp during the fourth week of September, and I’m eager to connect with entrepreneurs, investors, and innovators who are passionate about precision agriculture...",
-        link: "https://www.linkedin.com/posts/lilanofficial_belgium-brussels-antwerp-activity-7359342398059024384-hHk3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1FzSKfU89KWqRwcB2zYxcbQX5zZTTdaWe/view?usp=sharing",
-      },
-      {
-        date: "November 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Connecting in Riyadh: Let’s Talk Climate, Agriculture, and Collaboration 🌱🌍",
-        image: "assets/img/impact/public-policy/Connecting in Riyadh.jpeg",
-        description:
-          "Exciting news! I’ll be in Riyadh, Saudi Arabia, during the second week of December, and I’m eager to connect with professionals passionate about precision agriculture, land restoration, and climate action across both the Global South and Global North...",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7252629805420969984-qShC?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1e06AdMorUB90PR-J6alcZZvF3h5M7en_/view?usp=sharing",
-      },
-      {
-        date: "April 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Heading to Copenhagen for Climate & Sustainability Synergies – Let’s Connect!",
-        image:
-          "assets/img/impact/public-policy/Heading to Copenhagen for Climate & Sustainability Synergies.png",
-        description:
-          "Exciting news! I’ll be in Copenhagen, Denmark, during the fourth week of May, and I’m eager to connect with professionals passionate about precision agriculture, land restoration, and climate action across both the Global South and Global North...",
-        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-agriculture-climate-activity-7319900542682509312-C0qP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1TLo545PhNcOkU20DKkRlJzgXuuaGEOR2/view?usp=sharing",
-      },
-      {
-        date: "May 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Let’s Connect in St. Petersburg & Moscow: AgTech & Climate Action",
-        image: "assets/img/impact/public-policy/Let’s Connect in St. Petersburg & Moscow.jpeg",
-        description:
-          "I’ll be in St. Petersburg and Moscow next month, and I’m eager to connect with entrepreneurs, investors, and innovators...",
-        link: "https://www.linkedin.com/posts/lilanofficial_russia-petersburg-moscow-activity-7333852371405479936-ddG5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1QNQjkJ-eBCc8hc_86V_8VMwNofdbcbax/view?usp=sharing",
-      },
-      {
-        date: "May 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Exploring the Future of Tech at London Tech Week 2025",
-        image: "assets/img/impact/public-policy/Exploring the Future of Tech at London Tech Week 2025.jpeg",
-        description:
-          "Next month, I'll be joining thousands of innovators, investors, and tech leaders at the #LondonTechWeek to...",
-        link: "https://www.linkedin.com/posts/lilanofficial_londontechweek-ai-ltw25-activity-7333876746326331392-uvo9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1O3zSZlIYf4HGsGg43-GHPH68Qd9unO-u/view?usp=sharing",
-      },
-      {
-        date: "January 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Connecting in New Delhi at TREESCAPES 2026",
-        image: "assets/img/impact/public-policy/TREESCAPES 2026.png",
-        description:
-          "I will be visiting New Delhi in the first week of February to attend the First South Asian Agroforestry and Trees Outside Forests Congress (TREESCAPES 2026). During my time in the city, I would be glad to connect with entrepreneurs, investors, and changemakers, particularly those passionate about precision agriculture...",
-        link: "https://www.linkedin.com/posts/lilanofficial_forestry-asia-agroforestry-activity-7420958809138900992-dP3Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/131obee9U89y0ke71tEiTM8baYE41o63U/view?usp=sharing",
-      },
-      {
-        date: "February 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Calling the Nepal-based Network",
-        image: "assets/img/impact/public-policy/Nepal Network.jpg",
-        description:
-          "I’ll be visiting Southern Nepal (Lumbini, Labani, Pakadi, Kapilvastu, Dohani, and Gauri) during the second week of February, and I’d love to connect with entrepreneurs, investors, and changemakers across Nepal...",
-        link: "https://www.linkedin.com/posts/lilanofficial_nepal-food-agriculture-activity-7424256085013921792-FgoD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/16g9UNDMmCyjtDPzb76I0IbFqigrwQeMU/view?usp=sharing",
-      },     
-      {
-        date: "February 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Calling the European Network 🇸🇮 🇵🇱 🇭🇺",
-        image: "assets/img/impact/public-policy/European Network.jpg",
-        description:
-          "I’ll be visiting Slovenia (Ljubljana), Poland (Warsaw, Gdańsk, Kraków, Wrocław), and Hungary (Budapest, Eger, Győr) during the first and second weeks of April, and I’d love to connect with entrepreneurs, investors, and changemakers across Europe...",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-network-activity-7433008674723291136-28bu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/11ng0APMhlMVCRSm5MybhAjrW1CwaCDtD/view?usp=sharing",
-      },
-      {
-        date: "February 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Connecting with Changemakers in India",
-        image: "assets/img/impact/public-policy/India.jpg",
-        description:
-          " I’ll be traveling to New Delhi, Agra, Bihar, Uttar Pradesh, Gujarat, Pune, Panchgani, and Lucknow in the third and fourth weeks of February and am keen to connect with entrepreneurs, investors, and changemakers in these regions...",
-        link: "https://www.linkedin.com/posts/lilanofficial_india-food-agriculture-activity-7425592231035822081-Zb-S?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1B23cvPp34pkCXG2HU3LJ87n8epTR_LbP/view?usp=sharing",
-      },
-      {
-        date: "June 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "🇨🇿 Connecting with the Czech Sustainability Network",
-        image: "assets/img/impact/public-policy/🇨🇿 Connecting with the Czech Sustainability Network.jpg",
-        description:
-          "I will be in Prague during the third week of July and would welcome the opportunity to connect with individuals/entities working at the forefront of sustainability, innovation, and systems transformation...",
-        link: "https://www.linkedin.com/posts/lilanofficial_czechia-prague-eu-ugcPost-7475465652573478912-9Ebb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1VDK8s6Jgf4fD9kubdbHc_nniiJPlbbOB/view?usp=sharing",
-      },
-      {
-        date: "February 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Connecting with Iceland’s Climate & Innovation Network 🇮🇸",
-        image: "assets/img/impact/public-policy/Iceland.jpg",
-        description:
-          "I’ll be travelling to Reykjavík and Kópavogur during the second week of March and would welcome the opportunity to connect with entrepreneurs, agronomists, researchers, farmers, and climate innovators across Iceland...",
-        link: "https://www.linkedin.com/posts/lilanofficial_iceland-arctic-food-activity-7429076418694717440-5UVa?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1F9XN5-jPKHQj_2huWGV5RTwydgYkDqBH/view?usp=sharing",
-      },
-      {
-        date: "February 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Connecting with Switzerland’s Innovation Network 🇨🇭",
-        image: "assets/img/impact/public-policy/Switzerland.jpg",
-        description:
-          "I’ll be travelling to Zurich, Bern, St. Gallen, and Basel during the first week of March and would welcome the opportunity to connect with entrepreneurs, investors, and changemakers across Switzerland...",
-        link: "https://www.linkedin.com/posts/lilanofficial_switzerland-zurich-bern-activity-7426987032528367616-h9jg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1Jzbfv2ntWsKxIQtginuQWOjK4J8oeOCZ/view?usp=sharing",
-      },
-      {
-        date: "February 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Connecting with Germany’s Innovation Network 🇩🇪",
-        image: "assets/img/impact/public-policy/Germany.jpg",
-        description:
-          "I’ll be travelling to Munich, Berlin, and Hamburg during the third week of March and would be glad to connect with entrepreneurs, investors, and changemakers across Germany...",
-        link: "https://www.linkedin.com/posts/lilanofficial_germany-munich-berlin-activity-7426067483499057152-IUJB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1v2Pg-PWFGTEFpQfJYrIzhRsGliUafPre/view?usp=sharing",
-      },
-      {
-        date: "February 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Calling the Swedish Network",
-        image: "assets/img/impact/public-policy/Sweden Network.jpg",
-        description:
-          "I’ll be visiting Stockholm, Uppsala, Malmö, Lund, Kiruna, and Abisko during the third and fourth weeks of March, and I’d love to connect with entrepreneurs, investors, and changemakers across Sweden...",
-        link: "https://www.linkedin.com/posts/lilanofficial_sweden-stockholm-uppsala-activity-7423774183555440640-713H?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1aPn9NvJNOMwCZdH-M2J5JcKLxDouBxZi/view?usp=sharing",
-      },
-      {
-        date: "May 2025",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Calling Change-Makers in NYC: Let’s Connect on Climate & Agriculture! 🌱🗽",
-        image: "assets/img/impact/public-policy/Calling Change-Makers in NYC.jpeg",
-        description:
-          "I’ll be in New York next week and would love to connect with fellow New Yorkers; especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
-        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7323476341884887040-DGyu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1g5WMyY2Q74MZ04mPpf-VBi578WYzD1Hb/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.27",
-    title: "Participating in the Clinton Global Initiative Annual Meeting",
-    slides: [
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Joining the Clinton Global Initiative: Excited to Contribute Solutions at the Annual Meeting",
-        image: "assets/img/impact/public-policy/Clinton Global Initiative.png",
-        description:
-          'I’m excited to join the Clinton Global Initiative at their Annual Meeting this September! Solutions will be in focus, and I’m proud to contribute to "What’s Working" in making the world a better place.',
-        link: "https://www.linkedin.com/posts/lilanofficial_cgi2024-cgi2024-cgi-activity-7237643257625632769-fuBf?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1KmZXwLZtjAPcL6-jJS1KZf4p2bPd9AqK/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.26",
-    title: "Participating in the AFS Youth Assembly",
-    slides: [
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Engaging in Global Solutions: Insights from the AFS Youth Assembly in New York City",
-        image: "assets/img/impact/public-policy/Global Solutions.png",
-        description:
-          "I recently had the pleasure of attending the AFS Youth Assembly in New York City, where the agenda focused on key global challenges, including...",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-global-food-activity-7237442749816274946-H087?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/18qCQhCLprLyzce_c9ECXFA0CBvHpg7ey/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.25",
+    id: "7.11",
     title: "Completing the Global Competence Certificate (GCC)",
     slides: [
       {
@@ -12340,44 +11254,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.24",
-    title: "Visiting the American Field Service (AFS) Headquarters",
-    slides: [
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Embracing Global Citizenship: My Visit to the AFS Headquarters in New York",
-        image: "assets/img/impact/public-policy/Embracing Global Citizenship.png",
-        description:
-          "It was a pleasure to visit the American Field Service (AFS) Headquarters in New York, USA. AFS started as a volunteer ambulance corps in 1915, and its story is one of transformation from a wartime humanitarian aid organization to a pioneering international entity with a bold mission: to build a more peaceful world through cultural understanding.",
-        link: "https://www.linkedin.com/posts/lilanofficial_afs-youth-culture-activity-7229765163724201984-739L?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1ckT101XJGRBnehLv2LSltGrPWMq029N4/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.23",
-    title: "Exploring Musical Culture in Czechia",
-    slides: [
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Exploring the Rich Musical Heritage of the Czech Republic: A Journey Through Genres and Traditions",
-        image: "assets/img/impact/public-policy/Rich Musical Heritage.png",
-        description:
-          "The Czech Republic is a fantastic place to experience all genres of music. The country's musical heritage is deeply rooted in classical music, with a rich tradition of high-culture opera and symphony. Czech producers have drawn inspiration from traditional music, jazz, and blues.",
-        link: "https://www.linkedin.com/posts/lilanofficial_music-symphony-culture-activity-7236167772332826624-W0zj?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1c9tvfZwQihOME1VB3Z-mSJspISx2Og5t/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.22",
+    id: "7.10",
     title: "Meditation and Mindfulness for Self-reliance for Inner Peace at Das Buddhistische Haus",
     slides: [
       {
@@ -12395,48 +11272,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.21",
-    title: "Participating the Diplomatic Forum of the Centre for Diplomatic Advancement",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in a Diplomatic Forum",
-        image: "assets/img/impact/public-policy/Diplomatic Forum.png",
-        description:
-          "I had the opportunity to participate in a Diplomatic Forum at the Van Der Valk Hotel Charleroi, BMW Group Louyet in Belgium...",
-        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-forum-youth-activity-7223282424183406593-Csjz?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1kEA338MHhJEK7NmxpEA5jRhzFamvdLau/view?usp=drive_link",
-      },
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        id: "7.",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in the Global Diplomatic Forum in Belgium",
-        image: "assets/img/impact/public-policy/Global Diplomatic Forum.png",
-        description:
-          "It was a pleasure to participate in the Global Diplomatic Forum in Belgium. Diplomacy, as a crucial tool for fostering global harmony, plays an indispensable role in creating a better world. It involves the art of negotiation, dialogue, and collaboration among nations to address complex global challenges such as climate change, poverty, conflict, and human rights violations.",
-        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-diplomatic-un-activity-7224839062661033984-r8tP?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/12TM8WNpJ9eHI0DaK1OGFk0c194RVPa26/view?usp=drive_link",
-      },
-      {
-        date: "September 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in the Youth Diplomatic Forum in Belgium",
-        image: "assets/img/impact/public-policy/Youth Diplomatic Forum.png",
-        description:
-          "Participating in the Youth Diplomatic Forum in Belgium was an eye-opening experience that deepened my understanding of global diplomacy and the role of youth in shaping international relations. Engaging with young leaders from diverse cultural and political backgrounds, I learned the importance of dialogue and collaboration in addressing complex global challenges.",
-        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-diplomatic-un-activity-7233077437088088065-o4SW?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1zLFgA3x0rFuUVhkX5E-YWikt_-gHdXBW/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.20",
+    id: "7.9",
     title: "Performing at the Stage on Mars Studio Exploring Human Perspectives",
     slides: [
       {
@@ -12454,171 +11290,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.19",
-    title: "Addressing the Global Diplomatic Forum",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Engaging in Global Diplomacy: Insights from the Forum in Charleroi, Belgium",
-        image: "assets/img/impact/public-policy/Global Diplomacy.png",
-        description:
-          "Currently attending the Global Diplomatic Forum in Charleroi, Belgium. As defined by the National Geographic Society, diplomacy is the art and science of maintaining peaceful relationships between nations, groups, or individuals. It encompasses discussions on critical issues such as conflict, trade, the environment, technology, and security.",
-        link: "https://www.linkedin.com/posts/lilanofficial_globaldiplomaticforum-diplomacy-internationalrelations-activity-7222536656581537793-yyZI?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/18RYwesX5RyDBEIfu6w_dbiS8GYxEMvQO/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.18",
-    title: "Networking at the Berlin Poetry Festival (Poesiefestival)",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Celebrating Global Voices: My Experience at the Poesiefestival Berlin",
-        image: "assets/img/impact/public-policy/Global Voices.png",
-        description:
-          "It was a pleasant experience to be involved Poesiefestival in Berlin, Germany. Every summer, Berlin is transformed into a stronghold of poetry for a week. Over 150 poets and artists from all over the world come to the Berlin Poetry Festival (Poesiefestival Berlin) and present current trends in contemporary poetry.",
-        link: "https://www.linkedin.com/posts/lilanofficial_music-art-festival-activity-7221824489246838784-VDMy?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/15T67mQg7wmfFU2TrBZiauhmqbgpoymyB/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.17",
-    title: "Meditation for the Bohemian Gravity, the CORE of Creativity, and the Creativity Tree",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Exploring Creativity and Presence: Insights from Yemi A.D.'s Meditation Session at the Moonshot Platform",
-        image: "assets/img/impact/public-policy/Creativity and Presence.png",
-        description:
-          "I had the opportunity to take part in a meditation session conducted by phenomenal Yemi A.D. at the Moonshot Platform. During the session, we delved into Bohemian Gravity, the CORE of Creativity, and the Creativity Tree.",
-        link: "https://www.linkedin.com/posts/lilanofficial_creativity-energy-moonshot-activity-7221374273293103104-C0Ot?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1JUfhfV95rvzJ4JVoldFYnPGElYDYEMDf/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.16",
-    title: "Observe Czech Philharmonic",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Celebrating Heritage: The Impact of the Czech Philharmonic Orchestra Since 1896",
-        image: "assets/img/impact/public-policy/Celebrating Heritage.png",
-        description:
-          "Since its very first concert on January 4, 1896 the orchestra has been led by and comprised of outstanding artists, all of whom have contributed to building the Czech Philharmonic's excellent reputation at home and around the world. The orchestra's activities have also significantly for better or for worse tended to manifest the artistic, cultural, and political context reflective of the times.",
-        link: "https://www.linkedin.com/posts/lilanofficial_music-symphony-culture-activity-7220316728822521856-5t4f?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/15TdRyeHE9Do8ubo7NhLL4z-o_d8C1eGC/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.15",
-    title: "Moonshot Session on a Train Journey",
-    slides: [
-      {
-        date: "August 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Participating in a Seminar Conducted by the Moonshot Platform",
-        image: "assets/img/impact/public-policy/Moonshot Session.png",
-        description:
-          "I had an incredible experience participating in a seminar conducted by the Moonshot platform on a train journey from Prague to Ostrava. This unique event was supported by České dráhy, a.s. , City of Ostrava - official and the Ministerstvo dopravy ČR.",
-        link: "https://www.linkedin.com/posts/lilanofficial_team-energy-moonshot-activity-7219811126367203329-rBIR?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1OFD0dXCXinvCd6qIh7Mouj8GssYbvZ2a/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.15",
-    title: "Austrian Parliament Visit",
-    slides: [
-      {
-        date: "July 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Visiting the Austrian Parliament",
-        image: "assets/img/impact/public-policy/Austrian Parliament.png",
-        description:
-          "The Austrian Parliament Building in Vienna is the meeting place of the two houses of the Austrian Parliament. The building is located on the Ringstraße in the first district, Innere Stadt, near Hofburg Palace and the Palace of Justice.",
-        link: "https://www.linkedin.com/posts/lilanofficial_global-diplomacy-democracy-activity-7215070912256040962-g_sc?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1yjMfR4CAT0rskFW8MZbhMEeYD0RT8AjQ/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.14",
-    title: "Maltese Parliament Visit",
-    slides: [
-      {
-        date: "July 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Visiting the Maltese Parliament",
-        image: "assets/img/impact/public-policy/Visiting the Maltese Parliament.png",
-        description:
-          "Visiting the Maltese Parliament was an enriching experience that provided valuable insights into the legislative processes and governance of Malta. Engaging with policymakers and observing the inner workings of this esteemed institution underscored the importance of democratic principles and transparent governance. ",
-        link: "https://www.linkedin.com/posts/lilanofficial_malta-diplomacy-history-activity-7213966001128787970-uNHd?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1UkdrSItHx-0oM0RuFN9AzmJKT44ddhIU/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.13",
-    title: "Visiting the Monument of the Republic in Austria",
-    slides: [
-      {
-        date: "July 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Visiting the Monument of the Republic in Austria",
-        image: "assets/img/impact/public-policy/Republic in Austria.png",
-        description:
-          'Enjoyed visiting the Monument of the Republic in Austria, which commemorates the establishment of the Republic on November 12, 1918. This iconic monument, crafted by talented sculptors, features three busts of historically significant Social Democrats on pedestals, backed by three granite blocks with the inscription "The memory of the establishment of the Republic on 12 November 1918," emphasizing the founding of the republic.',
-        link: "https://www.linkedin.com/posts/lilanofficial_austria-vienna-history-activity-7213788756368142337-T020?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/162Gz353PnEvcC-dC8Wc0KTwNh2qOpQsr/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.12",
-    title: "Contributing to the Centre for Diplomatic Advancement",
-    slides: [
-      {
-        date: "June 2024",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "Addressing Food Insecurity Through Precision Agriculture and Inclusive Diplomacy: A Collaborative Path to Global Food Resilience",
-        image: "assets/img/impact/public-policy/Precision Agriculture.png",
-        description:
-          "Food insecurity, affecting millions globally, is not just about a lack of food but also encompasses issues of access, knowledge, and...",
-        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-democracy-food-activity-7200943955910250496-IYGS?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1tYB4CWFWKnSL0QajerWXRHMVUtd-5Bfm/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.11",
+    id: "7.8",
     title: "Distribution of books with an in-depth and authentic exploration of Theravada Buddhism",
     slides: [
       {
@@ -12637,25 +11309,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.10",
-    title: "Visiting the Ministry of Foreign Affairs, Kingdom of Thailand",
-    slides: [
-      {
-        date: "November 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Visiting the Ministry of Foreign Affairs, Kingdom of Thailand",
-        image: "assets/img/impact/public-policy/Visit the Ministry of Foreign Affairs.png",
-        description:
-          "It is such a great pleasure to visit the Ministry of Foreign Affairs, Kingdom of Thailand for the 3rd time within the last 12 months...",
-        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-wellness-diversity-activity-7066624979664076800-KkEO?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1Wi0_m625EbuPLF1S71BSn4kdo60jjTfE/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.9",
+    id: "7.7",
     title:
       "Volunteering for the Caux Forum of Initiatives of Change International (IofC) under the 'Healing the Wounds of the Past' category",
     slides: [
@@ -12674,7 +11328,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.8",
+    id: "7.6",
     title: "Addressing at the The United Nations Office at Geneva, Switzerland",
     slides: [
       {
@@ -12693,7 +11347,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.7",
+    id: "7.5",
     title: "Global Peace Ambassadorship",
     slides: [
       {
@@ -12711,7 +11365,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.6",
+    id: "7.4",
     title: "Contributing to the Dialogue between Cultures at the “House of Religions” in Bern, Switzerland",
     slides: [
       {
@@ -12729,7 +11383,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.5",
+    id: "7.3",
     title:
       "Collaborating the Walpola Rahula Institute (WRI) with the Initiatives of Change International (IofC)",
     slides: [
@@ -12748,7 +11402,7 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.4",
+    id: "7.2",
     title: "Videography support for the ‘Healing the Wounds of the Past' event organizing team",
     slides: [
       {
@@ -12761,24 +11415,6 @@ const impacts = [
           "This series of videos are being produced for 2023 Caux Forum by Nabin Pokhrel (Nepal), Lilan Dayananda and Amila Dilshan (Sri Lanka) who are volunteering in support of the 'Healing the Wounds of the Past' event organising team.",
         link: "https://www.youtube.com/watch?v=DRGvTwflvvc",
         backup_image: "https://drive.google.com/file/d/1AL3DaJaR7ofebWSR1FAfGrIORtZ9EPWo/view?usp=drive_link",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
-    id: "7.2",
-    title: "Inspiring Stories Global Fellowship of Global Politics Affairs",
-    slides: [
-      {
-        date: "December 2023",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title:
-          "The Best Capstone Project during the Inspiring Stories Global Fellowship of the Global Politics Affairs",
-        image: "assets/img/impact/public-policy/Best Capstone Project.png",
-        description: "",
-        link: "https://www.linkedin.com/posts/lilanofficial_youth-youthempowerment-leadership-activity-7129060381716606976-YTnD?utm_source=share&utm_medium=member_desktop",
-        backup_image: "https://drive.google.com/file/d/1kdqO-4OCN0p3qOuWLKuk4Ngf1AJ_dEfe/view?usp=drive_link",
       },
     ],
   },
@@ -12801,6 +11437,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.124",
+    title: "Systems Thinking Playmaker Training for Leaders at the Stage on Mars",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Seeing Systems, Not Just Problems",
+        image: "assets/img/impact/leadership-economic/Seeing Systems, Not Just Problems.jpg",
+        description:
+          "Countless leadership workshops teach you what to do. But very few change how you see. That was one of my biggest takeaways from experiencing Stage on Mars during the Moonshot Platform Young Leaders Camp in Prague. Despite its futuristic name, Stage on Mars isn't about technology. It's about something...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-youth-empowerment-ugcPost-7478796641634983936-Nevv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gVN9RXe9_dfTcMBM56rDUxOc-TP7sGn1/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.123",
@@ -15210,6 +13864,252 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.77",
+    title: "Living Emotional Technology through ArtZen at the Moonshot Young Leaders Camp",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Inner Journey of Leadership",
+        image: "assets/img/impact/youth-women-empowerment/The Inner Journey of Leadership.jpg",
+        description:
+          "Some leadership lessons are taught in classrooms. Others are experienced through moments that quietly change how you think. I’m deeply grateful to have been part of the latest Moonshot Young Leaders Camp in Czechia. This immersive journey brought together young leaders and mentors...",
+        link: "https://www.linkedin.com/posts/lilanofficial_some-leadership-lessons-are-taught-in-classrooms-ugcPost-7479071610470027264-2UXh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1KJhzUqXliLVRCds7acekBlJeopT6zw-E/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.76",
+    title: "Systems Thinking Playmaker Training for Youth Empowerment at the Stage on Mars",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Seeing Systems, Not Just Problems",
+        image: "assets/img/impact/youth-women-empowerment/Seeing Systems, Not Just Problems.jpg",
+        description:
+          "Countless leadership workshops teach you what to do. But very few change how you see. That was one of my biggest takeaways from experiencing Stage on Mars during the Moonshot Platform Young Leaders Camp in Prague. Despite its futuristic name, Stage on Mars isn't about technology. It's about something...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-youth-empowerment-ugcPost-7478796641634983936-Nevv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gVN9RXe9_dfTcMBM56rDUxOc-TP7sGn1/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.75",
+    title: "High-level Event on Building a New Era of Understanding and Cooperation: Meeting the Inequality Emergency",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Addressing Global Inequality Through Evidence-Based Action",
+        image: "assets/img/impact/youth-women-empowerment/Addressing Global Inequality.jpg",
+        description:
+          "A few weeks ago, I had the opportunity to attend a high-level event titled “Building a New Era of Understanding and Cooperation: Meeting the Inequality Emergency” at the Palais des Nations in Geneva, Switzerland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_economy-market-peace-ugcPost-7465197709138829312-8WFc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16KvS68HBPsMa_h-m7DT7pTcDDwdwBCJT/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.74",
+    title: "Delivering the Opening Speech on behalf of the Youth at the Nagasaki Peace-Preneur Forum",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Opening for Peace: Honoured to Represent Youth at the Nagasaki Peace-Preneur Forum",
+        image: "assets/img/impact/youth-women-empowerment/Opening for Peace.png",
+        description:
+          "Honoured to deliver the opening speech on behalf of the youth at the Nagasaki Peace-Preneur Forum yesterday, held at the remarkable Stadium City Nagasaki, Japan...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nagasaki-peace-youthforpeace-activity-7329398373063577600-97Qv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/18yY8l2oZEkqjTgXkggtQiurkROPpfnAS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.73",
+    title: "UN Forum on Science, Technology and Innovation for Artificial Intelligence and Young People",
+    slides: [
+      {
+        date: "May 7, 2025",
+        source_name: "Nations Unies",
+        source_link:
+          "https://www.un.org/fr?_gl=1*1cfmiqu*_ga*MTMyODc5MjM1OS4xNzQ3NjYyMjY5*_ga_TK9BQL5X7Z*czE3NDc2NjIyNjgkbzEkZzAkdDE3NDc2NjIyNjgkajAkbDAkaDA.*_ga_SCSJZ3XC0L*czE3NDc2NjIyNjgkbzEkZzAkdDE3NDc2NjIyNjgkajAkbDAkaDA.",
+        title:
+          "ECOSOC: Tenth anniversary of the forum on science, technology and innovation, an opportunity to discuss artificial intelligence and young people",
+        image: "assets/img/impact/youth-women-empowerment/ECOSOC.png",
+        description:
+          "In the futuristic atmosphere of the Economic and Social Council (ECOSOC) chamber, transformed for the occasion...",
+        link: "https://press.un.org/fr/2025/ecosoc7202.doc.htm",
+        backup_image: "https://drive.google.com/file/d/1W-8GTxKPs6J0G1DoItce6arMzbSdK9uf/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.72",
+    title:
+      "Cultivating Youth Leaders from All Backgrounds (Leadership in Diversity)",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Fostering Inclusive Democracies: Insights from the 'Leadership in Diversity' Session at the Generation Democracy Global Summit",
+        image: "assets/img/impact/youth-women-empowerment/Fostering Inclusive Democracies.png",
+        description:
+          'I had the pleasure of participating in the "Cultivating Youth Leaders from All Backgrounds" (Leadership in Diversity) session at the Generation Democracy Global Summit in Vilnius, Lithuania.',
+        link: "https://www.linkedin.com/posts/lilanofficial_global-youthleadership-democracy-activity-7250886936259616770-7g4o?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1fG3EVEecH8kdQ-7cnW9Ax6nfbL9zMQlC/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.71",
+    title:
+      "Empowering Youth through Civic-Tech and Practicum on Global Strategies",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Empowering Youth through Civic-Tech: Insights from Vilnius on Digital Engagement and Co-Governance",
+        image: "assets/img/impact/youth-women-empowerment/the session on Empowering Youth.png",
+        description:
+          "I had the opportunity to attend an insightful session on Empowering Youth through Civic-Tech in Vilnius, which highlighted how technology can be harnessed to boost youth engagement in civic activities.",
+        link: "https://www.linkedin.com/posts/lilanofficial_global-youthleadership-democracy-activity-7249818185082777600-k1XK?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1WbxSMCGNGLGRampFsD-GMMlYi9zd_yw1/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.70",
+    title: "Participating in the session on Meaningful Youth Participation in Eurasia",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Eurasian Youth: Insights on Meaningful Participation in Civic and Political Life",
+        image: "assets/img/impact/youth-women-empowerment/Empowering Eurasian Youth.png",
+        description:
+          "I had the opportunity to attend an insightful session on Meaningful Youth Participation in Eurasia. The discussion aimed to empower young leaders...",
+        link: "https://www.linkedin.com/posts/lilanofficial_globaldemocracy-youthleadership-civicengagement-activity-7249145208372649984-ClmV?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/11qNj98RTh4xNELzD9xWU8Tpavfpkc-CS/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.69",
+    title:
+      "Participating in the session on Strengthening Youth-led Grassroots Activism for Global Democracy and Visiting the Center for Equality Advancement",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth Activism: Visit to the Center for Equality Advancement",
+        image: "assets/img/impact/youth-women-empowerment/Center for Equality Advancement.png",
+        description:
+          "I had the opportunity to visit the Center for Equality Advancement in Vilnius, Lithuania, during the Generation Democracy Global Summit, following an insightful session on Strengthening Youth-led Grassroots Activism for Global Democracy.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youthactivism-globaldemocracy-grassrootsmovements-activity-7242448896088555522-kZf0?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1j1E-rrh84XX7RogyQk-0Ed4pa6LQE8-y/view?usp=drive_link",
+      },
+      {
+        date: "July 2025",
+        source_name: "Lygių galimybių plėtros centras/Center for Equality Advancement",
+        source_link: "https://www.linkedin.com/company/lygiu-galimybiu-pletros-centras/posts/",
+        title: "Connecting with Global Youth Leaders",
+        image: "assets/img/impact/youth-women-empowerment/Connecting with Global Youth Leaders.jpg",
+        description:
+          "The Centre for the Development of Equal Opportunities was visited by the participants of the 2024 Generation Democracy World Congress seeking to get to know civil society organisations better, get acquainted with their activities and the work they are implementing...",
+        link: "https://www.linkedin.com/posts/lygiu-galimybiu-pletros-centras_lyafjiahhlygybaft-genderequality-activity-7246431424994525184-IaTO?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1WC5UnOOTNUlx9-h-DIiGEG9_VSWbRiCI/view?usp=sharing",
+      },
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Global Youth Leaders",
+        image: "assets/img/impact/youth-women-empowerment/Connecting with Global Youth Leaders.jpg",
+        description:
+          "Visiting the Center for Equality Advancement in Vilnius, Lithuania was a pleasure...",
+        link: "https://www.linkedin.com/posts/lilanofficial_lyafjiahhlygybaft-genderequality-activity-7248405848190771200-9R1B?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1M7vZ_pIi5wAhDF64POpC1CLsCJo0qkka/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.68",
+    title: "Engagement with the Youth Perspectives on Global Security (Securing Tomorrow) Session",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Great Connections on Day One of the Generation Democracy Global Summit: Meeting Jetnor Kasmi and COL (ret) Vaidotas Malinionis",
+        image: "assets/img/impact/youth-women-empowerment/Generation Democracy Global Summit.png",
+        description:
+          "It was a pleasure to meet Jetnor Kasmi and COL (ret) Vaidotas Malinionis on the first day of the Generation Democracy Global Summit in Vilnius, Lithuania.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-global-security-activity-7241707044343332864-cqCC?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Nt83iKcaUW34DS2QtBTpLJ9kmCmZVLtJ/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.67",
+    title: "Engagement with the AFS Youth Assembly",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Engaging in Global Solutions: Insights from the AFS Youth Assembly in New York City",
+        image: "assets/img/impact/youth-women-empowerment/Global Solutions.png",
+        description:
+          "I recently had the pleasure of attending the AFS Youth Assembly in New York City, where the agenda focused on key global challenges, including...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-global-food-activity-7237442749816274946-H087?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/18qCQhCLprLyzce_c9ECXFA0CBvHpg7ey/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.66",
+    title: "Engagement with the Moonshot Youth Innovation Summit",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Leading Change Through Youth Innovation and Collaboration",
+        image: "assets/img/impact/youth-women-empowerment/Leading Change Through Youth Innovation and Collaboration.jpg",
+        description:
+          "It was a great opportunity to participate in the latest Moonshot Youth Innovation Summit at Prague Castle in Czechia. From environmental sustainability and emerging technologies to peacebuilding and purpose-driven business, the summit explored what it truly means to lead with hope, purpose, and action...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-youth-empowerment-activity-7478391636000116736-hL8o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1tKfc1MLIxzl8-XLGtNZAG1kWYCAUkB74/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-youth-women-empowerment",
     id: "9.65",
@@ -17715,75 +16615,39 @@ const impacts = [
     ],
   },
 
-  {
-    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
-    id: "13.32",
-    title: "ChildFund International : Cities on Fire – Art & Media Fellowship under the Art & Photography Track",
-    slides: [
-      {
-        date: "June 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Honored to Join Cities on Fire 🔥",
-        image: "assets/img/impact/arts-philosophy-mindfulness/Honored to Join Cities on Fire.jpg",
-        description:
-          "I am honored to be part of Cities on Fire – Art & Media Fellowship under the Art & Photography Track, a youth-powered initiative by ChildFund International that aims to spotlight the growing impact of extreme heat on children and young people across Asian cities...",
-        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-share-7475859050367188993-x5Wt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/15uzMi1PfcAeHOIXa2QaLeLsGe68tli1v/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
-    id: "13.31",
-    title: "My Interpretation of Monkey Sculptures & Globe (Earth) in Bonn",
-    slides: [
-      {
-        date: "June 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "The Monkeys of Bonn: A Reflection on Climate Leadership",
-        image: "assets/img/impact/arts-philosophy-mindfulness/The Monkeys of Bonn A Reflection on Climate Leadership.jpg",
-        description:
-          "While heading to the UN Climate Change Conference sessions of the Subsidiary Bodies in Germany, I came across this interesting installation in Bonn. It made me reflect on how bureaucratic systems can sometimes influence our response to the climate crisis. Some figures appear to cover their ears...",
-        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-ugcPost-7471198441839181825-U1GE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/166OjUfUswJOqjiijST1hC5M4grH3NLPQ/view?usp=sharing",
-      },
-    ],
-  },
-  {
+    {
     filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
     id: "13.30",
-    title: "Engagement with the Intersection of Youth Involvement for Art and Global Cultural Exchange at UNESCO Headquarters",
+    title: "Living Emotional Technology through ArtZen Neuroscience Approach",
     slides: [
       {
-        date: "June 2026",
+        date: "July 2026",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "A Day of Learning, Connection, and Opportunity at UNESCO",
-        image: "assets/img/impact/arts-philosophy-mindfulness/A Day of Learning, Connection, and Opportunity at UNESCO.jpg",
+        title: "The Inner Journey of Leadership",
+        image: "assets/img/impact/arts-philosophy-mindfulness/The Inner Journey of Leadership.jpg",
         description:
-          "Yesterday, I had the privilege of experiencing an inspiring convergence of youth innovation, entrepreneurship, and global cultural exchange at UNESCO Headquarters in Paris...",
-        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-youth-ugcPost-7467911236240801792-8mND/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1zK10uVXc1f1Bog4jIX7a8CJiLENYBH7k/view?usp=sharing",
+          "Some leadership lessons are taught in classrooms. Others are experienced through moments that quietly change how you think. I’m deeply grateful to have been part of the latest Moonshot Young Leaders Camp in Czechia. This immersive journey brought together young leaders and mentors...",
+        link: "https://www.linkedin.com/posts/lilanofficial_some-leadership-lessons-are-taught-in-classrooms-ugcPost-7479071610470027264-2UXh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1KJhzUqXliLVRCds7acekBlJeopT6zw-E/view?usp=sharing",
       },
     ],
   },
   {
     filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
     id: "13.29",
-    title: "Engagement with BeChangeMaker program (WorldSkills International ; The HP Foundation), a UNESCO Partnered Initiative",
+    title: "Playmaker Training for Systems Thinking at the Stage on Mars",
     slides: [
       {
-        date: "June 2026",
+        date: "July 2026",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Returning to UNESCO: Building Partnerships for Sustainable Impact",
-        image: "assets/img/impact/arts-philosophy-mindfulness/Returning to UNESCO Building Partnerships for Sustainable Impact.jpg",
+        title: "Seeing Systems, Not Just Problems",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Seeing Systems, Not Just Problems.jpg",
         description:
-          "I will be returning to UNESCO Headquarters in Paris tomorrow and spending the full week engaging with global leaders, innovators, and changemakers. I would be delighted to connect with individuals and organizations working at the forefront of sustainability...",
-        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-sustainability-ugcPost-7467221370192650240-bF2G/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1nOjGJfB8w1NJDMzgbngCKjPedjd-sL77/view?usp=sharing",
+          "Countless leadership workshops teach you what to do. But very few change how you see. That was one of my biggest takeaways from experiencing Stage on Mars during the Moonshot Platform Young Leaders Camp in Prague. Despite its futuristic name, Stage on Mars isn't about technology. It's about something...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-youth-empowerment-ugcPost-7478796641634983936-Nevv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gVN9RXe9_dfTcMBM56rDUxOc-TP7sGn1/view?usp=sharing",
       },
     ],
   },
@@ -18297,6 +17161,42 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.19",
+    title: "Diving into Creative Journaling and to the Caux Democracy Forum",
+    slides: [
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Leading with Integrity: Reflections from Day 4 of the Creative Leadership Program in Caux",
+        image: "assets/img/impact/journalism-media-mass-communication/Leading with Integrity.png",
+        description:
+          "On the fourth day of the Caux Creative Leadership Program in Montreux, Switzerland, I began with a deep dive into creative journaling, an exercise...",
+        link: "https://www.linkedin.com/posts/lilanofficial_creative-leadership-integrity-activity-7355492953005436928-6UA0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Hp8gbU264SoubKPs1gpf9SoB1jXfLJRg/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.18",
+    title: "One World Media G20 Fellowship on Storytelling, Media, Journalism, Filmmaking & Strategic Communication",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "One World Media",
+        source_link: "https://www.linkedin.com/company/one-world-media---uk/posts/",
+        title: "Honored to Join the G20 Voices for Land Fellowship",
+        image: "assets/img/impact/journalism-media-mass-communication/Honored to Join the G20 Voices for Land Fellowship.jpg",
+        description:
+          "We're thrilled to announce the G20 Fellowship – Voices for Land, a new partnership between One World Media, UN Convention to Combat Desertification and G20 Global Land Initiative...",
+        link: "https://www.linkedin.com/posts/g20fellowship-voicesforland-landrestoration-share-7478349278713827328-Z2Fj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1UT56W5bxghVUdED2RKR4s2ENfko2LN-x/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-journalism-media-mass-communication",
     id: "14.17",
@@ -19021,6 +17921,42 @@ const impacts = [
   },
   {
     filter: "filter-nature-based-explorations-adventures",
+    id: "15.23",
+    title: "Trekking to ‘Peace Heaven’ Advocating for Nuclear Disarmament",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Finding Peace in Nature: Reflections from My Trek to Peace Heaven, Pokhara",
+        image: "assets/img/impact/nature-based-explorations/Finding Peace in Nature.png",
+        description:
+          "During my recent trek to Peace Heaven, I was reminded of the profound connection between nature and inner peace. Trekking through such a serene environment in Pokhara, Nepal...",
+        link: "https://www.linkedin.com/posts/lilanofficial_trekking-climate-action-activity-7370370805731422208-NPeE?utm_source=share&utm_medium=member_android&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1cnbBGW6huTA04SRRhqtORYj9DMGao9Y-/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.22",
+    title: "Moonshot Sessions on a Train Journey & Nature-based Leadership Activities",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Breaking Barriers, Building Confidence",
+        image: "assets/img/impact/nature-based-explorations/Breaking Barriers, Building Confidence.jpg",
+        description:
+          "I had an incredible experience participating in a seminar conducted by the Moonshot platform on a train journey from Prague to Ostrava. This unique event was supported by České dráhy, a.s. , City of Ostrava - official and the Ministerstvo dopravy ČR...",
+        link: "https://www.linkedin.com/posts/lilanofficial_team-energy-moonshot-activity-7219811126367203329-rBIR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1e2PqkTja-VtSfdbYlXWkbegV4yTWmni8/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
     id: "15.21",
     title: "ChildFund International : Cities on Fire – Art & Media Fellowship under the Art & Photography Track",
     slides: [
@@ -19396,6 +18332,1902 @@ const impacts = [
           "I had the opportunity to visit the Greenwich Peninsula Ecology Park situated along the River Thames in the Greenwich Peninsula in South London, England...",
         link: "https://www.linkedin.com/posts/lilanofficial_greenwich-peninsula-ecologypark-activity-7339953118735998976-ivW6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1QZR-v-I2c8IuzDOm4ZBF5S_FcSveepds/view?usp=sharing",
+      },
+    ],
+  },
+
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.17",
+    title: "Playmaker Training at the Stage on Mars",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Seeing Systems, Not Just Problems",
+        image: "assets/img/impact/history-culture-art-archeology/Seeing Systems, Not Just Problems.jpg",
+        description:
+          "Countless leadership workshops teach you what to do. But very few change how you see. That was one of my biggest takeaways from experiencing Stage on Mars during the Moonshot Platform Young Leaders Camp in Prague. Despite its futuristic name, Stage on Mars isn't about technology. It's about something...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-youth-empowerment-ugcPost-7478796641634983936-Nevv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gVN9RXe9_dfTcMBM56rDUxOc-TP7sGn1/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.16",
+    title: "Cities on Fire – Art & Media Fellowship under the Art & Photography Track",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Join Cities on Fire 🔥",
+        image: "assets/img/impact/history-culture-art-archeology/Honored to Join Cities on Fire.jpg",
+        description:
+          "I am honored to be part of Cities on Fire – Art & Media Fellowship under the Art & Photography Track, a youth-powered initiative by ChildFund International that aims to spotlight the growing impact of extreme heat on children and young people across Asian cities...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-share-7475859050367188993-x5Wt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15uzMi1PfcAeHOIXa2QaLeLsGe68tli1v/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.15",
+    title: "Interpretation of Monkey Sculptures & Globe (Earth) in Bonn",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Monkeys of Bonn: A Reflection on Climate Leadership",
+        image: "assets/img/impact/history-culture-art-archeology/The Monkeys of Bonn A Reflection on Climate Leadership.jpg",
+        description:
+          "While heading to the UN Climate Change Conference sessions of the Subsidiary Bodies in Germany, I came across this interesting installation in Bonn. It made me reflect on how bureaucratic systems can sometimes influence our response to the climate crisis. Some figures appear to cover their ears...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-ugcPost-7471198441839181825-U1GE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/166OjUfUswJOqjiijST1hC5M4grH3NLPQ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.14",
+    title: "Engagement with the Intersection of Youth Involvement for Art and Global Cultural Exchange at UNESCO Headquarters",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Day of Learning, Connection, and Opportunity at UNESCO",
+        image: "assets/img/impact/history-culture-art-archeology/A Day of Learning, Connection, and Opportunity at UNESCO.jpg",
+        description:
+          "Yesterday, I had the privilege of experiencing an inspiring convergence of youth innovation, entrepreneurship, and global cultural exchange at UNESCO Headquarters in Paris...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-youth-ugcPost-7467911236240801792-8mND/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zK10uVXc1f1Bog4jIX7a8CJiLENYBH7k/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.13",
+    title: "Engagement with BeChangeMaker program (WorldSkills International ; The HP Foundation), a UNESCO Partnered Initiative",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Returning to UNESCO: Building Partnerships for Sustainable Impact",
+        image: "assets/img/impact/history-culture-art-archeology/Returning to UNESCO Building Partnerships for Sustainable Impact.jpg",
+        description:
+          "I will be returning to UNESCO Headquarters in Paris tomorrow and spending the full week engaging with global leaders, innovators, and changemakers. I would be delighted to connect with individuals and organizations working at the forefront of sustainability...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-sustainability-ugcPost-7467221370192650240-bF2G/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1nOjGJfB8w1NJDMzgbngCKjPedjd-sL77/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.12",
+    title: "Visiting the Pitt Rivers Museum and Oxford Philharmonic Orchestra in Oxford",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Hawai‘i Ma uka to Ma kai: A Powerful Cultural Journey at Oxford’s Pitt Rivers Museum",
+        image: "assets/img/impact/history-culture-art-archeology/Hawai‘i Ma uka to Ma kai.jpeg",
+        description:
+          "Yesterday, on June 12, 2025, The Pitt Rivers Museum in Oxford opened a powerful and immersive special exhibition...",
+        link: "https://www.linkedin.com/posts/lilanofficial_hawaii-culturalheritage-hula-activity-7339300527173718016-j4g7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gi7H0pjNhca-GmGZC4MtmUiu8evIjUtD/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.11",
+    title: "Venerate the Holy Belt of the Most Holy Theotokos (Virgin Mary)",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Journey of Faith, History, and Interfaith Understanding",
+        image: "assets/img/impact/history-culture-art-archeology/A Journey of Faith, History, and Interfaith Understanding.jpg",
+        description:
+          "As the Holy Belt of the Virgin Mary returns to Serbia for the first time in nearly 650 years, I had the unique opportunity to see and venerate this sacred relic at the Temple of Saint Sava in Belgrade...",
+        link: "https://www.linkedin.com/posts/lilanofficial_interfaithdialogue-religiousharmony-culturalexchange-ugcPost-7467114013622120448-RDmv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ZN0iLv_zt_V8Opp0lbGI8a7oebMM7Tsq/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.10",
+    title: "Exploring the Old Schools Quadrangle and Old Bodleian Library at the University of Oxford",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Discovering Oxford’s Bodleian Library and Its Historic Quadrangle",
+        image:
+          "assets/img/impact/history-culture-art-archeology/Discovering Oxford’s Bodleian Library and Its Historic Quadrangle.jpeg",
+        description:
+          "During my visit to the University of Oxford, I was captivated by the historic charm of the Old Schools Quadrangle, an open courtyard nestled at the heart of the Old Bodleian Library...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oxforduniversity-bodleianlibrary-academic-activity-7337684966782181377-lepf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1q9GcV4UpBQcCbCUxhoi8a2X4vS_iSofF/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.9",
+    title: "Exploring Czech Philharmonic Performances",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "An Evening of Legacy and Culture: Czech Philharmonic at Carnegie Hall with Moonshot Community",
+        image: "assets/img/impact/history-culture-art-archeology/An Evening of Legacy and Culture.png",
+        description:
+          "Today, I had the exciting opportunity to attend a performance by the Czech Philharmonic at Carnegie Hall in New York, alongside the Moonshot Community...",
+        link: "https://www.linkedin.com/posts/lilanofficial_czechphilharmonic-carnegiehall-czechculture-activity-7270652804468211712-8mwR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1IRFMuqaKYfhijsolU3et2muQz5MJhMdn/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.8",
+    title: "Visiting in the Andrada Monument",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "José Bonifácio de Andrada e Silva Monument: Honoring Brazil’s Founding Father in Bryant Park, New York",
+        image: "assets/img/impact/history-culture-art-archeology/José Bonifácio.png",
+        description:
+          "José Bonifácio de Andrada e Silva, also known as the Andrada Monument, is an outdoor bronze sculpture of José Bonifácio de Andrada by José Otavio Correia Lima, located...",
+        link: "https://www.linkedin.com/posts/lilanofficial_newyork-nyc-manhattan-activity-7248457463073513472-dAN3?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1r7fVMmZoAy2I-3tINrCCi4eQ_vPvm-8M/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.7",
+    title: "Exploring Musical Culture in Czechia",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Exploring the Rich Musical Heritage of the Czech Republic: A Journey Through Genres and Traditions",
+        image: "assets/img/impact/history-culture-art-archeology/Rich Musical Heritage.png",
+        description:
+          "The Czech Republic is a fantastic place to experience all genres of music. The country's musical heritage is deeply rooted in classical music, with a rich tradition...",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-symphony-culture-activity-7236167772332826624-W0zj?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1c9tvfZwQihOME1VB3Z-mSJspISx2Og5t/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.6",
+    title: " Berlin Poetry Festival (Poesiefestival)",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating Global Voices: My Experience at the Poesiefestival Berlin",
+        image: "assets/img/impact/history-culture-art-archeology/Global Voices.png",
+        description:
+          "It was a pleasant experience to be involved Poesiefestival in Berlin, Germany. Every summer, Berlin is transformed into a stronghold of poetry for a week. Over 150 poets and artists from all over the world come to the Berlin Poetry Festival (Poesiefestival Berlin) and present current trends in contemporary poetry.",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-art-festival-activity-7221824489246838784-VDMy?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/15T67mQg7wmfFU2TrBZiauhmqbgpoymyB/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.5",
+    title: "Exploration of Cultural Heritage Spaces that Preserve Centuries of Czech History",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building Leadership Beyond the Conference",
+        image: "assets/img/impact/history-culture-art-archeology/Building Leadership Beyond the Conference.jpg",
+        description:
+          'Following the latest Moonshot Youth Innovation Summit in Prague, our journey continued beyond the conference halls, reminding us that meaningful leadership is built not only through dialogue but also through shared experiences...',
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-youth-empowerment-activity-7478412733340614656-MMMz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16ADoUPITHxXd8YBE9EYy9i2rYNB_HxGV/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.4",
+    title: "Visiting the Monument of the Republic in Austria",
+    slides: [
+      {
+        date: "July 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting the Monument of the Republic in Austria",
+        image: "assets/img/impact/history-culture-art-archeology/Republic in Austria.png",
+        description:
+          'Enjoyed visiting the Monument of the Republic in Austria, which commemorates the establishment of the Republic on November 12, 1918. This iconic monument, crafted by talented sculptors, features three busts of historically significant Social Democrats on pedestals, backed by three granite blocks with the inscription "The memory of the establishment of the Republic on 12 November 1918," emphasizing the founding of the republic.',
+        link: "https://www.linkedin.com/posts/lilanofficial_austria-vienna-history-activity-7213788756368142337-T020?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/162Gz353PnEvcC-dC8Wc0KTwNh2qOpQsr/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.3",
+    title: "Observe Czech Philharmonic",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating Heritage: The Impact of the Czech Philharmonic Orchestra Since 1896",
+        image: "assets/img/impact/history-culture-art-archeology/Celebrating Heritage.png",
+        description:
+          "Since its very first concert on January 4, 1896 the orchestra has been led by and comprised of outstanding artists, all of whom have contributed to building the Czech Philharmonic's excellent reputation at home and around the world. The orchestra's activities have also significantly for better or for worse tended to manifest the artistic, cultural, and political context reflective of the times.",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-symphony-culture-activity-7220316728822521856-5t4f?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/15TdRyeHE9Do8ubo7NhLL4z-o_d8C1eGC/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.2",
+    title: "Exploring the Library Artefacts at St John's College, Oxford",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Centuries of History at St John’s College, Oxford",
+        image:
+          "assets/img/impact/history-culture-art-archeology/Exploring Centuries of History at St John’s College, Oxford.png",
+        description:
+          "I had the pleasure of exploring the fascinating Library Artefacts at St John's College, Oxford, UK. The Library & Study Centre isn’t just a home for manuscripts...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oxford-library-artefacts-activity-7337394574069248000--LY2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FFpH22R6O0utMiwOYYX1DKMDPhng1nc5/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.1",
+    title: "Visiting the Swiss Museum of Ceramics and Glass",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Sustainability and Climate Action at Musée Ariana",
+        image: "assets/img/impact/history-culture-art-archeology/Exploring Sustainability and Climate Action at Musée Ariana.jpeg",
+        description:
+          "During my visit to the Musée Ariana (the Swiss Museum of Ceramics and Glass), I learned about a vibrant community of environmental collaboration centered around the Maison Internationale de l’Environnement (MIE), home to the Geneva Environment Network Secretariat...",
+        link: "https://www.linkedin.com/posts/lilanofficial_geneva-climateaction-sustainability-activity-7401342527079137280-BPpL?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15StqtEYc12KmYV7R4aglh1_l0e6eLOpp/view?usp=sharing",
+      },
+    ],
+  },
+
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.0",
+    title: "Connecting with the International Communities",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting at ChangeNOW: Let’s Meet and Collaborate",
+        image: "assets/img/impact/public-policy/Connecting at ChangeNOW.jpg",
+        description:
+          "Excited to connect with so many inspiring changemakers shaping a better future. If you would like to meet in person or schedule a brief conversation, please feel free to stop by the Working Space next to the Agora Stage. I would be delighted to connect, exchange ideas, and explore potential collaborations...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainability-development-technology-activity-7444656427291553793-CZR-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1DEEpajcefxyMNbRhr39Bwm6aRfY6vjYS/view?usp=sharing",
+      },
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating Swiss National Day at Caux Palace: A Day of Tradition, Community, and Alpine Beauty",
+        image: "assets/img/impact/public-policy/Celebrating Swiss National Day at Caux Palace.jpeg",
+        description:
+          "What an inspiring day (today) celebrating Swiss National Day at the historic Caux Palace! Perched 1,000 meters above Montreux, the Caux Palace offered a breathtaking backdrop...",
+        link: "https://www.linkedin.com/posts/lilanofficial_switzerland-national-celebration-activity-7357280053354795008-vAkl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Ew7v8gGCoe9WvEaXnXxtUY8Di2ZHhXSL/view?usp=sharing",
+      },
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Power of Reconnection: AI for Good, Geneva 2025",
+        image: "assets/img/impact/public-policy/The Power of Reconnection.png",
+        description:
+          "As 'reconnection' is one of my middle names, today felt like coming home. At the ‘AI for Good’ Summit in Geneva, I didn’t just shake hands; I rekindled partnerships, reignited old conversations...",
+        link: "https://www.linkedin.com/posts/lilanofficial_network-connection-community-activity-7348375679400296448-_qc-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1F-O7XkNZUSpulsOVAKk41gGsn9jn0UPo/view?usp=sharing",
+      },
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Innovation at Luxembourg’s Agri-Fair 2025",
+        image: "assets/img/impact/public-policy/Exploring Innovation at Luxembourg’s Agri-Fair 2025.jpeg",
+        description:
+          "Today, Luxembourg’s largest open-air agricultural event brings together farmers, foresters, horticulturists, and agri-biotech innovators. As an agritech entrepreneur, I’m eager to connect with industry leaders...",
+        link: "https://www.linkedin.com/posts/lilanofficial_agritech-sustainablefarming-innovation-activity-7346863099636826113-uVkl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1KtguXQOmRUvVORU25FwUCl1xaO2lHPsR/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting for Sustainable Digital Inclusion: London & Oxford Meet-Up Opportunity",
+        image: "assets/img/impact/public-policy/London & Oxford Meet-Up Opportunity.png",
+        description:
+          "I will be visiting The London School of Economics and Political Science (LSE) during the first week of June, followed by a week at the University of Oxford. During my time in the...",
+        link: "https://www.linkedin.com/posts/lilanofficial_uk-england-london-activity-7330224625563369472-Sii3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1AFN9x6yOSG-dndqNXM4JsGIHgY95JQPg/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building Bridges in New York: Celebrating New & Enduring Connections for Global Impact",
+        image: "assets/img/impact/public-policy/Building Bridges in New York.png",
+        description:
+          "It was truly a pleasure to meet Clinton Fellows, Obama Fellows, representatives from Peace Boat, Blue Planet Alliance, and the UN community and more, last week in New ...",
+        link: "https://www.linkedin.com/posts/lilanofficial_networking-team-youth-activity-7329041369312690177-9rBm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Djr-ulUS4EjHdY66-MtUCJ1ppYusVHF0/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Hello Tokyo & Nagasaki: Let’s Connect on Climate Innovation & AgTech This May!",
+        image: "assets/img/impact/public-policy/Hello Tokyo & Nagasaki.png",
+        description:
+          "I’ll be visiting Tokyo and Nagasaki in mid-May and would love to connect with fellow entrepreneurs, investors, and changemakers in Japan especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
+        link: "https://www.linkedin.com/posts/lilanofficial_japan-tokyo-nagasaki-activity-7324494310429642754-7CG3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/112Gj84-NJrItepbftyfOKaks3OICK_Ly/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling Innovators in the Netherlands: Let’s Connect on Climate & AgTech in June!",
+        image: "assets/img/impact/public-policy/Calling Innovators in the Netherlands.png",
+        description:
+          "I’ll be in Amsterdam and Maastricht during the fourth week of June, and I’m eager to connect with entrepreneurs, investors, and innovators...",
+        link: "https://www.linkedin.com/posts/lilanofficial_netherlands-amsterdam-maastricht-activity-7327402135640252418-FX0F?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1516nz9409t7bi716OKXP1Swnfrr7waju/view?usp=sharing",
+      },
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting in Vilnius: Let's Meet to Discuss Social Entrepreneurship, Precision Agriculture, and Climate Action!",
+        image: "assets/img/impact/public-policy/Vilnius and eager.png",
+        description:
+          "I'm currently in the beautiful city of Vilnius and eager to connect with fellow Lithuanians and visitors who share a passion for social entrepreneurship, precision agriculture, and climate action...",
+        link: "https://www.linkedin.com/posts/lilanofficial_entrepreneurship-social-youth-activity-7240183246896914433-dxe8?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1jkyLj1aB5Zy5LMoGCQzzm2R76yhY_ktf/view?usp=drive_link",
+      },
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Seeking Agricultural Experts in Kazan – Let’s Connect!",
+        image: "assets/img/impact/public-policy/Seeking Agricultural Experts in Kazan.jpeg",
+        description:
+          "I’ll be in Kazan next week and would like to connect with agricultural experts. If you’re interested in exchanging ideas or simply having a meaningful conversation, I’d be glad to meet you....",
+        link: "https://www.linkedin.com/posts/lilanofficial_russia-moscow-kazan-activity-7359349468074266624-iQC2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1LiKEvofxF_CH1Q6D85TSYRfNlqc9EJ8D/view?usp=sharing",
+      },
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Excited to Attend the Science Summit at UNGA 79 – Let's Connect in NYC!",
+        image: "assets/img/impact/public-policy/UNGA 79.png",
+        description:
+          "Exciting News! I will participate in the Science Summit at UNGA 79 (the UN General Assembly) in the fourth week of September...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7239589530331140096-lu5O?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1s_k1UpM-JAmzP9LDvJTZCuOjIHvosNW9/view?usp=drive_link",
+      },
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exciting news! Tomorrow, I’ll be in Singapore!",
+        image: "assets/img/impact/public-policy/be in Singapore.png",
+        description:
+          "I’m eager to connect with those passionate about precision agriculture and climate action in both the Global South and Global North.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7238919595179286529-z1Yn/?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1981njYQ_5pWliWf-qnGvIVZsmTAoSEqz/view?usp=drive_link",
+      },
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Thrilled to Connect in NYC: Let's Discuss Precision Agriculture and Climate Action in September",
+        image: "assets/img/impact/public-policy/Connect in NYC.png",
+        description:
+          "Exciting News! I’m thrilled to announce that I’ll be in New York, USA, during the third and fourth weeks of September! I’m eager to connect with fellow New Yorkers and others visiting NYC this month...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7238235886688030721-qLmD?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1w4E8nOVHbOyFXjipdiQQJ6e4mZ18ITPn/view?usp=drive_link",
+      },
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting Paris for Climate, Innovation & Global Collaboration",
+        image: "assets/img/impact/public-policy/Connecting Paris.jpg",
+        description:
+          "I will be in Paris from June 1–7 and would welcome the opportunity to connect with individuals/entities working at the forefront of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sparis-france-eu-ugcPost-7464699697115348992-zPxe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/10iuqOjCVD-WS6W15d3PqUg7YJiSvHGX_/view?usp=sharing",
+      },
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting in Belgrade: Sustainability, Innovation & Global Collaboration",
+        image: "assets/img/impact/public-policy/Connecting Belgrade.jpg",
+        description:
+          "Currently in Belgrade (Serbia) for the next seven days and excited to connect with people working at the forefront of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_expo-belgrade-serbia-share-7464428783505432576-iEas/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Embpb2g5r8gHU_zuBPtIiFxgvDuwgYIm/view?usp=sharing",
+      },
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Excited to Connect in Foz do Iguaçu, Brazil: Let's Discuss Precision Agriculture and Climate Action in October",
+        image: "assets/img/impact/public-policy/Foz do Iguaçu.png",
+        description:
+          "Exciting News! I’m thrilled to share that I’ll be in Foz do Iguaçu, Brazil, during the first week of October. I'm eager to connect with the local Brazilian communities passionate about precision agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7234189432709373952-v3nK?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1OXV6Rs2tzViiNcTNkg6fN7OzxbLebKWm/view?usp=drive_link",
+      },
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting in Helsinki and Vilnius: Let's Discuss Precision Agriculture and Climate Action in September",
+        image: "assets/img/impact/public-policy/Helsinki and Vilnius.png",
+        description:
+          "Exciting news! I’ll be in Finland (Helsinki) and Lithuania (Vilnius) in the Second week of September and would like to connect with the Finnish and Lithuanian...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7232802314900684800-hULd?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1SO1S8QUR7Vck-E2Rnfj5mjfPosU2tDo-/view?usp=drive_link",
+      },
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting for Sustainability & Innovation in Austria 🇦🇹",
+        image: "assets/img/impact/public-policy/Connecting for Sustainability & Innovation in Austria 🇦🇹.jpg",
+        description:
+          "Over the coming weeks, I will be in Vienna and Graz (from next week until the second week of July) and would welcome the opportunity to connect with individuals and organizations working at the intersection of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_austria-prague-eu-ugcPost-7476886588703105024-LW4X/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16SP-u6V752gD9gsQg4J8eHDrnS2f8R5D/view?usp=sharing",
+      },
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting with Entrepreneurs & Changemakers in Japan – Tokyo, Kyoto, Osaka (October)",
+        image: "assets/img/impact/public-policy/Connecting with Entrepreneurs & Changemakers in Japan.jpeg",
+        description:
+          "I will be visiting Tokyo, Kyoto, and Osaka in the first week of October and would like to connect with fellow entrepreneurs, investors, and changemakers in Japan, especially those passionate about precision agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_japan-tokyo-kyoto-activity-7359381049065291776-Kxq-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/11xoomWTPlVJetN2HZpLkwh_KDIu7ICTL/view?usp=sharing",
+      },
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting in Bangkok: Let's Discuss Precision Agriculture and Climate Action in September",
+        image: "assets/img/impact/public-policy/Connecting in Bangkok.png",
+        description:
+          "Exciting news! I’ll be in Bangkok in the third week of September and would like to connect with the Thai community. If you're passionate about precision agriculture and climate action in the Global South...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7224861421937770496-wK3A?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1MS65c2f_ghh1J-bBKlGK-xBk5EQPEgYu/view?usp=drive_link",
+      },
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exciting News: I'll Be in NYC from August 12th to 22nd - Let's Connect!",
+        image: "assets/img/impact/public-policy/NYC Community.png",
+        description:
+          "Exciting news! I’ll be in New York from August 12th to 22nd and would like to connect with the NYC community. If you're passionate about precision agriculture and climate action in the Global South, let’s meet up. Send me a message so we can schedule a convenient time.",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7224350106311876608-TPl-?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1MEy0_1Lhn9beWVq0AEMANT-ZM_z2VVpE/view?usp=drive_link",
+      },
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Entrepreneurs & Innovators in Brussels & Antwerp – September",
+        image: "assets/img/impact/public-policy/Connecting with Entrepreneurs.jpeg",
+        description:
+          "I’ll be in Brussels and Antwerp during the fourth week of September, and I’m eager to connect with entrepreneurs, investors, and innovators who are passionate about precision agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_belgium-brussels-antwerp-activity-7359342398059024384-hHk3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FzSKfU89KWqRwcB2zYxcbQX5zZTTdaWe/view?usp=sharing",
+      },
+      {
+        date: "November 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting in Riyadh: Let’s Talk Climate, Agriculture, and Collaboration 🌱🌍",
+        image: "assets/img/impact/public-policy/Connecting in Riyadh.jpeg",
+        description:
+          "Exciting news! I’ll be in Riyadh, Saudi Arabia, during the second week of December, and I’m eager to connect with professionals passionate about precision agriculture, land restoration, and climate action across both the Global South and Global North...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7252629805420969984-qShC?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1e06AdMorUB90PR-J6alcZZvF3h5M7en_/view?usp=sharing",
+      },
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Heading to Copenhagen for Climate & Sustainability Synergies – Let’s Connect!",
+        image:
+          "assets/img/impact/public-policy/Heading to Copenhagen for Climate & Sustainability Synergies.png",
+        description:
+          "Exciting news! I’ll be in Copenhagen, Denmark, during the fourth week of May, and I’m eager to connect with professionals passionate about precision agriculture, land restoration, and climate action across both the Global South and Global North...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-agriculture-climate-activity-7319900542682509312-C0qP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1TLo545PhNcOkU20DKkRlJzgXuuaGEOR2/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Let’s Connect in St. Petersburg & Moscow: AgTech & Climate Action",
+        image: "assets/img/impact/public-policy/Let’s Connect in St. Petersburg & Moscow.jpeg",
+        description:
+          "I’ll be in St. Petersburg and Moscow next month, and I’m eager to connect with entrepreneurs, investors, and innovators...",
+        link: "https://www.linkedin.com/posts/lilanofficial_russia-petersburg-moscow-activity-7333852371405479936-ddG5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QNQjkJ-eBCc8hc_86V_8VMwNofdbcbax/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring the Future of Tech at London Tech Week 2025",
+        image: "assets/img/impact/public-policy/Exploring the Future of Tech at London Tech Week 2025.jpeg",
+        description:
+          "Next month, I'll be joining thousands of innovators, investors, and tech leaders at the #LondonTechWeek to...",
+        link: "https://www.linkedin.com/posts/lilanofficial_londontechweek-ai-ltw25-activity-7333876746326331392-uvo9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1O3zSZlIYf4HGsGg43-GHPH68Qd9unO-u/view?usp=sharing",
+      },
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting in New Delhi at TREESCAPES 2026",
+        image: "assets/img/impact/public-policy/TREESCAPES 2026.png",
+        description:
+          "I will be visiting New Delhi in the first week of February to attend the First South Asian Agroforestry and Trees Outside Forests Congress (TREESCAPES 2026). During my time in the city, I would be glad to connect with entrepreneurs, investors, and changemakers, particularly those passionate about precision agriculture...",
+        link: "https://www.linkedin.com/posts/lilanofficial_forestry-asia-agroforestry-activity-7420958809138900992-dP3Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/131obee9U89y0ke71tEiTM8baYE41o63U/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling the Nepal-based Network",
+        image: "assets/img/impact/public-policy/Nepal Network.jpg",
+        description:
+          "I’ll be visiting Southern Nepal (Lumbini, Labani, Pakadi, Kapilvastu, Dohani, and Gauri) during the second week of February, and I’d love to connect with entrepreneurs, investors, and changemakers across Nepal...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nepal-food-agriculture-activity-7424256085013921792-FgoD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16g9UNDMmCyjtDPzb76I0IbFqigrwQeMU/view?usp=sharing",
+      },     
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling the European Network 🇸🇮 🇵🇱 🇭🇺",
+        image: "assets/img/impact/public-policy/European Network.jpg",
+        description:
+          "I’ll be visiting Slovenia (Ljubljana), Poland (Warsaw, Gdańsk, Kraków, Wrocław), and Hungary (Budapest, Eger, Győr) during the first and second weeks of April, and I’d love to connect with entrepreneurs, investors, and changemakers across Europe...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-network-activity-7433008674723291136-28bu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/11ng0APMhlMVCRSm5MybhAjrW1CwaCDtD/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Changemakers in India",
+        image: "assets/img/impact/public-policy/India.jpg",
+        description:
+          " I’ll be traveling to New Delhi, Agra, Bihar, Uttar Pradesh, Gujarat, Pune, Panchgani, and Lucknow in the third and fourth weeks of February and am keen to connect with entrepreneurs, investors, and changemakers in these regions...",
+        link: "https://www.linkedin.com/posts/lilanofficial_india-food-agriculture-activity-7425592231035822081-Zb-S?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1B23cvPp34pkCXG2HU3LJ87n8epTR_LbP/view?usp=sharing",
+      },
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "🇨🇿 Connecting with the Czech Sustainability Network",
+        image: "assets/img/impact/public-policy/🇨🇿 Connecting with the Czech Sustainability Network.jpg",
+        description:
+          "I will be in Prague during the third week of July and would welcome the opportunity to connect with individuals/entities working at the forefront of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_czechia-prague-eu-ugcPost-7475465652573478912-9Ebb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1VDK8s6Jgf4fD9kubdbHc_nniiJPlbbOB/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Iceland’s Climate & Innovation Network 🇮🇸",
+        image: "assets/img/impact/public-policy/Iceland.jpg",
+        description:
+          "I’ll be travelling to Reykjavík and Kópavogur during the second week of March and would welcome the opportunity to connect with entrepreneurs, agronomists, researchers, farmers, and climate innovators across Iceland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_iceland-arctic-food-activity-7429076418694717440-5UVa?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1F9XN5-jPKHQj_2huWGV5RTwydgYkDqBH/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Switzerland’s Innovation Network 🇨🇭",
+        image: "assets/img/impact/public-policy/Switzerland.jpg",
+        description:
+          "I’ll be travelling to Zurich, Bern, St. Gallen, and Basel during the first week of March and would welcome the opportunity to connect with entrepreneurs, investors, and changemakers across Switzerland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_switzerland-zurich-bern-activity-7426987032528367616-h9jg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Jzbfv2ntWsKxIQtginuQWOjK4J8oeOCZ/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Germany’s Innovation Network 🇩🇪",
+        image: "assets/img/impact/public-policy/Germany.jpg",
+        description:
+          "I’ll be travelling to Munich, Berlin, and Hamburg during the third week of March and would be glad to connect with entrepreneurs, investors, and changemakers across Germany...",
+        link: "https://www.linkedin.com/posts/lilanofficial_germany-munich-berlin-activity-7426067483499057152-IUJB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1v2Pg-PWFGTEFpQfJYrIzhRsGliUafPre/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling the Swedish Network",
+        image: "assets/img/impact/public-policy/Sweden Network.jpg",
+        description:
+          "I’ll be visiting Stockholm, Uppsala, Malmö, Lund, Kiruna, and Abisko during the third and fourth weeks of March, and I’d love to connect with entrepreneurs, investors, and changemakers across Sweden...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sweden-stockholm-uppsala-activity-7423774183555440640-713H?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1aPn9NvJNOMwCZdH-M2J5JcKLxDouBxZi/view?usp=sharing",
+      },
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling Change-Makers in NYC: Let’s Connect on Climate & Agriculture! 🌱🗽",
+        image: "assets/img/impact/public-policy/Calling Change-Makers in NYC.jpeg",
+        description:
+          "I’ll be in New York next week and would love to connect with fellow New Yorkers; especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7323476341884887040-DGyu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1g5WMyY2Q74MZ04mPpf-VBi578WYzD1Hb/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.60",
+    title: "Engagement with the PolicyLink Summit",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Join the PolicyLink Summit 🇺🇸",
+        image: "assets/img/impact/public-policy/Honored to Join the PolicyLink Summit 🇺🇸.jpg",
+        description:
+          "I’m honored to share that I have been selected to participate in the PolicyLink Summit: We Are the Founders in the Washington, D.C. area, with a full scholarship...",
+        link: "https://www.linkedin.com/posts/lilanofficial_economy-usa-policy-ugcPost-7477465540626894849-QU9C/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1WvmhYm7jz_wez9Y1eL9OYZQoZ3UckKh5/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.57",
+    title: "D-Day Anniversary Celebrations",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "From D-Day to Dialogue: Lessons for Building Lasting Peace",
+        image: "assets/img/impact/public-policy/From D-Day to Dialogue Lessons for Building Lasting Peace.jpg",
+        description:
+          "Today marks the anniversary of D-Day (6 June 1944), the historic operation that brought together the land, air, and sea forces of the Allied armies in what became the largest amphibious invasion in military history. Under the codename...",
+        link: "https://www.linkedin.com/posts/lilanofficial_normandy-peace-dday-ugcPost-7468829851928584192-9taJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1YXV1lHKq4Ra_6qMDlld89YVnX6WzLas-/view?usp=sharing",
+      },
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth, AI, and Peacebuilding: Conversations That Shape Our Future",
+        image: "assets/img/impact/public-policy/Youth, AI, and Peacebuilding Conversations That Shape Our Future.jpg",
+        description:
+          "At the Normandy World Peace Forum in France, I had the opportunity to participate in the screening of the documentary \"I Am the Future\", followed by engaging discussions and debates on some of the most critical issues facing our world today, including peacebuilding...",
+        link: "https://www.linkedin.com/posts/lilanofficial_normandy-peace-world-ugcPost-7469453618400727040-qo8X/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/17AnUb0DL5hRaYPJsuSqMtJ4PALB1BQeJ/view?usp=sharing",
+      },
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Rethinking Peace in a Changing World",
+        image: "assets/img/impact/public-policy/Rethinking Peace in a Changing World.jpg",
+        description:
+          "Participating in the Normandy World Peace Forum in Normandy, France, was a powerful reminder that even in a world facing escalating conflicts, geopolitical tensions, and growing challenges to international law, there are still compelling reasons for hope...",
+        link: "https://www.linkedin.com/posts/lilanofficial_participating-in-the-normandy-world-peace-ugcPost-7469815284930015233--dWh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1UuCqtzGHF_ajkpx4JraDKFYVKRvUcvOS/view?usp=sharing",
+      },
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Final Reflections from the Normandy Peace Forum",
+        image: "assets/img/impact/public-policy/Final Reflections from the Normandy Peace Forum.jpg",
+        description:
+          "During the final day of the Normandy World Peace Forum in France, I had the opportunity to engage in thought-provoking discussions and debates on some of the most pressing challenges facing our world today...",
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-normandy-france-ugcPost-7469865879556632576-OuTF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1CusfD5iCOQDplCHpTHjvT60vYjVXDesj/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.56",
+    title: "Diplomacy at UNFCCC Subsidiary Bodies",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Seeing, Hearing, Speaking the Climate Truth",
+        image: "assets/img/impact/public-policy/Seeing, Hearing, Speaking the Climate Truth.jpg",
+        description:
+          "While heading to the UN Climate Change Conference sessions of the Subsidiary Bodies in Germany, I came across this interesting installation in Bonn. It made me reflect on how bureaucratic systems can sometimes influence our response to the climate crisis. Some figures appear to cover...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-ugcPost-7471198441839181825-U1GE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1l5eXnZBntocrMMDYHbx9LRhYxiXtNeFh/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.55",
+    title: "Engagement with BeChangeMaker program (WorldSkills International ; The HP Foundation), a UNESCO Partnered Initiative",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Returning to UNESCO: Building Partnerships for Sustainable Impact",
+        image: "assets/img/impact/public-policy/Returning to UNESCO Building Partnerships for Sustainable Impact.jpg",
+        description:
+          "I will be returning to UNESCO Headquarters in Paris tomorrow and spending the full week engaging with global leaders, innovators, and changemakers. I would be delighted to connect with individuals and organizations working at the forefront of sustainability...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-sustainability-ugcPost-7467221370192650240-bF2G/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1nOjGJfB8w1NJDMzgbngCKjPedjd-sL77/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.54",
+    title: "High-level Event on Building a New Era of Understanding and Cooperation: Meeting the Inequality Emergency",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Addressing Global Inequality Through Evidence-Based Action",
+        image: "assets/img/impact/public-policy/Addressing Global Inequality.jpg",
+        description:
+          "A few weeks ago, I had the opportunity to attend a high-level event titled “Building a New Era of Understanding and Cooperation: Meeting the Inequality Emergency” at the Palais des Nations in Geneva, Switzerland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_economy-market-peace-ugcPost-7465197709138829312-8WFc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16KvS68HBPsMa_h-m7DT7pTcDDwdwBCJT/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.53",
+    title: "Engagement at the WSA Global Congress on Digital Sovereignty, Building Digital Public Goods & Global Impact Solutions",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSA Global Congress 2026: Shaping a Meaningful Digital Future",
+        image: "assets/img/impact/public-policy/WSA Global Congress 2026.jpg",
+        description:
+          "The WSA Global Congress is returning to its roots in Austria, and I’m pleased to share that I will be part of it this May. Five tech giants should not define our digital lives, control our data, or shape our choices. It’s time to reflect...",
+        link: "https://www.linkedin.com/posts/lilanofficial_meaningful-perspectives-wsa-ugcPost-7456242767506247680-Al3d?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1w112f7b6mfwsq8fMaz7N9plgge7p9HLB/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.52",
+    title: "Engaging at the World Beautiful Business Forum to Help Shape a Humanist Future through Diplomacy",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "World Beautiful Business Forum Shaping a Human-Centered Future",
+        image: "assets/img/impact/public-policy/World-Beautiful-Business-Forum.jpg",
+        description:
+          "I will be participating in the World Beautiful Business Forum in Athens, Greece. This year’s forum marks a renewed mission to shape a humanist future in and through business, working in partnership with AI, for the benefit of all life on Earth...",
+        link: "https://www.linkedin.com/posts/lilanofficial_mindfulness-business-sustainability-ugcPost-7454042522018037760-18MS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FvzXDNqLTUsHn0rBCLRZo-cpYkI6zvFU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.51",
+    title: "Engagement at the Annual Cambridge International Law Journal (CILJ), themed “Reimagining International Law: Critical, Regional, and Trans-Disciplinary Perspectives",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Heading to Cambridge for the Annual CILJ Conference",
+        image: "assets/img/impact/public-policy/CILJ-Conference.jpg",
+        description:
+          "Heading to the University of Cambridge tomorrow for the Annual Cambridge International Law Journal (CILJ), themed “Reimagining International Law: Critical, Regional, and Trans-Disciplinary Perspectives...",
+        link: "https://www.linkedin.com/posts/lilanofficial_cambridge-international-law-ugcPost-7453040209241337857-kdb2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1IarYTzXnch1M0L6K3rJ_j6qIFAYqA0ct/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.50",
+    title: "Engagement at the Skoll World Forum for Advancing Global Diplomacy",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Skoll World Forum Driving Global Change",
+        image: "assets/img/impact/public-policy/Skoll-World-Forum-Driving-Global-Change.jpg",
+        description:
+          "The Skoll World Forum is currently taking place in Oxford, United Kingdom, bringing together global changemakers committed to advancing social entrepreneurship, systems change, and cross-sector collaboration...",
+        link: "https://www.linkedin.com/posts/lilanofficial_skoll-forum-innovation-ugcPost-7452589208197783552-TPET?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1GHdHZe1tKaVyBPZmFc95neMFOM-dqHux/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.49",
+    title: "Engagement with UNESCO & Nestlé",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Driving Youth Innovation for Global Impact | UNESCO, Nestlé & ELZIAN AGRO",
+        image: "assets/img/impact/public-policy/Driving Youth Innovation for Global Impact.jpg",
+        description:
+          "I had the opportunity to visit the UNESCO Headquarters and the Nestlé Office in Paris, where I continued productive discussions with the UNESCO team...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-nestle-global-ugcPost-7449395791904935936-9500?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1IAj6cRTvEimEGDsRY46otbMcYUbdZuF9/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.48",
+    title: "Engagement for the Solidarity for the Future Initiative for Diplomacy",
+    slides: [
+      {
+        date: "April 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reimagining the Future Through Youth Solidarity",
+        image: "assets/img/impact/public-policy/Reimagining the Future Through Youth Solidarity.jpg",
+        description:
+          "Change starts with me; it is a privilege to be engaged in the “Solidarity for the Future” initiative, a thoughtfully designed, youth-led platform convened alongside the IofC Global Fellowship Gathering...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youthleadership-global-change-activity-7448620764120899584-pQmO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1bVZdYFkWx-h7mq6nTsY9LAsmdLOmOA1L/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.47",
+    title: "Engagement within the Global Resilience Walk, organized by the Inner Green Deal, Focusing on European Green Deal",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Walking for Resilience at Table Land 🌄🌱",
+        image: "assets/img/impact/public-policy/global-resilience-walk.jpg",
+        description:
+          "I had the opportunity to participate in the Global Resilience Walk while exploring Table Land, Asia’s second-highest and longest mountain plateau. Located in the Sahyadri range in Maharashtra, this expansive laterite rock plateau offers panoramic views of the surrounding valleys and the Krishna River...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nature-walk-meditation-activity-7441518947885117440-fHXH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1yDZ1D1nq17IgHYoUCQiWyjfovQNiVbqu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.46",
+    title: "Flag Bearing at the Olympiahalle, Munich’s Olympic Park",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Proud Moment in Munich: Carrying Sri Lanka Forward",
+        image: "assets/img/impact/public-policy/A Proud Moment in Munich.jpg",
+        description:
+          "I had the honour of serving as the Sri Lankan Flag Bearer at the iconic Olympiahalle in Munich’s Olympic Park during the One Young World Summit Opening Ceremony. The hall, originally built for the 1972 Olympic Summer Games, is part of the Olympiapark München complex...",
+        link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-network-activity-7438317748289507328-SZWN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/17X-t5ILn8m3KwDO7fZYSTPt_AmeOVCYI/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.45",
+    title: "Obama Presidential Center Grand Opening Ceremony",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Attend the Obama Presidential Center Opening 🇺🇸",
+        image: "assets/img/impact/public-policy/obama-presidential-center.png",
+        description:
+          "I’m honored to share that I will be visiting the Obama Presidential Center Museum in Chicago this June to attend its Grand Opening, nearly five years after its historic groundbreaking. The Center reflects the power of collective action and a continued commitment to empowering...",
+        link: "https://www.linkedin.com/posts/lilanofficial_democracy-leadership-museum-activity-7437732667900506114-178U?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1OIkTOe4-f99mLZlC3Q_-vakLLSXwI6bA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.44",
+    title: "Engagement at the Energy and Resources Institute's (TERI) World Sustainable Development Summit",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "AI, Climate Tech & Collaboration: Reflections from DCIW 2026",
+        image: "assets/img/impact/public-policy/ai-climate-tech-collaboration.jpg",
+        description:
+          "The Delhi Climate Innovation Week 2026 (DCIW) began immediately after the AI Impact Summit, and due to my commitments in Pune, I was not able to fully immerse myself in the entire week. However, I had the opportunity to engage with the event on both the opening...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-innovation-ai-activity-7435992390433271808-BZ0b?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Nmxum7N2VixAfs_qbou7AY4E1dqhf3Kj/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.43",
+    title: "Engagement at the Inaugural Nalanda Development Dialogue (NDD) on Diplomacy",
+    slides: [
+      {
+        date: "March 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reimagining Development at Nalanda 2026 🌏",
+        image: "assets/img/impact/public-policy/Reimagining Development at Nalanda 2026.jpg",
+        description:
+          "The inaugural Nalanda Development Dialogue (NDD) is being held today and tomorrow at Nalanda University in Rajgir, India. This new flagship forum brings together policymakers, researchers, and institutional leaders to examine the future of people-centered development. By convening leading think tanks, scholars, and decision-makers, the Dialogue aims...",
+        link: "https://www.linkedin.com/posts/lilanofficial_development-sustainability-renewable-activity-7436148321779425280-5S6K?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/18uIoBB2tv7xagpSSt0gRZ8EAuwDobXjN/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.42",
+    title: "Engagement at the AI Impact Summit on Diplomacy",
+    slides: [
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Day 2 at AI Impact Summit 2026",
+        image: "assets/img/impact/public-policy/ai-impact-summit-2026.jpg",
+        description:
+          "From hands-on workshops to rapid prototyping, the energy was intense and deeply practical. One session that stood out was on AI for supply chain transparency in agriculture. We worked on a blockchain-powered AI prototype designed to trace carbon footprints from farm to fork...",
+        link: "https://www.linkedin.com/posts/lilanofficial_ai-tech-technology-activity-7431521273953992705-i8tu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zWZ1BgC13wSzJPzM-89DN0hPlqTBKasf/view?usp=sharing",
+      },
+      {
+        date: "February 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflections on the third day and overall review of the AI Impact Summit",
+        image: "assets/img/impact/public-policy/ai-impact-summit.jpg",
+        description:
+          "I stepped into the AI Impact Summit 2026 expecting inspiration. What I got was a full-spectrum recharge for my mission, three days of immersive learning, networking, and prototyping...",
+        link: "https://www.linkedin.com/posts/lilanofficial_aiimpactsummit-agritechinnovation-climateaction-activity-7432575179505057792-DKNq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1akiVeI8NA07VMqUINn7QpC3FLCLy2IuD/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "7.41",
+    title: "Engagement with the Vienna Conversation Series on Multilateral Disarmament, and Nuclear Non-proliferation",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Reflecting on Disarmament and Peace at the Vienna Conversation Series",
+        image: "assets/img/impact/public-policy/vienna-conversation-series.jpg",
+        description:
+          "The Vienna Conversation Series commemorated the 80th anniversary of the United Nations, offering a timely reflection on the past, present, and future of multilateral disarmament, nuclear non-proliferation, and the Peace and Security agenda amid growing global uncertainty...",
+        link: "https://www.linkedin.com/posts/lilanofficial_disarmament-nuclear-peace-activity-7422644716032307200-JxLc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FwTWOcj6bWuTNFqjkzeq473uTq0MNsYO/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.40",
+    title: "Engagement with the World Summit on the Information Society (WSIS) Forum's Open Consultation Process",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "WSIS Forum 2026: Shaping the Future of Global Digital Cooperation",
+        image: "assets/img/impact/public-policy//WSIS 2026.jpg",
+        description:
+          "The World Summit on the Information Society (WSIS) Forum's Open Consultation Process (OCP) officially commenced today at the International Telecommunication Union (ITU) Headquarters in Geneva, bringing together stakeholders from across sectors to participate in Meeting 1 of this inclusive multistakeholder dialogue...",
+        link: "https://www.linkedin.com/posts/lilanofficial_itu-technology-wsis-activity-7419770247949299712-MTDS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BqPPePhQVy4TPlylENoY05WvC5TMxHs6/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.39",
+    title: "Participating in the World Economic Forum (WEF)",
+    slides: [
+      {
+        date: "January 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "World Economic Forum 2026: Building Prosperity Within Planetary Boundaries",
+        image: "assets/img/impact/public-policy/WEF 2026.png",
+        description:
+          "The World Economic Forum 2026 programme is structured around five key global challenges where meaningful public–private collaboration across all stakeholders is essential for progress. One of the most critical questions it raises is: How can we build prosperity within planetary boundaries...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wef-davos-economy-activity-7419119529106255872-ZkSI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Xpcg7_0_hQi7RiQBz2lNIPZvwM-3sIUA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.38",
+    title: "Engagement with the UN Pavilion at the Expo Osaka",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "UN Pavilion at Expo Osaka",
+        image: "assets/img/impact/public-policy/UN Pavilion at Expo Osaka.png",
+        description:
+          "Expo 2025 Osaka in Japan, transformed Yumeshima Island into a global platform for innovation and collaboration under the theme “Designing Future Society for Our Lives.” With more than 160 countries and regions participating, the Expo explored solutions to global challenges through cutting-edge technology, design, and collective action. One of the most striking architectural...",
+        link: "https://www.linkedin.com/posts/lilanofficial_expo2025-unitednations-sdgs-activity-7411611837043019776-kwYu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/12v5lPabGAEQmzT-pm6rBrq9i5FG853-k/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.37",
+    title: "Osaka Expo Sri Lankan Delegation within the \"Empowering Lives\" Zone",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Sri Lanka at Expo 2025 Osaka, Japan",
+        image: "assets/img/impact/public-policy/Sri Lanka at Expo 2025 Osaka.jpg",
+        description:
+          "It was great to be part of the Sri Lankan Delegation to Expo 2025 Osaka, Japan; within the \"Empowering Lives\" zone (D-3), showcased the nation's Ceylon Tea, spices, Ayurveda, handicrafts, gems, and tourism potential, aiming to boost trade, investment...",
+        link: "https://www.linkedin.com/posts/lilanofficial_expo-osaka-economy-activity-7410873580185370624-xlEt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1jCsb6IK0R0wVHIl9zJcj-p6SWDS8pnAt/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.36",
+    title: "Engagement with the Special Digital@UNGA WSIS+20 Edition at the United Nations Headquarters",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping an Inclusive Digital Future: Digital@UNGA WSIS+20",
+        image: "assets/img/impact/public-policy/Shaping an Inclusive Digital Future.jpg",
+        description:
+          "Following the success of the Digital@UNGA Anchor Event held during the United Nations General Assembly, the International Telecommunication Union (ITU) and the United Nations Development Programme (UNDP) hosted a special...",
+        link: "https://www.linkedin.com/posts/lilanofficial_digital-unga-wsis20-activity-7407073926519885824-sPpH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ZGhZYMn2Huv99uE39XySr22iwJ-9Owv9/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.35",
+    title: "Engagement with the Asia-Pacific Forum on Sustainable Development (APFSD)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Leadership at APFSD 2025",
+        image: "assets/img/impact/public-policy/Youth Leadership at APFSD 2025.jpeg",
+        description:
+          "The Asia-Pacific Forum on Sustainable Development (APFSD) in Bangkok generated remarkable momentum, driven by hundreds of young leaders united by a shared mission. Even before the main Forum began, the APFSD Youth Forum...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7395126166652825600-CsPj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1qNgRvZNXCZmqoNYehzwjjndqMj3NGwgh/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.34",
+    title: "Participating in the Asia Berlin Summit",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Berlin Hosts Global Innovation Summit 2025",
+        image: "assets/img/impact/public-policy/Berlin Hosts Global Innovation Summit 2025.jpeg",
+        description:
+          "Berlin opens its doors to founders, investors, policymakers, corporates, and ecosystem leaders from across Asia and Berlin. Over five days, the Summit will bring together innovation communities from 62+ countries to exchange ideas...",
+        link: "https://www.linkedin.com/posts/lilanofficial_asiaberlinsummit-berlininnovation-asiaberlinsummit-activity-7398507464637206529-0QGl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1fWE0sNbFjxO2TCayyMjFTIQmsHQECIzH/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.33",
+    title: "Delivering a Guest Lecture to Service Design Master’s program at Politecnico di Milano (POLIMI)",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Guest Session at Politecnico di Milano",
+        image: "assets/img/impact/public-policy/Politecnico di Milano.jpeg",
+        description:
+          "A few days ago, I had the privilege of delivering a guest session to 100 talented students in the Service Design Master’s program at Politecnico di Milano (POLIMI). Nearly half of the cohort comes from outside the EU, bringing an incredible diversity...",
+        link: "https://www.linkedin.com/posts/lilanofficial_politecnicodimilano-milan-polimi-activity-7402429699429507072-Ck7_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1-ZK9Lc20F9Z5Ya0urlmrsaqtm7pn78XS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.32",
+    title: "Addressing the Asia-Pacific Forum on Sustainable Development (APFSD)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Speaking at the APFSD 2025 in Bangkok",
+        image: "assets/img/impact/public-policy/Speaking at the APFSD 2025 in Bangkok.jpeg",
+        description:
+          "I had the incredible opportunity to speak at the Asia-Pacific Forum on Sustainable Development (APFSD) in Bangkok, Thailand. Preceding the Forum, the APFSD Youth Forum brought together 549 young leaders...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7393604817316872193-V1WD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dUNipTgce0XVWThhEWMwrKU7uXfDNRCU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.31",
+    title: "Engagement with the Catalyzing Change Week (CCW)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the Catalyzing Change Week (CCW)",
+        image: "assets/img/impact/public-policy/Participating in the Catalyzing Change Week (CCW).jpeg",
+        description:
+          "Catalyzing Change Week (CCW) was the world's largest vitual gathering where social innovators, business leaders, and funders from around the world will meet in over 160 sessions organized across 65+ countries and in 7 languages to drive real systemic change....",
+        link: "https://www.linkedin.com/posts/lilanofficial_health-change-climate-activity-7393396123715002368-SdS7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/13Px2KdwhHGh5eVmamQsPNE4g0Micd6AD/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.30",
+    title: "Exhibiting at the Asia-Pacific Forum on Sustainable Development (APFSD)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exhibiting at the APFSD Youth Forum 2025",
+        image: "assets/img/impact/public-policy/Exhibiting at the APFSD Youth Forum 2025.jpeg",
+        description:
+          "I had the incredible opportunity to be an exhibitor at the APFSD Youth Forum in Bangkok, Thailand. This experience was truly enriching; it deepened my understanding of the Sustainable Development Goals (SDGs)...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdg-innovation-technology-activity-7392773580519841792-9T8O?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1WPNoGyic-5W2O1EB4wDsVv64JAICT0Ny/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.29",
+    title: "Volunteering for the World Exposition (Expo Osaka)",
+    slides: [
+      {
+        date: "November 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Volunteering at the World Expo in Osaka: A Celebration of Innovation and Culture",
+        image: "assets/img/impact/public-policy/Volunteering at the World Expo in Osaka.jpeg",
+        description:
+          "It was an incredible opportunity to volunteer at the World Exposition in Osaka, Japan also known as the World’s Fair, one of those rare global events where nations come together to celebrate culture, innovation, and the future...",
+        link: "https://www.linkedin.com/posts/lilanofficial_osaka-japan-expo-activity-7391752716903096321-PnJ4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/186OBUJ3FbSTZ40r59xqy8rCywYid1x83/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.28",
+    title: "Participating in the United Nations General Assembly (UNGA80)",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "UN80: A Turning Point for Global Cooperation and Reform",
+        image: "assets/img/impact/public-policy/UN80 A Turning Point for Global Cooperation and Reform.jpeg",
+        description:
+          "The 80th session of the United Nations (UN) General Assembly is currently underway in New York, with world leaders in attendance. The United Nations is facing pressing calls for reform...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unga-unga80-sdgs-activity-7376530152719122432-JSaX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/10Ut4Pt2aD9U3LcKqkFgbEDaOcDV7hPZX/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.27",
+    title: "Exploring the International Court of Justice (ICJ) Advisory Opinion (ICJ AO)",
+    slides: [
+      {
+        date: "September 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inspiring First Day at the South Asian Climate Justice Camp in Nepal",
+        image: "assets/img/impact/public-policy/South Asian Climate Justice Camp.jpeg",
+        description:
+          "A truly inspiring first day at the South Asian Climate Justice Camp here at Annapurna Eco Village in Nepal. We began by unpacking what climate justice means in the South Asian context, reflecting...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-justice-climatejustice-activity-7367222774832037891-uBrm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/12O5rrnYIRk4_TzWehiwwUTnPh_vXh_CA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.26",
+    title: "Participating in the Caux Reimagining Democracy(ies) Program",
+    slides: [
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Redefining Leadership at the Caux Reimagining Democracy(ies) Program",
+        image: "assets/img/impact/public-policy/Participating in the Caux Reimagining.jpeg",
+        description:
+          "Last month, I had the incredible opportunity to participate in the Caux Reimagining Democracy(ies) Program by the Creative Leadership Project, a week-long immersive experience that redefined my understanding...",
+        link: "https://www.linkedin.com/posts/lilanofficial_creative-leadership-development-activity-7359333162998534144-CBtt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dUTziU-J3Q6ofSGjVRrowkKOxF_9ksfo/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.25",
+    title: "Celebrating Swiss National Day at the historic Caux Palace",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating Swiss National Day at Caux Palace: A Day of Tradition, Community, and Alpine Beauty",
+        image: "assets/img/impact/public-policy/Celebrating Swiss National Day at Caux Palace.jpeg",
+        description:
+          "What an inspiring day (today) celebrating Swiss National Day at the historic Caux Palace! Perched 1,000 meters above Montreux, the Caux Palace offered a breathtaking backdrop...",
+        link: "https://www.linkedin.com/posts/lilanofficial_switzerland-national-celebration-activity-7357280053354795008-vAkl?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Ew7v8gGCoe9WvEaXnXxtUY8Di2ZHhXSL/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.24",
+    title: "Participating in the United Nations World Summit on the Information Society (WSIS)",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Discover Digital Innovation for Impact – Visit the WSA Stand at AI for Good",
+        image: "assets/img/impact/public-policy/Discover Digital Innovation for Impact.jpeg",
+        description:
+          "As a WSA Youth Ambassador at the AI for Good Global Summit in Geneva, I am excited to invite all participants to visit the World Summit Awards (WSA) stand, a hub for digital innovation with real-world impact...",
+        link: "https://www.linkedin.com/posts/lilanofficial_wsa-aiforgood-digitalinnovation-activity-7349005646815469568-pyFu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gxQ8knn_ZnBTzOkMluOTX01I2sI-e9AF/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.23",
+    title: "Engagement with the European Commission Pavilion at the Agricultural Fair in Ettelbruck",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Labour, Policy & Climate: Reflections from Germany and Luxembourg",
+        image: "assets/img/impact/food-agriculture-forestry/Labour, Policy & Climate.png",
+        description:
+          "Just a couple of days ago in Cologne, Germany, I had the privilege of engaging in a thought-provoking discussion with Dr. Barbara Kauffmann, Director at the European Commission, alongside esteemed colleagues...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-action-europe-activity-7347400288829415424-deJc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1B_FATVXaA3A6byhm2ty3KGJNrJNcTcm_/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.22",
+    title: "Visiting Linacre College, University of Oxford to reconnect with the staff",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Meeting Dr. Nick Leimu-Brown at Linacre College, University of Oxford",
+        image: "assets/img/impact/public-policy/Nick Leimu-Brown.png",
+        description:
+          "I just had the opportunity to reconnect with Dr. Nick Leimu-Brown at Linacre College, University of Oxford. During our meeting, we discussed the Strategic Communication Masterclass...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-restoration-agritech-activity-7338267320496082944-Wjfw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/10RAfwiIMLqEfvr3ODXiMopHmSaSYVmaI/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.21",
+    title:
+      "Meeting the United Nations Group of Ten High-level Representatives of Civil Society, Private Sector, and the Scientific Community (10-Member-Group)",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Bridging Grassroots Innovation & Global Policy: Engaging with the UN 10-Member-Group in New York",
+        image: "assets/img/impact/public-policy/Bridging Grassroots Innovation & Global Policy.png",
+        description:
+          "It was an honour to meet with the United Nations Group of Ten High-level Representatives of Civil Society, Private Sector, and the Scientific Community (10-Member-Group), a key component...",
+        link: "https://www.linkedin.com/posts/lilanofficial_science-technology-un-activity-7328054727437438976-iYmX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1fVudbvtoEl7jS5rwQNu2e3y2juWnz6jq/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.20",
+    title:
+      "Role of the UN Economic and Social Council (ECOSOC) in coordinating with other United Nations agencies",
+    slides: [
+      {
+        date: "April 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Meet ECOSOC President Bob Rae at Moonshot Platform Gathering in NYC",
+        image: "assets/img/impact/public-policy/Honored to Meet ECOSOC President Bob Rae.png",
+        description:
+          "It was an honor to meet His Excellency Bob Rae, President of the United Nations Economic and Social Council (ECOSOC), during the Moonshot Platform Gathering in New York, USA.",
+        link: "https://www.linkedin.com/posts/lilanofficial_un-ecosoc-multilateralism-activity-7319063014161149952-L-4A?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1NVuNaf2C2HLOcsxHY9KExXce-CjLOn4n/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.19",
+    title: "Participating in the Obama Foundation Democracy Forum",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Championing Pluralism at the Obama Foundation Democracy Forum in Chicago",
+        image: "assets/img/impact/public-policy/Championing Pluralism.png",
+        description:
+          "I had an incredible experience at the Obama Foundation Democracy Forum in Chicago, where leaders from around the world gathered to discuss pluralism as a means to strengthen democracy...",
+        link: "https://www.linkedin.com/posts/lilanofficial_obamafoundation-democracy-forum-activity-7275107064635432960-6e_h?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1-yNTta6ZNRuT27nkLMB8YX-rgjAzftfd/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.18",
+    title:
+      "Declaration at the International Republican Institute’s Generation Democracy Global Summit",
+    slides: [
+      {
+        date: "November 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Leading the Charge: Adopting the 8th Global Summit Declaration in Lithuania",
+        image: "assets/img/impact/public-policy/Youth Leading the Charge.png",
+        description:
+          "I’m honored to have participated in the adoption of the 8th Global Summit Declaration at the International Republican Institute’s Generation Democracy Global Summit in Lithuania...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youthleadership-generationdemocracy-civicengagement-activity-7266034565121470464-Noow?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1f7GyIdLeFxg2Z4pcZ5P9dt9yn9iGjdRp/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.17",
+    title: "Connecting with the Generation Democracy Affiliates",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Connecting Global Leaders at the Generation Democracy Global Summit: A Deep Dive into the Community of Democracies (CoD)",
+        image: "assets/img/impact/public-policy/Connecting Global Leaders.png",
+        description:
+          "The Generation Democracy Global Summit in Vilnius offered an incredible opportunity to connect with its affiliates. Daryna Onyshko led an insightful session on the Community of Democracies (CoD).",
+        link: "https://www.linkedin.com/posts/lilanofficial_global-youthleadership-democracy-activity-7257217080289054722-9Qws?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1RnRgrE_A0S3GEhAbRHC-LtBQR5c1vqFV/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.16",
+    title:
+      "Participating in Introductory Sessions to the Global Democracy Coalition and Youth Democracy Cohort",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Empowering Youth for Climate Justice: Insights from an Inspiring Session on Democratic Engagement and Environmental Advocacy",
+        image: "assets/img/impact/public-policy/Youth for Climate Justice.png",
+        description:
+          "had the opportunity to participate in an insightful session on Youth Leadership for Climate Justice, which explored the powerful intersection of democratic governance and climate action.",
+        link: "https://www.linkedin.com/posts/lilanofficial_climatejustice-youthleadership-sustainability-activity-7256890561507295234-lziX?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1hrdSPx8fDgUtlWJtDWlGgVoEW6c5PzrC/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.15",
+    title: "Leadership Practicums at the Generation Democracy Global Summit",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Expanding Leadership and Democracy Skills: Key Insights from the Generation Democracy Global Summit",
+        image: "assets/img/impact/public-policy/Expanding Leadership and Democracy Skills.png",
+        description:
+          "I had the opportunity to participate in the Generation Democracy Global Summit in Vilnius, Lithuania, an exceptional gathering focused on holistic approaches to leadership and democratic governance.",
+        link: "https://www.linkedin.com/posts/lilanofficial_global-youthleadership-democracy-activity-7256498427423817728-4bku?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1HqK_mVMCnJ5cUQVDHjNIzDyI4D9d7Ra5/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.14",
+    title: "Analysis of Presidential Campaigns",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Understanding the Persuadable Voter: How Wedge Issues Shape Presidential Campaign Strategies and Voter Behavior",
+        image: "assets/img/impact/public-policy/Persuadable Voter.png",
+        description:
+          "The Persuadable Voter: Wedge Issues in Presidential Campaigns, published by Princeton University Press, examines how wedge issues like abortion, gay marriage, and immigration have become standard strategies in modern presidential campaigns.",
+        link: "https://www.linkedin.com/posts/lilanofficial_princeton-election-national-activity-7256380002420600832-Cmlb?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1sN8L8WTkE_Vcb-vaLQWr834ottmURQvj/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.13",
+    title: "Supporting the regulation of tourist flow in Italy",
+    slides: [
+      {
+        date: "June 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Striking a Balance: Embracing Italy’s Tourism Regulations to Protect Cultural and Natural Heritage",
+        image: "assets/img/impact/public-policy/Striking a Balance.png",
+        description:
+          "Embarking on an iconic gondola ride through Venice’s canals and savouring the flavours of Rome’s streets have always been among my favourite experiences in Italy.",
+        link: "https://www.linkedin.com/posts/lilanofficial_italy-rome-venice-activity-7202231611512299521-xgD-?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1vjDJRT1KZYRSLsgixOE9GKpg9i0Vns_g/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "7.12",
+    title: "Participating in the Foreign Policy Health Forum at the United Nations General Assembly",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Global Health: Insights from the Foreign Policy Health Forum Reception",
+        image: "assets/img/impact/public-policy/Foreign Policy.png",
+        description:
+          "I had the opportunity to participate in the Foreign Policy Health Forum Reception during the UNGA at Studio Gather The Rockefeller Foundation Center, New York. A huge thank you to Swati Raj Save Ph.D. and Dr Satnam Deuchakar FRSA for the kind invitation.",
+        link: "https://www.linkedin.com/posts/lilanofficial_globalhealth-unga-climatehealth-activity-7245035878425751552-suOR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Vx-y5dKFV4MUzSe8QyPaPcroAZZIWiUb/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.11",
+    title: "Inspiring Stories Global Fellowship of Global Politics Affairs",
+    slides: [
+      {
+        date: "December 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "The Best Capstone Project during the Inspiring Stories Global Fellowship of the Global Politics Affairs",
+        image: "assets/img/impact/public-policy/Best Capstone Project.png",
+        description: "",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-youthempowerment-leadership-activity-7129060381716606976-YTnD?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1kdqO-4OCN0p3qOuWLKuk4Ngf1AJ_dEfe/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.10",
+    title: "Participating in the Clinton Global Initiative Annual Meeting",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Joining the Clinton Global Initiative: Excited to Contribute Solutions at the Annual Meeting",
+        image: "assets/img/impact/public-policy/Clinton Global Initiative.png",
+        description:
+          'I’m excited to join the Clinton Global Initiative at their Annual Meeting this September! Solutions will be in focus, and I’m proud to contribute to "What’s Working" in making the world a better place.',
+        link: "https://www.linkedin.com/posts/lilanofficial_cgi2024-cgi2024-cgi-activity-7237643257625632769-fuBf?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1KmZXwLZtjAPcL6-jJS1KZf4p2bPd9AqK/view?usp=drive_link",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Power of Partnerships for Global Impact",
+        image: "assets/img/impact/public-policy/The Power of Partnerships for Global Impact.jpg",
+        description:
+          'Reflecting on the "Look Around” session at the CGI Meeting in New York, advancing social impact can often feel like a solitary pursuit, especially amidst limited resources, escalating global challenges, and increasingly polarized media narratives. Despite this, the journey towards making a positive difference doesn\'t have to be walked alone...',
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-action-activity-7251513424981983233-gmxz?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Q4OWIpBmQxOAUbArJ2gx9QNZNe5ws0HS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.9",
+    title: "Completing the Global Competence Certificate (GCC)",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Achieving Global Competence: My Journey Through the Global Competence Certificate (GCC) Program",
+        image: "assets/img/impact/public-policy/Global Competence.png",
+        description:
+          "I successfully completed the Global Competence Certificate (GCC), a blended learning program that develops tangible global skills essential for living, working, and making a real social impact worldwide.",
+        link: "https://www.linkedin.com/posts/lilanofficial_globalup-globalcompetence-interculturallearning-activity-7235404585396224001-arZY?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1sy4R9QUMkPj9wu58oliXp5sBAimozT_c/view?usp=drive_link",
+      },
+      {
+        date: "September 2024",
+        source_name: "Global Competence Certificate",
+        source_link: "https://www.linkedin.com/company/global-competence-certificate/posts/",
+        title:
+          "Celebrating Cultural Awareness: Highlights from the Youth Assembly in NYC with Lilan Dayananda",
+        image: "assets/img/impact/public-policy/Cultural Awareness.png",
+        description:
+          "Our team is honored to receive such an endorsement from an incredible participant. It’s rare we get to meet our learners in person and Lilan Dayananda inspired all of us during our time together in at the Youth Assembly in NYC and certainly made this cohort particularly memorable and impactful.",
+        link: "https://www.linkedin.com/posts/global-competence-certificate_globalup-globalcompetence-interculturallearning-activity-7237419356102565890--tsz?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/14_AWT1H2cN2kLuLOxGyQmkmaW6wlE0qu/view?usp=drive_link",
+      },
+      {
+        date: "October 2024",
+        source_name: "Global Competence Certificate",
+        source_link: "https://www.linkedin.com/company/global-competence-certificate/posts/",
+        title: "Successful Completion of the Global Up Program",
+        image: "assets/img/impact/public-policy/Global Up Program.png",
+        description:
+          "Congratulations on a successful completion of the Global Up program, Lilan Dayananda 🎉",
+        link: "https://www.linkedin.com/posts/global-competence-certificate_globalup-globalcompetence-interculturallearning-activity-7238304952408764417-9krx?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Tc1ZMi04GBWu3HvJ5GOQYLbakyUrJmcW/view?usp=drive_link",
+      },
+      {
+        date: "October 2024",
+        source_name: "Global Competence Certificate",
+        source_link: "https://www.linkedin.com/company/global-competence-certificate/posts/",
+        title: "Empowering Climate Entrepreneurs: Global Up's Commitment to a Sustainable Future",
+        image: "assets/img/impact/public-policy/Climate Week.png",
+        description:
+          "As Climate Week and the United Nations General Assembly kick off next week, we’re reminded of our shared commitment to tackling climate change. Through the Global Up program, we’ve had the privilege of supporting climate entrepreneurs with the tools and training they need to turn ideas into impactful, climate-focused projects.",
+        link: "https://www.linkedin.com/posts/global-competence-certificate_climateaction-sdgs-globalup-activity-7242174281629995008-TIjw?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1e41ixKfphpMsgCc_sQdVKqvjvM_Hr5CJ/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.8",
+    title: "Visiting the American Field Service (AFS) Headquarters",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Embracing Global Citizenship: My Visit to the AFS Headquarters in New York",
+        image: "assets/img/impact/public-policy/Embracing Global Citizenship.png",
+        description:
+          "It was a pleasure to visit the American Field Service (AFS) Headquarters in New York, USA. AFS started as a volunteer ambulance corps in 1915, and its story is one of transformation from a wartime humanitarian aid organization to a pioneering international entity with a bold mission: to build a more peaceful world through cultural understanding.",
+        link: "https://www.linkedin.com/posts/lilanofficial_afs-youth-culture-activity-7229765163724201984-739L?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1ckT101XJGRBnehLv2LSltGrPWMq029N4/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.7",
+    title: "Addressing at the United Nations Office at Geneva, Switzerland",
+    slides: [
+      {
+        date: "January 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Bridging the Gap: How IDGs Drive SDG Achievement",
+        image: "assets/img/impact/public-policy/Bridging the Gap.png",
+        description:
+          "Many people are familiar with the concept of ‘Sustainable Development Goals’ (SDGs), yet a lesser-known fact is that achieving SDGs necessitates the adoption of the ‘Inner Development Goals’ (IDGs) framework.",
+        link: "https://www.linkedin.com/posts/lilanofficial_sdgs-un-youth-activity-7148971507283603457-Wx6G?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1fSkaze8KBfMjeF2mxYi0iPvETLTN_zIt/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.6",
+    title: "Addressing the Global Diplomatic Forum",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Engaging in Global Diplomacy: Insights from the Forum in Charleroi, Belgium",
+        image: "assets/img/impact/public-policy/Global Diplomacy.png",
+        description:
+          "Currently attending the Global Diplomatic Forum in Charleroi, Belgium. As defined by the National Geographic Society, diplomacy is the art and science of maintaining peaceful relationships between nations, groups, or individuals. It encompasses discussions on critical issues such as conflict, trade, the environment, technology, and security.",
+        link: "https://www.linkedin.com/posts/lilanofficial_globaldiplomaticforum-diplomacy-internationalrelations-activity-7222536656581537793-yyZI?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/18RYwesX5RyDBEIfu6w_dbiS8GYxEMvQO/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.5",
+    title: "Austrian Parliament Visit",
+    slides: [
+      {
+        date: "July 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting the Austrian Parliament",
+        image: "assets/img/impact/public-policy/Austrian Parliament.png",
+        description:
+          "The Austrian Parliament Building in Vienna is the meeting place of the two houses of the Austrian Parliament. The building is located on the Ringstraße in the first district, Innere Stadt, near Hofburg Palace and the Palace of Justice.",
+        link: "https://www.linkedin.com/posts/lilanofficial_global-diplomacy-democracy-activity-7215070912256040962-g_sc?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1yjMfR4CAT0rskFW8MZbhMEeYD0RT8AjQ/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.4",
+    title: "Maltese Parliament Visit",
+    slides: [
+      {
+        date: "July 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting the Maltese Parliament",
+        image: "assets/img/impact/public-policy/Visiting the Maltese Parliament.png",
+        description:
+          "Visiting the Maltese Parliament was an enriching experience that provided valuable insights into the legislative processes and governance of Malta. Engaging with policymakers and observing the inner workings of this esteemed institution underscored the importance of democratic principles and transparent governance. ",
+        link: "https://www.linkedin.com/posts/lilanofficial_malta-diplomacy-history-activity-7213966001128787970-uNHd?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1UkdrSItHx-0oM0RuFN9AzmJKT44ddhIU/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.3",
+    title: "Contributing to the Centre for Diplomatic Advancement",
+    slides: [
+      {
+        date: "June 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Addressing Food Insecurity Through Precision Agriculture and Inclusive Diplomacy: A Collaborative Path to Global Food Resilience",
+        image: "assets/img/impact/public-policy/Precision Agriculture.png",
+        description:
+          "Food insecurity, affecting millions globally, is not just about a lack of food but also encompasses issues of access, knowledge, and...",
+        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-democracy-food-activity-7200943955910250496-IYGS?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1tYB4CWFWKnSL0QajerWXRHMVUtd-5Bfm/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.2",
+    title: "Visiting the Ministry of Foreign Affairs, Kingdom of Thailand",
+    slides: [
+      {
+        date: "November 2023",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting the Ministry of Foreign Affairs, Kingdom of Thailand",
+        image: "assets/img/impact/public-policy/Visit the Ministry of Foreign Affairs.png",
+        description:
+          "It is such a great pleasure to visit the Ministry of Foreign Affairs, Kingdom of Thailand for the 3rd time within the last 12 months...",
+        link: "https://www.linkedin.com/posts/lilanofficial_sustainable-wellness-diversity-activity-7066624979664076800-KkEO?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Wi0_m625EbuPLF1S71BSn4kdo60jjTfE/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.1",
+    title: "Participating the Diplomatic Forum of the Centre for Diplomatic Advancement",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in a Diplomatic Forum",
+        image: "assets/img/impact/public-policy/Diplomatic Forum.png",
+        description:
+          "I had the opportunity to participate in a Diplomatic Forum at the Van Der Valk Hotel Charleroi, BMW Group Louyet in Belgium...",
+        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-forum-youth-activity-7223282424183406593-Csjz?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1kEA338MHhJEK7NmxpEA5jRhzFamvdLau/view?usp=drive_link",
+      },
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        id: "7.",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the Global Diplomatic Forum in Belgium",
+        image: "assets/img/impact/public-policy/Global Diplomatic Forum.png",
+        description:
+          "It was a pleasure to participate in the Global Diplomatic Forum in Belgium. Diplomacy, as a crucial tool for fostering global harmony, plays an indispensable role in creating a better world. It involves the art of negotiation, dialogue, and collaboration among nations to address complex global challenges such as climate change, poverty, conflict, and human rights violations.",
+        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-diplomatic-un-activity-7224839062661033984-r8tP?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/12TM8WNpJ9eHI0DaK1OGFk0c194RVPa26/view?usp=drive_link",
+      },
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Participating in the Youth Diplomatic Forum in Belgium",
+        image: "assets/img/impact/public-policy/Youth Diplomatic Forum.png",
+        description:
+          "Participating in the Youth Diplomatic Forum in Belgium was an eye-opening experience that deepened my understanding of global diplomacy and the role of youth in shaping international relations. Engaging with young leaders from diverse cultural and political backgrounds, I learned the importance of dialogue and collaboration in addressing complex global challenges.",
+        link: "https://www.linkedin.com/posts/lilanofficial_diplomacy-diplomatic-un-activity-7233077437088088065-o4SW?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1zLFgA3x0rFuUVhkX5E-YWikt_-gHdXBW/view?usp=drive_link",
       },
     ],
   },
