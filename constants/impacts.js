@@ -16552,78 +16552,6 @@ const impacts = [
 
   {
     filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
-    id: "13.32",
-    title: "ChildFund International : Cities on Fire – Art & Media Fellowship under the Art & Photography Track",
-    slides: [
-      {
-        date: "June 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Honored to Join Cities on Fire 🔥",
-        image: "assets/img/impact/arts-philosophy-mindfulness/Honored to Join Cities on Fire.jpg",
-        description:
-          "I am honored to be part of Cities on Fire – Art & Media Fellowship under the Art & Photography Track, a youth-powered initiative by ChildFund International that aims to spotlight the growing impact of extreme heat on children and young people across Asian cities...",
-        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-share-7475859050367188993-x5Wt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/15uzMi1PfcAeHOIXa2QaLeLsGe68tli1v/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
-    id: "13.31",
-    title: "My Interpretation of Monkey Sculptures & Globe (Earth) in Bonn",
-    slides: [
-      {
-        date: "June 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "The Monkeys of Bonn: A Reflection on Climate Leadership",
-        image: "assets/img/impact/arts-philosophy-mindfulness/The Monkeys of Bonn A Reflection on Climate Leadership.jpg",
-        description:
-          "While heading to the UN Climate Change Conference sessions of the Subsidiary Bodies in Germany, I came across this interesting installation in Bonn. It made me reflect on how bureaucratic systems can sometimes influence our response to the climate crisis. Some figures appear to cover their ears...",
-        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-ugcPost-7471198441839181825-U1GE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/166OjUfUswJOqjiijST1hC5M4grH3NLPQ/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
-    id: "13.30",
-    title: "Engagement with the Intersection of Youth Involvement for Art and Global Cultural Exchange at UNESCO Headquarters",
-    slides: [
-      {
-        date: "June 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "A Day of Learning, Connection, and Opportunity at UNESCO",
-        image: "assets/img/impact/arts-philosophy-mindfulness/A Day of Learning, Connection, and Opportunity at UNESCO.jpg",
-        description:
-          "Yesterday, I had the privilege of experiencing an inspiring convergence of youth innovation, entrepreneurship, and global cultural exchange at UNESCO Headquarters in Paris...",
-        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-youth-ugcPost-7467911236240801792-8mND/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1zK10uVXc1f1Bog4jIX7a8CJiLENYBH7k/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
-    id: "13.29",
-    title: "Engagement with BeChangeMaker program (WorldSkills International ; The HP Foundation), a UNESCO Partnered Initiative",
-    slides: [
-      {
-        date: "June 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Returning to UNESCO: Building Partnerships for Sustainable Impact",
-        image: "assets/img/impact/arts-philosophy-mindfulness/Returning to UNESCO Building Partnerships for Sustainable Impact.jpg",
-        description:
-          "I will be returning to UNESCO Headquarters in Paris tomorrow and spending the full week engaging with global leaders, innovators, and changemakers. I would be delighted to connect with individuals and organizations working at the forefront of sustainability...",
-        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-sustainability-ugcPost-7467221370192650240-bF2G/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1nOjGJfB8w1NJDMzgbngCKjPedjd-sL77/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
     id: "13.28",
     title: "Exploration Through Inner Development Goals Research Co-Creation Ecosystem",
     slides: [
@@ -18231,6 +18159,282 @@ const impacts = [
           "I had the opportunity to visit the Greenwich Peninsula Ecology Park situated along the River Thames in the Greenwich Peninsula in South London, England...",
         link: "https://www.linkedin.com/posts/lilanofficial_greenwich-peninsula-ecologypark-activity-7339953118735998976-ivW6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1QZR-v-I2c8IuzDOm4ZBF5S_FcSveepds/view?usp=sharing",
+      },
+    ],
+  },
+
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.16",
+    title: "Cities on Fire – Art & Media Fellowship under the Art & Photography Track",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Join Cities on Fire 🔥",
+        image: "assets/img/impact/history-culture-art-archeology/Honored to Join Cities on Fire.jpg",
+        description:
+          "I am honored to be part of Cities on Fire – Art & Media Fellowship under the Art & Photography Track, a youth-powered initiative by ChildFund International that aims to spotlight the growing impact of extreme heat on children and young people across Asian cities...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-share-7475859050367188993-x5Wt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15uzMi1PfcAeHOIXa2QaLeLsGe68tli1v/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.15",
+    title: "Interpretation of Monkey Sculptures & Globe (Earth) in Bonn",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Monkeys of Bonn: A Reflection on Climate Leadership",
+        image: "assets/img/impact/history-culture-art-archeology/The Monkeys of Bonn A Reflection on Climate Leadership.jpg",
+        description:
+          "While heading to the UN Climate Change Conference sessions of the Subsidiary Bodies in Germany, I came across this interesting installation in Bonn. It made me reflect on how bureaucratic systems can sometimes influence our response to the climate crisis. Some figures appear to cover their ears...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-ugcPost-7471198441839181825-U1GE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/166OjUfUswJOqjiijST1hC5M4grH3NLPQ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.14",
+    title: "Engagement with the Intersection of Youth Involvement for Art and Global Cultural Exchange at UNESCO Headquarters",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Day of Learning, Connection, and Opportunity at UNESCO",
+        image: "assets/img/impact/history-culture-art-archeology/A Day of Learning, Connection, and Opportunity at UNESCO.jpg",
+        description:
+          "Yesterday, I had the privilege of experiencing an inspiring convergence of youth innovation, entrepreneurship, and global cultural exchange at UNESCO Headquarters in Paris...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-youth-ugcPost-7467911236240801792-8mND/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1zK10uVXc1f1Bog4jIX7a8CJiLENYBH7k/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.13",
+    title: "Engagement with BeChangeMaker program (WorldSkills International ; The HP Foundation), a UNESCO Partnered Initiative",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Returning to UNESCO: Building Partnerships for Sustainable Impact",
+        image: "assets/img/impact/history-culture-art-archeology/Returning to UNESCO Building Partnerships for Sustainable Impact.jpg",
+        description:
+          "I will be returning to UNESCO Headquarters in Paris tomorrow and spending the full week engaging with global leaders, innovators, and changemakers. I would be delighted to connect with individuals and organizations working at the forefront of sustainability...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unesco-paris-sustainability-ugcPost-7467221370192650240-bF2G/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1nOjGJfB8w1NJDMzgbngCKjPedjd-sL77/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.12",
+    title: "Visiting the Pitt Rivers Museum and Oxford Philharmonic Orchestra in Oxford",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Hawai‘i Ma uka to Ma kai: A Powerful Cultural Journey at Oxford’s Pitt Rivers Museum",
+        image: "assets/img/impact/history-culture-art-archeology/Hawai‘i Ma uka to Ma kai.jpeg",
+        description:
+          "Yesterday, on June 12, 2025, The Pitt Rivers Museum in Oxford opened a powerful and immersive special exhibition...",
+        link: "https://www.linkedin.com/posts/lilanofficial_hawaii-culturalheritage-hula-activity-7339300527173718016-j4g7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gi7H0pjNhca-GmGZC4MtmUiu8evIjUtD/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.11",
+    title: "Venerate the Holy Belt of the Most Holy Theotokos (Virgin Mary)",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "A Journey of Faith, History, and Interfaith Understanding",
+        image: "assets/img/impact/history-culture-art-archeology/A Journey of Faith, History, and Interfaith Understanding.jpg",
+        description:
+          "As the Holy Belt of the Virgin Mary returns to Serbia for the first time in nearly 650 years, I had the unique opportunity to see and venerate this sacred relic at the Temple of Saint Sava in Belgrade...",
+        link: "https://www.linkedin.com/posts/lilanofficial_interfaithdialogue-religiousharmony-culturalexchange-ugcPost-7467114013622120448-RDmv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ZN0iLv_zt_V8Opp0lbGI8a7oebMM7Tsq/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.10",
+    title: "Exploring the Old Schools Quadrangle and Old Bodleian Library at the University of Oxford",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Discovering Oxford’s Bodleian Library and Its Historic Quadrangle",
+        image:
+          "assets/img/impact/history-culture-art-archeology/Discovering Oxford’s Bodleian Library and Its Historic Quadrangle.jpeg",
+        description:
+          "During my visit to the University of Oxford, I was captivated by the historic charm of the Old Schools Quadrangle, an open courtyard nestled at the heart of the Old Bodleian Library...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oxforduniversity-bodleianlibrary-academic-activity-7337684966782181377-lepf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1q9GcV4UpBQcCbCUxhoi8a2X4vS_iSofF/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.9",
+    title: "Exploring Czech Philharmonic Performances",
+    slides: [
+      {
+        date: "December 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "An Evening of Legacy and Culture: Czech Philharmonic at Carnegie Hall with Moonshot Community",
+        image: "assets/img/impact/history-culture-art-archeology/An Evening of Legacy and Culture.png",
+        description:
+          "Today, I had the exciting opportunity to attend a performance by the Czech Philharmonic at Carnegie Hall in New York, alongside the Moonshot Community...",
+        link: "https://www.linkedin.com/posts/lilanofficial_czechphilharmonic-carnegiehall-czechculture-activity-7270652804468211712-8mwR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1IRFMuqaKYfhijsolU3et2muQz5MJhMdn/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.8",
+    title: "Visiting in the Andrada Monument",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "José Bonifácio de Andrada e Silva Monument: Honoring Brazil’s Founding Father in Bryant Park, New York",
+        image: "assets/img/impact/history-culture-art-archeology/José Bonifácio.png",
+        description:
+          "José Bonifácio de Andrada e Silva, also known as the Andrada Monument, is an outdoor bronze sculpture of José Bonifácio de Andrada by José Otavio Correia Lima, located...",
+        link: "https://www.linkedin.com/posts/lilanofficial_newyork-nyc-manhattan-activity-7248457463073513472-dAN3?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1r7fVMmZoAy2I-3tINrCCi4eQ_vPvm-8M/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.7",
+    title: "Exploring Musical Culture in Czechia",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Exploring the Rich Musical Heritage of the Czech Republic: A Journey Through Genres and Traditions",
+        image: "assets/img/impact/history-culture-art-archeology/Rich Musical Heritage.png",
+        description:
+          "The Czech Republic is a fantastic place to experience all genres of music. The country's musical heritage is deeply rooted in classical music, with a rich tradition...",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-symphony-culture-activity-7236167772332826624-W0zj?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1c9tvfZwQihOME1VB3Z-mSJspISx2Og5t/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.6",
+    title: " Berlin Poetry Festival (Poesiefestival)",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating Global Voices: My Experience at the Poesiefestival Berlin",
+        image: "assets/img/impact/history-culture-art-archeology/Global Voices.png",
+        description:
+          "It was a pleasant experience to be involved Poesiefestival in Berlin, Germany. Every summer, Berlin is transformed into a stronghold of poetry for a week. Over 150 poets and artists from all over the world come to the Berlin Poetry Festival (Poesiefestival Berlin) and present current trends in contemporary poetry.",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-art-festival-activity-7221824489246838784-VDMy?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/15T67mQg7wmfFU2TrBZiauhmqbgpoymyB/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.4",
+    title: "Visiting the Monument of the Republic in Austria",
+    slides: [
+      {
+        date: "July 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Visiting the Monument of the Republic in Austria",
+        image: "assets/img/impact/history-culture-art-archeology/Republic in Austria.png",
+        description:
+          'Enjoyed visiting the Monument of the Republic in Austria, which commemorates the establishment of the Republic on November 12, 1918. This iconic monument, crafted by talented sculptors, features three busts of historically significant Social Democrats on pedestals, backed by three granite blocks with the inscription "The memory of the establishment of the Republic on 12 November 1918," emphasizing the founding of the republic.',
+        link: "https://www.linkedin.com/posts/lilanofficial_austria-vienna-history-activity-7213788756368142337-T020?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/162Gz353PnEvcC-dC8Wc0KTwNh2qOpQsr/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.3",
+    title: "Observe Czech Philharmonic",
+    slides: [
+      {
+        date: "August 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Celebrating Heritage: The Impact of the Czech Philharmonic Orchestra Since 1896",
+        image: "assets/img/impact/history-culture-art-archeology/Celebrating Heritage.png",
+        description:
+          "Since its very first concert on January 4, 1896 the orchestra has been led by and comprised of outstanding artists, all of whom have contributed to building the Czech Philharmonic's excellent reputation at home and around the world. The orchestra's activities have also significantly for better or for worse tended to manifest the artistic, cultural, and political context reflective of the times.",
+        link: "https://www.linkedin.com/posts/lilanofficial_music-symphony-culture-activity-7220316728822521856-5t4f?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/15TdRyeHE9Do8ubo7NhLL4z-o_d8C1eGC/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.2",
+    title: "Exploring the Library Artefacts at St John's College, Oxford",
+    slides: [
+      {
+        date: "June 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Centuries of History at St John’s College, Oxford",
+        image:
+          "assets/img/impact/history-culture-art-archeology/Exploring Centuries of History at St John’s College, Oxford.png",
+        description:
+          "I had the pleasure of exploring the fascinating Library Artefacts at St John's College, Oxford, UK. The Library & Study Centre isn’t just a home for manuscripts...",
+        link: "https://www.linkedin.com/posts/lilanofficial_oxford-library-artefacts-activity-7337394574069248000--LY2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1FFpH22R6O0utMiwOYYX1DKMDPhng1nc5/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.1",
+    title: "Visiting the Swiss Museum of Ceramics and Glass",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Exploring Sustainability and Climate Action at Musée Ariana",
+        image: "assets/img/impact/history-culture-art-archeology/Exploring Sustainability and Climate Action at Musée Ariana.jpeg",
+        description:
+          "During my visit to the Musée Ariana (the Swiss Museum of Ceramics and Glass), I learned about a vibrant community of environmental collaboration centered around the Maison Internationale de l’Environnement (MIE), home to the Geneva Environment Network Secretariat...",
+        link: "https://www.linkedin.com/posts/lilanofficial_geneva-climateaction-sustainability-activity-7401342527079137280-BPpL?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15StqtEYc12KmYV7R4aglh1_l0e6eLOpp/view?usp=sharing",
       },
     ],
   },
