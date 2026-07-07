@@ -11439,6 +11439,24 @@ const impacts = [
 
   {
     filter: "filter-leadership-economic",
+    id: "8.124",
+    title: "Systems Thinking Playmaker Training for Leaders at the Stage on Mars",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Seeing Systems, Not Just Problems",
+        image: "assets/img/impact/leadership-economic/Seeing Systems, Not Just Problems.jpg",
+        description:
+          "Countless leadership workshops teach you what to do. But very few change how you see. That was one of my biggest takeaways from experiencing Stage on Mars during the Moonshot Platform Young Leaders Camp in Prague. Despite its futuristic name, Stage on Mars isn't about technology. It's about something...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-youth-empowerment-ugcPost-7478796641634983936-Nevv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gVN9RXe9_dfTcMBM56rDUxOc-TP7sGn1/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
     id: "8.123",
     title: "World Business Dialogue Exploring AI & Human Collaboration for Economic Stability",
     slides: [
@@ -13848,6 +13866,42 @@ const impacts = [
 
   {
     filter: "filter-youth-women-empowerment",
+    id: "9.77",
+    title: "Living Emotional Technology through ArtZen at the Moonshot Young Leaders Camp",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Inner Journey of Leadership",
+        image: "assets/img/impact/youth-women-empowerment/The Inner Journey of Leadership.jpg",
+        description:
+          "Some leadership lessons are taught in classrooms. Others are experienced through moments that quietly change how you think. I’m deeply grateful to have been part of the latest Moonshot Young Leaders Camp in Czechia. This immersive journey brought together young leaders and mentors...",
+        link: "https://www.linkedin.com/posts/lilanofficial_some-leadership-lessons-are-taught-in-classrooms-ugcPost-7479071610470027264-2UXh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1KJhzUqXliLVRCds7acekBlJeopT6zw-E/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.76",
+    title: "Systems Thinking Playmaker Training for Youth Empowerment at the Stage on Mars",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Seeing Systems, Not Just Problems",
+        image: "assets/img/impact/youth-women-empowerment/Seeing Systems, Not Just Problems.jpg",
+        description:
+          "Countless leadership workshops teach you what to do. But very few change how you see. That was one of my biggest takeaways from experiencing Stage on Mars during the Moonshot Platform Young Leaders Camp in Prague. Despite its futuristic name, Stage on Mars isn't about technology. It's about something...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-youth-empowerment-ugcPost-7478796641634983936-Nevv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gVN9RXe9_dfTcMBM56rDUxOc-TP7sGn1/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
     id: "9.75",
     title: "High-level Event on Building a New Era of Understanding and Cooperation: Meeting the Inequality Emergency",
     slides: [
@@ -13987,6 +14041,17 @@ const impacts = [
           "The Centre for the Development of Equal Opportunities was visited by the participants of the 2024 Generation Democracy World Congress seeking to get to know civil society organisations better, get acquainted with their activities and the work they are implementing...",
         link: "https://www.linkedin.com/posts/lygiu-galimybiu-pletros-centras_lyafjiahhlygybaft-genderequality-activity-7246431424994525184-IaTO?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1WC5UnOOTNUlx9-h-DIiGEG9_VSWbRiCI/view?usp=sharing",
+      },
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Connecting with Global Youth Leaders",
+        image: "assets/img/impact/youth-women-empowerment/Connecting with Global Youth Leaders.jpg",
+        description:
+          "Visiting the Center for Equality Advancement in Vilnius, Lithuania was a pleasure...",
+        link: "https://www.linkedin.com/posts/lilanofficial_lyafjiahhlygybaft-genderequality-activity-7248405848190771200-9R1B?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1M7vZ_pIi5wAhDF64POpC1CLsCJo0qkka/view?usp=sharing",
       },
     ],
   },
@@ -16550,6 +16615,42 @@ const impacts = [
     ],
   },
 
+    {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.30",
+    title: "Living Emotional Technology through ArtZen Neuroscience Approach",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Inner Journey of Leadership",
+        image: "assets/img/impact/arts-philosophy-mindfulness/The Inner Journey of Leadership.jpg",
+        description:
+          "Some leadership lessons are taught in classrooms. Others are experienced through moments that quietly change how you think. I’m deeply grateful to have been part of the latest Moonshot Young Leaders Camp in Czechia. This immersive journey brought together young leaders and mentors...",
+        link: "https://www.linkedin.com/posts/lilanofficial_some-leadership-lessons-are-taught-in-classrooms-ugcPost-7479071610470027264-2UXh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1KJhzUqXliLVRCds7acekBlJeopT6zw-E/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.29",
+    title: "Playmaker Training for Systems Thinking at the Stage on Mars",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Seeing Systems, Not Just Problems",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Seeing Systems, Not Just Problems.jpg",
+        description:
+          "Countless leadership workshops teach you what to do. But very few change how you see. That was one of my biggest takeaways from experiencing Stage on Mars during the Moonshot Platform Young Leaders Camp in Prague. Despite its futuristic name, Stage on Mars isn't about technology. It's about something...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-youth-empowerment-ugcPost-7478796641634983936-Nevv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gVN9RXe9_dfTcMBM56rDUxOc-TP7sGn1/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
     id: "13.28",
@@ -17060,6 +17161,42 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.19",
+    title: "Diving into Creative Journaling and to the Caux Democracy Forum",
+    slides: [
+      {
+        date: "August 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Leading with Integrity: Reflections from Day 4 of the Creative Leadership Program in Caux",
+        image: "assets/img/impact/journalism-media-mass-communication/Leading with Integrity.png",
+        description:
+          "On the fourth day of the Caux Creative Leadership Program in Montreux, Switzerland, I began with a deep dive into creative journaling, an exercise...",
+        link: "https://www.linkedin.com/posts/lilanofficial_creative-leadership-integrity-activity-7355492953005436928-6UA0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Hp8gbU264SoubKPs1gpf9SoB1jXfLJRg/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.18",
+    title: "One World Media G20 Fellowship on Storytelling, Media, Journalism, Filmmaking & Strategic Communication",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "One World Media",
+        source_link: "https://www.linkedin.com/company/one-world-media---uk/posts/",
+        title: "Honored to Join the G20 Voices for Land Fellowship",
+        image: "assets/img/impact/journalism-media-mass-communication/Honored to Join the G20 Voices for Land Fellowship.jpg",
+        description:
+          "We're thrilled to announce the G20 Fellowship – Voices for Land, a new partnership between One World Media, UN Convention to Combat Desertification and G20 Global Land Initiative...",
+        link: "https://www.linkedin.com/posts/g20fellowship-voicesforland-landrestoration-share-7478349278713827328-Z2Fj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1UT56W5bxghVUdED2RKR4s2ENfko2LN-x/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-journalism-media-mass-communication",
     id: "14.17",
@@ -17784,6 +17921,42 @@ const impacts = [
   },
   {
     filter: "filter-nature-based-explorations-adventures",
+    id: "15.23",
+    title: "Trekking to ‘Peace Heaven’ Advocating for Nuclear Disarmament",
+    slides: [
+      {
+        date: "October 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Finding Peace in Nature: Reflections from My Trek to Peace Heaven, Pokhara",
+        image: "assets/img/impact/nature-based-explorations/Finding Peace in Nature.png",
+        description:
+          "During my recent trek to Peace Heaven, I was reminded of the profound connection between nature and inner peace. Trekking through such a serene environment in Pokhara, Nepal...",
+        link: "https://www.linkedin.com/posts/lilanofficial_trekking-climate-action-activity-7370370805731422208-NPeE?utm_source=share&utm_medium=member_android&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1cnbBGW6huTA04SRRhqtORYj9DMGao9Y-/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.22",
+    title: "Moonshot Sessions on a Train Journey & Nature-based Leadership Activities",
+    slides: [
+      {
+        date: "July 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Breaking Barriers, Building Confidence",
+        image: "assets/img/impact/nature-based-explorations/Breaking Barriers, Building Confidence.jpg",
+        description:
+          "I had an incredible experience participating in a seminar conducted by the Moonshot platform on a train journey from Prague to Ostrava. This unique event was supported by České dráhy, a.s. , City of Ostrava - official and the Ministerstvo dopravy ČR...",
+        link: "https://www.linkedin.com/posts/lilanofficial_team-energy-moonshot-activity-7219811126367203329-rBIR?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1e2PqkTja-VtSfdbYlXWkbegV4yTWmni8/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
     id: "15.21",
     title: "ChildFund International : Cities on Fire – Art & Media Fellowship under the Art & Photography Track",
     slides: [
@@ -18165,6 +18338,24 @@ const impacts = [
 
   {
     filter: "filter-history-culture-art-archeology",
+    id: "16.17",
+    title: "Playmaker Training at the Stage on Mars",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Seeing Systems, Not Just Problems",
+        image: "assets/img/impact/history-culture-art-archeology/Seeing Systems, Not Just Problems.jpg",
+        description:
+          "Countless leadership workshops teach you what to do. But very few change how you see. That was one of my biggest takeaways from experiencing Stage on Mars during the Moonshot Platform Young Leaders Camp in Prague. Despite its futuristic name, Stage on Mars isn't about technology. It's about something...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-youth-empowerment-ugcPost-7478796641634983936-Nevv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gVN9RXe9_dfTcMBM56rDUxOc-TP7sGn1/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
     id: "16.16",
     title: "Cities on Fire – Art & Media Fellowship under the Art & Photography Track",
     slides: [
@@ -18362,6 +18553,24 @@ const impacts = [
           "It was a pleasant experience to be involved Poesiefestival in Berlin, Germany. Every summer, Berlin is transformed into a stronghold of poetry for a week. Over 150 poets and artists from all over the world come to the Berlin Poetry Festival (Poesiefestival Berlin) and present current trends in contemporary poetry.",
         link: "https://www.linkedin.com/posts/lilanofficial_music-art-festival-activity-7221824489246838784-VDMy?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/15T67mQg7wmfFU2TrBZiauhmqbgpoymyB/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.5",
+    title: "Exploration of Cultural Heritage Spaces that Preserve Centuries of Czech History",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building Leadership Beyond the Conference",
+        image: "assets/img/impact/history-culture-art-archeology/Building Leadership Beyond the Conference.jpg",
+        description:
+          'Following the latest Moonshot Youth Innovation Summit in Prague, our journey continued beyond the conference halls, reminding us that meaningful leadership is built not only through dialogue but also through shared experiences...',
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-youth-empowerment-activity-7478412733340614656-MMMz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16ADoUPITHxXd8YBE9EYy9i2rYNB_HxGV/view?usp=sharing",
       },
     ],
   },
@@ -19259,6 +19468,24 @@ const impacts = [
   },
   {
     filter: "filter-diplomacy-international-relationship",
+    id: "17.38",
+    title: "Engagement with the UN Pavilion at the Expo Osaka",
+    slides: [
+      {
+        date: "December 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "UN Pavilion at Expo Osaka",
+        image: "assets/img/impact/public-policy/UN Pavilion at Expo Osaka.png",
+        description:
+          "Expo 2025 Osaka in Japan, transformed Yumeshima Island into a global platform for innovation and collaboration under the theme “Designing Future Society for Our Lives.” With more than 160 countries and regions participating, the Expo explored solutions to global challenges through cutting-edge technology, design, and collective action. One of the most striking architectural...",
+        link: "https://www.linkedin.com/posts/lilanofficial_expo2025-unitednations-sdgs-activity-7411611837043019776-kwYu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/12v5lPabGAEQmzT-pm6rBrq9i5FG853-k/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
     id: "17.37",
     title: "Osaka Expo Sri Lankan Delegation within the \"Empowering Lives\" Zone",
     slides: [
@@ -19768,6 +19995,17 @@ const impacts = [
           'I’m excited to join the Clinton Global Initiative at their Annual Meeting this September! Solutions will be in focus, and I’m proud to contribute to "What’s Working" in making the world a better place.',
         link: "https://www.linkedin.com/posts/lilanofficial_cgi2024-cgi2024-cgi-activity-7237643257625632769-fuBf?utm_source=share&utm_medium=member_desktop",
         backup_image: "https://drive.google.com/file/d/1KmZXwLZtjAPcL6-jJS1KZf4p2bPd9AqK/view?usp=drive_link",
+      },
+      {
+        date: "",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Power of Partnerships for Global Impact",
+        image: "assets/img/impact/public-policy/The Power of Partnerships for Global Impact.jpg",
+        description:
+          'Reflecting on the "Look Around” session at the CGI Meeting in New York, advancing social impact can often feel like a solitary pursuit, especially amidst limited resources, escalating global challenges, and increasingly polarized media narratives. Despite this, the journey towards making a positive difference doesn\'t have to be walked alone...',
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-action-activity-7251513424981983233-gmxz?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Q4OWIpBmQxOAUbArJ2gx9QNZNe5ws0HS/view?usp=sharing",
       },
     ],
   },
