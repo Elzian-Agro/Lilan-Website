@@ -9863,24 +9863,6 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
-    id: "7.78",
-    title: "Engagement with the World Business Dialogue Exploring Generation Europe: Unite to Compete",
-    slides: [
-      {
-        date: "June 2026",
-        source_name: "LinkedIn",
-        source_link: "https://www.linkedin.com/in/lilanofficial/",
-        title: "Empowering Youth in Global Biodiversity Policy",
-        image: "assets/img/impact/public-policy/Empowering Youth in Global Biodiversity Policy.jpg",
-        description:
-          "One of the most valuable experiences during the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague was gaining a deeper understanding of international biodiversity governance and the critical role young people can play in shaping environmental policy...",
-        link: "https://www.linkedin.com/posts/lilanofficial_gybn-biodiversity-cbd-activity-7473459608536133632-ok4o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
-        backup_image: "https://drive.google.com/file/d/1BboDQVXkKK3JYeTI2A8lKCsscGIQP3DO/view?usp=sharing",
-      },
-    ],
-  },
-  {
-    filter: "filter-public-policy",
     id: "7.77",
     title: "Participating in the Normandy World Peace Forum Day 2",
     slides: [
@@ -13864,6 +13846,205 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.75",
+    title: "High-level Event on Building a New Era of Understanding and Cooperation: Meeting the Inequality Emergency",
+    slides: [
+      {
+        date: "May 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Addressing Global Inequality Through Evidence-Based Action",
+        image: "assets/img/impact/youth-women-empowerment/Addressing Global Inequality.jpg",
+        description:
+          "A few weeks ago, I had the opportunity to attend a high-level event titled “Building a New Era of Understanding and Cooperation: Meeting the Inequality Emergency” at the Palais des Nations in Geneva, Switzerland...",
+        link: "https://www.linkedin.com/posts/lilanofficial_economy-market-peace-ugcPost-7465197709138829312-8WFc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/16KvS68HBPsMa_h-m7DT7pTcDDwdwBCJT/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.74",
+    title: "Delivering the Opening Speech on behalf of the Youth at the Nagasaki Peace-Preneur Forum",
+    slides: [
+      {
+        date: "May 2025",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Opening for Peace: Honoured to Represent Youth at the Nagasaki Peace-Preneur Forum",
+        image: "assets/img/impact/youth-women-empowerment/Opening for Peace.png",
+        description:
+          "Honoured to deliver the opening speech on behalf of the youth at the Nagasaki Peace-Preneur Forum yesterday, held at the remarkable Stadium City Nagasaki, Japan...",
+        link: "https://www.linkedin.com/posts/lilanofficial_nagasaki-peace-youthforpeace-activity-7329398373063577600-97Qv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/18yY8l2oZEkqjTgXkggtQiurkROPpfnAS/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.73",
+    title: "UN Forum on Science, Technology and Innovation for Artificial Intelligence and Young People",
+    slides: [
+      {
+        date: "May 7, 2025",
+        source_name: "Nations Unies",
+        source_link:
+          "https://www.un.org/fr?_gl=1*1cfmiqu*_ga*MTMyODc5MjM1OS4xNzQ3NjYyMjY5*_ga_TK9BQL5X7Z*czE3NDc2NjIyNjgkbzEkZzAkdDE3NDc2NjIyNjgkajAkbDAkaDA.*_ga_SCSJZ3XC0L*czE3NDc2NjIyNjgkbzEkZzAkdDE3NDc2NjIyNjgkajAkbDAkaDA.",
+        title:
+          "ECOSOC: Tenth anniversary of the forum on science, technology and innovation, an opportunity to discuss artificial intelligence and young people",
+        image: "assets/img/impact/youth-women-empowerment/ECOSOC.png",
+        description:
+          "In the futuristic atmosphere of the Economic and Social Council (ECOSOC) chamber, transformed for the occasion...",
+        link: "https://press.un.org/fr/2025/ecosoc7202.doc.htm",
+        backup_image: "https://drive.google.com/file/d/1W-8GTxKPs6J0G1DoItce6arMzbSdK9uf/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.72",
+    title:
+      "Cultivating Youth Leaders from All Backgrounds (Leadership in Diversity)",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Fostering Inclusive Democracies: Insights from the 'Leadership in Diversity' Session at the Generation Democracy Global Summit",
+        image: "assets/img/impact/youth-women-empowerment/Fostering Inclusive Democracies.png",
+        description:
+          'I had the pleasure of participating in the "Cultivating Youth Leaders from All Backgrounds" (Leadership in Diversity) session at the Generation Democracy Global Summit in Vilnius, Lithuania.',
+        link: "https://www.linkedin.com/posts/lilanofficial_global-youthleadership-democracy-activity-7250886936259616770-7g4o?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1fG3EVEecH8kdQ-7cnW9Ax6nfbL9zMQlC/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.71",
+    title:
+      "Empowering Youth through Civic-Tech and Practicum on Global Strategies",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Empowering Youth through Civic-Tech: Insights from Vilnius on Digital Engagement and Co-Governance",
+        image: "assets/img/impact/youth-women-empowerment/the session on Empowering Youth.png",
+        description:
+          "I had the opportunity to attend an insightful session on Empowering Youth through Civic-Tech in Vilnius, which highlighted how technology can be harnessed to boost youth engagement in civic activities.",
+        link: "https://www.linkedin.com/posts/lilanofficial_global-youthleadership-democracy-activity-7249818185082777600-k1XK?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1WbxSMCGNGLGRampFsD-GMMlYi9zd_yw1/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.70",
+    title: "Participating in the session on Meaningful Youth Participation in Eurasia",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Eurasian Youth: Insights on Meaningful Participation in Civic and Political Life",
+        image: "assets/img/impact/youth-women-empowerment/Empowering Eurasian Youth.png",
+        description:
+          "I had the opportunity to attend an insightful session on Meaningful Youth Participation in Eurasia. The discussion aimed to empower young leaders...",
+        link: "https://www.linkedin.com/posts/lilanofficial_globaldemocracy-youthleadership-civicengagement-activity-7249145208372649984-ClmV?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/11qNj98RTh4xNELzD9xWU8Tpavfpkc-CS/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.69",
+    title:
+      "Participating in the session on Strengthening Youth-led Grassroots Activism for Global Democracy and Visiting the Center for Equality Advancement",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth Activism: Visit to the Center for Equality Advancement",
+        image: "assets/img/impact/youth-women-empowerment/Center for Equality Advancement.png",
+        description:
+          "I had the opportunity to visit the Center for Equality Advancement in Vilnius, Lithuania, during the Generation Democracy Global Summit, following an insightful session on Strengthening Youth-led Grassroots Activism for Global Democracy.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youthactivism-globaldemocracy-grassrootsmovements-activity-7242448896088555522-kZf0?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1j1E-rrh84XX7RogyQk-0Ed4pa6LQE8-y/view?usp=drive_link",
+      },
+      {
+        date: "July 2025",
+        source_name: "Lygių galimybių plėtros centras/Center for Equality Advancement",
+        source_link: "https://www.linkedin.com/company/lygiu-galimybiu-pletros-centras/posts/",
+        title: "Connecting with Global Youth Leaders",
+        image: "assets/img/impact/youth-women-empowerment/Connecting with Global Youth Leaders.jpg",
+        description:
+          "The Centre for the Development of Equal Opportunities was visited by the participants of the 2024 Generation Democracy World Congress seeking to get to know civil society organisations better, get acquainted with their activities and the work they are implementing...",
+        link: "https://www.linkedin.com/posts/lygiu-galimybiu-pletros-centras_lyafjiahhlygybaft-genderequality-activity-7246431424994525184-IaTO?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1WC5UnOOTNUlx9-h-DIiGEG9_VSWbRiCI/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.68",
+    title: "Engagement with the Youth Perspectives on Global Security (Securing Tomorrow) Session",
+    slides: [
+      {
+        date: "October 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title:
+          "Great Connections on Day One of the Generation Democracy Global Summit: Meeting Jetnor Kasmi and COL (ret) Vaidotas Malinionis",
+        image: "assets/img/impact/youth-women-empowerment/Generation Democracy Global Summit.png",
+        description:
+          "It was a pleasure to meet Jetnor Kasmi and COL (ret) Vaidotas Malinionis on the first day of the Generation Democracy Global Summit in Vilnius, Lithuania.",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-global-security-activity-7241707044343332864-cqCC?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/1Nt83iKcaUW34DS2QtBTpLJ9kmCmZVLtJ/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.67",
+    title: "Engagement with the AFS Youth Assembly",
+    slides: [
+      {
+        date: "September 2024",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Engaging in Global Solutions: Insights from the AFS Youth Assembly in New York City",
+        image: "assets/img/impact/youth-women-empowerment/Global Solutions.png",
+        description:
+          "I recently had the pleasure of attending the AFS Youth Assembly in New York City, where the agenda focused on key global challenges, including...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-global-food-activity-7237442749816274946-H087?utm_source=share&utm_medium=member_desktop",
+        backup_image: "https://drive.google.com/file/d/18qCQhCLprLyzce_c9ECXFA0CBvHpg7ey/view?usp=drive_link",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.66",
+    title: "Engagement with the Moonshot Youth Innovation Summit",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Leading Change Through Youth Innovation and Collaboration",
+        image: "assets/img/impact/youth-women-empowerment/Leading Change Through Youth Innovation and Collaboration.jpg",
+        description:
+          "It was a great opportunity to participate in the latest Moonshot Youth Innovation Summit at Prague Castle in Czechia. From environmental sustainability and emerging technologies to peacebuilding and purpose-driven business, the summit explored what it truly means to lead with hope, purpose, and action...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-youth-empowerment-activity-7478391636000116736-hL8o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1tKfc1MLIxzl8-XLGtNZAG1kWYCAUkB74/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-youth-women-empowerment",
     id: "9.65",
