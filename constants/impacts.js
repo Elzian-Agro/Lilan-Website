@@ -5140,6 +5140,25 @@ const impacts = [
 
   {
     filter: "filter-food-agriculture",
+    id: "4.94",
+    title: "Engagement with the Food & Agriculture Organization (FAO) Global Conference on Smart Farming",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping the Future of Smart Farming",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Shaping the Future of Smart Farming.jpg",
+        description:
+          "Last week, I had the privilege of participating in the FAO Global Conference on Smart Farming in Rome, Italy, where policymakers, researchers, entrepreneurs, farmers, and development partners came together to discuss how digital innovation can accelerate the transition towards more sustainable agrifood systems...",
+        link: "https://www.linkedin.com/posts/lilanofficial_smartfarming-digitalagriculture-fao-ugcPost-7480561241501876226-qycJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1__wusbquZymIAOQQfuwkU5WCi8GlIhiC/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
     id: "4.93",
     title: "Citizen Science City Nature Challenge in Prague through iNaturalist platform",
     slides: [
@@ -9863,6 +9882,24 @@ const impacts = [
   },
   {
     filter: "filter-public-policy",
+    id: "7.78",
+    title: "Engagement with the World Business Dialogue Exploring Generation Europe: Unite to Compete",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Looking Back at the World Business Dialogue as a New Edition Begins",
+        image: "assets/img/impact/public-policy/Looking Back at the World Business Dialogue as a New Edition Begins.jpg",
+        description:
+          "As the next World Business Dialogue begins this week at the University of Cologne, Germany, I find myself reflecting on the privilege of participating in the previous edition of this remarkable global gathering. The World Business Dialogue brought together an inspiring community of students, entrepreneurs, business leaders, policymakers, academics, and changemakers...",
+        link: "https://www.linkedin.com/posts/lilanofficial_as-the-next-world-business-dialogue-begins-ugcPost-7475265546314227713-bcOx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1uk0-JXEP7iMLexYjZrA4FNyNAsLQ9vI3/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-public-policy",
     id: "7.77",
     title: "Participating in the Normandy World Peace Forum Day 2",
     slides: [
@@ -11437,6 +11474,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.125",
+    title: "Engagement with the Talent for Good Forum",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping Trust in the Future",
+        image: "assets/img/impact/leadership-economic/Shaping Trust in the Future.jpg",
+        description:
+          "I had the opportunity to participate in the Talent for Good Forum, held at the THUAS Atrium in The Hague, Netherlands, as part of the Talent for Good Fair, the Netherlands' largest career fair dedicated to impact-driven work. The event brought together multiple organizations working across peace and justice, human rights, climate justice, humanitarian...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-talent-sustainability-ugcPost-7480774041457336321-_One/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1pe2-6n-VXyAlMKFb76UmtyNjThs5To2P/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.124",
@@ -13864,6 +13919,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.77",
+    title: "Engagement with the Talent for Good Forum",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping Trust in the Future",
+        image: "assets/img/impact/youth-women-empowerment/Shaping Trust in the Future.jpg",
+        description:
+          "I had the opportunity to participate in the Talent for Good Forum, held at the THUAS Atrium in The Hague, Netherlands, as part of the Talent for Good Fair, the Netherlands' largest career fair dedicated to impact-driven work. The event brought together multiple organizations working across peace and justice, human rights, climate justice, humanitarian...",
+        link: "https://www.linkedin.com/posts/lilanofficial_leadership-talent-sustainability-ugcPost-7480774041457336321-_One/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1pe2-6n-VXyAlMKFb76UmtyNjThs5To2P/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-youth-women-empowerment",
     id: "9.77",
@@ -17740,6 +17813,17 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1e06AdMorUB90PR-J6alcZZvF3h5M7en_/view?usp=sharing",
       },
       {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling the Mongolian Network 🇲🇳",
+        image: "assets/img/impact/nature-based-explorations/Calling the Mongolian Network.jpg",
+        description:
+          "I will be in Ulaanbaatar from mid-August until the end of the month and would welcome the opportunity to connect with individuals and organizations working at the intersection of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_mongolia-ulaanbaatar-sustainability-share-7481105250502758400-pJxS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Wyoc761XMxohw8ZPaEhw69PzZTo0vJkt/view?usp=sharing",
+      },
+      {
         date: "June 2025",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -18994,6 +19078,17 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1B23cvPp34pkCXG2HU3LJ87n8epTR_LbP/view?usp=sharing",
       },
       {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling the Mongolian Network 🇲🇳",
+        image: "assets/img/impact/diplomacy-international-relationship/Calling the Mongolian Network.jpg",
+        description:
+          "I will be in Ulaanbaatar from mid-August until the end of the month and would welcome the opportunity to connect with individuals and organizations working at the intersection of sustainability, innovation, and systems transformation...",
+        link: "https://www.linkedin.com/posts/lilanofficial_mongolia-ulaanbaatar-sustainability-share-7481105250502758400-pJxS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Wyoc761XMxohw8ZPaEhw69PzZTo0vJkt/view?usp=sharing",
+      },
+      {
         date: "June 2026",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -19077,6 +19172,54 @@ const impacts = [
           "I’m honored to share that I have been selected to participate in the PolicyLink Summit: We Are the Founders in the Washington, D.C. area, with a full scholarship...",
         link: "https://www.linkedin.com/posts/lilanofficial_economy-usa-policy-ugcPost-7477465540626894849-QU9C/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1WvmhYm7jz_wez9Y1eL9OYZQoZ3UckKh5/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.59",
+    title: "Engagement with the World Business Dialogue Exploring Generation Europe: Unite to Compete",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping the Future of Work at the World Business Dialogue 2026",
+        image: "assets/img/impact/diplomacy-international-relationship/Shaping the Future of Work at the World Business Dialogue 2026.jpg",
+        description:
+          "It was a great opportunity to participate in the latest World Business Dialogue at the University of Cologne, Germany; an inspiring gathering that brought together students, industry leaders, policymakers, entrepreneurs, and changemakers from around the world to explore...",
+        link: "https://www.linkedin.com/posts/lilanofficial_worldbusinessdialogue-wbd-futureofwork-ugcPost-7474782805281988608-MPsg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1x7Fbew9LNo3WYPWz1SQ6v-lNPp9Q3Hy7/view?usp=sharing",
+      },
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Looking Back at the World Business Dialogue as a New Edition Begins",
+        image: "assets/img/impact/diplomacy-international-relationship/Looking Back at the World Business Dialogue as a New Edition Begins.jpg",
+        description:
+          "As the next World Business Dialogue begins this week at the University of Cologne, Germany, I find myself reflecting on the privilege of participating in the previous edition of this remarkable global gathering. The World Business Dialogue brought together an inspiring community of students, entrepreneurs, business leaders, policymakers, academics, and changemakers...",
+        link: "https://www.linkedin.com/posts/lilanofficial_as-the-next-world-business-dialogue-begins-ugcPost-7475265546314227713-bcOx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1uk0-JXEP7iMLexYjZrA4FNyNAsLQ9vI3/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.58",
+    title: "Engagement at the Global Youth Biodiversity Network (GYBN) Europe & Exploring United Nations Frameworks",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Empowering Youth in Global Biodiversity Policy",
+        image:
+          "assets/img/impact/diplomacy-international-relationship/Empowering Youth in Global Biodiversity Policy.jpg",
+        description:
+          "One of the most valuable experiences during the Global Youth Biodiversity Network (GYBN) Europe In-Person Training in Prague was gaining a deeper understanding of international biodiversity governance and the critical role young people can play in shaping environmental policy...",
+        link: "https://www.linkedin.com/posts/lilanofficial_gybn-biodiversity-cbd-activity-7473459608536133632-ok4o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1BboDQVXkKK3JYeTI2A8lKCsscGIQP3DO/view?usp=sharing",
       },
     ],
   },
