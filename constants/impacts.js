@@ -5140,6 +5140,101 @@ const impacts = [
 
   {
     filter: "filter-food-agriculture",
+    id: "4.99",
+    title: "G20 Global Land Initiative Media Feature for Moonshot Youth Innovation Summit",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Moonshot for a Regenerative Future",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Moonshot for a Regenerative Future.png",
+        description:
+          "Innovation thrives when diverse minds come together with a shared purpose. At the Moonshot Youth Innovation Summit in Prague, Czechia, I had the opportunity to engage in inspiring conversations with social innovators from around the world who are developing bold, practical solutions to some of humanity's greatest challenges...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-innovation-summit-ugcPost-7487527031707000832-yolG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15uPpMLUhcoZVT8TBhFydBzFYNLuOOdJH/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.98",
+    title: "Engagement with the United Nations Convention to Combat Desertification (UNCCD) Youth Forum for Land Restoration",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Heading to UNCCD COP17",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Heading to UNCCD COP17.jpg",
+        description:
+          "The fifth UNCCD Youth Forum will take place next month in Mongolia, and the COP17 Youth Forum builds on the outcomes of COP14, COP15, and COP16, providing a dedicated platform for youth engagement that is structured, inclusive, and action-oriented...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unccd-mongolia-cop17-ugcPost-7487462401978855424-9LvV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1kn4xo4G1yVCMrO4k96SYL-rv3Ji99emK/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.97",
+    title: "Engagement with the LANDac Annual Conference Under the Theme \"Land, Conflict & Peace\"",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Land Governance for Lasting Peace",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Land Governance for Lasting Peace.jpg",
+        description:
+          "I recently had the opportunity to participate in the LANDac Annual Conference at Utrecht University in the Netherlands, held under the theme \"Land, Conflict & Peace.\" The conference offered a timely and thought-provoking exploration of the complex relationships between land governance, conflict, justice, and peacebuilding...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-peacebuilding-conflictresolution-activity-7483464666053025792-pW-u?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1UtsN2d0QQdNcAUcOuUC95QG8QkL8k5Ne/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.96",
+    title: "Understanding the United Nations Convention to Combat Desertification (UNCCD) Progress Towards Conference of Parties (COP) for Land Restoration",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "From Riyadh to Ulaanbaatar: Understanding the Road Already Travelled Towards UNCCD COP17",
+        image:
+          "assets/img/impact/food-agriculture-forestry/From Riyadh to Ulaanbaatar.jpg",
+        description:
+          "The journey towards COP17 continues with the Road to COP17 Webinar Series, an initiative designed to help young people better understand the global processes, commitments, and opportunities...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unccd-cop17-landrestoration-ugcPost-7483279752674545664-TSWW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dRDUTDq2tQAtGp2rMAWDPfaTkz2XTTEN/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
+    id: "4.95",
+    title: "Engagement with the Youth Impact Summit for Agriculture & Land Restoration",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Young Leaders for a Sustainable Future",
+        image:
+          "assets/img/impact/food-agriculture-forestry/Young Leaders for a Sustainable Future.png",
+        description:
+          "The future of climate action is being shaped by young people who are transforming ideas into measurable impact. 🌍🌱...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-climateaction-landrestoration-ugcPost-7482191073734258688-GtpL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gjcYKtiFsV6rlY5PvaZS_NTOnBufEmgt/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-food-agriculture",
     id: "4.94",
     title: "Engagement with the Food & Agriculture Organization (FAO) Global Conference on Smart Farming",
     slides: [
@@ -7634,6 +7729,81 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-climate-environmental",
+    id: "6.113",
+    title: "G20 Global Land Initiative Media Feature for Moonshot Youth Innovation Summit",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Moonshot for a Regenerative Future",
+        image:
+          "assets/img/impact/climate-environmental/Moonshot for a Regenerative Future.png",
+        description:
+          "Innovation thrives when diverse minds come together with a shared purpose. At the Moonshot Youth Innovation Summit in Prague, Czechia, I had the opportunity to engage in inspiring conversations with social innovators from around the world who are developing bold, practical solutions to some of humanity's greatest challenges...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-innovation-summit-ugcPost-7487527031707000832-yolG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15uPpMLUhcoZVT8TBhFydBzFYNLuOOdJH/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.112",
+    title: "Engagement with the EU Day for the Victims of the Global Climate Crisis Event/Observance",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building Climate Resilience Together",
+        image:
+          "assets/img/impact/climate-environmental/Building Climate Resilience Together.jpg",
+        description:
+          "The EU Day for the Victims of the Global Climate Crisis took place last week in Belgium. This annual observance honours those affected by the climate crisis across Europe and around the world, while highlighting the urgent need for concrete actions to strengthen climate resilience. It serves as an important platform to promote improved climate risk management...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climateaction-climateresilience-climateadaptation-ugcPost-7487082715901784064-8u_0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1q-Ha2cxUz5F8EzcBU9zgvv_Xg79hNQmy/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.111",
+    title: "Engagement with the Youth Impact Summit for Climate Action & Environmental Restoration",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Young Leaders for a Sustainable Future",
+        image:
+          "assets/img/impact/climate-environmental/Young Leaders for a Sustainable Future.png",
+        description:
+          "The future of climate action is being shaped by young people who are transforming ideas into measurable impact. 🌍🌱",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-climateaction-landrestoration-ugcPost-7482191073734258688-GtpL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gjcYKtiFsV6rlY5PvaZS_NTOnBufEmgt/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.110",
+    title: "ChildFund International : Cities on Fire – Art & Media Fellowship under the Art & Photography Track",
+    slides: [
+      {
+        date: "June 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Honored to Join Cities on Fire 🔥",
+        image: "assets/img/impact/climate-environmental/Honored to Join Cities on Fire.jpg",
+        description:
+          "I am honored to be part of Cities on Fire – Art & Media Fellowship under the Art & Photography Track, a youth-powered initiative by ChildFund International that aims to spotlight the growing impact of extreme heat on children and young people across Asian cities...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climate-climateaction-art-share-7475859050367188993-x5Wt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15uzMi1PfcAeHOIXa2QaLeLsGe68tli1v/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-climate-environmental",
     id: "6.109",
@@ -11474,6 +11644,62 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-leadership-economic",
+    id: "8.128",
+    title: "Engagement with the LANDac Annual Conference Under the Theme \"Land, Conflict & Peace\"",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Land Governance for Lasting Peace",
+        image:
+          "assets/img/impact/leadership-economic/Land Governance for Lasting Peace.jpg",
+        description:
+          "I recently had the opportunity to participate in the LANDac Annual Conference at Utrecht University in the Netherlands, held under the theme \"Land, Conflict & Peace.\" The conference offered a timely and thought-provoking exploration of the complex relationships between land governance, conflict, justice, and peacebuilding...",
+        link: "https://www.linkedin.com/posts/lilanofficial_land-peacebuilding-conflictresolution-activity-7483464666053025792-pW-u?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1UtsN2d0QQdNcAUcOuUC95QG8QkL8k5Ne/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.127",
+    title: "Understanding the United Nations Convention to Combat Desertification (UNCCD) Progress Towards Conference of Parties (COP)",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "From Riyadh to Ulaanbaatar: Understanding the Road Already Travelled Towards UNCCD COP17",
+        image:
+          "assets/img/impact/leadership-economic/From Riyadh to Ulaanbaatar.jpg",
+        description:
+          "The journey towards COP17 continues with the Road to COP17 Webinar Series, an initiative designed to help young people better understand the global processes, commitments, and opportunities...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unccd-cop17-landrestoration-ugcPost-7483279752674545664-TSWW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dRDUTDq2tQAtGp2rMAWDPfaTkz2XTTEN/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.126",
+    title: "Engagement with the Inochi Declaration that Envisions a World Where Every Life is Respected, Valued, and Protected, Ensuring that No One is Left Behind",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The INOCHI World Project",
+        image: "assets/img/impact/leadership-economic/The INOCHI World Project.jpg",
+        description:
+          "The INOCHI WORLD PROJECT is a remarkable global artistic movement that brings together film, music, orchestral performance, and community choirs to celebrate the profound connection between human life and the cosmos. Created as a soft legacy of Expo 2025 Osaka...",
+        link: "https://www.linkedin.com/posts/lilanofficial_the-inochi-world-project-is-a-remarkable-ugcPost-7483126372542992384-MCLs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QeAVVEmmEy3YIaMFLF3dV9TuUIgKmipk/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-leadership-economic",
     id: "8.125",
@@ -19154,6 +19380,25 @@ const impacts = [
           "I’ll be in New York next week and would love to connect with fellow New Yorkers; especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7323476341884887040-DGyu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1g5WMyY2Q74MZ04mPpf-VBi578WYzD1Hb/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.61",
+    title: "Engagement with the European Union/Commission Day for the Victims of the Global Climate Crisis Event/Observance",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Building Climate Resilience Together",
+        image:
+          "assets/img/impact/diplomacy-international-relationship/Building Climate Resilience Together.jpg",
+        description:
+          "The EU Day for the Victims of the Global Climate Crisis took place last week in Belgium. This annual observance honours those affected by the climate crisis across Europe and around the world, while highlighting the urgent need for concrete actions to strengthen climate resilience. It serves as an important platform to promote improved climate risk management...",
+        link: "https://www.linkedin.com/posts/lilanofficial_climateaction-climateresilience-climateadaptation-ugcPost-7487082715901784064-8u_0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1q-Ha2cxUz5F8EzcBU9zgvv_Xg79hNQmy/view?usp=sharing",
       },
     ],
   },
