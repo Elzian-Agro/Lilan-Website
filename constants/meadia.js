@@ -31,6 +31,83 @@ const meadia = [
 
   {
     filter: "filter-other-media-appearances",
+    id: "52",
+    title: "G20 Global Land Initiative (27-July-2026)",
+    slides: [
+      {
+        date: "July 27, 2026",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.linkedin.com/company/g20-global-land-initiative/posts/",
+        title: "The future of land restoration is being built today 🌍🚀",
+        image: "assets/img/meadia/other-media/G20-Global-Land-Initiative.png",
+        description:
+          "From artificial intelligence to circular agriculture, young innovators are proving that the fight against land degradation requires out-of-the-box thinking. At the recent Moonshot Platform Summit 2026, we caught up with a brilliant group of young ecopreneurs who are transforming the way we heal our planet...",
+        link: "https://www.linkedin.com/posts/moonshotsummit-ecopreneurs-generationrestoration-ugcPost-7487481011010859008-lnS5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/135Ld4XqJuojCSPL6IbXFKfYDX5UC4wu_/view?usp=sharing",
+      },
+      {
+        date: "July 27, 2026",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.instagram.com/g20landinitiative/",
+        title: "AI, robotics, art, and... mushrooms? 🍄🤖🎨",
+        image: "assets/img/meadia/other-media/G20-Global-Land-Initiative.png",
+        description:
+          "At the @moonshot Summit 2026, we caught up with an inspiring group of young ecopreneurs from across the globe who are turning bold ideas into real-world environmental impact. From empowering farmers with disabilities to using artificial intelligence and circular agriculture to regenerate degraded soil, these “moonshotters” are proving that innovation knows no bounds...",
+        link: "https://www.instagram.com/reel/DbTAlrNNa3c/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        backup_image: "https://drive.google.com/file/d/1tYNcpDWCwU2pzPQ9-nrhOQcDMB3SwBaz/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "51",
+    title: "United Nations (7-May-2025)",
+    slides: [
+      {
+        date: "May 7, 2025",
+        source_name: "Nations Unies",
+        source_link: "https://www.un.org/fr",
+        title: "ECOSOC: tenth anniversary of the forum on science, technology and innovation, an opportunity to talk about artificial intelligence and young people",
+        image: "assets/img/meadia/other-media/ECOSOC.png",
+        description:
+          "In the futuristic setting of the Economic and Social Council (ECOSOC) chamber, transformed for the occasion...",
+        link: "https://press.un.org/fr/2025/ecosoc7202.doc.htm",
+        backup_image: "https://drive.google.com/file/d/1R-LSC_bCwJwZqJq-Z-PB_q1XZdYue7jT/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "50",
+    title: "G20 Global Land Initiative (12-July-2026)",
+    slides: [
+      {
+        date: "July 12, 2026",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.linkedin.com/company/g20-global-land-initiative/posts/",
+        title: "The future of climate action is youth-led! 🌍✨",
+        image: "assets/img/meadia/other-media/The future of climate action is youth-led.png",
+        description:
+          "At the recent UNESCO × Nestlé Youth Impact Gathering in Paris, an incredibly diverse group of young ecopreneurs from across the globe came together to share real solutions for environmental sustainability...",
+        link: "https://www.linkedin.com/posts/youthimpact-unesco-climateaction-ugcPost-7481720668682854401-8j1Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1cifu3m74BLUeYRreCTMG665hZ1qxsAsh/view?usp=sharing",
+      },
+      {
+        date: "July 12, 2026",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.instagram.com/g20landinitiative/",
+        title: "Youth leaders are changing the world! 🌍✨",
+        image: "assets/img/meadia/other-media/Youth leaders are changing the world.png",
+        description:
+          "At the UNESCO × Nestlé Youth Impact Gathering in Paris, diverse young ecopreneurs united to tackle climate change and scale their environmental solutions...",
+        link: "https://www.instagram.com/reel/Dar3LgWsbb7/?igsh=MW1taDhqZDA2M3l3dw==",
+        backup_image: "https://drive.google.com/file/d/1M3n1LyMQ3C5jg1As2pUiMoEJQhhgHWKz/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "49",
     title: "One World Media (02-July-2026)",
     slides: [
       {
@@ -44,10 +121,22 @@ const meadia = [
         link: "https://www.linkedin.com/posts/g20fellowship-voicesforland-landrestoration-share-7478349278713827328-Z2Fj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1ePN3RtyD6SdY3zY9abJbCAAsjD2cp4y9/view?usp=sharing",
       },
+      {
+        date: "July 2, 2026",
+        source_name: "One World Media",
+        source_link: "https://www.instagram.com/oneworldm/",
+        title: "Meet the G20 Fellowship – Voices for Land fellows⁠",
+        image: "assets/img/meadia/other-media/Meet the G20 Fellowship – Voices for Land fellows.png",
+        description:
+          "Land is being degraded worldwide at a rapid pace, yet stories about desertification are rarely told. That’s why we've partnered with @UNCCD @g20landinitiative to support five incredible digital content creators and journalists telling the stories our planet needs right now — on land degradation and restoration.⁠..",
+        link: "https://www.instagram.com/p/DaSE78BEr9u/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        backup_image: "https://drive.google.com/file/d/1pSJTQgvObLjyCroFzaUng_rhhiKkcftf/view?usp=sharing",
+      },
     ],
   },
   {
     filter: "filter-other-media-appearances",
+    id: "48",
     title: "Top Voices in Young Innovators - New in Asia (03-June-2025)",
     slides: [
       {
@@ -65,6 +154,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "47",
     title: "One Young World (OYW) Accelerating impact through systems thinking (16-April-2025)",
     slides: [
       {
@@ -82,6 +172,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "46",
     title: "Lanka Business News (25-Mar-2025)",
     slides: [
       {
@@ -99,6 +190,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "45",
     title: "News Asia (24-Mar-2025)",
     slides: [
       {
@@ -116,6 +208,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "44",
     title: "We Rise By Lifting Others (1-January-2025)",
     slides: [
       {
@@ -133,6 +226,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "43",
     title: "Biz Report (21-August-2024)",
     slides: [
       {
@@ -150,6 +244,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "42",
     title: "Sunday Times (20-August-2024)",
     slides: [
       {
@@ -168,6 +263,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "41",
     title: "Ceylon Tribune (16-August-2024)",
     slides: [
       {
@@ -185,6 +281,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "40",
     title: "Lanka News Network (16-August-2024)",
     slides: [
       {
@@ -202,6 +299,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "39",
     title: "Eye View (17-August-2024)",
     slides: [
       {
@@ -219,6 +317,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "38",
     title: "Biz Report (18-August-2024)",
     slides: [
       {
@@ -236,6 +335,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "37",
     title: "Business Cafe (17-August-2024)",
     slides: [
       {
@@ -253,6 +353,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "36",
     title: "Lanka Talks (16-August-2024)",
     slides: [
       {
@@ -270,6 +371,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "35",
     title: "Lanka Business News (12-August-2024)",
     slides: [
       {
@@ -287,6 +389,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "34",
     title: "Profit Magazine",
     slides: [
       {
@@ -305,6 +408,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "33",
     title: "Our Economics",
     slides: [
       {
@@ -333,6 +437,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "32",
     title: "Daily Mirror",
     slides: [
       {
@@ -350,6 +455,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "31",
     title: "The Morning",
     slides: [
       {
@@ -367,6 +473,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "30",
     title: "Ada Derana Business News",
     slides: [
       {
@@ -384,6 +491,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "29",
     title: "Sunday Times",
     slides: [
       {
@@ -401,6 +509,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "28",
     title: "Lanka Business News",
     slides: [
       {
@@ -418,6 +527,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "27",
     title: "Ada Derana Business News",
     slides: [
       {
@@ -435,6 +545,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "26",
     title: "Lanka News Network",
     slides: [
       {
@@ -453,6 +564,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "25",
     title: "Ceylon Tribune",
     slides: [
       {
@@ -471,6 +583,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "24",
     title: "Lanka Puvath (National News Agency of Sri Lanka)",
     slides: [
       {
@@ -488,6 +601,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "23",
     title: "Biz Report",
     slides: [
       {
@@ -507,6 +621,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "22",
     title: "Lanka Business News",
     slides: [
       {
@@ -524,6 +639,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "21",
     title: "Ceylon Tribune",
     slides: [
       {
@@ -541,6 +657,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "20",
     title: "Sri Lanka Foundation",
     slides: [
       {
@@ -559,6 +676,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "19",
     title: "Clinton Global Initiative",
     slides: [
       {
@@ -587,6 +705,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "18",
     title: "Eyeview Sri Lanka",
     slides: [
       {
@@ -614,6 +733,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "17",
     title: "Profit Magazine",
     slides: [
       {
@@ -631,6 +751,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "16",
     title: "Global Politics Affairs",
     slides: [
       {
@@ -648,6 +769,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "15",
     title: "BusinessCafe",
     slides: [
       {
@@ -665,6 +787,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "14",
     title: "The Colombo Express",
     slides: [
       {
@@ -682,6 +805,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "13",
     title: "Inventors Club - Wayamba University of Sri Lanka",
     slides: [
       {
@@ -698,6 +822,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "12",
     title: "Silumina News Paper (Sinhala Language)",
     slides: [
       {
@@ -716,6 +841,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "11",
     title: "News Asia",
     slides: [
       {
@@ -733,6 +859,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "10",
     title: "Serendib News",
     slides: [
       {
@@ -751,6 +878,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "9",
     title: "Biznomics",
     slides: [
       {
@@ -768,6 +896,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "8",
     title: "The Council for Inclusive Capitalism",
     slides: [
       {
@@ -829,6 +958,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "7",
     title: "Commonwealth News",
     slides: [
       {
@@ -846,6 +976,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "6",
     title: "Ceylon Business Reporter",
     slides: [
       {
@@ -863,6 +994,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "5",
     title: "Ceylon Tribune",
     slides: [
       {
@@ -880,6 +1012,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "4",
     title: "Featuring on Colombo Gazette",
     slides: [
       {
@@ -907,6 +1040,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "3",
     title: "Ada Derana Business News",
     slides: [
       {
@@ -924,6 +1058,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "2",
     title:
       "Caribbean Broadcasting Corporation (CBC TV 8 - Mornin’ Barbados Program) - Exceptional Youth Segment",
     slides: [
@@ -942,6 +1077,7 @@ const meadia = [
   },
   {
     filter: "filter-other-media-appearances",
+    id: "1",
     title: "Featuring on the Commonwealth Youth Magazine",
     slides: [
       {

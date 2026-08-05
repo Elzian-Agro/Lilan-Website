@@ -1,5 +1,16 @@
 const recommendations = [
   {
+    date: "July 16, 2026",
+    name: "Janet Aguti",
+    position: "Founder and Director",
+    company: "Totya Platform",
+    relationship: "Janet worked with Lilan but they were at different companies",
+    image: "assets/img/recommendation/Janet Aguti.jpg",
+    linkedin: "https://www.linkedin.com/in/janet-aguti-664468174/",
+    recommendation:
+      "I had the privilege of meeting and working with Lilan Dayananda during the One Young World Summit in Munich in 2025, where we co-facilitated a systems thinking session. What stood out most to me was his exceptional ability to engage and connect with people. His facilitation style was dynamic, inclusive, and highly interactive, creating an environment where every participant felt involved. Beyond his impressive leadership and networking skills, Lilan was incredibly generous with his knowledge. When I asked how he developed such remarkable facilitation techniques, he gladly took the time to teach and mentor me. Throughout the summit, he consistently made himself available to support others with genuine enthusiasm and kindness. I wholeheartedly recommend Lilan as an inspiring leader, an outstanding collaborator, and someone who truly empowers those around him.",
+  },
+  {
     date: "June 1, 2026",
     name: "Passang",
     position: "Registrar",
