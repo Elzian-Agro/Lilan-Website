@@ -14147,7 +14147,137 @@ const impacts = [
 
   {
     filter: "filter-youth-women-empowerment",
-    id: "9.77",
+    id: "9.85",
+    title: "Encouraging Youth to Participate in the Youth4Disarmament Challenge",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Pedalling for a Nuclear-Free World",
+        image:
+          "assets/img/impact/youth-women-empowerment/Pedalling for a Nuclear-Free World.jpg",
+        description:
+          "Cycling for fitness is good; cycling with a selfless purpose is even more meaningful. Grateful to have completed the #StepUp4Disarmament Challenge today, pedalling through and around Vienna despite the heatwaves sweeping Europe. 🚴‍♂️🌍",
+        link: "https://www.linkedin.com/posts/lilanofficial_stepup4disarmament-youth4disarmament-stepup4disarmament-ugcPost-7489005851370995712-w8N3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1c6pl6kM0sk2xqBXgV4XvMZbKkmKBFh0_/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.84",
+    title: "Promoting Youth4Disarmament Programme's #StepUp4Disarmament Challenge",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Running Beyond the Finish Line",
+        image:
+          "assets/img/impact/youth-women-empowerment/Running Beyond the Finish Line.jpg",
+        description:
+          "There are countless ways to explore a city, but few compare to experiencing it one stride at a time. Earlier this year (in April), I had the incredible opportunity to participate in the Schneider Electric Marathon de Paris. Running 42.195 km (26.2 miles) through the heart of Paris was far more than a marathon; it was an unforgettable journey through history, culture, and human resilience...",
+        link: "https://www.linkedin.com/posts/lilanofficial_stepup4disarmament-stepup4disarmament-peace-activity-7488031135214673920-Te8o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1GbB0sd4DYkg_dvGesij2wqKxBx1UzwJQ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.83",
+    title: "Engagement with the United Nations Convention to Combat Desertification (UNCCD) Youth Forum",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Heading to UNCCD COP17",
+        image:
+          "assets/img/impact/youth-women-empowerment/Heading to UNCCD COP17.jpg",
+        description:
+          "The fifth UNCCD Youth Forum will take place next month in Mongolia, and the COP17 Youth Forum builds on the outcomes of COP14, COP15, and COP16, providing a dedicated platform for youth engagement that is structured, inclusive, and action-oriented...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unccd-mongolia-cop17-ugcPost-7487462401978855424-9LvV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1kn4xo4G1yVCMrO4k96SYL-rv3Ji99emK/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.82",
+    title: "Engagement with the Inochi Declaration that Envisions a World Where Every Life is Respected, Valued, and Protected, Ensuring that No One is Left Behind",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The INOCHI World Project",
+        image: "assets/img/impact/youth-women-empowerment/The INOCHI World Project.jpg",
+        description:
+          "The INOCHI WORLD PROJECT is a remarkable global artistic movement that brings together film, music, orchestral performance, and community choirs to celebrate the profound connection between human life and the cosmos. Created as a soft legacy of Expo 2025 Osaka...",
+        link: "https://www.linkedin.com/posts/lilanofficial_the-inochi-world-project-is-a-remarkable-ugcPost-7483126372542992384-MCLs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QeAVVEmmEy3YIaMFLF3dV9TuUIgKmipk/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.81",
+    title: "Engagement with the Youth Impact Summit",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Young Leaders for a Sustainable Future",
+        image:
+          "assets/img/impact/youth-women-empowerment/Young Leaders for a Sustainable Future.png",
+        description:
+          "The future of climate action is being shaped by young people who are transforming ideas into measurable impact. 🌍🌱",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-climateaction-landrestoration-ugcPost-7482191073734258688-GtpL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1gjcYKtiFsV6rlY5PvaZS_NTOnBufEmgt/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.80",
+    title: "Engagement with the Youth Leader Fund (YLF), a Global Learning Initiative Managed by the UNODA",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Learning to Advocate for Peace",
+        image: "assets/img/impact/youth-women-empowerment/Learning to Advocate for Peace.jpg",
+        description:
+          "I am grateful to have been selected as a participant in the Youth Leader Fund (YLF) 2025–2026 Cohort for a World Without Nuclear Weapons, a global learning initiative managed by the United Nations Office for Disarmament Affairs (UNODA) and funded by the Government of Japan...",
+        link: "https://www.linkedin.com/posts/lilanofficial_disarmament-action-unoda-ugcPost-7481767295925501952-NV19/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1xVPXs-8BlLkyx_u9-IwNVco1PplB_kLB/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.79",
+    title: "Engagement with the One Young World Nagasaki Peace-preneur Forum",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Future Must Be Nuclear-Free",
+        image: "assets/img/impact/youth-women-empowerment/The Future Must Be Nuclear-Free.jpg",
+        description:
+          "A world free of nuclear weapons remains an unfulfilled vision. Just days ago, the U.S. National Nuclear Security Administration (NNSA) announced it had completed the \"diamond stamping\" of all canned subassemblies (CSAs) for the B61-13 nuclear gravity bomb three months ahead of schedule. This means the weapon has been officially approved for induction into the U.S. nuclear stockpile and can be deployed if required...",
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-nucleardisarmament-nagasaki-ugcPost-7481466944429170688-nZo-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ATNYNQv8g_izXYI4XVBY6Ut0isZljrOn/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.78",
     title: "Engagement with the Talent for Good Forum",
     slides: [
       {
@@ -16733,6 +16863,80 @@ const impacts = [
 
   {
     filter: "filter-nuclear-applications-nuclear-disarmament",
+    id: "12.14",
+    title: "Cycling in Vienna for the #StepUp4Disarmament Challenge: Reaching #1 on the Leaderboard",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Pedalling for a Nuclear-Free World",
+        image:
+          "assets/img/impact/nuclear-applications/Pedalling for a Nuclear-Free World.jpg",
+        description:
+          "Cycling for fitness is good; cycling with a selfless purpose is even more meaningful. Grateful to have completed the #StepUp4Disarmament Challenge today, pedalling through and around Vienna despite the heatwaves sweeping Europe. 🚴‍♂️🌍",
+        link: "https://www.linkedin.com/posts/lilanofficial_stepup4disarmament-youth4disarmament-stepup4disarmament-ugcPost-7489005851370995712-w8N3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1c6pl6kM0sk2xqBXgV4XvMZbKkmKBFh0_/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nuclear-applications-nuclear-disarmament",
+    id: "12.13",
+    title: "Promoting #StepUp4Disarmament Challenge Organized by the United Nations Office for Disarmament Affairs (UNODA)",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Running Beyond the Finish Line",
+        image:
+          "assets/img/impact/nuclear-applications/Running Beyond the Finish Line.jpg",
+        description:
+          "There are countless ways to explore a city, but few compare to experiencing it one stride at a time. Earlier this year (in April), I had the incredible opportunity to participate in the Schneider Electric Marathon de Paris. Running 42.195 km (26.2 miles) through the heart of Paris was far more than a marathon; it was an unforgettable journey through history, culture, and human resilience...",
+        link: "https://www.linkedin.com/posts/lilanofficial_stepup4disarmament-stepup4disarmament-peace-activity-7488031135214673920-Te8o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1GbB0sd4DYkg_dvGesij2wqKxBx1UzwJQ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nuclear-applications-nuclear-disarmament",
+    id: "12.12",
+    title: "Advocating for a World Without Nuclear Weapons through the United Nations Office for Disarmament Affairs (UNODA)",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Learning to Advocate for Peace",
+        image: "assets/img/impact/nuclear-applications/Learning to Advocate for Peace.jpg",
+        description:
+          "I am grateful to have been selected as a participant in the Youth Leader Fund (YLF) 2025–2026 Cohort for a World Without Nuclear Weapons, a global learning initiative managed by the United Nations Office for Disarmament Affairs (UNODA) and funded by the Government of Japan...",
+        link: "https://www.linkedin.com/posts/lilanofficial_disarmament-action-unoda-ugcPost-7481767295925501952-NV19/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1xVPXs-8BlLkyx_u9-IwNVco1PplB_kLB/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nuclear-applications-nuclear-disarmament",
+    id: "12.11",
+    title: "Engagement with the OYW Nagasaki Peace-preneur Forum for Nuclear Disarmament",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The Future Must Be Nuclear-Free",
+        image: "assets/img/impact/nuclear-applications/The Future Must Be Nuclear-Free.jpg",
+        description:
+          "A world free of nuclear weapons remains an unfulfilled vision. Just days ago, the U.S. National Nuclear Security Administration (NNSA) announced it had completed the \"diamond stamping\" of all canned subassemblies (CSAs) for the B61-13 nuclear gravity bomb three months ahead of schedule. This means the weapon has been officially approved for induction into the U.S. nuclear stockpile and can be deployed if required...",
+        link: "https://www.linkedin.com/posts/lilanofficial_peace-nucleardisarmament-nagasaki-ugcPost-7481466944429170688-nZo-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1ATNYNQv8g_izXYI4XVBY6Ut0isZljrOn/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nuclear-applications-nuclear-disarmament",
     id: "12.10",
     title: "Carnegie Council Event for Values & Interests: Nuclear Ethics",
     slides: [
@@ -17460,6 +17664,25 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.20",
+    title: "Understanding the United Nations Convention to Combat Desertification (UNCCD) Progress Towards Conference of Parties (COP)",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "From Riyadh to Ulaanbaatar: Understanding the Road Already Travelled Towards UNCCD COP17",
+        image:
+          "assets/img/impact/journalism-media-mass-communication/From Riyadh to Ulaanbaatar.jpg",
+        description:
+          "The journey towards COP17 continues with the Road to COP17 Webinar Series, an initiative designed to help young people better understand the global processes, commitments, and opportunities...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unccd-cop17-landrestoration-ugcPost-7483279752674545664-TSWW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dRDUTDq2tQAtGp2rMAWDPfaTkz2XTTEN/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-journalism-media-mass-communication",
     id: "14.19",
@@ -18231,6 +18454,63 @@ const impacts = [
   },
   {
     filter: "filter-nature-based-explorations-adventures",
+    id: "15.26",
+    title: "Cycling in Vienna for the #StepUp4Disarmament Challenge: Reaching #1 on the Leaderboard",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Pedalling for a Nuclear-Free World",
+        image:
+          "assets/img/impact/nature-based-explorations/Pedalling for a Nuclear-Free World.jpg",
+        description:
+          "Cycling for fitness is good; cycling with a selfless purpose is even more meaningful. Grateful to have completed the #StepUp4Disarmament Challenge today, pedalling through and around Vienna despite the heatwaves sweeping Europe. 🚴‍♂️🌍",
+        link: "https://www.linkedin.com/posts/lilanofficial_stepup4disarmament-youth4disarmament-stepup4disarmament-ugcPost-7489005851370995712-w8N3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1c6pl6kM0sk2xqBXgV4XvMZbKkmKBFh0_/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.25",
+    title: "Participate in the Schneider Electric Marathon de Paris",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Running Beyond the Finish Line",
+        image:
+          "assets/img/impact/nature-based-explorations/Running Beyond the Finish Line.jpg",
+        description:
+          "There are countless ways to explore a city, but few compare to experiencing it one stride at a time. Earlier this year (in April), I had the incredible opportunity to participate in the Schneider Electric Marathon de Paris. Running 42.195 km (26.2 miles) through the heart of Paris was far more than a marathon; it was an unforgettable journey through history, culture, and human resilience...",
+        link: "https://www.linkedin.com/posts/lilanofficial_stepup4disarmament-stepup4disarmament-peace-activity-7488031135214673920-Te8o?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1GbB0sd4DYkg_dvGesij2wqKxBx1UzwJQ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.24",
+    title: "Riyadh to Ulaanbaatar: Understanding the Road Already Travelled Towards UNCCD COP",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "From Riyadh to Ulaanbaatar: Understanding the Road Already Travelled Towards UNCCD COP17",
+        image:
+          "assets/img/impact/nature-based-explorations/From Riyadh to Ulaanbaatar.jpg",
+        description:
+          "The journey towards COP17 continues with the Road to COP17 Webinar Series, an initiative designed to help young people better understand the global processes, commitments, and opportunities...",
+        link: "https://www.linkedin.com/posts/lilanofficial_unccd-cop17-landrestoration-ugcPost-7483279752674545664-TSWW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1dRDUTDq2tQAtGp2rMAWDPfaTkz2XTTEN/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
     id: "15.23",
     title: "Trekking to ‘Peace Heaven’ Advocating for Nuclear Disarmament",
     slides: [
@@ -18646,6 +18926,42 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.19",
+    title: "Guided Tours of the Historic Caux Palace",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Lessons from Caux Palace",
+        image: "assets/img/impact/history-culture-art-archeology/Lessons from Caux Palace.jpg",
+        description:
+          "As part of the Solidarity for the Future Initiative at the Initiatives of Change (IofC) Global Fellowship Gathering, I had the privilege of joining my seventh guided tour of the historic Caux Palace in Montreux, Switzerland. Remarkably, each tour has offered a fresh perspective. Our guide, Andrew Stallybrass, the historian of Caux, has an extraordinary ability to bring the Palace to life...",
+        link: "https://www.linkedin.com/posts/lilanofficial_caux-cauxpalace-initiativesofchange-ugcPost-7487454509854773250-qHXW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1oat9vC6wP_L5vD3F_lRJm86D6thBSZrU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.18",
+    title: "INOCHI Art Collective Feel & Sense (Orchestra of Life + Choir of Life)",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "The INOCHI World Project",
+        image: "assets/img/impact/history-culture-art-archeology/The INOCHI World Project.jpg",
+        description:
+          "The INOCHI WORLD PROJECT is a remarkable global artistic movement that brings together film, music, orchestral performance, and community choirs to celebrate the profound connection between human life and the cosmos. Created as a soft legacy of Expo 2025 Osaka...",
+        link: "https://www.linkedin.com/posts/lilanofficial_the-inochi-world-project-is-a-remarkable-ugcPost-7483126372542992384-MCLs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1QeAVVEmmEy3YIaMFLF3dV9TuUIgKmipk/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-history-culture-art-archeology",
     id: "16.17",
