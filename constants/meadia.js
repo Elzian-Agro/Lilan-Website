@@ -9,6 +9,13 @@ const meadia = [
 
   {
     filter: "filter-blog",
+    date: "August 20, 2026",
+    title: "Reporting UNCCD COP17 from Ulaanbaatar, Mongolia ",
+    image: "assets/img/meadia/blog/smart-agriculture.png",
+    url: "https://agro.elzian.com/blog/blog-page-25.html",
+  },
+  {
+    filter: "filter-blog",
     date: "February 10, 2022",
     title: "Can Digital Agriculture Save Money to Farmers?",
     image: "assets/img/meadia/blog/digitization-prevents.png",
