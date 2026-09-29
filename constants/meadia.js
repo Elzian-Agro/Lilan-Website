@@ -9,6 +9,12 @@ const meadia = [
 
   {
     filter: "filter-blog",
+    date: "August 21, 2026",
+    title: "From Restoration Commitments to Restoration Reality",
+    url: "https://agro.elzian.com/blog/blog-page-26.html",
+  },
+  {
+    filter: "filter-blog",
     date: "August 20, 2026",
     title: "Reporting UNCCD COP17 from Ulaanbaatar, Mongolia ",
     image: "assets/img/meadia/blog/smart-agriculture.png",
