@@ -9,6 +9,36 @@ const meadia = [
 
   {
     filter: "filter-blog",
+    date: "August 27, 2026",
+    title: "From Living Soils to Resilient Food Systems ",
+    url: "https://agro.elzian.com/blog/blog-page-31.html",
+  },
+  {
+    filter: "filter-blog",
+    date: "August 26, 2026",
+    title: "Seeing Restoration in the Landscape",
+    url: "https://agro.elzian.com/blog/blog-page-30.html",
+  },
+  {
+    filter: "filter-blog",
+    date: "August 25, 2026",
+    title: "From Commitment to Legislative Action",
+    url: "https://agro.elzian.com/blog/blog-page-29.html",
+  },
+  {
+    filter: "filter-blog",
+    date: "August 24, 2026",
+    title: "When Restoration Meets Leadership ",
+    url: "https://agro.elzian.com/blog/blog-page-28.html",
+  },
+  {
+    filter: "filter-blog",
+    date: "August 22, 2026",
+    title: "From the Ground Up: Listening to Those Restoring the Land",
+    url: "https://agro.elzian.com/blog/blog-page-27.html",
+  },
+  {
+    filter: "filter-blog",
     date: "August 21, 2026",
     title: "From Restoration Commitments to Restoration Reality",
     url: "https://agro.elzian.com/blog/blog-page-26.html",
