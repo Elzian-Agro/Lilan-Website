@@ -1919,6 +1919,133 @@ const impacts = [
 
   {
     filter: "filter-innovation-social",
+    id: "3.169",
+    title: "Youth Ecopreneur Participation at the UN Convention to Combat Desertification COP",
+    slides: [
+      {
+        date: "September 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Voices, Global Connections: Driving Land Restoration at COP17",
+        image: "assets/img/impact/innovation-social/Youth Voices, Global Connections Driving Land Restoration at COP17.png",
+        description:
+          "I am currently at UNCCD COP17, representing Elzian Agro as part of the Youth Ecopreneur (YECO) Program, powered by the G20 Global Land Initiative (under the UN Convention to Combat Desertification), the International Trade Centre...",
+        link: "https://lnkd.in/p/gd3TG7Uz",
+        backup_image: "https://drive.google.com/file/d/1z5tP5Ix9GsGejFNjynuEgq3sFl7C2toh/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.168",
+    title: "Youth Hackathon Participation | Build AI Solutions and Innovations",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "From Ideas to Impact: Empowering Young Global Innovators",
+        image: "assets/img/impact/innovation-social/From Ideas to Impact Empowering Young Global Innovators.png",
+        description:
+          "​Start with a problem you care about: reducing food waste, making heat alerts more useful, understanding energy use or helping communities prepare for extreme weather...",
+        link: "https://lnkd.in/p/g8FGFJ5n",
+        backup_image: "https://drive.google.com/file/d/1oiMwneBpjGCMafAr3tS5Hc1IQNIXl4Uf/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.167",
+    title: "Business, Finance, Development, and the Restoration Ecosystem Related Discussions with Youth Ecopreneurs",
+    slides: [
+      {
+        date: "August 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Ecopreneurs Driving Global Land Restoration at COP17",
+        image: "assets/img/impact/innovation-social/Youth Ecopreneurs Driving Global Land Restoration at COP17.jpg",
+        description:
+          "At the United Nations Convention to Combat Desertification (UNCCD) COP17 Mongolia, Youth Ecopreneurs (YECOs) are bringing their ideas, experiences, and ambitions to the heart of the global land restoration conversation. What happens when young entrepreneurs take the lead in shaping the future of land restoration?",
+        link: "https://lnkd.in/p/eENEzFP6",
+        backup_image: "https://drive.google.com/file/d/1OhLeNq1YVgwvINCgowOozffuxzZfbbuA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.166",
+    title: "Engagement with the World Internet Conference (WIC) Wuzhen Summit: Advocacy for Shared Future in Cyberspace",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Open Minds, Shared Innovation: Shaping the Future of AI 🌐🤖",
+        image: "assets/img/impact/innovation-social/Open Minds, Shared Innovation Shaping the Future of AI.jpg",
+        description:
+          "This month, I had the privilege of attending the World Internet Conference (WIC) Wuzhen Summit in China, where the opening session set a clear tone: the future of AI should be open and inclusive...",
+        link: "https://www.linkedin.com/posts/lilanofficial_internet-technology-conference-ugcPost-7529465850064523264-DvAL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1sXcJTasuLC3FhD4IquXuWd9UWI7zxfYi/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.165",
+    title: "Mentoring: Hack for Earth Ericsson Sustainability Challenge",
+    slides: [
+      {
+        date: "October 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Dream. Hack. Build. Innovate for a Sustainable Future! 🌍🚀",
+        image: "assets/img/impact/innovation-social/Dream. Hack. Build. Innovate for a Sustainable Future.jpg",
+        description:
+          "🌍 Dream. Hack. Build. Turning Ideas into Real-World Solutions for the UN Global Goals! What if your idea could help build a more sustainable future? 💡",
+        link: "https://www.linkedin.com/posts/lilanofficial_ericsson-hackforearth-ericssonsustainabilitychallenge-share-7520394580295483392-1Hg_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1t-Y6ocrpK20uRX6sninOEpR01xPcxFXG/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
+    id: "3.164",
+    title: "Youth Ecopreneur for the United Nations Convention to Combat Desertification COP: International Trade Centre (ITC)",
+    slides: [
+      {
+        date: "September 2026",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Buprtl%2FbATWiFFrbyF0MjOA%3D%3D",
+        title: "Meet the YECO Delegation at UNCCD COP17 💚",
+        image: "assets/img/impact/innovation-social/Meet the YECO Delegation at UNCCD COP17.jpg",
+        description:
+          "Next week, 11 young entrepreneurs from the Youth Ecopreneur Programme (YECO) will be heading to #UNCCDCOP17 in Mongolia...",
+        link: "https://www.linkedin.com/posts/unccdcop17-yeco-unccdcop17-ugcPost-7494002298399055872-EUsF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1iDNCc77YGIbdR3tzuO6bIFYiaixtRXWM/view?usp=sharing",
+      },
+    ],
+  },
+
+  {
+    filter: "filter-innovation-social",
+    id: "3.163",
+    title: "G20 Global Land Initiative Media Feature for Moonshot Youth Innovation Summit",
+    slides: [
+      {
+        date: "September 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Moonshot for a Regenerative Future",
+        image: "assets/img/impact/innovation-social/Moonshot for a Regenerative Future.png",
+        description:
+          "Innovation thrives when diverse minds come together with a shared purpose. At the Moonshot Youth Innovation Summit in Prague, Czechia, I had the opportunity to engage in inspiring conversations with social innovators from around the world who are developing bold, practical solutions to some of humanity's greatest challenges...",
+        link: "https://www.linkedin.com/posts/lilanofficial_youth-innovation-summit-ugcPost-7487527031707000832-yolG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/15uPpMLUhcoZVT8TBhFydBzFYNLuOOdJH/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-innovation-social",
     id: "3.162",
     title: "UN Forum on Science, Technology and Innovation for Artificial Intelligence",
     slides: [
@@ -7287,6 +7414,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-renewable-energy",
+    id: "5.25",
+    title: "Mentoring: Hack for Earth Ericsson Sustainability Challenge for Renewable Energy Transition",
+    slides: [
+      {
+        date: " 2026",date: "October 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "",title: "Dream. Hack. Build. Innovate for a Sustainable Future! 🌍🚀",
+        image: "assets/img/impact/renewable-energy/Dream. Hack. Build. Innovate for a Sustainable Future.jpg",
+        description:
+          "🌍 Dream. Hack. Build. Turning Ideas into Real-World Solutions for the UN Global Goals! What if your idea could help build a more sustainable future? 💡",
+        link: "https://www.linkedin.com/posts/lilanofficial_ericsson-hackforearth-ericssonsustainabilitychallenge-share-7520394580295483392-1Hg_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1t-Y6ocrpK20uRX6sninOEpR01xPcxFXG/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-renewable-energy",
     id: "5.24",
@@ -16673,6 +16818,24 @@ const impacts = [
 
   {
     filter: "filter-aerospace-outer-space",
+    id: "11.13",
+    title: "Total Solar Eclipse Observance",
+    slides: [
+      {
+        date: "August 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "When Science Meets Nature: Lessons from a Total Solar Eclipse",
+        image: "assets/img/impact/aerospace-outer-space/When Science Meets Nature Lessons from a Total Solar Eclipse.jpg",
+        description:
+          "A few days ago, I had the rare opportunity of witnessing a total solar eclipse in northern Spain, an experience that was as scientifically fascinating as it was breathtaking. It was particularly special because mainland Spain experienced a total solar eclipse for the first time in more than a century. As the Moon gradually moved across the Sun, the landscape transformed. Then, during totality, daylight suddenly gave way to darkness...",
+        link: "https://lnkd.in/p/ehXHpcqm",
+        backup_image: "https://drive.google.com/file/d/1YrYTqZnjsiNu2Qc9FavGZQG2ai_uCnGA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-aerospace-outer-space",
     id: "11.12",
     title: "Engagement at the International Conference on Aerospace Imaging, Pattern Recognition, and Engineering Applications",
     slides: [
@@ -17258,7 +17421,25 @@ const impacts = [
     ],
   },
 
-    {
+  {
+    filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
+    id: "13.31",
+    title: "Engagement with the Caux Inner Development Goals Forum",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Inner Development for a More Compassionate and Sustainable World",
+        image: "assets/img/impact/arts-philosophy-mindfulness/Inner Development for a More Compassionate and Sustainable World.jpg",
+        description:
+          "I had the opportunity to connect with the global Inner Development Goals Community at the IDG Caux Forum 2026, held at the iconic Caux Palace in Switzerland, which concluded yesterday...",
+        link: "https://lnkd.in/p/gRpwqXUh",
+        backup_image: "https://drive.google.com/file/d/15FXrFcPb5TfAW5gT_dAihYgNTdrteT1i/view?usp=sharing",
+      },
+    ],
+  },
+  {
     filter: "filter-arts-philosophy-mindfulness-inner-development-goals",
     id: "13.30",
     title: "Living Emotional Technology through ArtZen Neuroscience Approach",
