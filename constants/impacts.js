@@ -8115,6 +8115,215 @@ const impacts = [
 
   {
     filter: "filter-climate-environmental",
+    id: "6.124",
+    title: "Youth Ecopreneur Participation at the UN Convention to Combat Desertification COP",
+    slides: [
+      {
+        date: "September 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Voices, Global Connections: Driving Land Restoration at COP17",
+        image:
+          "assets/img/impact/climate-environmental/Youth Voices, Global Connections Driving Land Restoration at COP17.png",
+        description:
+          "I am currently at UNCCD COP17, representing Elzian Agro as part of the Youth Ecopreneur (YECO) Program, powered by the G20 Global Land Initiative (under the UN Convention to Combat Desertification), the International Trade Centre...",
+        link: "https://lnkd.in/p/gd3TG7Uz",
+        backup_image: "https://drive.google.com/file/d/1z5tP5Ix9GsGejFNjynuEgq3sFl7C2toh/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.123",
+    title: "Reporting the Digital Impact Stories (Climate Adaptation) Launch",
+    slides: [
+      {
+        
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Digital Impact Stories: Showcasing Innovation for Land Restoration",
+        image:
+          "assets/img/impact/climate-environmental/Digital Impact Stories Showcasing Innovation for Land Restoration.png",
+        description:
+          "The launch of the Digital Impact Stories at the UN Convention to Combat Desertification COP17, a powerful collection showcasing what high-impact, scalable solutions to land degradation, drought, and environmental challenges can look like in practice. Spanning Africa, the Americas, Asia, ...",
+        link: "https://lnkd.in/p/dyd_m5iW",
+        backup_image: "https://drive.google.com/file/d/1KlYkioDy5vlTxWCDTcUfMH6A1k_uX2gn/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.122",
+    title: "Engagement with the RestorLife and Greenstorm Awards at UNCCD COP",
+    slides: [
+      {
+        date: "August 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Capturing the Power of Land Restoration Through Photography at COP17",
+        image:
+          "assets/img/impact/climate-environmental/Capturing the Power of Land Restoration Through Photography at COP17.png",
+        description:
+          "At the UN Convention to Combat Desertification (UNCCD) COP17, the RestorLife and Greenstorm Awards celebrated the power of photography to tell compelling stories about our changing landscapes and to spotlight the people, communities, NGOs and businesses...",
+        link: "https://lnkd.in/p/eXUwN-uu",
+        backup_image: "https://drive.google.com/file/d/1KAiSy_6aD32xXnVflMRKwJo4HxTrSSGQ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.121",
+    title: "Communicating Complex Issues and Making Land Degradation Research Engagement for Climate Action",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "One World Media",
+        source_link: "https://www.linkedin.com/company/one-world-media---uk/home/",
+        title: "Mastering Visual Storytelling: G20 Fellowship – Voices for Land",
+        image:
+          "assets/img/impact/climate-environmental/Mastering Visual Storytelling G20 Fellowship – Voices for Land.jpg",
+        description:
+          "The Fellows received a comprehensive crash course on planning, framing, composition, sequencing, story archetypes, and tools for digital storytelling. Laura shared valuable insights on producing content that fits the digital landscape and the power of storytelling to encourage engagement....",
+        link: "https://lnkd.in/p/gZw2GWAc",
+        backup_image: "https://drive.google.com/file/d/18OTTIpHkdxqYZZrtKXqvmmLVBhSrgaK-/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.120",
+    title: "Youth Hackathon Participation | Build AI Solutions for Real Climate Challenge",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "From Ideas to Impact: Empowering Young Global Innovators",
+        image:
+          "assets/img/impact/climate-environmental/From Ideas to Impact Empowering Young Global Innovators.png",
+        description:
+          "​Start with a problem you care about: reducing food waste, making heat alerts more useful, understanding energy use or helping communities prepare for extreme weather...",
+        link: "https://lnkd.in/p/g8FGFJ5n",
+        backup_image: "https://drive.google.com/file/d/1oiMwneBpjGCMafAr3tS5Hc1IQNIXl4Uf/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.119",
+    title: "Business, Finance, Development, and the Restoration Ecosystem Related Discussions with Youth Ecopreneurs",
+    slides: [
+      {
+        date: "August 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Ecopreneurs Driving Global Land Restoration at COP17",
+        image:
+          "assets/img/impact/climate-environmental/Youth Ecopreneurs Driving Global Land Restoration at COP17.jpg",
+        description:
+          "At the United Nations Convention to Combat Desertification (UNCCD) COP17 Mongolia, Youth Ecopreneurs (YECOs) are bringing their ideas, experiences, and ambitions to the heart of the global land restoration conversation. What happens when young entrepreneurs take the lead in shaping the future of land restoration?",
+        link: "https://lnkd.in/p/eENEzFP6",
+        backup_image: "https://drive.google.com/file/d/1OhLeNq1YVgwvINCgowOozffuxzZfbbuA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.118",
+    title: "Engagement with the Scientific Colloquium of UNESCO Intergovernmental Hydrological Programme (IHP)",
+    slides: [
+      {
+        date: "October 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Advancing Water Science and Youth Leadership at UNESCO IHP",
+        image:
+          "assets/img/impact/climate-environmental/Advancing Water Science and Youth Leadership at UNESCO IHP.jpg",
+        description:
+          "Honoured to join the UNESCO Intergovernmental Hydrological Programme (IHP) in Paris and participate in the Scientific Colloquium held at UNESCO Headquarters as a side event of the 27th Session of the IHP Council. Grateful for the opportunity to engage in scientific dialogue and contribute to discussions...",
+        link: "https://lnkd.in/p/gK6BYWDG",
+        backup_image: "https://drive.google.com/file/d/1IM8wx_F7mwIRqTG0zHufp4pojBDDsCjb/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.117",
+    title: "Mentoring: Hack for Earth Ericsson Sustainability Challenge for Climate Adaptation",
+    slides: [
+      {
+        date: "October 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Dream. Hack. Build. Innovate for a Sustainable Future! 🌍🚀",
+        image:
+          "assets/img/impact/climate-environmental/Dream. Hack. Build. Innovate for a Sustainable Future.jpg",
+        description:
+          "🌍 Dream. Hack. Build. Turning Ideas into Real-World Solutions for the UN Global Goals! What if your idea could help build a more sustainable future? 💡",
+        link: "https://www.linkedin.com/posts/lilanofficial_ericsson-hackforearth-ericssonsustainabilitychallenge-share-7520394580295483392-1Hg_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1t-Y6ocrpK20uRX6sninOEpR01xPcxFXG/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.116",
+    title: "Land Practitioners Explorations for Intergenerational Podcasting",
+    slides: [
+      {
+        date: "August 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Beyond the Main Stage: Discovering Inspiring Voices at COP17",
+        image:
+          "assets/img/impact/climate-environmental/Beyond the Main Stage Discovering Inspiring Voices at COP17.jpg",
+        description:
+          "I’m on my way to Ulaanbaatar, Mongolia, to participate in the UNCCD COP17. Beyond the formal negotiations, side events, and policy conversations, I’m especially interested in the people turning ideas into action. I’m currently looking to identify extraordinary practitioners, innovators, community leaders, scientists, entrepreneurs, policymakers, Indigenous knowledge holders, and young changemakers...",
+        link: "https://lnkd.in/p/e5dDWMxr",
+        backup_image: "https://drive.google.com/file/d/1J_iNIK85SM8t3W-1-i3nS8KNu1t8QZLM/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.115",
+    title: "Youth Ecopreneur Programme (YECO) Representation from UNCCD COP16 to COP17 for Land Restoration",
+    slides: [
+      {
+        date: "August 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth at the Forefront: Driving Global Land Restoration at COP17",
+        image:
+          "assets/img/impact/climate-environmental/Youth at the Forefront Driving Global Land Restoration at COP17.jpg",
+        description:
+          "I am on my way to Mongolia to participate in the 17th Session of the Conference of the Parties (COP17) to the UN Convention to Combat Desertification (UNCCD), a critical global platform for advancing solutions to land degradation, drought, desertification, and climate resilience...",
+        link: "https://lnkd.in/p/ejGjGg5V",
+        backup_image: "https://drive.google.com/file/d/1Z_EKoMsoRjBxKfGFqOs-hF_iMKOaj0Nv/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
+    id: "6.114",
+    title: "Introducing Youth Ecopreneurs (YECOs) at the UNCCD Conference of Parties (Part 1)",
+    slides: [
+      {
+        date: "September 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Leading the Restoration Economy at COP17",
+        image:
+          "assets/img/impact/climate-environmental/Youth Leading the Restoration Economy at COP17.png",
+        description:
+          "Some of the inspiring Youth Ecopreneurs (YECOs) accelerated by the G20 Global Land Initiative (under the UN Convention to Combat Desertification), and the International Trade Centre ; ITC Ye! Community are here at UNCCD COP17 in Ulaanbaatar, Mongolia...",
+        link: "https://lnkd.in/p/dMcnyKUw",
+        backup_image: "https://drive.google.com/file/d/1JIYlk5gLYhO3ZZHoul35H5YeB7bjAmLM/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-climate-environmental",
     id: "6.113",
     title: "G20 Global Land Initiative Media Feature for Moonshot Youth Innovation Summit",
     slides: [
