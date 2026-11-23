@@ -74,6 +74,42 @@ const meadia = [
 
   {
     filter: "filter-other-media-appearances",
+    id: "58",
+    title: "Global Times: Global Artificial Intelligence (AI) Cooperation (Nov 2026)",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "Global Times",
+        source_link: "https://www.globaltimes.cn/index.html",
+        title: "China champions open AI co-op at Wuzhen Summit, calls for opposition to 'digital iron curtains'",
+        image: "assets/img/meadia/other-media/China champions.jpeg",
+        description:
+          "China will respect the legitimate cybersecurity concerns of all other countries and work together with them to address security challenges...",
+	      link: "https://www.globaltimes.cn/page/202611/1373565.shtml",
+        backup_image: "https://drive.google.com/file/d/1jXzab2O9cPhNjdV4z7u4DupvcgLhYQiu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "56",
+    title: "BaiduWiki: Global Youth Leaders visited Lishui, Zhejiang, to carry out study tour activities (Nov 2026)",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "BaiduWiki",
+        source_link: "https://baike.baidu.com/en/index",
+        title: "2026 World Internet Conference Global Young Leaders",
+        image: "assets/img/meadia/other-media/2026 World Internet Conference Global Young Leaders.png",
+        description:
+          "The 2026 World Internet Conference Global Young Leaders is an honor announced at the 2026 World Internet Conference Wuzhen Summit in October 2026...",
+	      link: "https://baike.baidu.com/en/item/2026%20World%20Internet%20Conference%20Global%20Young%20Leaders/7062718",
+        backup_image: "https://drive.google.com/file/d/1QXtSvRqHTWzaptqLtuFDRHOitfB7kXXa/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
     id: "55",
     title: "Office of the Central Cyberspace Affairs Commission (Nov 2026)",
     slides: [
