@@ -1801,7 +1801,7 @@ section,
   display: flex;
   width: max-content;
   /* moves left -> right */
-  animation: logo-scroll 60s linear infinite;
+  animation: logo-scroll 180s linear infinite;
 }
 
 .logo-marquee:hover .logo-track {
