@@ -74,6 +74,96 @@ const meadia = [
 
   {
     filter: "filter-other-media-appearances",
+    id: "58",
+    title: "Global Times: Global Artificial Intelligence (AI) Cooperation (Nov 2026)",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "Global Times",
+        source_link: "https://www.globaltimes.cn/index.html",
+        title: "China champions open AI co-op at Wuzhen Summit, calls for opposition to 'digital iron curtains'",
+        image: "assets/img/meadia/other-media/China champions.jpeg",
+        description:
+          "China will respect the legitimate cybersecurity concerns of all other countries and work together with them to address security challenges...",
+	      link: "https://www.globaltimes.cn/page/202611/1373565.shtml",
+        backup_image: "https://drive.google.com/file/d/1jXzab2O9cPhNjdV4z7u4DupvcgLhYQiu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "56",
+    title: "BaiduWiki: Global Youth Leaders visited Lishui, Zhejiang, to carry out study tour activities (Nov 2026)",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "BaiduWiki",
+        source_link: "https://baike.baidu.com/en/index",
+        title: "2026 World Internet Conference Global Young Leaders",
+        image: "assets/img/meadia/other-media/2026 World Internet Conference Global Young Leaders.png",
+        description:
+          "The 2026 World Internet Conference Global Young Leaders is an honor announced at the 2026 World Internet Conference Wuzhen Summit in October 2026...",
+	      link: "https://baike.baidu.com/en/item/2026%20World%20Internet%20Conference%20Global%20Young%20Leaders/7062718",
+        backup_image: "https://drive.google.com/file/d/1QXtSvRqHTWzaptqLtuFDRHOitfB7kXXa/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "55",
+    title: "Office of the Central Cyberspace Affairs Commission (Nov 2026)",
+    slides: [
+      {
+        date: "November 23, 2026",
+        source_name: "Office of the Central Cyberspace Affairs Commission",
+        source_link: "",
+        title: "The list of winners for the 2026 Global Young Leaders Program of the World Internet Conference has been announced!",
+        image: "assets/img/meadia/other-media/Global Young Leaders Program.png",
+        description:
+          "In 2026, the World Internet Conference's \"Global Young Leaders Program\" will enter its fourth year, the recruitment attracted over 2,600 outstanding young people from more than 140 countries and regions across six continents...",
+	      link: "https://www.cac.gov.cn/2026-10/21/c_1794335730409119.htm",
+        backup_image: "https://drive.google.com/file/d/1LpBIi0AlNFND8XpSLlIRd1U1vFCT2B0n/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "54",
+    title: "International Trade Centre (15-August-2026)",
+    slides: [
+      {
+        date: "August 15, 2026",
+        source_name: "ITC Ye! Community",
+        source_link: "https://www.linkedin.com/company/ye-community/home/",
+        title: "Meet the YECO Delegation at UNCCD COP17 in Mongolia",
+        image: "assets/img/meadia/other-media/Meet the YECO Delegation at UNCCD COP17 in Mongolia.jpg",
+        description:
+          "Next week, 11 young entrepreneurs from the Youth Ecopreneur Programme (YECO) will be heading to #UNCCDCOP17 in Mongolia...",
+        link: "https://lnkd.in/p/e92eq2Yv",
+        backup_image: "https://drive.google.com/file/d/1n1iukzmhNZBRbTdWqtgYfJ1SEns6pPbW/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "53",
+    title: "One World Media (02-July-2026)",
+    slides: [
+      {
+        date: "July 2, 2026",
+        source_name: "One World Media",
+        source_link: "https://oneworldmedia.org.uk/",
+        title: "Five Digital Content Creators and Journalists Announced for the G20 Fellowship – Voices for Land",
+        image: "assets/img/meadia/other-media/one-world-media.png",
+        description:
+          "UNCCD and One World Media are proud to announce the five digital content creators and journalists selected...",
+        link: "https://oneworldmedia.org.uk/latest/five-digital-content-creators-and-journalists-announced-for-the-g20-fellowship-voices-for-land/",
+        backup_image: "https://drive.google.com/file/d/1I0m2wyj49V8LrN1hVwiEmGVzeVXEBpUM/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
     id: "52",
     title: "G20 Global Land Initiative (27-July-2026)",
     slides: [
