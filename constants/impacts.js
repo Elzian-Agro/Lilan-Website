@@ -12368,6 +12368,101 @@ const impacts = [
 
   {
     filter: "filter-leadership-economic",
+    id: "8.133",
+    title: "Business, Finance, Development, and the Restoration Ecosystem Related Discussions with Youth Ecopreneurs",
+    slides: [
+      {
+        date: "August 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Ecopreneurs Driving Global Land Restoration at COP17",
+        image:
+          "assets/img/impact/leadership-economic/Youth Ecopreneurs Driving Global Land Restoration at COP17.jpg",
+        description:
+          "At the United Nations Convention to Combat Desertification (UNCCD) COP17 Mongolia, Youth Ecopreneurs (YECOs) are bringing their ideas, experiences, and ambitions to the heart of the global land restoration conversation. What happens when young entrepreneurs take the lead in shaping the future of land restoration?",
+        link: "https://lnkd.in/p/eENEzFP6",
+        backup_image: "https://drive.google.com/file/d/1OhLeNq1YVgwvINCgowOozffuxzZfbbuA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.132",
+    title: "Engagement with the Scientific Colloquium of UNESCO Intergovernmental Hydrological Programme (IHP)",
+    slides: [
+      {
+        date: "October 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Advancing Water Science and Youth Leadership at UNESCO IHP",
+        image:
+          "assets/img/impact/leadership-economic/Advancing Water Science and Youth Leadership at UNESCO IHP.jpg",
+        description:
+          "Honoured to join the UNESCO Intergovernmental Hydrological Programme (IHP) in Paris and participate in the Scientific Colloquium held at UNESCO Headquarters as a side event of the 27th Session of the IHP Council. Grateful for the opportunity to engage in scientific dialogue and contribute to discussions...",
+        link: "https://lnkd.in/p/gK6BYWDG",
+        backup_image: "https://drive.google.com/file/d/1IM8wx_F7mwIRqTG0zHufp4pojBDDsCjb/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.131",
+    title: "Engagement with the Asia-Pacific Forum on Sustainable Development (APFSD)",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Showcasing ELZIAN AGRO’s AI-Powered Aquaponics Innovation at APFSD Youth Forum",
+        image:
+          "assets/img/impact/leadership-economic/Showcasing ELZIAN AGRO’s AI-Powered Aquaponics Innovation at APFSD Youth Forum.jpg",
+        description:
+          "I had the privilege of presenting the ELZIAN AGRO Aquaponics and Fish Artificial Intelligence system at the APFSD Youth Forum in Bangkok, Thailand. It was a truly enriching experience. It deepened my understanding of the Sustainable Development Goals (SDGs), connected me with a global network ...",
+        link: "https://lnkd.in/p/gaKG_zWg",
+        backup_image: "https://drive.google.com/file/d/10EP9MtCRXmyKh50eNp_6P07iOyUu7XL8/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.130",
+    title: "Advocacy for Shared Future in Cyberspace for Sustainable Economic Development at the World Internet Conference (WIC) Wuzhen Summit",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Open Minds, Shared Innovation: Shaping the Future of AI 🌐🤖",
+        image:
+          "assets/img/impact/leadership-economic/Open Minds, Shared Innovation Shaping the Future of AI.jpg",
+        description:
+          "This month, I had the privilege of attending the World Internet Conference (WIC) Wuzhen Summit in China, where the opening session set a clear tone: the future of AI should be open and inclusive...",
+        link: "https://www.linkedin.com/posts/lilanofficial_internet-technology-conference-ugcPost-7529465850064523264-DvAL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1sXcJTasuLC3FhD4IquXuWd9UWI7zxfYi/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
+    id: "8.129",
+    title: "Visiting University of Ostrava through Moonshot Young Leaders Camp",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping the Next Generation of Global Leaders at Moonshot Young Leaders Camp",
+        image:
+          "assets/img/impact/leadership-economic/Shaping the Next Generation of Global Leaders at Moonshot Young Leaders Camp.jpg",
+        description:
+          "One of the highlights of this incredible journey was the opportunity to visit the University of Ostrava, where purpose-driven young leaders and distinguished mentors from across the world came together to learn, collaborate, and reimagine what impactful leadership looks like in the 21st century...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-youth-empowerment-ugcPost-7479373687532564480-IAMC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1mIkkcmWh1ghadt5fAgokx8VrrEQvnumB/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-leadership-economic",
     id: "8.128",
     title: "Engagement with the LANDac Annual Conference Under the Theme \"Land, Conflict & Peace\"",
     slides: [
@@ -14867,6 +14962,101 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.90",
+    title: "Youth Ecopreneur Participation at the UN Convention to Combat Desertification COP",
+    slides: [
+      {
+        date: "September 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Voices, Global Connections: Driving Land Restoration at COP17",
+        image:
+          "assets/img/impact/youth-women-empowerment/Youth Voices, Global Connections Driving Land Restoration at COP17.png",
+        description:
+          "I am currently at UNCCD COP17, representing Elzian Agro as part of the Youth Ecopreneur (YECO) Program, powered by the G20 Global Land Initiative (under the UN Convention to Combat Desertification), the International Trade Centre...",
+        link: "https://lnkd.in/p/gd3TG7Uz",
+        backup_image: "https://drive.google.com/file/d/1z5tP5Ix9GsGejFNjynuEgq3sFl7C2toh/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.89",
+    title: "Advocacy for Youth Voices to Shared Future in Cyberspace at the World Internet Conference (WIC) Wuzhen Summit",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Open Minds, Shared Innovation: Shaping the Future of AI 🌐🤖",
+        image:
+          "assets/img/impact/youth-women-empowerment/Open Minds, Shared Innovation Shaping the Future of AI.jpg",
+        description:
+          "This month, I had the privilege of attending the World Internet Conference (WIC) Wuzhen Summit in China, where the opening session set a clear tone: the future of AI should be open and inclusive...",
+        link: "https://www.linkedin.com/posts/lilanofficial_internet-technology-conference-ugcPost-7529465850064523264-DvAL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1sXcJTasuLC3FhD4IquXuWd9UWI7zxfYi/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.88",
+    title: "Mentoring Youth: Hack for Earth Ericsson Sustainability Challenge",
+    slides: [
+      {
+        date: "October 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Dream. Hack. Build. Innovate for a Sustainable Future! 🌍🚀",
+        image:
+          "assets/img/impact/youth-women-empowerment/Dream. Hack. Build. Innovate for a Sustainable Future.jpg",
+        description:
+          "🌍 Dream. Hack. Build. Turning Ideas into Real-World Solutions for the UN Global Goals! What if your idea could help build a more sustainable future? 💡",
+        link: "https://www.linkedin.com/posts/lilanofficial_ericsson-hackforearth-ericssonsustainabilitychallenge-share-7520394580295483392-1Hg_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1t-Y6ocrpK20uRX6sninOEpR01xPcxFXG/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.87",
+    title: "Youth Ecopreneur Programme (YECO) Representation from UNCCD COP16 to COP17",
+    slides: [
+      {
+        date: "August 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth at the Forefront: Driving Global Land Restoration at COP17",
+        image:
+          "assets/img/impact/youth-women-empowerment/Youth at the Forefront Driving Global Land Restoration at COP17.jpg",
+        description:
+          "I am on my way to Mongolia to participate in the 17th Session of the Conference of the Parties (COP17) to the UN Convention to Combat Desertification (UNCCD), a critical global platform for advancing solutions to land degradation, drought, desertification, and climate resilience...",
+        link: "https://lnkd.in/p/ejGjGg5V",
+        backup_image: "https://drive.google.com/file/d/1Z_EKoMsoRjBxKfGFqOs-hF_iMKOaj0Nv/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-youth-women-empowerment",
+    id: "9.86",
+    title: "Visiting University of Ostrava through Moonshot Young Leaders Camp",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Shaping the Next Generation of Global Leaders at Moonshot Young Leaders Camp",
+        image:
+          "assets/img/impact/youth-women-empowerment/Shaping the Next Generation of Global Leaders at Moonshot Young Leaders Camp.jpg",
+        description:
+          "One of the highlights of this incredible journey was the opportunity to visit the University of Ostrava, where purpose-driven young leaders and distinguished mentors from across the world came together to learn, collaborate, and reimagine what impactful leadership looks like in the 21st century...",
+        link: "https://www.linkedin.com/posts/lilanofficial_innovation-youth-empowerment-ugcPost-7479373687532564480-IAMC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1mIkkcmWh1ghadt5fAgokx8VrrEQvnumB/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-youth-women-empowerment",
     id: "9.85",
@@ -18424,6 +18614,177 @@ const impacts = [
 
   {
     filter: "filter-journalism-media-mass-communication",
+    id: "14.29",
+    title: "Reporting Youth Ecopreneur Participation at the UN Convention to Combat Desertification COP",
+    slides: [
+      {
+        date: "September 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Voices, Global Connections: Driving Land Restoration at COP17",
+        image:
+          "assets/img/impact/journalism-media-mass-communication/Youth Voices, Global Connections Driving Land Restoration at COP17.png",
+        description:
+          "I am currently at UNCCD COP17, representing Elzian Agro as part of the Youth Ecopreneur (YECO) Program, powered by the G20 Global Land Initiative (under the UN Convention to Combat Desertification), the International Trade Centre...",
+        link: "https://lnkd.in/p/gd3TG7Uz",
+        backup_image: "https://drive.google.com/file/d/1z5tP5Ix9GsGejFNjynuEgq3sFl7C2toh/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.28",
+    title: "UNCCD x One World Media: G20 Voices for Land Fellowship",
+    slides: [
+      {
+        date: "October 2026",
+        source_name: "One World Media",
+        source_link: "https://oneworldmedia.org.uk/",
+        title: "UNCCD & One World Media Launch Digital Storytelling Fellowship",
+        image:
+          "assets/img/impact/journalism-media-mass-communication/UNCCD & One World Media Launch Digital Storytelling Fellowship.png",
+        description:
+          "Five digital content creators and journalists have been selected for the G20 Fellowship – Voices for Land...",
+        link: "https://oneworldmedia.org.uk/projects/g20-fellowship-voices-for-land/",
+        backup_image: "https://drive.google.com/file/d/1jntPfvHuWVYGfu_jJQwvMI9aL9B2-KjQ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.27",
+    title: "Reporting the Digital Impact Stories Launch",
+    slides: [
+      {
+        date: "September 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Digital Impact Stories: Showcasing Innovation for Land Restoration",
+        image:
+          "assets/img/impact/journalism-media-mass-communication/Digital Impact Stories Showcasing Innovation for Land Restoration.png",
+        description:
+          "The launch of the Digital Impact Stories at the UN Convention to Combat Desertification COP17, a powerful collection showcasing what high-impact, scalable solutions to land degradation, drought, and environmental challenges can look like in practice. Spanning Africa, the Americas, Asia, ...",
+        link: "https://lnkd.in/p/dyd_m5iW",
+        backup_image: "https://drive.google.com/file/d/1KlYkioDy5vlTxWCDTcUfMH6A1k_uX2gn/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.26",
+    title: "Reporting from the United Nations Convention to Combat Desertification (UNCCD) COP",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Day 1 at UNCCD COP17: Exploring Innovation, Education and Land Restoration",
+        image:
+          "assets/img/impact/journalism-media-mass-communication/Day 1 at UNCCD COP17.png",
+        description:
+          "My first day at the UNCCD COP17 in Ulaanbaatar, Mongolia, was a powerful reminder that restoring our land is not simply an environmental challenge; it is a shared development, climate, food, and human resilience challenge. I had the opportunity to engage...",
+        link: "https://lnkd.in/p/e3ZvkJ5G",
+        backup_image: "https://drive.google.com/file/d/1TaKYQsoXz4fcQYHvgd9-dXCY9dh52oag/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.25",
+    title: "Engagement with the RestorLife and Greenstorm Awards at UNCCD COP",
+    slides: [
+      {
+        date: "August 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Capturing the Power of Land Restoration Through Photography at COP17",
+        image:
+          "assets/img/impact/journalism-media-mass-communication/Capturing the Power of Land Restoration Through Photography at COP17.png",
+        description:
+          "At the UN Convention to Combat Desertification (UNCCD) COP17, the RestorLife and Greenstorm Awards celebrated the power of photography to tell compelling stories about our changing landscapes and to spotlight the people, communities, NGOs and businesses...",
+        link: "https://lnkd.in/p/eXUwN-uu",
+        backup_image: "https://drive.google.com/file/d/1KAiSy_6aD32xXnVflMRKwJo4HxTrSSGQ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.24",
+    title: "Advocacy for Open & Shared Future in Cyberspace at the World Internet Conference (WIC)",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Open Minds, Shared Innovation: Shaping the Future of AI 🌐🤖",
+        image:
+          "assets/img/impact/journalism-media-mass-communication/Open Minds, Shared Innovation Shaping the Future of AI.jpg",
+        description:
+          "This month, I had the privilege of attending the World Internet Conference (WIC) Wuzhen Summit in China, where the opening session set a clear tone: the future of AI should be open and inclusive...",
+        link: "https://www.linkedin.com/posts/lilanofficial_internet-technology-conference-ugcPost-7529465850064523264-DvAL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1sXcJTasuLC3FhD4IquXuWd9UWI7zxfYi/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.23",
+    title: "Land Practitioners Explorations for Intergenerational Podcasting",
+    slides: [
+      {
+        date: "August 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Beyond the Main Stage: Discovering Inspiring Voices at COP17",
+        image:
+          "assets/img/impact/journalism-media-mass-communication/Beyond the Main Stage Discovering Inspiring Voices at COP17.jpg",
+        description:
+          "I’m on my way to Ulaanbaatar, Mongolia, to participate in the UNCCD COP17. Beyond the formal negotiations, side events, and policy conversations, I’m especially interested in the people turning ideas into action. I’m currently looking to identify extraordinary practitioners, innovators, community leaders, scientists, entrepreneurs, policymakers, Indigenous knowledge holders, and young changemakers...",
+        link: "https://lnkd.in/p/e5dDWMxr",
+        backup_image: "https://drive.google.com/file/d/1J_iNIK85SM8t3W-1-i3nS8KNu1t8QZLM/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.22",
+    title: "Introducing Youth Ecopreneurs (YECOs) at the UNCCD Conference of Parties (Part 1)",
+    slides: [
+      {
+        date: "September 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Leading the Restoration Economy at COP17",
+        image:
+          "assets/img/impact/journalism-media-mass-communication//Youth Leading the Restoration Economy at COP17.png",
+        description:
+          "Some of the inspiring Youth Ecopreneurs (YECOs) accelerated by the G20 Global Land Initiative (under the UN Convention to Combat Desertification), and the International Trade Centre ; ITC Ye! Community are here at UNCCD COP17 in Ulaanbaatar, Mongolia...",
+        link: "https://lnkd.in/p/dMcnyKUw",
+        backup_image: "https://drive.google.com/file/d/1JIYlk5gLYhO3ZZHoul35H5YeB7bjAmLM/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
+    id: "14.21",
+    title: "One World Media: Five Digital Content Creators and Journalists Announced for the G20 Fellowship – Voices for Land",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "One World Media",
+        source_link: "https://oneworldmedia.org.uk/",
+        title: "Five Digital Content Creators and Journalists Announced for the G20 Fellowship – Voices for Land",
+        image:
+          "assets/img/impact/journalism-media-mass-communication/Five Digital Content Creators and Journalists Announced for the G20 Fellowship – Voices for Land.png",
+        description:
+          "UNCCD and One World Media are proud to announce the five digital content creators and journalists selected for the G20 Fellowship – Voices for Land, a new initiative to support original storytellin...",
+        link: "https://oneworldmedia.org.uk/latest/five-digital-content-creators-and-journalists-announced-for-the-g20-fellowship-voices-for-land/",
+        backup_image: "https://drive.google.com/file/d/1g6Kdp6pkqMI6Wttr7-UBAkHO14EGudph/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-journalism-media-mass-communication",
     id: "14.20",
     title: "Understanding the United Nations Convention to Combat Desertification (UNCCD) Progress Towards Conference of Parties (COP)",
     slides: [
@@ -18974,6 +19335,17 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/1B23cvPp34pkCXG2HU3LJ87n8epTR_LbP/view?usp=sharing",
       },
       {
+        date: "November 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling the Indian Network",
+        image: "assets/img/impact/nature-based-explorations/Calling the Indian Network.jpg",
+        description:
+          "Starting next week, I’ll be traveling across New Delhi, Jaipur, and Indore for about two/three weeks...",
+        link: "https://lnkd.in/p/gMGs6RDD",
+        backup_image: "https://drive.google.com/file/d/1vMYbUmErP6KzqMy0gMQyqvN1UTPkTlIu/view?usp=sharing",
+      },
+      {
         date: "June 2026",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -19207,6 +19579,44 @@ const impacts = [
           "I’ll be visiting Tokyo and Nagasaki in mid-May and would love to connect with fellow entrepreneurs, investors, and changemakers in Japan especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
         link: "https://www.linkedin.com/posts/lilanofficial_japan-tokyo-nagasaki-activity-7324494310429642754-7CG3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/112Gj84-NJrItepbftyfOKaks3OICK_Ly/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.28",
+    title: "Dolukanda Hiking Adventure Reflections",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Beyond the Summit: Responsible Adventures, Teamwork and Environmental Stewardship",
+        image:
+          "assets/img/impact/nature-based-explorations/Dolukanda Hiking Adventure Reflections.jpg",
+        description:
+          "From every step along the trail to the breathtaking views at the summit, each moment tells a story of adventure, teamwork, resilience, and unforgettable experiences. But at the Adventure Club, University of Kelaniya, an outing is about much more than reaching a destination...",
+        link: "https://lnkd.in/p/g9grqWGE",
+        backup_image: "https://drive.google.com/file/d/1GXr30ylbTleJ9nD75koyBVOZQvW-2-SY/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-nature-based-explorations-adventures",
+    id: "15.27",
+    title: "Total Solar Eclipse Observance",
+    slides: [
+      {
+        date: "August 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "When Science Meets Nature: Lessons from a Total Solar Eclipse",
+        image:
+          "assets/img/impact/nature-based-explorations/When Science Meets Nature Lessons from a Total Solar Eclipse.jpg",
+        description:
+          "A few days ago, I had the rare opportunity of witnessing a total solar eclipse in northern Spain, an experience that was as scientifically fascinating as it was breathtaking. It was particularly special because mainland Spain experienced a total solar eclipse for the first time in more than a century. As the Moon gradually moved across the Sun, the landscape transformed. Then, during totality, daylight suddenly gave way to darkness...",
+        link: "https://lnkd.in/p/ehXHpcqm",
+        backup_image: "https://drive.google.com/file/d/1YrYTqZnjsiNu2Qc9FavGZQG2ai_uCnGA/view?usp=sharing",
       },
     ],
   },
@@ -19684,6 +20094,24 @@ const impacts = [
     ],
   },
 
+  {
+    filter: "filter-history-culture-art-archeology",
+    id: "16.20",
+    title: "Colours of Ostrava Street Fusion Dance Engagement",
+    slides: [
+      {
+        date: "July 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Experiential Leadership and Creative Learning at Moonshot Young Leaders Camp",
+        image: "assets/img/impact/history-culture-art-archeology/Experiential Leadership and Creative Learning at Moonshot Young Leaders Camp.jpg",
+        description:
+          "It was a wonderful opportunity to participate in the Street Fusion Dance Workshop with Yemi Dele Akinyemi. Some of the most transformative leadership lessons don't happen in lecture halls; they happen through experiences...",
+        link: "https://www.linkedin.com/posts/lilanofficial_it-was-a-wonderful-opportunity-to-participate-ugcPost-7479518668108767232-BaU2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1fiTAj3kKcdHewvXSIazXzx_eO-e14bWI/view?usp=sharing",
+      },
+    ],
+  },
   {
     filter: "filter-history-culture-art-archeology",
     id: "16.19",
@@ -20345,6 +20773,17 @@ const impacts = [
         backup_image: "https://drive.google.com/file/d/131obee9U89y0ke71tEiTM8baYE41o63U/view?usp=sharing",
       },
       {
+        date: "November 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Calling the Indian Network",
+        image: "assets/img/impact/public-policy/Calling the Indian Network.jpg",
+        description:
+          "Starting next week, I’ll be traveling across New Delhi, Jaipur, and Indore for about two/three weeks...",
+        link: "https://lnkd.in/p/gMGs6RDD",
+        backup_image: "https://drive.google.com/file/d/1vMYbUmErP6KzqMy0gMQyqvN1UTPkTlIu/view?usp=sharing",
+      },
+      {
         date: "February 2026",
         source_name: "LinkedIn",
         source_link: "https://www.linkedin.com/in/lilanofficial/",
@@ -20454,6 +20893,82 @@ const impacts = [
           "I’ll be in New York next week and would love to connect with fellow New Yorkers; especially those passionate about precision agriculture and climate action across both the Global South and Global North...",
         link: "https://www.linkedin.com/posts/lilanofficial_food-agriculture-climate-activity-7323476341884887040-DGyu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
         backup_image: "https://drive.google.com/file/d/1g5WMyY2Q74MZ04mPpf-VBi578WYzD1Hb/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.65",
+    title: "Business, Finance, Development, and the Restoration Ecosystem Related Discussions with Youth Ecopreneurs",
+    slides: [
+      {
+        date: "August 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Youth Ecopreneurs Driving Global Land Restoration at COP17",
+        image:
+          "assets/img/impact/diplomacy-international-relationship/Youth Ecopreneurs Driving Global Land Restoration at COP17.jpg",
+        description:
+          "At the United Nations Convention to Combat Desertification (UNCCD) COP17 Mongolia, Youth Ecopreneurs (YECOs) are bringing their ideas, experiences, and ambitions to the heart of the global land restoration conversation. What happens when young entrepreneurs take the lead in shaping the future of land restoration?",
+        link: "https://lnkd.in/p/eENEzFP6",
+        backup_image: "https://drive.google.com/file/d/1OhLeNq1YVgwvINCgowOozffuxzZfbbuA/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.64",
+    title: "Engagement with the Scientific Colloquium of UNESCO Intergovernmental Hydrological Programme (IHP)",
+    slides: [
+      {
+        date: "October 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Advancing Water Science and Youth Leadership at UNESCO IHP",
+        image:
+          "assets/img/impact/diplomacy-international-relationship/Advancing Water Science and Youth Leadership at UNESCO IHP.jpg",
+        description:
+          "Honoured to join the UNESCO Intergovernmental Hydrological Programme (IHP) in Paris and participate in the Scientific Colloquium held at UNESCO Headquarters as a side event of the 27th Session of the IHP Council. Grateful for the opportunity to engage in scientific dialogue and contribute to discussions...",
+        link: "https://lnkd.in/p/gK6BYWDG",
+        backup_image: "https://drive.google.com/file/d/1IM8wx_F7mwIRqTG0zHufp4pojBDDsCjb/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.63",
+    title: "Engagement with the Asia-Pacific Forum on Sustainable Development (APFSD)",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Showcasing ELZIAN AGRO’s AI-Powered Aquaponics Innovation at APFSD Youth Forum",
+        image:
+          "assets/img/impact/diplomacy-international-relationship/Showcasing ELZIAN AGRO’s AI-Powered Aquaponics Innovation at APFSD Youth Forum.jpg",
+        description:
+          "I had the privilege of presenting the ELZIAN AGRO Aquaponics and Fish Artificial Intelligence system at the APFSD Youth Forum in Bangkok, Thailand. It was a truly enriching experience. It deepened my understanding of the Sustainable Development Goals (SDGs), connected me with a global network ...",
+        link: "https://lnkd.in/p/gaKG_zWg",
+        backup_image: "https://drive.google.com/file/d/10EP9MtCRXmyKh50eNp_6P07iOyUu7XL8/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-diplomacy-international-relationship",
+    id: "17.62",
+    title: "Advocacy for Diplomacy & Shared Future in Cyberspace at the World Internet Conference (WIC)",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "LinkedIn",
+        source_link: "https://www.linkedin.com/in/lilanofficial/",
+        title: "Open Minds, Shared Innovation: Shaping the Future of AI 🌐🤖",
+        image:
+          "assets/img/impact/diplomacy-international-relationship/Open Minds, Shared Innovation Shaping the Future of AI.jpg",
+       description:
+          "This month, I had the privilege of attending the World Internet Conference (WIC) Wuzhen Summit in China, where the opening session set a clear tone: the future of AI should be open and inclusive...",
+        link: "https://www.linkedin.com/posts/lilanofficial_internet-technology-conference-ugcPost-7529465850064523264-DvAL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1sXcJTasuLC3FhD4IquXuWd9UWI7zxfYi/view?usp=sharing",
       },
     ],
   },
