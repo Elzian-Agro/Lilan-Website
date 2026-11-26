@@ -74,6 +74,168 @@ const meadia = [
 
   {
     filter: "filter-other-media-appearances",
+    id: "67",
+    title: "UNCCD x One World Media: G20 Voices for Land Fellowship (Nov 2026)",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "One World Media",
+        source_link: "https://oneworldmedia.org.uk/",
+        title: "G20 Fellowship – Voices for Land",
+        image: "assets/img/meadia/other-media/G20 Fellowship – Voices for Land.png",
+        description:
+          "The programme is funded by UNCCD’s G20 Global Land Initiative and will support a cohort of five digital content creators and journalists. The group will participate in various workshops and be awarded a production grant to produce a campaign on land degradation and restoration...",
+	      link: "https://oneworldmedia.org.uk/projects/g20-fellowship-voices-for-land/",
+        backup_image: "https://drive.google.com/file/d/12cTz1tYq-7cbIHpneEESELX5V2CkmNCU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "66",
+    title: "G20 Global Land Initiative: Youth Ecopreneur for UNCCD Conference of Parties (Aug 2026)",
+    slides: [
+      {
+        date: "August 2026",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.linkedin.com/company/g20-global-land-initiative/home/",
+        title: "Youth Ecopreneurs Leading at UNCCD COP17",
+        image: "assets/img/meadia/other-media/Youth Ecopreneurs Leading at UNCCD COP17.jpg",
+        description:
+          "As UNCCD COP17 Mongolia kicks off next week, we are bringing the future of the Restoration Economy directly to the decision-making table...",
+	      link: "https://lnkd.in/p/eQDXc3pr",
+        backup_image: "https://drive.google.com/file/d/1sDvkG01YYlAgTf8ohwGtfn_Hkz1WPbLG/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "65",
+    title: "Global Times: Global Artificial Intelligence (AI) Cooperation (Nov 2026)",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "Global Times",
+        source_link: "https://www.globaltimes.cn/index.html",
+        title: "China champions open AI co-op at Wuzhen Summit, calls for opposition to 'digital iron curtains'",
+        image: "assets/img/meadia/other-media/China champions.jpeg",
+        description:
+          "China will respect the legitimate cybersecurity concerns of all other countries and work together with them to address security challenges...",
+	      link: "https://www.globaltimes.cn/page/202611/1373565.shtml",
+        backup_image: "https://drive.google.com/file/d/1jXzab2O9cPhNjdV4z7u4DupvcgLhYQiu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "64",
+    title: "China Daily: Global Youth Leaders Champion Tech-driven, Inclusive Growth",
+    slides: [
+      {
+        date: "November 10, 2026",
+        source_name: "China Daily",
+        source_link: "https://www.chinadaily.com.cn/",
+        title: "Global youth leaders champion tech-driven, inclusive growth",
+        image: "assets/img/meadia/other-media/Global youth leaders champion tech-driven, inclusive growth.jpeg",
+        description:
+          "The 2026 World Internet Conference Global Youth Leadership Program, now in its fourth year, has selected 20 outstanding young talents from more than 2,600 applicants in over 140 countries and regions...",
+	      link: "https://www.chinadaily.com.cn/a/202611/10/WS6af26d5ae4b03ebf8519b6c3.html",
+        backup_image: "https://drive.google.com/file/d/1j3zlhYEXFM1HP05J4lH1YuAaLCQgtMVJ/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "63",
+    title: "Zhejiang Daily: Youth and Ministers from Various Countries Discuss the Digital Future (Nov 2026)",
+    slides: [
+      {
+        date: "November 5, 2026",
+        source_name: "Zhejiang Daily",
+        source_link: "",
+        title: "Youth and ministers from various countries discuss the digital future",
+        image: "assets/img/meadia/other-media/Youth and ministers from various countries discuss the digital future 2.png",
+        description:
+          "Wuzhen, November 5 (Reporter Wu Keqin) – The 2026 World Internet Conference Youth and Digital Future Forum was held in Wuzhen on November 5. The forum, themed \"Collaboration, Inclusivity, and Creativity,\" brought together 20 young leaders from 20 countries...",
+	      link: "https://zjrb.zjol.com.cn/html/2026-11/06/content_3944582.htm?div=-1",
+        backup_image: "https://drive.google.com/file/d/1wSxh697Bf6aCDQORb2V4KPHD0KG7J7zE/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "62",
+    title: "BaiduWiki: Global Youth Leaders visited Lishui, Zhejiang, to carry out study tour activities (Nov 2026)",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "BaiduWiki",
+        source_link: "https://baike.baidu.com/en/index",
+        title: "2026 World Internet Conference Global Young Leaders",
+        image: "assets/img/meadia/other-media/2026 World Internet Conference Global Young Leaders 2.png",
+        description:
+          "The 2026 World Internet Conference Global Young Leaders is an honor announced at the 2026 World Internet Conference Wuzhen Summit in October 2026...",
+	      link: "https://baike.baidu.com/en/item/2026%20World%20Internet%20Conference%20Global%20Young%20Leaders/7062718",
+        backup_image: "https://drive.google.com/file/d/1QXtSvRqHTWzaptqLtuFDRHOitfB7kXXa/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "61",
+    title: "HWW Media: World Internet Conference Wuzhen China (Nov 2026)",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "HWW Media",
+        source_link: "",
+        title: "Hai Ping Mian: \"So convenient!\" Overseas guests share their experiences of digital life in China",
+        image: "assets/img/meadia/other-media/Hai Ping Mian.png",
+        description:
+          "I think china is having a realy good impact worldwide...",
+	      link: "https://opinion.haiwainet.cn/n/2026/1104/c353596-32995232.html",
+        backup_image: "https://drive.google.com/file/d/1La_Jd1ocQ20ZLE3omuXjiUiXvpDJnSu6/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "60",
+    title: "UNCCD x One World Media: G20 Voices for Land Fellowship (Nov 2026)",
+    slides: [
+      {
+        date: "November 2026",
+        source_name: "One World Media",
+        source_link: "https://oneworldmedia.org.uk/",
+        title: "G20 Fellowship – Voices for Land",
+        image: "assets/img/meadia/other-media/G20 Fellowship – Voices for Land.png",
+        description:
+          "The programme is funded by UNCCD’s G20 Global Land Initiative and will support a cohort of five digital content creators and journalists. The group will participate in various workshops and be awarded a production grant to produce a campaign on land degradation and restoration...",
+	      link: "https://oneworldmedia.org.uk/projects/g20-fellowship-voices-for-land/",
+        backup_image: "https://drive.google.com/file/d/12cTz1tYq-7cbIHpneEESELX5V2CkmNCU/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "59",
+    title: "G20 Global Land Initiative: Youth Ecopreneur for UNCCD Conference of Parties (Aug 2026)",
+    slides: [
+      {
+        date: "August 2026",
+        source_name: "G20 Global Land Initiative",
+        source_link: "https://www.linkedin.com/company/g20-global-land-initiative/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BADu77Bz4Qwmx2fnF8wxHIA%3D%3D",
+        title: "Youth Ecopreneurs Leading the Restoration Economy at UNCCD COP17 Mongolia",
+        image: "assets/img/meadia/other-media/Youth Ecopreneurs Leading the Restoration Economy at UNCCD COP17 Mongolia.jpg",
+        description:
+          "As UNCCD COP17 Mongolia kicks off next week, we are bringing the future of the Restoration Economy directly to the decision-making table...",
+	      link: "https://www.linkedin.com/posts/yeco-at-unccd-cop17-ugcPost-7493964863606702080-lA85/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACgjOPABkeV8etlFViTZX7eF8rOGjpwgHME",
+        backup_image: "https://drive.google.com/file/d/1Z-6f8R_GzTR9dHFHt3JbBS1o87kXOMEP/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
     id: "58",
     title: "Global Times: Global Artificial Intelligence (AI) Cooperation (Nov 2026)",
     slides: [
@@ -87,6 +249,24 @@ const meadia = [
           "China will respect the legitimate cybersecurity concerns of all other countries and work together with them to address security challenges...",
 	      link: "https://www.globaltimes.cn/page/202611/1373565.shtml",
         backup_image: "https://drive.google.com/file/d/1jXzab2O9cPhNjdV4z7u4DupvcgLhYQiu/view?usp=sharing",
+      },
+    ],
+  },
+  {
+    filter: "filter-other-media-appearances",
+    id: "57",
+    title: "Zhejiang Daily: Youth and Ministers from Various Countries Discuss the Digital Future (Nov 2026)",
+    slides: [
+      {
+        date: "November 5, 2026",
+        source_name: "Zhejiang Daily",
+        source_link: "",
+        title: "Youth and ministers from various countries discuss the digital future",
+        image: "assets/img/meadia/other-media/Youth and ministers from various countries discuss the digital future.png",
+        description:
+          "Wuzhen, November 5 (Reporter Wu Keqin) – The 2026 World Internet Conference Youth and Digital Future Forum was held in Wuzhen on November 5. The forum, themed \"Collaboration, Inclusivity, and Creativity,\" brought together 20 young leaders from 20 countries...",
+	      link: "https://zjrb.zjol.com.cn/html/2026-11/06/content_3944582.htm?div=-1",
+        backup_image: "https://drive.google.com/file/d/1wSxh697Bf6aCDQORb2V4KPHD0KG7J7zE/view?usp=sharing",
       },
     ],
   },
